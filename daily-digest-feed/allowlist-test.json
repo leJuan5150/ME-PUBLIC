@@ -1,0 +1,8 @@
+{
+  "test": "cowork-allowlist-check",
+  "purpose": "Verify that raw.githubusercontent.com is on the Cowork network egress allowlist",
+  "repo": "leJuan5150/ME-PUBLIC",
+  "created": "2026-04-10",
+  "expected_fetch_url": "https://raw.githubusercontent.com/leJuan5150/ME-PUBLIC/main/daily-digest-feed/allowlist-test.json",
+  "status": "ok-if-you-can-read-this"
+}
