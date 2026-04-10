@@ -104,6 +104,27 @@ def fetch_youtube(category: str, source: dict, cutoff: datetime) -> tuple[str, d
 # ---------------------------------------------------------------------------
 # Newsletters — Substack (RSS-driven)
 # ---------------------------------------------------------------------------
+# Substack embeds YouTube videos as <div class="youtube-wrap" id="youtube2-<11-char ID>">
+_SUBSTACK_YT_EMBED_RE = re.compile(r'youtube[12]?-([A-Za-z0-9_-]{11})')
+
+
+def _fetch_youtube_title(video_id: str) -> str | None:
+    """Call YouTube oEmbed to resolve a video ID to its title.
+
+    Runs from GitHub Actions (which can reach youtube.com). Cowork can't,
+    which is why we resolve titles upstream.
+    """
+    try:
+        url = (
+            "https://www.youtube.com/oembed?url="
+            f"https://www.youtube.com/watch?v={video_id}&format=json"
+        )
+        data = json.loads(http_get(url, timeout=8))
+        return data.get("title")
+    except Exception:  # noqa: BLE001
+        return None
+
+
 _ISSUE_NUMBER_PATTERNS = (
     re.compile(r"issue[\s\-_]*#?(\d+)", re.IGNORECASE),  # "Issue 258", "issue-258"
     re.compile(r"#(\d+)\b"),                              # "#290"
@@ -126,49 +147,108 @@ def _extract_issue_number(title: str, link: str) -> int | None:
     return None
 
 
-class _SubstackSectionParser(HTMLParser):
-    """Very rough section extractor: collects headings + following links."""
+# Substack body noise — section headings we don't want to surface
+_SKIP_SECTION_KEYWORDS = (
+    "suggest content",
+    "about the",
+    "subscribe",
+    "sponsor",
+    "share this",
+)
 
-    def __init__(self) -> None:
+# Links pointing to these hosts are newsletter-infra, not content
+_SKIP_LINK_HOSTS = (
+    "substack.com",
+    "substackcdn.com",
+    "ppweekly.com/subscribe",
+    "ppdevweekly.com/subscribe",
+)
+
+
+def _detect_section_heading_level(html: str) -> str:
+    """Return the heading tag (h1..h4) most likely used for top-level sections.
+
+    Strategy: pick the smallest heading level that occurs at least twice.
+    Substacks differ: PP Weekly uses <h2>, PP Dev Weekly uses <h1>.
+    """
+    counts = {}
+    for tag in ("h1", "h2", "h3", "h4"):
+        counts[tag] = len(re.findall(rf"<{tag}[\s>]", html, re.IGNORECASE))
+    for tag in ("h1", "h2", "h3", "h4"):
+        if counts[tag] >= 2:
+            return tag
+    return "h2"  # reasonable default
+
+
+class _SubstackSectionParser(HTMLParser):
+    """Section extractor for Substack-style content.
+
+    - `section_tag` is the heading level that defines sections (auto-detected).
+    - Links inside the section block are collected as items, with link text as title.
+    - Deduplicates by URL within a section.
+    - Skips known infrastructure / subscribe / sponsor links.
+    """
+
+    def __init__(self, section_tag: str = "h2") -> None:
         super().__init__()
+        self.section_tag = section_tag.lower()
         self.current_section: str | None = None
         self.sections: dict[str, list[dict]] = {}
-        self._in_heading = False
-        self._heading_buf: list[str] = []
+        self._seen_urls_per_section: dict[str, set[str]] = {}
+        self._in_section_heading = False
+        self._section_heading_buf: list[str] = []
         self._in_link = False
         self._link_href: str | None = None
         self._link_buf: list[str] = []
 
+    # ------------------------------------------------------------------
+    def _is_noise_section(self, heading: str) -> bool:
+        low = heading.lower()
+        return any(k in low for k in _SKIP_SECTION_KEYWORDS)
+
+    def _is_noise_link(self, href: str) -> bool:
+        low = href.lower()
+        return any(h in low for h in _SKIP_LINK_HOSTS)
+
+    # ------------------------------------------------------------------
     def handle_starttag(self, tag, attrs):
-        if tag in ("h1", "h2", "h3", "h4"):
-            self._in_heading = True
-            self._heading_buf = []
+        tag = tag.lower()
+        if tag == self.section_tag:
+            self._in_section_heading = True
+            self._section_heading_buf = []
         elif tag == "a":
-            href = dict(attrs).get("href")
-            if href and href.startswith("http"):
+            href = dict(attrs).get("href") or ""
+            if href.startswith("http") and not self._is_noise_link(href):
                 self._in_link = True
                 self._link_href = href
                 self._link_buf = []
 
     def handle_endtag(self, tag):
-        if tag in ("h1", "h2", "h3", "h4") and self._in_heading:
-            self._in_heading = False
-            heading = "".join(self._heading_buf).strip()
-            if heading:
+        tag = tag.lower()
+        if tag == self.section_tag and self._in_section_heading:
+            self._in_section_heading = False
+            heading = "".join(self._section_heading_buf).strip()
+            if heading and not self._is_noise_section(heading):
                 self.current_section = heading
                 self.sections.setdefault(heading, [])
+                self._seen_urls_per_section.setdefault(heading, set())
+            else:
+                self.current_section = None  # stop collecting until next real section
         elif tag == "a" and self._in_link:
             text = "".join(self._link_buf).strip()
             if self.current_section and text and self._link_href:
-                self.sections[self.current_section].append(
-                    {"title": text, "url": self._link_href}
-                )
+                seen = self._seen_urls_per_section[self.current_section]
+                if self._link_href not in seen and len(text) >= 3:
+                    self.sections[self.current_section].append(
+                        {"title": text, "url": self._link_href}
+                    )
+                    seen.add(self._link_href)
             self._in_link = False
             self._link_href = None
 
     def handle_data(self, data):
-        if self._in_heading:
-            self._heading_buf.append(data)
+        if self._in_section_heading:
+            self._section_heading_buf.append(data)
         elif self._in_link:
             self._link_buf.append(data)
 
@@ -207,10 +287,39 @@ def fetch_substack(source: dict, cutoff: datetime) -> tuple[str, dict]:
             content_html = latest.summary or ""
 
         if content_html:
-            parser = _SubstackSectionParser()
+            section_tag = _detect_section_heading_level(content_html)
+            parser = _SubstackSectionParser(section_tag=section_tag)
             parser.feed(content_html)
             # Drop empty sections
             result["sections"] = {k: v for k, v in parser.sections.items() if v}
+
+            # Substack embeds YouTube videos as <div class="youtube-wrap" id="...">
+            # with no <a> tag — extract IDs separately and resolve titles via oEmbed.
+            embed_ids: list[str] = []
+            seen_ids: set[str] = set()
+            for vid in _SUBSTACK_YT_EMBED_RE.findall(content_html):
+                if vid not in seen_ids:
+                    seen_ids.add(vid)
+                    embed_ids.append(vid)
+
+            if embed_ids:
+                video_items = []
+                for vid in embed_ids:
+                    title = _fetch_youtube_title(vid) or f"YouTube video {vid}"
+                    video_items.append(
+                        {"title": title, "url": f"https://www.youtube.com/watch?v={vid}"}
+                    )
+                # Merge into an existing "Videos" section if one exists, else create one
+                existing_key = next(
+                    (k for k in result["sections"] if "video" in k.lower()),
+                    None,
+                )
+                if existing_key:
+                    result["sections"][existing_key] = (
+                        video_items + result["sections"][existing_key]
+                    )
+                else:
+                    result["sections"]["📺 Videos"] = video_items
 
         log.info(
             "newsletter:%s issue=%s new=%s sections=%d",
