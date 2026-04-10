@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-04-10T19:55:38.604364Z",
+  "generated_at": "2026-04-10T19:56:42.296125Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
         {
-          "creator": "TrailRecon",
-          "handle": "@TrailRecon",
-          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
+          "creator": "LetsGetLost",
+          "handle": "@LetsGetLost",
+          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
           "videos": [],
           "error": null
         },
         {
-          "creator": "This Story Till Now",
-          "handle": "@ThisStoryTillNow",
-          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "creator": "VentureToRoam",
+          "handle": "@VentureToRoam",
+          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
           "videos": [],
           "error": null
         },
@@ -33,6 +33,13 @@
           "error": null
         },
         {
+          "creator": "This Story Till Now",
+          "handle": "@ThisStoryTillNow",
+          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "videos": [],
+          "error": null
+        },
+        {
           "creator": "Casey 250",
           "handle": "@Casey250",
           "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
@@ -40,16 +47,9 @@
           "error": null
         },
         {
-          "creator": "Epic Adventure Outfitters",
-          "handle": "@EpicAdventureOutfitters",
-          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "VentureToRoam",
-          "handle": "@VentureToRoam",
-          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
+          "creator": "TrailRecon",
+          "handle": "@TrailRecon",
+          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
           "videos": [],
           "error": null
         },
@@ -61,9 +61,9 @@
           "error": null
         },
         {
-          "creator": "LetsGetLost",
-          "handle": "@LetsGetLost",
-          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
+          "creator": "Epic Adventure Outfitters",
+          "handle": "@EpicAdventureOutfitters",
+          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
           "videos": [],
           "error": null
         }
@@ -77,13 +77,6 @@
           "error": null
         },
         {
-          "creator": "Shane Young",
-          "handle": "@ShanesCows",
-          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "Matthew Devaney",
           "handle": "@MatthewDevaney",
           "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
@@ -91,16 +84,23 @@
           "error": null
         },
         {
-          "creator": "Reza Dorrani",
-          "handle": "@RezaDorrani",
-          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
+          "creator": "Lisa Crosbie",
+          "handle": "@LisaCrosbie",
+          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
           "videos": [],
           "error": null
         },
         {
-          "creator": "Lisa Crosbie",
-          "handle": "@LisaCrosbie",
-          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
+          "creator": "Shane Young",
+          "handle": "@ShanesCows",
+          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Reza Dorrani",
+          "handle": "@RezaDorrani",
+          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
           "videos": [],
           "error": null
         }
@@ -123,6 +123,20 @@
       ],
       "ai": [
         {
+          "creator": "Alex Finn",
+          "handle": "@AlexFinn",
+          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
+          "videos": [
+            {
+              "title": "OpenClaw + Obsidian gives you super powers",
+              "url": "https://www.youtube.com/watch?v=6V-b073qhPA",
+              "published": "2026-04-09T13:37:38Z",
+              "description": "OpenClaw's memory is 100x better when you combine it with Obsidian. Here's how to do it.\n\nFULL OpenClaw/Obsidian bootcamp in the Vibe Coding Academy coming up: https://vibecodingacademy.dev\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nPrompt:\n\nI want to build an Obsidian memory system into OpenClaw. Here's how it will work:\nThere are 4 layers, from smallest/always-present to largest/on-dema"
+            }
+          ],
+          "error": null
+        },
+        {
           "creator": "NateBJones",
           "handle": "@NateBJones",
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
@@ -144,6 +158,32 @@
               "url": "https://www.youtube.com/watch?v=9N7qXkmntlU",
               "published": "2026-04-09T14:00:15Z",
               "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/nasdaq-rewrote-its-index-rules-so?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening with the AI IPO wave hitting your retirement account?\n\nThe common story is that SpaceX, OpenAI, and Anthropic going public is a historic opportunity for everyday investors — but the structure of these offerings is designed to move risk onto your 401k, not reward it.\n\nIn this video,"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Nate Herk",
+          "handle": "@NateHerk",
+          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+          "videos": [
+            {
+              "title": "Claude Just Told Us to Stop Using Their Best Model",
+              "url": "https://www.youtube.com/watch?v=1EPsUXSManU",
+              "published": "2026-04-09T22:52:11Z",
+              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=advisor-strategy\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=advisor-strategy\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\n14 day FREE n8n trial: https://n8n.partnerlinks.io/22crlu8afq5r\nCode NATEHERK to Self-Host Claude Code for 10% off (annual plan): https://www.hostinger.com/vps/claude-code-hosting\nVoice to tex"
+            },
+            {
+              "title": "I Gave OpenClaw $10,000 to Trade Stocks",
+              "url": "https://www.youtube.com/watch?v=eu8UJtuIi-E",
+              "published": "2026-04-09T13:58:59Z",
+              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=10k-trading-challenge\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=10k-trading-challenge\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\n14 day FREE n8n trial: https://n8n.io/?ps_partner_key=NThkMGFjMjQ1NjM3&amp;ps_xid=2touFbV65PSXZu&amp;gsxid=2touFbV65PSXZu&amp;gspk=NThkMGFjMjQ1NjM3\nCode NATEHERK to Self-Host Claude "
+            },
+            {
+              "title": "I Tested Claude's New Managed Agents... What You Need To Know",
+              "url": "https://www.youtube.com/watch?v=27Y44JYXZJ8",
+              "published": "2026-04-08T22:30:13Z",
+              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=managed-agents\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=managed-agents\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\n14 day FREE n8n trial: https://n8n.partnerlinks.io/22crlu8afq5r\nCode NATEHERK to Self-Host Claude Code for 10% off (annual plan): https://www.hostinger.com/vps/claude-code-hosting\nVoice to text: h"
             }
           ],
           "error": null
@@ -199,32 +239,6 @@
           "error": null
         },
         {
-          "creator": "Nate Herk",
-          "handle": "@NateHerk",
-          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-          "videos": [
-            {
-              "title": "Claude Just Told Us to Stop Using Their Best Model",
-              "url": "https://www.youtube.com/watch?v=1EPsUXSManU",
-              "published": "2026-04-09T22:52:11Z",
-              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=advisor-strategy\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=advisor-strategy\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\n14 day FREE n8n trial: https://n8n.partnerlinks.io/22crlu8afq5r\nCode NATEHERK to Self-Host Claude Code for 10% off (annual plan): https://www.hostinger.com/vps/claude-code-hosting\nVoice to tex"
-            },
-            {
-              "title": "I Gave OpenClaw $10,000 to Trade Stocks",
-              "url": "https://www.youtube.com/watch?v=eu8UJtuIi-E",
-              "published": "2026-04-09T13:58:59Z",
-              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=10k-trading-challenge\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=10k-trading-challenge\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\n14 day FREE n8n trial: https://n8n.io/?ps_partner_key=NThkMGFjMjQ1NjM3&amp;ps_xid=2touFbV65PSXZu&amp;gsxid=2touFbV65PSXZu&amp;gspk=NThkMGFjMjQ1NjM3\nCode NATEHERK to Self-Host Claude "
-            },
-            {
-              "title": "I Tested Claude's New Managed Agents... What You Need To Know",
-              "url": "https://www.youtube.com/watch?v=27Y44JYXZJ8",
-              "published": "2026-04-08T22:30:13Z",
-              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=managed-agents\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=managed-agents\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\n14 day FREE n8n trial: https://n8n.partnerlinks.io/22crlu8afq5r\nCode NATEHERK to Self-Host Claude Code for 10% off (annual plan): https://www.hostinger.com/vps/claude-code-hosting\nVoice to text: h"
-            }
-          ],
-          "error": null
-        },
-        {
           "creator": "Paul J Lipsky",
           "handle": "@PaulJLipsky",
           "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
@@ -246,20 +260,6 @@
               "url": "https://www.youtube.com/watch?v=Y-LTxr1bv9M",
               "published": "2026-04-08T22:46:25Z",
               "description": "NotebookLM just got merged into Gemini, and it quietly turns Gemini into a real project/folder system with notebook memory, instructions, and a way better way to organize your chats.\n\nHeads up, these updates may not be available worldwide yet. Just because I have access to them doesn't mean you will yet.\n\n🔗 This video is not sponsored. Some product links are affiliate links which means if you buy something we'll receive a small commission."
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Alex Finn",
-          "handle": "@AlexFinn",
-          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
-          "videos": [
-            {
-              "title": "OpenClaw + Obsidian gives you super powers",
-              "url": "https://www.youtube.com/watch?v=6V-b073qhPA",
-              "published": "2026-04-09T13:37:38Z",
-              "description": "OpenClaw's memory is 100x better when you combine it with Obsidian. Here's how to do it.\n\nFULL OpenClaw/Obsidian bootcamp in the Vibe Coding Academy coming up: https://vibecodingacademy.dev\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nPrompt:\n\nI want to build an Obsidian memory system into OpenClaw. Here's how it will work:\nThere are 4 layers, from smallest/always-present to largest/on-dema"
             }
           ],
           "error": null
