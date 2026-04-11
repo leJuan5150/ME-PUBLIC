@@ -1,13 +1,20 @@
 {
-  "generated_at": "2026-04-10T20:08:56.338713Z",
+  "generated_at": "2026-04-11T11:09:52.311756Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
         {
-          "creator": "LetsGetLost",
-          "handle": "@LetsGetLost",
-          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
+          "creator": "This Story Till Now",
+          "handle": "@ThisStoryTillNow",
+          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Casey 250",
+          "handle": "@Casey250",
+          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
           "videos": [],
           "error": null
         },
@@ -33,13 +40,6 @@
           "error": null
         },
         {
-          "creator": "This Story Till Now",
-          "handle": "@ThisStoryTillNow",
-          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "VentureToRoam",
           "handle": "@VentureToRoam",
           "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
@@ -50,13 +50,20 @@
           "creator": "Ozark Overland Adventure",
           "handle": "@OzarkOverlandAdventures",
           "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
-          "videos": [],
+          "videos": [
+            {
+              "title": "Moab Adventure Trail Day 2 - The most technical day!",
+              "url": "https://www.youtube.com/watch?v=_qBjub8jDS4",
+              "published": "2026-04-10T22:00:42Z",
+              "description": "I created a 5 day overlanding loop around Moab to help people experience more of what Moab has to offer. This is day 2 that goes on the most technical trails of the route including Rose Garden Hill.\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHNYyUa\nAll Roads Taken - https://www.allroadstaken.com\nMOORE Expo - https://mooreexpo.co"
+            }
+          ],
           "error": null
         },
         {
-          "creator": "Casey 250",
-          "handle": "@Casey250",
-          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
+          "creator": "LetsGetLost",
+          "handle": "@LetsGetLost",
+          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
           "videos": [],
           "error": null
         },
@@ -84,9 +91,9 @@
           "error": null
         },
         {
-          "creator": "Lisa Crosbie",
-          "handle": "@LisaCrosbie",
-          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
+          "creator": "Reza Dorrani",
+          "handle": "@RezaDorrani",
+          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
           "videos": [],
           "error": null
         },
@@ -98,25 +105,25 @@
           "error": null
         },
         {
-          "creator": "Reza Dorrani",
-          "handle": "@RezaDorrani",
-          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
+          "creator": "Lisa Crosbie",
+          "handle": "@LisaCrosbie",
+          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
           "videos": [],
           "error": null
         }
       ],
       "fabric_powerbi": [
         {
-          "creator": "Dewain Robinson",
-          "handle": "@DewainRobinson",
-          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
+          "creator": "Guy in a Cube",
+          "handle": "@GuyInACube",
+          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
           "videos": [],
           "error": null
         },
         {
-          "creator": "Guy in a Cube",
-          "handle": "@GuyInACube",
-          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
+          "creator": "Dewain Robinson",
+          "handle": "@DewainRobinson",
+          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
           "videos": [],
           "error": null
         }
@@ -149,32 +156,6 @@
           "error": null
         },
         {
-          "creator": "Paul J Lipsky",
-          "handle": "@PaulJLipsky",
-          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
-          "videos": [
-            {
-              "title": "Seedance 2.0 Is Here On Higgsfield!",
-              "url": "https://www.youtube.com/watch?v=l7hq9lTIeyQ",
-              "published": "2026-04-10T13:01:30Z",
-              "description": "Try Seedance 2.0 on Higgsfield: https://higgsfield.ai/s/seedance-2-0-pauljlipsky-ZxCjzL\n\nWatch the Seedance Video By Higgsfield: https://www.youtube.com/watch?v=jvFaFq-2Gzw\n\nThis is the most realistic AI video generation I’ve ever tested — multi-shot scenes, native sound effects, and scary-good AI avatars all in one workflow.\n\nHeads up, these updates may not be available worldwide yet. Just because I have access to them doesn't mean you will yet.\n\n🔗 This video is sponsored. Some product links ar"
-            },
-            {
-              "title": "How To Build AI Voice Agents With ElevenLabs (So Easy)",
-              "url": "https://www.youtube.com/watch?v=0wwDZ5CxZJs",
-              "published": "2026-04-09T13:00:02Z",
-              "description": "Try ElevenLabs:  https://elevenlabs.io/agents?utm_source=youtube&amp;utm_medium=influencer&amp;utm_campaign=influencer_-_paul_lipsky&amp;utm_content=how_to_build_voice_agents\n\nThis is the most realistic AI agent I've ever spoken with, and I'll show you step by step how to build one just like it.\n\n🔗 This video is sponsored. Some product links are affiliate links which means if you buy something we'll receive a small commission.\n\n0:00 Intro\n1:08 What Is ElevenLabs\n1:38 Creating An Agent\n4:20 Syste"
-            },
-            {
-              "title": "NotebookLM and Gemini Just Merged (Massive Update)",
-              "url": "https://www.youtube.com/watch?v=Y-LTxr1bv9M",
-              "published": "2026-04-08T22:46:25Z",
-              "description": "NotebookLM just got merged into Gemini, and it quietly turns Gemini into a real project/folder system with notebook memory, instructions, and a way better way to organize your chats.\n\nHeads up, these updates may not be available worldwide yet. Just because I have access to them doesn't mean you will yet.\n\n🔗 This video is not sponsored. Some product links are affiliate links which means if you buy something we'll receive a small commission."
-            }
-          ],
-          "error": null
-        },
-        {
           "creator": "Alex Finn",
           "handle": "@AlexFinn",
           "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
@@ -193,6 +174,12 @@
           "handle": "@ChaseAI",
           "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
           "videos": [
+            {
+              "title": "The #1 Trending Design Repo for Claude Code",
+              "url": "https://www.youtube.com/shorts/ASDjsatU5oc",
+              "published": "2026-04-11T02:45:45Z",
+              "description": ""
+            },
             {
               "title": "5 Github Repos Every Claude Code Project Needs",
               "url": "https://www.youtube.com/shorts/u7GvYCy5x9w",
@@ -222,18 +209,6 @@
               "url": "https://www.youtube.com/shorts/E8ygoTmQ9iU",
               "published": "2026-04-09T12:45:01Z",
               "description": ""
-            },
-            {
-              "title": "Claude Code Can Get You a Job Now",
-              "url": "https://www.youtube.com/shorts/KQONQMPi8ps",
-              "published": "2026-04-09T06:45:01Z",
-              "description": ""
-            },
-            {
-              "title": "All 35 Claude Code Concepts Explained for Non Coders",
-              "url": "https://www.youtube.com/watch?v=UAMAAoSPu8o",
-              "published": "2026-04-09T03:27:29Z",
-              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community with tons of AI resources🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nLearning Claude Code as a noncoder can be beyond intimidating, so I made this video to help you out.\n\nInside are the 35 essential Claude Code concepts you need to master, broken down in a sliding scale by how essential they are for someone getting started. \n\nIn"
             }
           ],
           "error": null
@@ -246,10 +221,36 @@
           "error": null
         },
         {
+          "creator": "Paul J Lipsky",
+          "handle": "@PaulJLipsky",
+          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
+          "videos": [
+            {
+              "title": "Seedance 2.0 Is Here On Higgsfield!",
+              "url": "https://www.youtube.com/watch?v=l7hq9lTIeyQ",
+              "published": "2026-04-10T13:01:30Z",
+              "description": "Try Seedance 2.0 on Higgsfield: https://higgsfield.ai/s/seedance-2-0-pauljlipsky-ZxCjzL\n\nWatch the Seedance Video By Higgsfield: https://www.youtube.com/watch?v=jvFaFq-2Gzw\n\nThis is the most realistic AI video generation I’ve ever tested — multi-shot scenes, native sound effects, and scary-good AI avatars all in one workflow.\n\nHeads up, these updates may not be available worldwide yet. Just because I have access to them doesn't mean you will yet.\n\n🔗 This video is sponsored. Some product links ar"
+            },
+            {
+              "title": "How To Build AI Voice Agents With ElevenLabs (So Easy)",
+              "url": "https://www.youtube.com/watch?v=0wwDZ5CxZJs",
+              "published": "2026-04-09T13:00:02Z",
+              "description": "Try ElevenLabs:  https://elevenlabs.io/agents?utm_source=youtube&amp;utm_medium=influencer&amp;utm_campaign=influencer_-_paul_lipsky&amp;utm_content=how_to_build_voice_agents\n\nThis is the most realistic AI agent I've ever spoken with, and I'll show you step by step how to build one just like it.\n\n🔗 This video is sponsored. Some product links are affiliate links which means if you buy something we'll receive a small commission.\n\n0:00 Intro\n1:08 What Is ElevenLabs\n1:38 Creating An Agent\n4:20 Syste"
+            }
+          ],
+          "error": null
+        },
+        {
           "creator": "Nate Herk",
           "handle": "@NateHerk",
           "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
           "videos": [
+            {
+              "title": "Seedance 2.0 + Claude Code Creates $10k Websites in Minutes",
+              "url": "https://www.youtube.com/watch?v=NvxiSG34mPU",
+              "published": "2026-04-11T06:31:36Z",
+              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=seedance-websites\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=seedance-websites\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\n14 day FREE n8n trial: https://n8n.partnerlinks.io/22crlu8afq5r\nCode NATEHERK to Self-Host Claude Code for 10% off (annual plan): https://www.hostinger.com/vps/claude-code-hosting\nVoice to t"
+            },
             {
               "title": "Claude Just Told Us to Stop Using Their Best Model",
               "url": "https://www.youtube.com/watch?v=1EPsUXSManU",
@@ -261,12 +262,6 @@
               "url": "https://www.youtube.com/watch?v=eu8UJtuIi-E",
               "published": "2026-04-09T13:58:59Z",
               "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=10k-trading-challenge\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=10k-trading-challenge\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\n14 day FREE n8n trial: https://n8n.io/?ps_partner_key=NThkMGFjMjQ1NjM3&amp;ps_xid=2touFbV65PSXZu&amp;gsxid=2touFbV65PSXZu&amp;gspk=NThkMGFjMjQ1NjM3\nCode NATEHERK to Self-Host Claude "
-            },
-            {
-              "title": "I Tested Claude's New Managed Agents... What You Need To Know",
-              "url": "https://www.youtube.com/watch?v=27Y44JYXZJ8",
-              "published": "2026-04-08T22:30:13Z",
-              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=managed-agents\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=managed-agents\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\n14 day FREE n8n trial: https://n8n.partnerlinks.io/22crlu8afq5r\nCode NATEHERK to Self-Host Claude Code for 10% off (annual plan): https://www.hostinger.com/vps/claude-code-hosting\nVoice to text: h"
             }
           ],
           "error": null
@@ -274,222 +269,6 @@
       ]
     },
     "newsletters": {
-      "power_platform_dev_weekly": {
-        "name": "Power Platform Dev Weekly",
-        "issue_number": 290,
-        "issue_date": "2026-04-01",
-        "url": "https://www.ppdevweekly.com/p/290",
-        "is_new": false,
-        "sections": {
-          "🥇 Cover Story": [
-            {
-              "title": "Copilot Cowork Is Coming: Here’s How to Get Your Tenant Ready on Day 1",
-              "url": "https://flowaltdelete.ca/2026/03/20/copilot-cowork-is-coming-heres-how-to-get-your-tenant-ready-on-day-1/"
-            }
-          ],
-          "💎 Model Driven Apps & Dataverse": [
-            {
-              "title": "How Power Platform Pay-as-you-go plan works",
-              "url": "https://365corner.pl/2026/03/30/how-power-platform-pay-as-you-go-plan-works/"
-            },
-            {
-              "title": "How to patch images from Power Apps to Dataverse",
-              "url": "https://thepoweraddict.com/how-to-patch-images-from-power-apps-to-dataverse/?utm_source=feedly&utm_medium=rss&utm_campaign=how-to-patch-images-from-power-apps-to-dataverse"
-            }
-          ],
-          "🏋️‍♂️ Canvas Apps": [
-            {
-              "title": "Open D365 Records From Your Custom Page Using Environment Variables",
-              "url": "https://meganvwalker.com/open-d365-records-from-your-custom-page/"
-            },
-            {
-              "title": "How to patch images from Power Apps to D365 F&SCM",
-              "url": "https://thepoweraddict.com/how-to-patch-images-from-power-apps-to-d365-fscm/"
-            }
-          ],
-          "🤖 Copilot & Code Apps": [
-            {
-              "title": "Copilot Studio ALM – Know Before You Go",
-              "url": "https://suparnatechbasket.wordpress.com/2026/03/25/copilot-studio-alm-know-before-you-go/"
-            },
-            {
-              "title": "Extract Website Data With Computer Use In Copilot Studio",
-              "url": "https://www.matthewdevaney.com/extract-website-data-with-computer-use-in-copilot-studio/"
-            }
-          ],
-          "👩‍💻 Dev to the Core": [
-            {
-              "title": "Setting Your Environments Up for Code Apps",
-              "url": "https://dev.to/wyattdave/setting-your-environments-up-for-code-apps-16i8"
-            }
-          ],
-          "🎮 Other Interesting Articles": [
-            {
-              "title": "Microsoft’s New AI Certifications for 2026: Full List, Retirements, and Replacement Paths",
-              "url": "https://arunpotti.com/2026/03/24/microsofts-new-ai-certifications-for-2026-full-list-retirements-and-replacement-paths/"
-            },
-            {
-              "title": "How to estimate the cost of a Copilot Studio agent before you build it",
-              "url": "https://sharepoint247.com/ai/how-to-estimate-the-cost-of-a-copilot-studio-agent-before-you-build-it/"
-            }
-          ],
-          "📺 Videos": [
-            {
-              "title": "Power Apps in 2026: Which App Type Should You Actually Use?",
-              "url": "https://www.youtube.com/watch?v=gEYTCtbK7Kk"
-            },
-            {
-              "title": "When You Should Use Topics in Copilot Studio (EXPLAINED)",
-              "url": "https://www.youtube.com/watch?v=GpTTRjDaNCI"
-            },
-            {
-              "title": "Copilot Cowork Explained: Is this a whole new way to work?",
-              "url": "https://www.youtube.com/watch?v=0vYHpW7zIls"
-            }
-          ]
-        },
-        "error": null
-      },
-      "power_platform_weekly": {
-        "name": "Power Platform Weekly",
-        "issue_number": 258,
-        "issue_date": "2026-04-06",
-        "url": "https://www.ppweekly.com/p/power-platform-weekly-issue-258",
-        "is_new": false,
-        "sections": {
-          "📰 Articles": [
-            {
-              "title": "From Scripts to Intent: How Dataverse Skills Redefines Enterprise Development",
-              "url": "https://aidevme.com/from-scripts-to-intent-how-dataverse-skills-redefines-enterprise-development"
-            },
-            {
-              "title": "Getting Started with Dataverse Skills: Install, Configure, and Build Your First Agent-Driven Solution",
-              "url": "https://aidevme.com/getting-started-with-dataverse-skills-install-configure-and-build-your-first-agent-driven-solution"
-            },
-            {
-              "title": "The Frontier Firm Has an HR Problem",
-              "url": "https://www.anainesurrutia.com/post/the-frontier-firm-has-an-hr-problem"
-            },
-            {
-              "title": "Dataverse: Avoiding Timezone Pitfalls When Integrating Dataverse Date and DateTime Fields",
-              "url": "https://temmyraharjo.wordpress.com/2026/04/05/dataverse-avoiding-timezone-pitfalls-when-integrating-dataverse-date-and-datetime-fields/"
-            },
-            {
-              "title": "Google ReCAPTCHA v3 and Cloudflare Turnstile for marketing and event forms in Dynamics 365",
-              "url": "https://www.ameyholden.com/articles/recaptcha-v3-cloudflare-turnstile-for-customer-insights-journeys-forms"
-            },
-            {
-              "title": "Triggering Copilot Studio Agents Autonomously using Microsoft Graph Change Notifications + Power Automate",
-              "url": "https://ashiqf.com/2026/03/31/triggering-copilot-studio-agents-autonomously-using-microsoft-graph-change-notifications-power-automate/"
-            },
-            {
-              "title": "Power Pages: A Governed Platform for Hosting",
-              "url": "https://www.engineeredcode.com/blog/power-pages-a-governed-platform-for-hosting"
-            },
-            {
-              "title": "How to Build a Cross-System Copilot Agent in Dynamics 365 Using MCP Server",
-              "url": "https://www.inogic.com/blog/2026/04/how-to-build-a-cross-system-copilot-agent-in-dynamics-365-using-mcp-server/"
-            },
-            {
-              "title": "Why Microsoft Support Asks for a HAR File …?",
-              "url": "https://ecellorscrm.com/2026/04/04/why-microsoft-support-asks-for-a-har-file/"
-            }
-          ],
-          "🎙️ Podcasts": [
-            {
-              "title": "Power Platform Panic Room Podcast",
-              "url": "https://rephonic.com/episodes/6u2xd-power-platform-panic-room-episode-one-introd"
-            },
-            {
-              "title": "Merge Conflict Podcast",
-              "url": "https://www.mergeconflict.fm/508"
-            },
-            {
-              "title": "The Copilot Connection Podcast",
-              "url": "https://player.fm/series/the-copilot-connection/ep-41-cowork-and-agent-365"
-            }
-          ],
-          "📅 Events & Webinars": [
-            {
-              "title": "ColorCloud",
-              "url": "https://colorcloud.rocks/"
-            },
-            {
-              "title": "Update Days Power Platform",
-              "url": "https://power.updatedays.cz/"
-            },
-            {
-              "title": "European BizApps Summit",
-              "url": "https://bizappssummit.eu/"
-            },
-            {
-              "title": "DynamicsCon",
-              "url": "https://dynamicscon.com/"
-            },
-            {
-              "title": "DynamicsMinds",
-              "url": "https://www.dynamicsminds.com/"
-            },
-            {
-              "title": "Build",
-              "url": "https://build.microsoft.com/home"
-            },
-            {
-              "title": "European Power Platform Conference",
-              "url": "https://www.sharepointeurope.com/european-power-platform-conference/"
-            }
-          ],
-          "💙 Out of the Blue": [
-            {
-              "title": "Dataverse Skills: your coding agent now speaks Dataverse",
-              "url": "https://devblogs.microsoft.com/powerplatform/dataverse-skills-your-coding-agent-now-speaks-dataverse/"
-            },
-            {
-              "title": "Public preview: Your business apps, now part of every conversation",
-              "url": "https://www.microsoft.com/power-platform/blog/power-apps/public-preview-your-business-apps-now-part-of-every-conversation/"
-            },
-            {
-              "title": "New and improved: multi-agent orchestration, connected experiences, and faster prompt iteration",
-              "url": "https://www.microsoft.com/microsoft-copilot/blog/copilot-studio/new-and-improved-multi-agent-orchestration-connected-experiences-and-faster-prompt-iteration/"
-            },
-            {
-              "title": "Building trustworthy AI: A practical framework for adaptive governance",
-              "url": "https://www.microsoft.com/power-platform/blog/2026/04/01/building-trustworthy-ai-a-practical-framework-for-adaptive-governance/"
-            },
-            {
-              "title": "Server logic in Power Pages is now generally available",
-              "url": "https://www.microsoft.com/power-platform/blog/power-pages/announcing-general-availability-ga-of-server-logic-in-power-pages/"
-            },
-            {
-              "title": "Generative AI search and data summarization now available in Power Pages for U.S. government clouds",
-              "url": "https://www.microsoft.com/power-platform/blog/power-pages/generative-ai-search-and-data-summarization-now-available-in-power-pages-for-u-s-government-clouds/"
-            },
-            {
-              "title": "Dataflows: thank you for eight years of Gen1—and why Gen2 is the future",
-              "url": "https://powerbi.microsoft.com/blog/dataflows-thank-you-for-eight-years-of-gen1-and-why-gen2-is-the-future/"
-            },
-            {
-              "title": "Chat with Copilot inside a report on the Power BI mobile app (preview)",
-              "url": "https://powerbi.microsoft.com/blog/chat-with-copilot-inside-a-report-on-the-power-bi-mobile-app-preview/"
-            }
-          ],
-          "📺 Videos": [
-            {
-              "title": "I Automated My Motivation And I Can't Go Back",
-              "url": "https://www.youtube.com/watch?v=JG8AbrAPTDc"
-            },
-            {
-              "title": "How to Connect Copilot Studio to Microsoft Foundry",
-              "url": "https://www.youtube.com/watch?v=P_P8KhBEmxk"
-            },
-            {
-              "title": "Power BI Write-Back: Translitical Flows vs. Power Apps",
-              "url": "https://www.youtube.com/watch?v=xG-_VfTQ8SY"
-            }
-          ]
-        },
-        "error": null
-      },
       "power_bi_weekly": {
         "name": "Power BI Weekly",
         "issue_number": 352,
@@ -703,6 +482,222 @@
             {
               "title": "Power BI for HR: What Board-Ready Headcount Reporting Looks Like",
               "url": "https://www.youtube.com/watch?v=q8LcD2qnC-w"
+            }
+          ]
+        },
+        "error": null
+      },
+      "power_platform_weekly": {
+        "name": "Power Platform Weekly",
+        "issue_number": 258,
+        "issue_date": "2026-04-06",
+        "url": "https://www.ppweekly.com/p/power-platform-weekly-issue-258",
+        "is_new": false,
+        "sections": {
+          "📰 Articles": [
+            {
+              "title": "From Scripts to Intent: How Dataverse Skills Redefines Enterprise Development",
+              "url": "https://aidevme.com/from-scripts-to-intent-how-dataverse-skills-redefines-enterprise-development"
+            },
+            {
+              "title": "Getting Started with Dataverse Skills: Install, Configure, and Build Your First Agent-Driven Solution",
+              "url": "https://aidevme.com/getting-started-with-dataverse-skills-install-configure-and-build-your-first-agent-driven-solution"
+            },
+            {
+              "title": "The Frontier Firm Has an HR Problem",
+              "url": "https://www.anainesurrutia.com/post/the-frontier-firm-has-an-hr-problem"
+            },
+            {
+              "title": "Dataverse: Avoiding Timezone Pitfalls When Integrating Dataverse Date and DateTime Fields",
+              "url": "https://temmyraharjo.wordpress.com/2026/04/05/dataverse-avoiding-timezone-pitfalls-when-integrating-dataverse-date-and-datetime-fields/"
+            },
+            {
+              "title": "Google ReCAPTCHA v3 and Cloudflare Turnstile for marketing and event forms in Dynamics 365",
+              "url": "https://www.ameyholden.com/articles/recaptcha-v3-cloudflare-turnstile-for-customer-insights-journeys-forms"
+            },
+            {
+              "title": "Triggering Copilot Studio Agents Autonomously using Microsoft Graph Change Notifications + Power Automate",
+              "url": "https://ashiqf.com/2026/03/31/triggering-copilot-studio-agents-autonomously-using-microsoft-graph-change-notifications-power-automate/"
+            },
+            {
+              "title": "Power Pages: A Governed Platform for Hosting",
+              "url": "https://www.engineeredcode.com/blog/power-pages-a-governed-platform-for-hosting"
+            },
+            {
+              "title": "How to Build a Cross-System Copilot Agent in Dynamics 365 Using MCP Server",
+              "url": "https://www.inogic.com/blog/2026/04/how-to-build-a-cross-system-copilot-agent-in-dynamics-365-using-mcp-server/"
+            },
+            {
+              "title": "Why Microsoft Support Asks for a HAR File …?",
+              "url": "https://ecellorscrm.com/2026/04/04/why-microsoft-support-asks-for-a-har-file/"
+            }
+          ],
+          "🎙️ Podcasts": [
+            {
+              "title": "Power Platform Panic Room Podcast",
+              "url": "https://rephonic.com/episodes/6u2xd-power-platform-panic-room-episode-one-introd"
+            },
+            {
+              "title": "Merge Conflict Podcast",
+              "url": "https://www.mergeconflict.fm/508"
+            },
+            {
+              "title": "The Copilot Connection Podcast",
+              "url": "https://player.fm/series/the-copilot-connection/ep-41-cowork-and-agent-365"
+            }
+          ],
+          "📅 Events & Webinars": [
+            {
+              "title": "ColorCloud",
+              "url": "https://colorcloud.rocks/"
+            },
+            {
+              "title": "Update Days Power Platform",
+              "url": "https://power.updatedays.cz/"
+            },
+            {
+              "title": "European BizApps Summit",
+              "url": "https://bizappssummit.eu/"
+            },
+            {
+              "title": "DynamicsCon",
+              "url": "https://dynamicscon.com/"
+            },
+            {
+              "title": "DynamicsMinds",
+              "url": "https://www.dynamicsminds.com/"
+            },
+            {
+              "title": "Build",
+              "url": "https://build.microsoft.com/home"
+            },
+            {
+              "title": "European Power Platform Conference",
+              "url": "https://www.sharepointeurope.com/european-power-platform-conference/"
+            }
+          ],
+          "💙 Out of the Blue": [
+            {
+              "title": "Dataverse Skills: your coding agent now speaks Dataverse",
+              "url": "https://devblogs.microsoft.com/powerplatform/dataverse-skills-your-coding-agent-now-speaks-dataverse/"
+            },
+            {
+              "title": "Public preview: Your business apps, now part of every conversation",
+              "url": "https://www.microsoft.com/power-platform/blog/power-apps/public-preview-your-business-apps-now-part-of-every-conversation/"
+            },
+            {
+              "title": "New and improved: multi-agent orchestration, connected experiences, and faster prompt iteration",
+              "url": "https://www.microsoft.com/microsoft-copilot/blog/copilot-studio/new-and-improved-multi-agent-orchestration-connected-experiences-and-faster-prompt-iteration/"
+            },
+            {
+              "title": "Building trustworthy AI: A practical framework for adaptive governance",
+              "url": "https://www.microsoft.com/power-platform/blog/2026/04/01/building-trustworthy-ai-a-practical-framework-for-adaptive-governance/"
+            },
+            {
+              "title": "Server logic in Power Pages is now generally available",
+              "url": "https://www.microsoft.com/power-platform/blog/power-pages/announcing-general-availability-ga-of-server-logic-in-power-pages/"
+            },
+            {
+              "title": "Generative AI search and data summarization now available in Power Pages for U.S. government clouds",
+              "url": "https://www.microsoft.com/power-platform/blog/power-pages/generative-ai-search-and-data-summarization-now-available-in-power-pages-for-u-s-government-clouds/"
+            },
+            {
+              "title": "Dataflows: thank you for eight years of Gen1—and why Gen2 is the future",
+              "url": "https://powerbi.microsoft.com/blog/dataflows-thank-you-for-eight-years-of-gen1-and-why-gen2-is-the-future/"
+            },
+            {
+              "title": "Chat with Copilot inside a report on the Power BI mobile app (preview)",
+              "url": "https://powerbi.microsoft.com/blog/chat-with-copilot-inside-a-report-on-the-power-bi-mobile-app-preview/"
+            }
+          ],
+          "📺 Videos": [
+            {
+              "title": "I Automated My Motivation And I Can't Go Back",
+              "url": "https://www.youtube.com/watch?v=JG8AbrAPTDc"
+            },
+            {
+              "title": "How to Connect Copilot Studio to Microsoft Foundry",
+              "url": "https://www.youtube.com/watch?v=P_P8KhBEmxk"
+            },
+            {
+              "title": "Power BI Write-Back: Translitical Flows vs. Power Apps",
+              "url": "https://www.youtube.com/watch?v=xG-_VfTQ8SY"
+            }
+          ]
+        },
+        "error": null
+      },
+      "power_platform_dev_weekly": {
+        "name": "Power Platform Dev Weekly",
+        "issue_number": 290,
+        "issue_date": "2026-04-01",
+        "url": "https://www.ppdevweekly.com/p/290",
+        "is_new": false,
+        "sections": {
+          "🥇 Cover Story": [
+            {
+              "title": "Copilot Cowork Is Coming: Here’s How to Get Your Tenant Ready on Day 1",
+              "url": "https://flowaltdelete.ca/2026/03/20/copilot-cowork-is-coming-heres-how-to-get-your-tenant-ready-on-day-1/"
+            }
+          ],
+          "💎 Model Driven Apps & Dataverse": [
+            {
+              "title": "How Power Platform Pay-as-you-go plan works",
+              "url": "https://365corner.pl/2026/03/30/how-power-platform-pay-as-you-go-plan-works/"
+            },
+            {
+              "title": "How to patch images from Power Apps to Dataverse",
+              "url": "https://thepoweraddict.com/how-to-patch-images-from-power-apps-to-dataverse/?utm_source=feedly&utm_medium=rss&utm_campaign=how-to-patch-images-from-power-apps-to-dataverse"
+            }
+          ],
+          "🏋️‍♂️ Canvas Apps": [
+            {
+              "title": "Open D365 Records From Your Custom Page Using Environment Variables",
+              "url": "https://meganvwalker.com/open-d365-records-from-your-custom-page/"
+            },
+            {
+              "title": "How to patch images from Power Apps to D365 F&SCM",
+              "url": "https://thepoweraddict.com/how-to-patch-images-from-power-apps-to-d365-fscm/"
+            }
+          ],
+          "🤖 Copilot & Code Apps": [
+            {
+              "title": "Copilot Studio ALM – Know Before You Go",
+              "url": "https://suparnatechbasket.wordpress.com/2026/03/25/copilot-studio-alm-know-before-you-go/"
+            },
+            {
+              "title": "Extract Website Data With Computer Use In Copilot Studio",
+              "url": "https://www.matthewdevaney.com/extract-website-data-with-computer-use-in-copilot-studio/"
+            }
+          ],
+          "👩‍💻 Dev to the Core": [
+            {
+              "title": "Setting Your Environments Up for Code Apps",
+              "url": "https://dev.to/wyattdave/setting-your-environments-up-for-code-apps-16i8"
+            }
+          ],
+          "🎮 Other Interesting Articles": [
+            {
+              "title": "Microsoft’s New AI Certifications for 2026: Full List, Retirements, and Replacement Paths",
+              "url": "https://arunpotti.com/2026/03/24/microsofts-new-ai-certifications-for-2026-full-list-retirements-and-replacement-paths/"
+            },
+            {
+              "title": "How to estimate the cost of a Copilot Studio agent before you build it",
+              "url": "https://sharepoint247.com/ai/how-to-estimate-the-cost-of-a-copilot-studio-agent-before-you-build-it/"
+            }
+          ],
+          "📺 Videos": [
+            {
+              "title": "Power Apps in 2026: Which App Type Should You Actually Use?",
+              "url": "https://www.youtube.com/watch?v=gEYTCtbK7Kk"
+            },
+            {
+              "title": "When You Should Use Topics in Copilot Studio (EXPLAINED)",
+              "url": "https://www.youtube.com/watch?v=GpTTRjDaNCI"
+            },
+            {
+              "title": "Copilot Cowork Explained: Is this a whole new way to work?",
+              "url": "https://www.youtube.com/watch?v=0vYHpW7zIls"
             }
           ]
         },
