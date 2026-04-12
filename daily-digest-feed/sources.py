@@ -1,7 +1,7 @@
 """Source configuration for daily-digest-feed.
 
-Edit this file to add/remove YouTube channels or newsletters. All other modules
-import from here — there should be no source lists anywhere else.
+Edit this file to add/remove YouTube channels, newsletters, or other sources.
+All other modules import from here — there should be no source lists anywhere else.
 """
 
 YOUTUBE_SOURCES: dict[str, list[dict]] = {
@@ -61,10 +61,32 @@ NEWSLETTER_SOURCES: list[dict] = [
 ]
 
 
+# ---------------------------------------------------------------------------
+# Release Plans (releaseplans.net)
+# ---------------------------------------------------------------------------
+RELEASE_PLANS_SOURCE: dict = {
+    "url": "https://releaseplans.net/data/release-plans.json",
+    "products": [
+        "Power Apps",
+        "Power Automate",
+        "AI Builder",
+        "Power Pages",
+        "Microsoft Dataverse",
+        "Microsoft Power Platform governance and administration",
+        "Microsoft Copilot Studio",
+    ],
+}
+
+
 def all_youtube_sources() -> list[tuple[str, dict]]:
     """Flatten YouTube sources to (category, source_dict) tuples for parallel fetching."""
     return [(cat, src) for cat, srcs in YOUTUBE_SOURCES.items() for src in srcs]
 
 
 def total_source_count() -> int:
-    return sum(len(v) for v in YOUTUBE_SOURCES.values()) + len(NEWSLETTER_SOURCES)
+    """Total discrete source count (YouTube channels + newsletters + release plans)."""
+    return (
+        sum(len(v) for v in YOUTUBE_SOURCES.values())
+        + len(NEWSLETTER_SOURCES)
+        + 1  # release_plans is one source
+    )

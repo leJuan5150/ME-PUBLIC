@@ -1,27 +1,20 @@
 {
-  "generated_at": "2026-04-12T11:13:31.109044Z",
+  "generated_at": "2026-04-12T15:20:08.682612Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
         {
-          "creator": "Life Style Overland",
-          "handle": "@LifeStyleOverland",
-          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Epic Adventure Outfitters",
-          "handle": "@EpicAdventureOutfitters",
-          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "LetsGetLost",
           "handle": "@LetsGetLost",
           "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "This Story Till Now",
+          "handle": "@ThisStoryTillNow",
+          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
           "videos": [],
           "error": null
         },
@@ -33,23 +26,16 @@
           "error": null
         },
         {
-          "creator": "TrailRecon",
-          "handle": "@TrailRecon",
-          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
-          "videos": [
-            {
-              "title": "It Went Sideways Fast",
-              "url": "https://www.youtube.com/watch?v=QUru3mZjQM0",
-              "published": "2026-04-11T14:00:40Z",
-              "description": "Back in Moab for day two of Easter Jeep Safari, and this one had a little bit of everything.\n\nWe headed out to take on the iconic Metal Masher trail, a classic Moab route packed with scenic views, technical climbs, and obstacles that can go sideways in a hurry if you’re not careful. What started as a fun day on the trail turned into a real-world stress test when one Jeep in our group suffered a catastrophic failure, and the trail fix that followed was pure off-road ingenuity.\n\nAfter wrapping up "
-            }
-          ],
+          "creator": "Life Style Overland",
+          "handle": "@LifeStyleOverland",
+          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
+          "videos": [],
           "error": null
         },
         {
-          "creator": "This Story Till Now",
-          "handle": "@ThisStoryTillNow",
-          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "creator": "Epic Adventure Outfitters",
+          "handle": "@EpicAdventureOutfitters",
+          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
           "videos": [],
           "error": null
         },
@@ -73,20 +59,27 @@
           "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
           "videos": [],
           "error": null
+        },
+        {
+          "creator": "TrailRecon",
+          "handle": "@TrailRecon",
+          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
+          "videos": [
+            {
+              "title": "It Went Sideways Fast",
+              "url": "https://www.youtube.com/watch?v=QUru3mZjQM0",
+              "published": "2026-04-11T14:00:40Z",
+              "description": "Back in Moab for day two of Easter Jeep Safari, and this one had a little bit of everything.\n\nWe headed out to take on the iconic Metal Masher trail, a classic Moab route packed with scenic views, technical climbs, and obstacles that can go sideways in a hurry if you’re not careful. What started as a fun day on the trail turned into a real-world stress test when one Jeep in our group suffered a catastrophic failure, and the trail fix that followed was pure off-road ingenuity.\n\nAfter wrapping up "
+            }
+          ],
+          "error": null
         }
       ],
       "power_platform": [
         {
-          "creator": "Reza Dorrani",
-          "handle": "@RezaDorrani",
-          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "April Dunnam",
-          "handle": "@AprilDunnam",
-          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
+          "creator": "Matthew Devaney",
+          "handle": "@MatthewDevaney",
+          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
           "videos": [],
           "error": null
         },
@@ -105,25 +98,32 @@
           "error": null
         },
         {
-          "creator": "Matthew Devaney",
-          "handle": "@MatthewDevaney",
-          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
+          "creator": "April Dunnam",
+          "handle": "@AprilDunnam",
+          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Reza Dorrani",
+          "handle": "@RezaDorrani",
+          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
           "videos": [],
           "error": null
         }
       ],
       "fabric_powerbi": [
         {
-          "creator": "Guy in a Cube",
-          "handle": "@GuyInACube",
-          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
+          "creator": "Dewain Robinson",
+          "handle": "@DewainRobinson",
+          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
           "videos": [],
           "error": null
         },
         {
-          "creator": "Dewain Robinson",
-          "handle": "@DewainRobinson",
-          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
+          "creator": "Guy in a Cube",
+          "handle": "@GuyInACube",
+          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
           "videos": [],
           "error": null
         }
@@ -151,32 +151,6 @@
               "url": "https://www.youtube.com/watch?v=erV_8yrGMA8",
               "published": "2026-04-11T15:00:59Z",
               "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/your-gpus-just-got-6x-more-valuable?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside AI memory — and why it's the bottleneck threatening every LLM deployment at scale?\n\nThe common story is that we just need more chips — but the reality is more interesting: a new Google paper may have just changed the math without touching the hardware.\n\nIn this video, I sh"
-            },
-            {
-              "title": "There Are Only 5 Safe Places to Build in AI Right Now. Are You in One?",
-              "url": "https://www.youtube.com/watch?v=ib2m9HVX7as",
-              "published": "2026-04-10T14:01:17Z",
-              "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/most-of-what-youre-building-will?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside the app builder landscape when Lovable raises $6.6 billion and ships 100,000 new projects every day but most of these companies are functionally thin wrappers?\n\nThe common story is that AI makes building free — but the reality is that the middleware trap is playing out in rea"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Paul J Lipsky",
-          "handle": "@PaulJLipsky",
-          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
-          "videos": [
-            {
-              "title": "Big AI News: So Many Gemini Updates, Claude’s Scary New Model + A New Google AI App…",
-              "url": "https://www.youtube.com/watch?v=5Ev0b99hsUg",
-              "published": "2026-04-11T13:00:19Z",
-              "description": "Try i10x: https://i10x.ai?fpr=paul53\nSave 15% with code \"PJL15\"\n\nThis week’s biggest AI news: Gemini’s new NotebookLM integration + visualizations, a scary new Claude model, and a new free Google AI app.\n\nHeads up, these updates may not be available worldwide yet. Just because I have access to them doesn't mean you will yet.\n\n0:00 Intro\n0:40 Notebooks\n2:10 Visuals\n4:06 Music\n5:12 NotebookLM\n6:30 Edge App\n8:12 Sponsor\n10:05 Mythos\n13:22 Perplexity\n14:22 OpenAI\n14:49 Genspark\n15:46 Wrap\n\n🔗 This vi"
-            },
-            {
-              "title": "Seedance 2.0 Is Here On Higgsfield!",
-              "url": "https://www.youtube.com/watch?v=l7hq9lTIeyQ",
-              "published": "2026-04-10T13:01:30Z",
-              "description": "Try Seedance 2.0 on Higgsfield: https://higgsfield.ai/s/seedance-2-0-pauljlipsky-ZxCjzL\n\nWatch the Seedance Video By Higgsfield: https://www.youtube.com/watch?v=jvFaFq-2Gzw\n\nThis is the most realistic AI video generation I’ve ever tested — multi-shot scenes, native sound effects, and scary-good AI avatars all in one workflow.\n\nHeads up, these updates may not be available worldwide yet. Just because I have access to them doesn't mean you will yet.\n\n🔗 This video is sponsored. Some product links ar"
             }
           ],
           "error": null
@@ -221,10 +195,23 @@
           "error": null
         },
         {
-          "creator": "Simon Scrapes",
-          "handle": "@SimonScrapes",
-          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
-          "videos": [],
+          "creator": "Paul J Lipsky",
+          "handle": "@PaulJLipsky",
+          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
+          "videos": [
+            {
+              "title": "Claude Cowork + NotebookLM Is Overpowered",
+              "url": "https://www.youtube.com/watch?v=BKVa8fO6T_g",
+              "published": "2026-04-12T13:00:17Z",
+              "description": "Try ImagineArt: https://imagineartinc.pxf.io/55WvZ1\n\nClaude + NotebookLM are already insanely powerful on their own. But when you connect them with the workflow in this video, you can automate research, generate morning briefings, and even build slide decks automatically.\n\nLink to Skill: https://drive.google.com/file/d/1M49qkWqTNIcsAZgAGMqa74-Dg2_OO6QD/view?usp=sharing\n\nCreate Your Own Skill:\n\nCreate a skill for me. Use the Notebooklm skill as the foundation but this one will be more focused on "
+            },
+            {
+              "title": "Big AI News: So Many Gemini Updates, Claude’s Scary New Model + A New Google AI App…",
+              "url": "https://www.youtube.com/watch?v=5Ev0b99hsUg",
+              "published": "2026-04-11T13:00:19Z",
+              "description": "Try i10x: https://i10x.ai?fpr=paul53\nSave 15% with code \"PJL15\"\n\nThis week’s biggest AI news: Gemini’s new NotebookLM integration + visualizations, a scary new Claude model, and a new free Google AI app.\n\nHeads up, these updates may not be available worldwide yet. Just because I have access to them doesn't mean you will yet.\n\n0:00 Intro\n0:40 Notebooks\n2:10 Visuals\n4:06 Music\n5:12 NotebookLM\n6:30 Edge App\n8:12 Sponsor\n10:05 Mythos\n13:22 Perplexity\n14:22 OpenAI\n14:49 Genspark\n15:46 Wrap\n\n🔗 This vi"
+            }
+          ],
           "error": null
         },
         {
@@ -246,10 +233,93 @@
             }
           ],
           "error": null
+        },
+        {
+          "creator": "Simon Scrapes",
+          "handle": "@SimonScrapes",
+          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
+          "videos": [],
+          "error": null
         }
       ]
     },
     "newsletters": {
+      "power_platform_dev_weekly": {
+        "name": "Power Platform Dev Weekly",
+        "issue_number": 290,
+        "issue_date": "2026-04-01",
+        "url": "https://www.ppdevweekly.com/p/290",
+        "is_new": false,
+        "sections": {
+          "🥇 Cover Story": [
+            {
+              "title": "Copilot Cowork Is Coming: Here’s How to Get Your Tenant Ready on Day 1",
+              "url": "https://flowaltdelete.ca/2026/03/20/copilot-cowork-is-coming-heres-how-to-get-your-tenant-ready-on-day-1/"
+            }
+          ],
+          "💎 Model Driven Apps & Dataverse": [
+            {
+              "title": "How Power Platform Pay-as-you-go plan works",
+              "url": "https://365corner.pl/2026/03/30/how-power-platform-pay-as-you-go-plan-works/"
+            },
+            {
+              "title": "How to patch images from Power Apps to Dataverse",
+              "url": "https://thepoweraddict.com/how-to-patch-images-from-power-apps-to-dataverse/?utm_source=feedly&utm_medium=rss&utm_campaign=how-to-patch-images-from-power-apps-to-dataverse"
+            }
+          ],
+          "🏋️‍♂️ Canvas Apps": [
+            {
+              "title": "Open D365 Records From Your Custom Page Using Environment Variables",
+              "url": "https://meganvwalker.com/open-d365-records-from-your-custom-page/"
+            },
+            {
+              "title": "How to patch images from Power Apps to D365 F&SCM",
+              "url": "https://thepoweraddict.com/how-to-patch-images-from-power-apps-to-d365-fscm/"
+            }
+          ],
+          "🤖 Copilot & Code Apps": [
+            {
+              "title": "Copilot Studio ALM – Know Before You Go",
+              "url": "https://suparnatechbasket.wordpress.com/2026/03/25/copilot-studio-alm-know-before-you-go/"
+            },
+            {
+              "title": "Extract Website Data With Computer Use In Copilot Studio",
+              "url": "https://www.matthewdevaney.com/extract-website-data-with-computer-use-in-copilot-studio/"
+            }
+          ],
+          "👩‍💻 Dev to the Core": [
+            {
+              "title": "Setting Your Environments Up for Code Apps",
+              "url": "https://dev.to/wyattdave/setting-your-environments-up-for-code-apps-16i8"
+            }
+          ],
+          "🎮 Other Interesting Articles": [
+            {
+              "title": "Microsoft’s New AI Certifications for 2026: Full List, Retirements, and Replacement Paths",
+              "url": "https://arunpotti.com/2026/03/24/microsofts-new-ai-certifications-for-2026-full-list-retirements-and-replacement-paths/"
+            },
+            {
+              "title": "How to estimate the cost of a Copilot Studio agent before you build it",
+              "url": "https://sharepoint247.com/ai/how-to-estimate-the-cost-of-a-copilot-studio-agent-before-you-build-it/"
+            }
+          ],
+          "📺 Videos": [
+            {
+              "title": "Power Apps in 2026: Which App Type Should You Actually Use?",
+              "url": "https://www.youtube.com/watch?v=gEYTCtbK7Kk"
+            },
+            {
+              "title": "When You Should Use Topics in Copilot Studio (EXPLAINED)",
+              "url": "https://www.youtube.com/watch?v=GpTTRjDaNCI"
+            },
+            {
+              "title": "Copilot Cowork Explained: Is this a whole new way to work?",
+              "url": "https://www.youtube.com/watch?v=0vYHpW7zIls"
+            }
+          ]
+        },
+        "error": null
+      },
       "power_platform_weekly": {
         "name": "Power Platform Weekly",
         "issue_number": 258,
@@ -385,82 +455,6 @@
             {
               "title": "Power BI Write-Back: Translitical Flows vs. Power Apps",
               "url": "https://www.youtube.com/watch?v=xG-_VfTQ8SY"
-            }
-          ]
-        },
-        "error": null
-      },
-      "power_platform_dev_weekly": {
-        "name": "Power Platform Dev Weekly",
-        "issue_number": 290,
-        "issue_date": "2026-04-01",
-        "url": "https://www.ppdevweekly.com/p/290",
-        "is_new": false,
-        "sections": {
-          "🥇 Cover Story": [
-            {
-              "title": "Copilot Cowork Is Coming: Here’s How to Get Your Tenant Ready on Day 1",
-              "url": "https://flowaltdelete.ca/2026/03/20/copilot-cowork-is-coming-heres-how-to-get-your-tenant-ready-on-day-1/"
-            }
-          ],
-          "💎 Model Driven Apps & Dataverse": [
-            {
-              "title": "How Power Platform Pay-as-you-go plan works",
-              "url": "https://365corner.pl/2026/03/30/how-power-platform-pay-as-you-go-plan-works/"
-            },
-            {
-              "title": "How to patch images from Power Apps to Dataverse",
-              "url": "https://thepoweraddict.com/how-to-patch-images-from-power-apps-to-dataverse/?utm_source=feedly&utm_medium=rss&utm_campaign=how-to-patch-images-from-power-apps-to-dataverse"
-            }
-          ],
-          "🏋️‍♂️ Canvas Apps": [
-            {
-              "title": "Open D365 Records From Your Custom Page Using Environment Variables",
-              "url": "https://meganvwalker.com/open-d365-records-from-your-custom-page/"
-            },
-            {
-              "title": "How to patch images from Power Apps to D365 F&SCM",
-              "url": "https://thepoweraddict.com/how-to-patch-images-from-power-apps-to-d365-fscm/"
-            }
-          ],
-          "🤖 Copilot & Code Apps": [
-            {
-              "title": "Copilot Studio ALM – Know Before You Go",
-              "url": "https://suparnatechbasket.wordpress.com/2026/03/25/copilot-studio-alm-know-before-you-go/"
-            },
-            {
-              "title": "Extract Website Data With Computer Use In Copilot Studio",
-              "url": "https://www.matthewdevaney.com/extract-website-data-with-computer-use-in-copilot-studio/"
-            }
-          ],
-          "👩‍💻 Dev to the Core": [
-            {
-              "title": "Setting Your Environments Up for Code Apps",
-              "url": "https://dev.to/wyattdave/setting-your-environments-up-for-code-apps-16i8"
-            }
-          ],
-          "🎮 Other Interesting Articles": [
-            {
-              "title": "Microsoft’s New AI Certifications for 2026: Full List, Retirements, and Replacement Paths",
-              "url": "https://arunpotti.com/2026/03/24/microsofts-new-ai-certifications-for-2026-full-list-retirements-and-replacement-paths/"
-            },
-            {
-              "title": "How to estimate the cost of a Copilot Studio agent before you build it",
-              "url": "https://sharepoint247.com/ai/how-to-estimate-the-cost-of-a-copilot-studio-agent-before-you-build-it/"
-            }
-          ],
-          "📺 Videos": [
-            {
-              "title": "Power Apps in 2026: Which App Type Should You Actually Use?",
-              "url": "https://www.youtube.com/watch?v=gEYTCtbK7Kk"
-            },
-            {
-              "title": "When You Should Use Topics in Copilot Studio (EXPLAINED)",
-              "url": "https://www.youtube.com/watch?v=GpTTRjDaNCI"
-            },
-            {
-              "title": "Copilot Cowork Explained: Is this a whole new way to work?",
-              "url": "https://www.youtube.com/watch?v=0vYHpW7zIls"
             }
           ]
         },
@@ -684,11 +678,18 @@
         },
         "error": null
       }
+    },
+    "release_plans": {
+      "source_url": "https://releaseplans.net/",
+      "data_url": "https://releaseplans.net/data/release-plans.json",
+      "products": {},
+      "total_updates": 0,
+      "error": null
     }
   },
   "errors": [],
   "_meta": {
-    "success_count": 24,
-    "total_sources": 24
+    "success_count": 25,
+    "total_sources": 25
   }
 }

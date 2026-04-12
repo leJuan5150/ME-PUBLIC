@@ -1,4 +1,4 @@
-"""daily-digest-feed — fetch all 24 sources, write feeds.json.
+"""daily-digest-feed — fetch all sources, write feeds.json.
 
 Runs in GitHub Actions at 11:00 UTC daily. See ../README.md for context.
 """
@@ -21,6 +21,7 @@ import feedparser  # type: ignore
 
 from sources import (
     NEWSLETTER_SOURCES,
+    RELEASE_PLANS_SOURCE,
     YOUTUBE_SOURCES,
     all_youtube_sources,
     total_source_count,
@@ -473,6 +474,75 @@ def fetch_pbi_weekly(source: dict, cutoff: datetime) -> tuple[str, dict]:
 
 
 # ---------------------------------------------------------------------------
+# Release Plans (releaseplans.net)
+# ---------------------------------------------------------------------------
+def _parse_mm_dd_yyyy(date_str: str) -> datetime | None:
+    """Parse MM/DD/YYYY date string to a UTC datetime (midnight)."""
+    try:
+        parts = date_str.strip().split("/")
+        return datetime(int(parts[2]), int(parts[0]), int(parts[1]), tzinfo=timezone.utc)
+    except (ValueError, IndexError):
+        return None
+
+
+def _strip_html(html: str) -> str:
+    """Remove HTML tags and return plain text, truncated."""
+    return re.sub(r"<[^>]+>", "", html or "").strip()[:500]
+
+
+def fetch_release_plans(cutoff: datetime) -> dict:
+    """Fetch release-plans.json, filter to configured products + 48h window."""
+    result: dict = {
+        "source_url": "https://releaseplans.net/",
+        "data_url": RELEASE_PLANS_SOURCE["url"],
+        "products": {},
+        "total_updates": 0,
+        "error": None,
+    }
+    try:
+        raw = http_get(RELEASE_PLANS_SOURCE["url"])
+        data = json.loads(raw)
+        items = data.get("value", data)
+
+        allowed = set(RELEASE_PLANS_SOURCE["products"])
+
+        for item in items:
+            product = item.get("Product", "")
+            if product not in allowed:
+                continue
+
+            updated = _parse_mm_dd_yyyy(item.get("LastUpdatedOn", ""))
+            if updated is None or updated < cutoff:
+                continue
+
+            entry = {
+                "feature_name": item.get("FeatureName", ""),
+                "product": product,
+                "product_group": item.get("ProductGroup", ""),
+                "status": item.get("StatusValue", ""),
+                "release_wave": item.get("ReleaseWave", ""),
+                "last_updated": item.get("LastUpdatedOn", ""),
+                "enabled_for": item.get("EnabledFor", ""),
+                "description": _strip_html(item.get("Description", "")),
+                "preview_date": item.get("PreviewDate", ""),
+                "ga_date": item.get("GADate", ""),
+            }
+
+            result["products"].setdefault(product, []).append(entry)
+            result["total_updates"] += 1
+
+        log.info(
+            "release_plans: %d updates across %d products",
+            result["total_updates"],
+            len(result["products"]),
+        )
+    except Exception as exc:  # noqa: BLE001
+        result["error"] = f"{type(exc).__name__}: {exc}"
+        log.warning("release_plans FAILED: %s", result["error"])
+    return result
+
+
+# ---------------------------------------------------------------------------
 # Orchestrator
 # ---------------------------------------------------------------------------
 def build_feed() -> dict:
@@ -520,6 +590,19 @@ def build_feed() -> dict:
                 else:
                     errors.append(f"newsletter/{key}: {data['error']}")
 
+    # Release plans (single source, run in the same threadpool)
+    release_plans_out: dict = {}
+    with ThreadPoolExecutor(max_workers=1) as pool:
+        rp_fut = pool.submit(fetch_release_plans, cutoff)
+        try:
+            release_plans_out = rp_fut.result()
+            if release_plans_out.get("error") is None:
+                success_count += 1
+            else:
+                errors.append(f"release_plans: {release_plans_out['error']}")
+        except Exception as exc:  # noqa: BLE001
+            errors.append(f"release_plans crashed: {type(exc).__name__}: {exc}")
+
     # Preserve the spec's category order within youtube_out
     ordered_youtube = {cat: youtube_out[cat] for cat in YOUTUBE_SOURCES}
 
@@ -529,6 +612,7 @@ def build_feed() -> dict:
         "sources": {
             "youtube": ordered_youtube,
             "newsletters": newsletters_out,
+            "release_plans": release_plans_out,
         },
         "errors": errors,
         "_meta": {
@@ -553,6 +637,9 @@ def main() -> int:
     for nl in feed["sources"]["newsletters"].values():
         for items in nl.get("sections", {}).values():
             total_items += len(items)
+    rp = feed["sources"].get("release_plans", {})
+    for prod_items in rp.get("products", {}).values():
+        total_items += len(prod_items)
 
     OUTPUT_PATH.write_text(
         json.dumps(feed, indent=2, ensure_ascii=False) + "\n",
