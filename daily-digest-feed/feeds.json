@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-04-13T11:29:46.750418Z",
+  "generated_at": "2026-04-14T11:25:12.374713Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
         {
-          "creator": "Ozark Overland Adventure",
-          "handle": "@OzarkOverlandAdventures",
-          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
+          "creator": "LetsGetLost",
+          "handle": "@LetsGetLost",
+          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
           "videos": [],
           "error": null
         },
         {
-          "creator": "TrailRecon",
-          "handle": "@TrailRecon",
-          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
+          "creator": "Epic Adventure Outfitters",
+          "handle": "@EpicAdventureOutfitters",
+          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
           "videos": [
             {
-              "title": "It Went Sideways Fast",
-              "url": "https://www.youtube.com/watch?v=QUru3mZjQM0",
-              "published": "2026-04-11T14:00:40Z",
-              "description": "Back in Moab for day two of Easter Jeep Safari, and this one had a little bit of everything.\n\nWe headed out to take on the iconic Metal Masher trail, a classic Moab route packed with scenic views, technical climbs, and obstacles that can go sideways in a hurry if you’re not careful. What started as a fun day on the trail turned into a real-world stress test when one Jeep in our group suffered a catastrophic failure, and the trail fix that followed was pure off-road ingenuity.\n\nAfter wrapping up "
+              "title": "Your Jeep's Suspension is Lying to You. Let's Fix That",
+              "url": "https://www.youtube.com/watch?v=tLkAWTmzpnY",
+              "published": "2026-04-13T21:25:55Z",
+              "description": "Your Jeep's suspension has been lying to you. \nAnd honestly? We let it happen.\n\n#JeepSuspension #JeepLift #OffRoad\n\nIn this episode of 2 Dudes 1 Wrench we stop nodding along and actually explain what's going on underneath your rig.\n\nLift kits. Drop brackets. Springs and shocks. Geometry correction. Everyone throws these words around like you already know what they mean, and nobody stops to explain why any of it actually matters.\nUntil now.\nWe break down Jeep suspension from the ground up in this"
             }
           ],
           "error": null
@@ -29,14 +29,14 @@
           "creator": "This Story Till Now",
           "handle": "@ThisStoryTillNow",
           "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Epic Adventure Outfitters",
-          "handle": "@EpicAdventureOutfitters",
-          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
-          "videos": [],
+          "videos": [
+            {
+              "title": "Axle SNAPS Mid-Climb at EJS (BRUTAL!)",
+              "url": "https://www.youtube.com/watch?v=0Wl0rW_skzY",
+              "published": "2026-04-13T16:00:23Z",
+              "description": "What started as an epic day at Easter Jeep Safari 2026 quickly turned into a full-blown test of our rigs and patience as my friend snaps an axle mid-obstacle and my Jeep battles ongoing electrical issues—but that didn’t stop us from pushing forward. We tackle some seriously fun and technical Moab terrain, troubleshoot on the fly, and somehow keep the adventure alive through all the chaos. Breakdowns, trail fixes, and plenty of laughs—this is what off-roading is all about.\n\nEnjoy 3W Easter Jeep S"
+            }
+          ],
           "error": null
         },
         {
@@ -47,16 +47,9 @@
           "error": null
         },
         {
-          "creator": "Life Style Overland",
-          "handle": "@LifeStyleOverland",
-          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "LetsGetLost",
-          "handle": "@LetsGetLost",
-          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
+          "creator": "TrailRecon",
+          "handle": "@TrailRecon",
+          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
           "videos": [],
           "error": null
         },
@@ -66,16 +59,30 @@
           "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
           "videos": [],
           "error": null
+        },
+        {
+          "creator": "Ozark Overland Adventure",
+          "handle": "@OzarkOverlandAdventures",
+          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
+          "videos": [
+            {
+              "title": "Overlander Daily Vlog - She Out Wheeled Everyone!!",
+              "url": "https://www.youtube.com/watch?v=jKu4dlokujo",
+              "published": "2026-04-13T15:01:23Z",
+              "description": "We take off on Metal Masher with ASFIR 4x4 on a group ride that we lead. Cara out wheeled everyone in our group! Huge thanks to ASFIR for making this happen - https://www.asfir.com?sca_ref=9522276.XcZODkj1dk1PK\n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsor"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Life Style Overland",
+          "handle": "@LifeStyleOverland",
+          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
+          "videos": [],
+          "error": null
         }
       ],
       "power_platform": [
-        {
-          "creator": "Lisa Crosbie",
-          "handle": "@LisaCrosbie",
-          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
-          "videos": [],
-          "error": null
-        },
         {
           "creator": "Matthew Devaney",
           "handle": "@MatthewDevaney",
@@ -84,17 +91,31 @@
           "error": null
         },
         {
-          "creator": "Reza Dorrani",
-          "handle": "@RezaDorrani",
-          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "Shane Young",
           "handle": "@ShanesCows",
           "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
           "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Lisa Crosbie",
+          "handle": "@LisaCrosbie",
+          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Reza Dorrani",
+          "handle": "@RezaDorrani",
+          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
+          "videos": [
+            {
+              "title": "A New Way to Build Canvas Apps 🚀 (Power Apps MCP Server)",
+              "url": "https://www.youtube.com/watch?v=ZNTBHySstNI",
+              "published": "2026-04-13T12:01:00Z",
+              "description": "Power Apps is evolving — and with AI code generation tools on the rise, Canvas Apps are evolving too. Introducing the Canvas Apps Authoring MCP Server — a new way to build and enhance apps faster using tools like GitHub Copilot CLI and Claude Code.\n\nIn this video, I walk through how the MCP Server enables a more efficient development experience — while keeping you fully in control.\n\nThis is not about AI replacing developers.\nIt’s about removing repetitive work and accelerating how you build apps"
+            }
+          ],
           "error": null
         },
         {
@@ -128,6 +149,18 @@
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
             {
+              "title": "Why AI skills are now table stakes #ai #work #future",
+              "url": "https://www.youtube.com/shorts/e3inUUQsKsc",
+              "published": "2026-04-14T03:00:48Z",
+              "description": "Full Story w/ Prompts:https://natesnewsletter.substack.com/p/my-honest-field-notes-on-how-the?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\n\nWhat's really happening inside the talent market when Toby Lutke's memo said prove AI can't do it before you hire and everyone dismissed it as CEO posturing?\n\nThe common story is that the memo was about productivity — but the reality is that it was about selection pressure, and eight months later the restr"
+            },
+            {
+              "title": "I Looked At Amazon After They Fired 16,000 Engineers. Their AI Broke Everything.",
+              "url": "https://www.youtube.com/watch?v=E1idsrv79tI",
+              "published": "2026-04-13T14:00:28Z",
+              "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/your-codebase-is-full-of-code-nobody?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside your codebase when AI writes code nobody fully understands?\n\nThe common story is that dark code is a security or engineering quality problem — but the reality is more complicated: it's an organizational capability crisis that is only going to get worse.\n\nIn this video, I "
+            },
+            {
               "title": "66% of companies are cutting entry level jobs for AI! #nextgenai #artificialintelligence",
               "url": "https://www.youtube.com/shorts/F368zITpbeI",
               "published": "2026-04-13T00:00:14Z",
@@ -144,89 +177,6 @@
               "url": "https://www.youtube.com/watch?v=zhXgkQ3nYeE",
               "published": "2026-04-12T17:01:13Z",
               "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/executive-briefing-44-of-companies?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside the management layer your company just removed — and why it matters more than anyone is admitting?\n\nThe common story is that flatter is faster — but the reality is more complicated: companies are cutting load-bearing structure without understanding what they're actually rem"
-            },
-            {
-              "title": "Big firms are safe  Startups are weak  The middle is doomed",
-              "url": "https://www.youtube.com/shorts/f_OmLWjWgNA",
-              "published": "2026-04-12T03:00:51Z",
-              "description": "My site: https://natebjones.com\nFull Story w/ Prompts & Guide:https://natesnewsletter.substack.com/p/executive-briefing-the-bifurcated?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside AI's impact on competitive business strategy?\n\nThe common story is that AI threatens every company equally — but the reality is more complicated, and far more useful for leaders who need to act now.\n\nIn this video, I share the inside sc"
-            },
-            {
-              "title": "AI is splitting the economy—which side are you on?",
-              "url": "https://www.youtube.com/shorts/jGd5NY5KVN4",
-              "published": "2026-04-11T21:00:49Z",
-              "description": "My site: https://natebjones.com\nFull Story w/ Prompts & Guide:https://natesnewsletter.substack.com/p/executive-briefing-the-bifurcated?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside AI's impact on competitive business strategy?\n\nThe common story is that AI threatens every company equally — but the reality is more complicated, and far more useful for leaders who need to act now.\n\nIn this video, I share the inside sc"
-            },
-            {
-              "title": "This New Method Just Killed RAM Limitations",
-              "url": "https://www.youtube.com/watch?v=erV_8yrGMA8",
-              "published": "2026-04-11T15:00:59Z",
-              "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/your-gpus-just-got-6x-more-valuable?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside AI memory — and why it's the bottleneck threatening every LLM deployment at scale?\n\nThe common story is that we just need more chips — but the reality is more interesting: a new Google paper may have just changed the math without touching the hardware.\n\nIn this video, I sh"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Chase AI",
-          "handle": "@ChaseAI",
-          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
-          "videos": [
-            {
-              "title": "GSD vs Superpowers vs Claude Code: A Clear Winner",
-              "url": "https://www.youtube.com/shorts/OnxqobP8qM8",
-              "published": "2026-04-13T11:00:42Z",
-              "description": "check related video for the full breakdown"
-            },
-            {
-              "title": "GSD vs Superpowers vs Claude Code: A New AI King?",
-              "url": "https://www.youtube.com/watch?v=celLbDMGy8w",
-              "published": "2026-04-13T05:30:41Z",
-              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community with tons of AI resources🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nIf I was starting Claude Code from scratch in 2026, these are the 10 skills, plugins, and CLIs I'd install on day one. We cover everything from using OpenAI's Codex as a companion agent inside Claude Code, to turning your terminal into a full Google Workspace a"
-            },
-            {
-              "title": "Two Fixes To Improve Opus 4.6 Performance",
-              "url": "https://www.youtube.com/shorts/L1CH00T3FeA",
-              "published": "2026-04-12T04:21:04Z",
-              "description": ""
-            },
-            {
-              "title": "Is Obsidian Better Than RAG Now?",
-              "url": "https://www.youtube.com/shorts/HwZTqCc0G6s",
-              "published": "2026-04-12T04:19:16Z",
-              "description": ""
-            },
-            {
-              "title": "Mempalace drama (fake benchmarks?)",
-              "url": "https://www.youtube.com/shorts/vAWUSHsoZns",
-              "published": "2026-04-11T12:01:40Z",
-              "description": ""
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Alex Finn",
-          "handle": "@AlexFinn",
-          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Nate Herk",
-          "handle": "@NateHerk",
-          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-          "videos": [
-            {
-              "title": "This One Plugin Just 10x’d Claude Code",
-              "url": "https://www.youtube.com/watch?v=4XqVR6xI6Kw",
-              "published": "2026-04-12T16:56:56Z",
-              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=superpowers\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=superpowers\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\n14 day FREE n8n trial: https://n8n.partnerlinks.io/22crlu8afq5r\nCode NATEHERK to Self-Host Claude Code for 10% off (annual plan): https://www.hostinger.com/vps/claude-code-hosting\nVoice to text: https:/"
-            },
-            {
-              "title": "Seedance 2.0 + Claude Code = Beautiful $10k Websites",
-              "url": "https://www.youtube.com/shorts/EeY8wqJ5BOI",
-              "published": "2026-04-11T15:50:54Z",
-              "description": ""
             }
           ],
           "error": null
@@ -239,6 +189,90 @@
           "error": null
         },
         {
+          "creator": "Alex Finn",
+          "handle": "@AlexFinn",
+          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
+          "videos": [
+            {
+              "title": "You NEED to set up a multi agent team with OpenClaw and Hermes",
+              "url": "https://www.youtube.com/watch?v=mduLV-mWrNM",
+              "published": "2026-04-13T22:46:27Z",
+              "description": "OpenClaw plus Hermes agent is the best multi agent setup ever. Here's why and how to use them.\n\nFULL Hermes bootcamp in the Vibe Coding Academy coming up: https://vibecodingacademy.dev\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nObsidian memory system: https://youtu.be/6V-b073qhPA\n\nTimestamps:\n0:00 Intro\n0:31 Why multi agent\n3:31 Models I use for each\n6:03 Keeping each other alive\n7:57 Sup"
+            },
+            {
+              "title": "OpenClaw 4.12 update is actually incredible",
+              "url": "https://www.youtube.com/watch?v=WlDhN2bm3SU",
+              "published": "2026-04-13T20:11:04Z",
+              "description": "Join the Vibe Coding Academy: https://vibecodingacademy.dev"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Chase AI",
+          "handle": "@ChaseAI",
+          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+          "videos": [
+            {
+              "title": "Top 10 Claude Code Skill, Plugins, and CLIs (Part 2)",
+              "url": "https://www.youtube.com/shorts/KxoNn9fR_OI",
+              "published": "2026-04-14T04:02:21Z",
+              "description": ""
+            },
+            {
+              "title": "Top 10 Claude Code Skills, Plugins, and CLIs (Part 1)",
+              "url": "https://www.youtube.com/shorts/wEy-PU8oatU",
+              "published": "2026-04-14T03:56:27Z",
+              "description": ""
+            },
+            {
+              "title": "The 7 Levels of Claude Code & RAG",
+              "url": "https://www.youtube.com/watch?v=kQu5pWKS8GA",
+              "published": "2026-04-14T02:39:21Z",
+              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community with tons of AI resources🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nThe 7 levels of Claude Code and RAG, from auto memory to agentic graph RAG systems, explained.\n\n⏰TIMESTAMPS:\n\n0:00 - Intro\n0:42 - Level 1\n9:02 - Level 2\n12:24 - Level 3\n15:51 - Level 4 (16:32 link karpathy)\n25:55 - Level 5\n35:28 - Level 6 (35:45 lighrag link)\n3"
+            },
+            {
+              "title": "The Claude Code Skills That Got Me 10 Million Views",
+              "url": "https://www.youtube.com/shorts/8sRxVEnbZys",
+              "published": "2026-04-13T16:00:15Z",
+              "description": ""
+            },
+            {
+              "title": "GSD vs Superpowers vs Claude Code: A Clear Winner",
+              "url": "https://www.youtube.com/shorts/OnxqobP8qM8",
+              "published": "2026-04-13T11:00:42Z",
+              "description": "check related video for the full breakdown"
+            },
+            {
+              "title": "GSD vs Superpowers vs Claude Code: A New AI King?",
+              "url": "https://www.youtube.com/watch?v=celLbDMGy8w",
+              "published": "2026-04-13T05:30:41Z",
+              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community with tons of AI resources🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\n⏰TIMESTAMPS:\n\n0:00 - Intro\n0:23 - GSD vs Superpowers\n6:27 - The Test\n19:11 - First Pass\n24:23 - The Winner\n30:45 - Outro\n\nRESOURCES FROM THIS VIDEO:\n➡️ Master Claude Code: https://www.skool.com/chase-ai\n➡️ My Website: https://www.chaseai.io\n➡️ GSD: https://gith"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Nate Herk",
+          "handle": "@NateHerk",
+          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+          "videos": [
+            {
+              "title": "100 Hours Testing Claude Code vs Antigravity (honest results)",
+              "url": "https://www.youtube.com/watch?v=99VHENEKA9o",
+              "published": "2026-04-13T13:34:53Z",
+              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=claude-code-vs-antigravity\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=claude-code-vs-antigravity\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\n14 day FREE n8n trial: https://n8n.partnerlinks.io/22crlu8afq5r\nCode NATEHERK to Self-Host Claude Code for 10% off (annual plan): https://www.hostinger.com/vps/claude-code-"
+            },
+            {
+              "title": "This One Plugin Just 10x’d Claude Code",
+              "url": "https://www.youtube.com/watch?v=4XqVR6xI6Kw",
+              "published": "2026-04-12T16:56:56Z",
+              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=superpowers\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=superpowers\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\n14 day FREE n8n trial: https://n8n.partnerlinks.io/22crlu8afq5r\nCode NATEHERK to Self-Host Claude Code for 10% off (annual plan): https://www.hostinger.com/vps/claude-code-hosting\nVoice to text: https:/"
+            }
+          ],
+          "error": null
+        },
+        {
           "creator": "Paul J Lipsky",
           "handle": "@PaulJLipsky",
           "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
@@ -248,12 +282,6 @@
               "url": "https://www.youtube.com/watch?v=BKVa8fO6T_g",
               "published": "2026-04-12T13:00:17Z",
               "description": "Try ImagineArt: https://imagineartinc.pxf.io/55WvZ1\n\nClaude + NotebookLM are already insanely powerful on their own. But when you connect them with the workflow in this video, you can automate research, generate morning briefings, and even build slide decks automatically.\n\nLink to Skill: https://drive.google.com/file/d/1M49qkWqTNIcsAZgAGMqa74-Dg2_OO6QD/view?usp=sharing\n.md version (same skill): https://drive.google.com/file/d/14C6TZxbYlPdF8rOZGDI-fFVGrR9Jcc2_/view?usp=sharing\n\nCreate Your Own Sk"
-            },
-            {
-              "title": "Big AI News: So Many Gemini Updates, Claude’s Scary New Model + A New Google AI App…",
-              "url": "https://www.youtube.com/watch?v=5Ev0b99hsUg",
-              "published": "2026-04-11T13:00:19Z",
-              "description": "Try i10x: https://i10x.ai?fpr=paul53\nSave 15% with code \"PJL15\"\n\nThis week’s biggest AI news: Gemini’s new NotebookLM integration + visualizations, a scary new Claude model, and a new free Google AI app.\n\nHeads up, these updates may not be available worldwide yet. Just because I have access to them doesn't mean you will yet.\n\n0:00 Intro\n0:40 Notebooks\n2:10 Visuals\n4:06 Music\n5:12 NotebookLM\n6:30 Edge App\n8:12 Sponsor\n10:05 Mythos\n13:22 Perplexity\n14:22 OpenAI\n14:49 Genspark\n15:46 Wrap\n\n🔗 This vi"
             }
           ],
           "error": null
