@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-04-14T11:25:12.374713Z",
+  "generated_at": "2026-04-15T11:23:22.891394Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
         {
-          "creator": "LetsGetLost",
-          "handle": "@LetsGetLost",
-          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
+          "creator": "Life Style Overland",
+          "handle": "@LifeStyleOverland",
+          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
           "videos": [],
           "error": null
         },
@@ -26,6 +26,54 @@
           "error": null
         },
         {
+          "creator": "VentureToRoam",
+          "handle": "@VentureToRoam",
+          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Casey 250",
+          "handle": "@Casey250",
+          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "LetsGetLost",
+          "handle": "@LetsGetLost",
+          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "TrailRecon",
+          "handle": "@TrailRecon",
+          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Ozark Overland Adventure",
+          "handle": "@OzarkOverlandAdventures",
+          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
+          "videos": [
+            {
+              "title": "ULTIMATE Gladiator Topper! XO.SKLTN by Xtrusion Overland",
+              "url": "https://www.youtube.com/watch?v=47bUA7AQbtI",
+              "published": "2026-04-14T15:00:06Z",
+              "description": "After a two year wait my Gladiator finally gets the new XO.SKLTN topper by Xtrusion Overland and it's better than I imagined!\n\nXtrusion Overland - https://www.xtrusionoverland.com/ use code\nozarkoverlandadventures for 5% off\n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check o"
+            },
+            {
+              "title": "Overlander Daily Vlog - She Out Wheeled Everyone!!",
+              "url": "https://www.youtube.com/watch?v=jKu4dlokujo",
+              "published": "2026-04-13T15:01:23Z",
+              "description": "We take off on Metal Masher with ASFIR 4x4 on a group ride that we lead. Cara out wheeled everyone in our group! Huge thanks to ASFIR for making this happen - https://www.asfir.com?sca_ref=9522276.XcZODkj1dk1PK\n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsor"
+            }
+          ],
+          "error": null
+        },
+        {
           "creator": "This Story Till Now",
           "handle": "@ThisStoryTillNow",
           "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
@@ -38,55 +86,13 @@
             }
           ],
           "error": null
-        },
-        {
-          "creator": "Casey 250",
-          "handle": "@Casey250",
-          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "TrailRecon",
-          "handle": "@TrailRecon",
-          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "VentureToRoam",
-          "handle": "@VentureToRoam",
-          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Ozark Overland Adventure",
-          "handle": "@OzarkOverlandAdventures",
-          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
-          "videos": [
-            {
-              "title": "Overlander Daily Vlog - She Out Wheeled Everyone!!",
-              "url": "https://www.youtube.com/watch?v=jKu4dlokujo",
-              "published": "2026-04-13T15:01:23Z",
-              "description": "We take off on Metal Masher with ASFIR 4x4 on a group ride that we lead. Cara out wheeled everyone in our group! Huge thanks to ASFIR for making this happen - https://www.asfir.com?sca_ref=9522276.XcZODkj1dk1PK\n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsor"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Life Style Overland",
-          "handle": "@LifeStyleOverland",
-          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
-          "videos": [],
-          "error": null
         }
       ],
       "power_platform": [
         {
-          "creator": "Matthew Devaney",
-          "handle": "@MatthewDevaney",
-          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
+          "creator": "Lisa Crosbie",
+          "handle": "@LisaCrosbie",
+          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
           "videos": [],
           "error": null
         },
@@ -94,13 +100,20 @@
           "creator": "Shane Young",
           "handle": "@ShanesCows",
           "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
-          "videos": [],
+          "videos": [
+            {
+              "title": "State of Power Platform & Copilot in 2026 (380 Real Responses)",
+              "url": "https://www.youtube.com/watch?v=SK2ks1tVTbA",
+              "published": "2026-04-14T12:30:48Z",
+              "description": "Everyone is talking about Copilot and AI… but what is actually happening inside real organizations?\n\nI asked 380 of you about Power Platform and Copilot. Your confidence levels, what you are building, and where you need help. In this video, you’re going to see the real data behind where the community is today and where things are heading in 2026.\n\nYou’ll learn:\n- How confident teams really are with Power Platform vs Copilot\n- What organizations are focusing on next (training, governance, AI use "
+            }
+          ],
           "error": null
         },
         {
-          "creator": "Lisa Crosbie",
-          "handle": "@LisaCrosbie",
-          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
+          "creator": "April Dunnam",
+          "handle": "@AprilDunnam",
+          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
           "videos": [],
           "error": null
         },
@@ -119,9 +132,9 @@
           "error": null
         },
         {
-          "creator": "April Dunnam",
-          "handle": "@AprilDunnam",
-          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
+          "creator": "Matthew Devaney",
+          "handle": "@MatthewDevaney",
+          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
           "videos": [],
           "error": null
         }
@@ -149,6 +162,18 @@
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
             {
+              "title": "How top performers dodge AI replacement #AI #CareerStrategy",
+              "url": "https://www.youtube.com/shorts/ku94gbN7lNo",
+              "published": "2026-04-15T03:00:48Z",
+              "description": "Full Story w/ Prompts:https://natesnewsletter.substack.com/p/my-honest-field-notes-on-how-the?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\n\nWhat's really happening inside the talent market when Toby Lutke's memo said prove AI can't do it before you hire and everyone dismissed it as CEO posturing?\n\nThe common story is that the memo was about productivity — but the reality is that it was about selection pressure, and eight months later the restr"
+            },
+            {
+              "title": "3 Model Drops. $15M/Day in Burn. One Product Dead. Nobody Connected Them.",
+              "url": "https://www.youtube.com/watch?v=0vdlwOK_Qdk",
+              "published": "2026-04-14T14:00:03Z",
+              "description": "Full Story w/ Weekly News Analysis Skill: https://natesnewsletter.substack.com/p/sora-died-atlassian-cut-1600-engineers?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening underneath the March 2026 headlines when everyone was watching model drops but missing the structural shifts that will shape the next 12 months?\n\nThe common story is that March was about ChatGPT 5.4 and Gemini 3.1 Ultra — but the reality is that five quieter"
+            },
+            {
               "title": "Why AI skills are now table stakes #ai #work #future",
               "url": "https://www.youtube.com/shorts/e3inUUQsKsc",
               "published": "2026-04-14T03:00:48Z",
@@ -159,33 +184,8 @@
               "url": "https://www.youtube.com/watch?v=E1idsrv79tI",
               "published": "2026-04-13T14:00:28Z",
               "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/your-codebase-is-full-of-code-nobody?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside your codebase when AI writes code nobody fully understands?\n\nThe common story is that dark code is a security or engineering quality problem — but the reality is more complicated: it's an organizational capability crisis that is only going to get worse.\n\nIn this video, I "
-            },
-            {
-              "title": "66% of companies are cutting entry level jobs for AI! #nextgenai #artificialintelligence",
-              "url": "https://www.youtube.com/shorts/F368zITpbeI",
-              "published": "2026-04-13T00:00:14Z",
-              "description": "What's really happening inside the talent market when Toby Lutke's memo said prove AI can't do it before you hire and everyone dismissed it as CEO posturing?\n\nThe common story is that the memo was about productivity — but the reality is that it was about selection pressure, and eight months later the restructuring it triggered is accelerating faster than anyone anticipated.\n\nIn this video, I share the inside scoop on how the Red Queen memo is reshaping who gets hired and who thrives:\n\n • Why Sho"
-            },
-            {
-              "title": "NVIDIA grew 7K employees—and is still 10K short! #artificialintelligence #nextgenai",
-              "url": "https://www.youtube.com/shorts/1tLQC-i3c7Y",
-              "published": "2026-04-13T00:00:03Z",
-              "description": "Full Story w/ Prompts:https://natesnewsletter.substack.com/p/my-honest-field-notes-on-how-the?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\n\nWhat's really happening inside the talent market when Toby Lutke's memo said prove AI can't do it before you hire and everyone dismissed it as CEO posturing?\n\nThe common story is that the memo was about productivity — but the reality is that it was about selection pressure, and eight months later the restr"
-            },
-            {
-              "title": "I Watched 3 Companies Lay Off Their Managers. All 3 Hit the Same Wall.",
-              "url": "https://www.youtube.com/watch?v=zhXgkQ3nYeE",
-              "published": "2026-04-12T17:01:13Z",
-              "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/executive-briefing-44-of-companies?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside the management layer your company just removed — and why it matters more than anyone is admitting?\n\nThe common story is that flatter is faster — but the reality is more complicated: companies are cutting load-bearing structure without understanding what they're actually rem"
             }
           ],
-          "error": null
-        },
-        {
-          "creator": "Simon Scrapes",
-          "handle": "@SimonScrapes",
-          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
-          "videos": [],
           "error": null
         },
         {
@@ -193,6 +193,12 @@
           "handle": "@AlexFinn",
           "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
           "videos": [
+            {
+              "title": "Claude Code for Desktop is the BEST way to build apps with AI EVER (full tutorial)",
+              "url": "https://www.youtube.com/watch?v=pHr1O_Af5NA",
+              "published": "2026-04-15T02:13:41Z",
+              "description": "Claude Code for Desktop just got a major update and it's incredible. Here's a full tutorial on how to build an app with AI\n\nFULL Hermes bootcamp in the Vibe Coding Academy coming up: https://vibecodingacademy.dev\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nLinear: https://linear.app\n\nTimestamps:\n0:00 Intro\n0:09 The new exper"
+            },
             {
               "title": "You NEED to set up a multi agent team with OpenClaw and Hermes",
               "url": "https://www.youtube.com/watch?v=mduLV-mWrNM",
@@ -213,6 +219,24 @@
           "handle": "@ChaseAI",
           "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
           "videos": [
+            {
+              "title": "Top 5 Claude Code Skills + Tools for Design (April 2026)",
+              "url": "https://www.youtube.com/shorts/weNHvvolEds",
+              "published": "2026-04-15T06:00:02Z",
+              "description": ""
+            },
+            {
+              "title": "/routines is here and its a massive upgrade",
+              "url": "https://www.youtube.com/shorts/cpxi_3LdxbI",
+              "published": "2026-04-15T05:53:05Z",
+              "description": ""
+            },
+            {
+              "title": "/routines just completely changed Claude Code tasks",
+              "url": "https://www.youtube.com/watch?v=Hd4Ck1BS4Kw",
+              "published": "2026-04-14T20:20:38Z",
+              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community with tons of AI resources🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nRoutines is here and it finally allows Claude Code to run scheduled tasks in the cloud, no matter if your computer is on or if you have a session up and running.\n\n⏰TIMESTAMPS:\n\n0:00 - How Routines Works\n2:22 - Demo\n\nRESOURCES FROM THIS VIDEO:\n➡️ Master Claude C"
+            },
             {
               "title": "Top 10 Claude Code Skill, Plugins, and CLIs (Part 2)",
               "url": "https://www.youtube.com/shorts/KxoNn9fR_OI",
@@ -236,18 +260,6 @@
               "url": "https://www.youtube.com/shorts/8sRxVEnbZys",
               "published": "2026-04-13T16:00:15Z",
               "description": ""
-            },
-            {
-              "title": "GSD vs Superpowers vs Claude Code: A Clear Winner",
-              "url": "https://www.youtube.com/shorts/OnxqobP8qM8",
-              "published": "2026-04-13T11:00:42Z",
-              "description": "check related video for the full breakdown"
-            },
-            {
-              "title": "GSD vs Superpowers vs Claude Code: A New AI King?",
-              "url": "https://www.youtube.com/watch?v=celLbDMGy8w",
-              "published": "2026-04-13T05:30:41Z",
-              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community with tons of AI resources🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\n⏰TIMESTAMPS:\n\n0:00 - Intro\n0:23 - GSD vs Superpowers\n6:27 - The Test\n19:11 - First Pass\n24:23 - The Winner\n30:45 - Outro\n\nRESOURCES FROM THIS VIDEO:\n➡️ Master Claude Code: https://www.skool.com/chase-ai\n➡️ My Website: https://www.chaseai.io\n➡️ GSD: https://gith"
             }
           ],
           "error": null
@@ -258,16 +270,16 @@
           "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
           "videos": [
             {
+              "title": "Claude Code Just Dropped Routines. 24/7 Agents.",
+              "url": "https://www.youtube.com/watch?v=ehg4fhydTgs",
+              "published": "2026-04-14T20:16:52Z",
+              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=routines\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=routines\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\n14 day FREE n8n trial: https://n8n.partnerlinks.io/22crlu8afq5r\nCode NATEHERK to Self-Host Claude Code for 10% off (annual plan): https://www.hostinger.com/vps/claude-code-hosting\nVoice to text: https://ref.w"
+            },
+            {
               "title": "100 Hours Testing Claude Code vs Antigravity (honest results)",
               "url": "https://www.youtube.com/watch?v=99VHENEKA9o",
               "published": "2026-04-13T13:34:53Z",
               "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=claude-code-vs-antigravity\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=claude-code-vs-antigravity\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\n14 day FREE n8n trial: https://n8n.partnerlinks.io/22crlu8afq5r\nCode NATEHERK to Self-Host Claude Code for 10% off (annual plan): https://www.hostinger.com/vps/claude-code-"
-            },
-            {
-              "title": "This One Plugin Just 10x’d Claude Code",
-              "url": "https://www.youtube.com/watch?v=4XqVR6xI6Kw",
-              "published": "2026-04-12T16:56:56Z",
-              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=superpowers\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=superpowers\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\n14 day FREE n8n trial: https://n8n.partnerlinks.io/22crlu8afq5r\nCode NATEHERK to Self-Host Claude Code for 10% off (annual plan): https://www.hostinger.com/vps/claude-code-hosting\nVoice to text: https:/"
             }
           ],
           "error": null
@@ -278,10 +290,24 @@
           "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
           "videos": [
             {
-              "title": "Claude Cowork + NotebookLM Is Overpowered",
-              "url": "https://www.youtube.com/watch?v=BKVa8fO6T_g",
-              "published": "2026-04-12T13:00:17Z",
-              "description": "Try ImagineArt: https://imagineartinc.pxf.io/55WvZ1\n\nClaude + NotebookLM are already insanely powerful on their own. But when you connect them with the workflow in this video, you can automate research, generate morning briefings, and even build slide decks automatically.\n\nLink to Skill: https://drive.google.com/file/d/1M49qkWqTNIcsAZgAGMqa74-Dg2_OO6QD/view?usp=sharing\n.md version (same skill): https://drive.google.com/file/d/14C6TZxbYlPdF8rOZGDI-fFVGrR9Jcc2_/view?usp=sharing\n\nCreate Your Own Sk"
+              "title": "5 Incredible Use Cases for NotebookLM in Gemini",
+              "url": "https://www.youtube.com/watch?v=_DWMkNKTlF4",
+              "published": "2026-04-14T13:01:12Z",
+              "description": "One of the biggest Gemini updates in a long time: NotebookLM notebooks are now inside Gemini. Here are 5 practical ways to use them (from simple organization to building powerful workflows).\n\nHeads up, these updates may not be available worldwide yet. Just because I have access to them doesn't mean you will yet.\n\n0:00 Intro\n0:22 Access\n0:34 Use case 1: Workspaces\n2:30 Notebook memory\n4:46 Use case 2: Knowledge base\n6:55 Use case 3: Custom artifacts\n10:10 Use case 4: Custom chats\n11:52 Use case 5"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Simon Scrapes",
+          "handle": "@SimonScrapes",
+          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
+          "videos": [
+            {
+              "title": "The Only Claude Code Tutorial You’ll Ever Need (Apr 2026 Edition)",
+              "url": "https://www.youtube.com/watch?v=pUykUYkFVTM",
+              "published": "2026-04-14T16:09:25Z",
+              "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes \n\nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\nFree resources for this course - https://scrapeshq.notion.site/the-only-claude-code-tutorial-you-ll-ever-need\n\nAfter 300+ hours inside Claude Code this year - building real products, running a paid community, and helping hundreds of non-developers actually ship things that work — this is the complete end-to-end breakdown I wished existed"
             }
           ],
           "error": null
@@ -294,7 +320,7 @@
         "issue_number": 259,
         "issue_date": "2026-04-13",
         "url": "https://www.ppweekly.com/p/power-platform-weekly-issue-259",
-        "is_new": true,
+        "is_new": false,
         "sections": {
           "📰 Articles": [
             {
@@ -412,82 +438,6 @@
             {
               "title": "The Big 3: Copilot Cowork, Copilot Counsel & Copilot Critique",
               "url": "https://www.youtube.com/watch?v=O33x4FBEEkI"
-            }
-          ]
-        },
-        "error": null
-      },
-      "power_platform_dev_weekly": {
-        "name": "Power Platform Dev Weekly",
-        "issue_number": 290,
-        "issue_date": "2026-04-01",
-        "url": "https://www.ppdevweekly.com/p/290",
-        "is_new": false,
-        "sections": {
-          "🥇 Cover Story": [
-            {
-              "title": "Copilot Cowork Is Coming: Here’s How to Get Your Tenant Ready on Day 1",
-              "url": "https://flowaltdelete.ca/2026/03/20/copilot-cowork-is-coming-heres-how-to-get-your-tenant-ready-on-day-1/"
-            }
-          ],
-          "💎 Model Driven Apps & Dataverse": [
-            {
-              "title": "How Power Platform Pay-as-you-go plan works",
-              "url": "https://365corner.pl/2026/03/30/how-power-platform-pay-as-you-go-plan-works/"
-            },
-            {
-              "title": "How to patch images from Power Apps to Dataverse",
-              "url": "https://thepoweraddict.com/how-to-patch-images-from-power-apps-to-dataverse/?utm_source=feedly&utm_medium=rss&utm_campaign=how-to-patch-images-from-power-apps-to-dataverse"
-            }
-          ],
-          "🏋️‍♂️ Canvas Apps": [
-            {
-              "title": "Open D365 Records From Your Custom Page Using Environment Variables",
-              "url": "https://meganvwalker.com/open-d365-records-from-your-custom-page/"
-            },
-            {
-              "title": "How to patch images from Power Apps to D365 F&SCM",
-              "url": "https://thepoweraddict.com/how-to-patch-images-from-power-apps-to-d365-fscm/"
-            }
-          ],
-          "🤖 Copilot & Code Apps": [
-            {
-              "title": "Copilot Studio ALM – Know Before You Go",
-              "url": "https://suparnatechbasket.wordpress.com/2026/03/25/copilot-studio-alm-know-before-you-go/"
-            },
-            {
-              "title": "Extract Website Data With Computer Use In Copilot Studio",
-              "url": "https://www.matthewdevaney.com/extract-website-data-with-computer-use-in-copilot-studio/"
-            }
-          ],
-          "👩‍💻 Dev to the Core": [
-            {
-              "title": "Setting Your Environments Up for Code Apps",
-              "url": "https://dev.to/wyattdave/setting-your-environments-up-for-code-apps-16i8"
-            }
-          ],
-          "🎮 Other Interesting Articles": [
-            {
-              "title": "Microsoft’s New AI Certifications for 2026: Full List, Retirements, and Replacement Paths",
-              "url": "https://arunpotti.com/2026/03/24/microsofts-new-ai-certifications-for-2026-full-list-retirements-and-replacement-paths/"
-            },
-            {
-              "title": "How to estimate the cost of a Copilot Studio agent before you build it",
-              "url": "https://sharepoint247.com/ai/how-to-estimate-the-cost-of-a-copilot-studio-agent-before-you-build-it/"
-            }
-          ],
-          "📺 Videos": [
-            {
-              "title": "Power Apps in 2026: Which App Type Should You Actually Use?",
-              "url": "https://www.youtube.com/watch?v=gEYTCtbK7Kk"
-            },
-            {
-              "title": "When You Should Use Topics in Copilot Studio (EXPLAINED)",
-              "url": "https://www.youtube.com/watch?v=GpTTRjDaNCI"
-            },
-            {
-              "title": "Copilot Cowork Explained: Is this a whole new way to work?",
-              "url": "https://www.youtube.com/watch?v=0vYHpW7zIls"
             }
           ]
         },
@@ -706,6 +656,88 @@
             {
               "title": "Power BI for HR: What Board-Ready Headcount Reporting Looks Like",
               "url": "https://www.youtube.com/watch?v=q8LcD2qnC-w"
+            }
+          ]
+        },
+        "error": null
+      },
+      "power_platform_dev_weekly": {
+        "name": "Power Platform Dev Weekly",
+        "issue_number": 291,
+        "issue_date": "2026-04-15",
+        "url": "https://www.ppdevweekly.com/p/291",
+        "is_new": true,
+        "sections": {
+          "🥇 Cover Story": [
+            {
+              "title": "Under the Hood: How Dataverse Skills Work and How to Write Your Own",
+              "url": "https://aidevme.com/under-the-hood-how-dataverse-skills-work-and-how-to-write-your-own/"
+            }
+          ],
+          "💎 Model Driven Apps & Dataverse": [
+            {
+              "title": "Reset / Restore the standard (OOTB) button in Dynamics 365 / Dataverse",
+              "url": "https://nishantrana.me/2026/04/14/reset-restore-the-standard-ootb-button-in-dynamics-365-dataverse/"
+            },
+            {
+              "title": "Preserving ‘modifiedon’ During Data Migration in Dynamics 365 / Dataverse",
+              "url": "https://nishantrana.me/2026/04/15/preserving-modifiedon-during-data-migration-in-dynamics-365-dataverse/"
+            }
+          ],
+          "🤖 Copilot & Code Apps": [
+            {
+              "title": "Declarative Agents with Work IQ MCP Servers",
+              "url": "https://nullpointer.se/declarative-agents-workiq.html"
+            }
+          ],
+          "👩‍💻 Dev to the Core": [
+            {
+              "title": "Connecting to Dataverse: Server-to-Server (S2S) Authentication Explained",
+              "url": "https://mytrial365.com/2026/04/02/connecting-to-dataverse-server-to-server-s2s-authentication-explained/"
+            },
+            {
+              "title": "second part",
+              "url": "https://mytrial365.com/2026/04/09/connecting-to-dataverse-multi-tenant-server-to-server-saas-isv-architecture/"
+            },
+            {
+              "title": "How to Create Your Own AI Coding Agent",
+              "url": "https://dev.to/wyattdave/how-to-create-your-own-ai-coding-agent-2h1o"
+            }
+          ],
+          "🚀 PCF & Custom Pages": [
+            {
+              "title": "PCF: Theme and missing border radius tokens",
+              "url": "https://butenko.pro/2026/04/10/pcf-theme-and-missing-border-radius-in-theme-tokens/"
+            }
+          ],
+          "🌎 Power Pages": [
+            {
+              "title": "Power Pages: A Governed Platform for Hosting",
+              "url": "https://www.engineeredcode.com/blog/power-pages-a-governed-platform-for-hosting"
+            }
+          ],
+          "🎮 Other Interesting Articles": [
+            {
+              "title": "Using AI to develop side projects?",
+              "url": "https://www.itaintboring.com/ai/a-semi-philosophical-discussion-with-claude-dont-just-write-it-off-its-a-worthy-experience/"
+            }
+          ],
+          "📺 Videos": [
+            {
+              "title": "VNet for Dataverse - How to not get your data stolen | Super understandable Explanation",
+              "url": "https://www.youtube.com/watch?v=uHu2mjrU_l8"
+            },
+            {
+              "title": "Master 5 Agent Orchestration Patterns in 18 Minutes",
+              "url": "https://www.youtube.com/watch?v=axS-yB8dhy0"
+            },
+            {
+              "title": "How to Evaluate Your Agents Using Test Sets",
+              "url": "https://www.youtube.com/watch?v=q36l1c2j2EI"
+            },
+            {
+              "title": "Copilot Studio: Publish To A Website With Single Sign-On",
+              "url": "https://www.youtube.com/watch?v=dUXE4FTx9Cw"
             }
           ]
         },
