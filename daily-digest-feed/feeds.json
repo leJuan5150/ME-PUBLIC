@@ -1,9 +1,16 @@
 {
-  "generated_at": "2026-04-17T11:20:47.306652Z",
+  "generated_at": "2026-04-18T11:14:10.154799Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
+        {
+          "creator": "This Story Till Now",
+          "handle": "@ThisStoryTillNow",
+          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "videos": [],
+          "error": null
+        },
         {
           "creator": "Life Style Overland",
           "handle": "@LifeStyleOverland",
@@ -19,44 +26,30 @@
           "error": null
         },
         {
+          "creator": "VentureToRoam",
+          "handle": "@VentureToRoam",
+          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
+          "videos": [],
+          "error": null
+        },
+        {
           "creator": "Ozark Overland Adventure",
           "handle": "@OzarkOverlandAdventures",
           "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
           "videos": [
             {
+              "title": "Overlander Daily Vlog - Facing Fears on Cliffhanger Trail",
+              "url": "https://www.youtube.com/watch?v=RDxg4EkTBY8",
+              "published": "2026-04-17T15:00:47Z",
+              "description": "We take off on Cliffhanger trail in Moab. A trail Cara said she would never do and the one I busted the rear of my Gladiator on.\n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHNYyUa\nAll Roads Taken - https://www."
+            },
+            {
               "title": "Bluetti Fridge Power",
               "url": "https://www.youtube.com/watch?v=S-ay_-zHEjk",
               "published": "2026-04-16T15:00:47Z",
               "description": "The new Bluetti Fridge Power is the perfect solution to keep your home refrigerator running during a power outage.\n\nEnjoy Super Early-Bird pricing on Kickstarter now - https://reurl.cc/L24Xy4\nFridge Power (standalone): $759 Tax Included + Free Shipping\nFridge Power + BlueCell 200 bundle: $1398 Tax Included + Free Shipping\nCode: OZARK05OFF1 (5% OFF everything, not applicable to Kickstarter)\n#Bluetti #Fridgepower\n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf"
-            },
-            {
-              "title": "Overlander Daily Vlog - Honoring Jessie Combs",
-              "url": "https://www.youtube.com/watch?v=np-guUKQUM0",
-              "published": "2026-04-15T15:01:33Z",
-              "description": "Cara has the opportunity to help lead the Jessie Combs Trailblazer run at EJS.\n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHNYyUa\nAll Roads Taken - https://www.allroadstaken.com\nMOORE Expo - https://mooreexpo.c"
             }
           ],
-          "error": null
-        },
-        {
-          "creator": "TrailRecon",
-          "handle": "@TrailRecon",
-          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "LetsGetLost",
-          "handle": "@LetsGetLost",
-          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Epic Adventure Outfitters",
-          "handle": "@EpicAdventureOutfitters",
-          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
-          "videos": [],
           "error": null
         },
         {
@@ -67,28 +60,49 @@
           "error": null
         },
         {
-          "creator": "This Story Till Now",
-          "handle": "@ThisStoryTillNow",
-          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
-          "videos": [],
+          "creator": "Epic Adventure Outfitters",
+          "handle": "@EpicAdventureOutfitters",
+          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
+          "videos": [
+            {
+              "title": "Anything deeper and yeah it could break...#atlas #transfercase #jeep",
+              "url": "https://www.youtube.com/shorts/xOzFwCuVRvE",
+              "published": "2026-04-17T22:53:56Z",
+              "description": ""
+            }
+          ],
           "error": null
         },
         {
-          "creator": "VentureToRoam",
-          "handle": "@VentureToRoam",
-          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
+          "creator": "TrailRecon",
+          "handle": "@TrailRecon",
+          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
           "videos": [
             {
-              "title": "Exploring Secret Caves and Forgotten Homesteads PODCAST",
-              "url": "https://www.youtube.com/watch?v=odOQqm9aD8s",
-              "published": "2026-04-15T16:49:12Z",
-              "description": "Support my Partners:\nK-Suspension: https://geni.us/Ksuspension\nJoin our Patreon! https://www.patreon.com/c/venture2roam\nSave 20% on OnX Offroad: https://geni.us/OnXOffroad V2R20\n___________________\nMy Favorite Gear\nKraken Air Inflation System: https://geni.us/Kraken1\nMetalCloak Game changer Suspension: https://geni.us/Metalcloak\nIntrepid Rooftop Tent: https://geni.us/IntrepidGeo (Best Design I’ve Seen)\nNitto Recon Grapplers: https://geni.us/NittoRecons #V2RPitCrew\nNitto Ridge Grapplers:  https:/"
+              "title": "The Trail Most People Never Finish",
+              "url": "https://www.youtube.com/watch?v=tKDlw6Msln0",
+              "published": "2026-04-17T14:01:37Z",
+              "description": "My son Devyn and I took our Jeeps into a canyon in southern Utah that most people drive right past. At the end of the trail — a hidden waterfall on LaVerkin Creek. But the falls were just the beginning. We explored the ghost town of Grafton, the abandoned silver mines of Silver Reef, camped on a cliff overlooking the canyon, and uncovered the history of the pioneers and Paiute who called this place home long before us.\n\nThis is Recon America.\n\n🗺️ Download this exact route on onX Offroad: https:/"
             }
           ],
+          "error": null
+        },
+        {
+          "creator": "LetsGetLost",
+          "handle": "@LetsGetLost",
+          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
+          "videos": [],
           "error": null
         }
       ],
       "power_platform": [
+        {
+          "creator": "Shane Young",
+          "handle": "@ShanesCows",
+          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
+          "videos": [],
+          "error": null
+        },
         {
           "creator": "Reza Dorrani",
           "handle": "@RezaDorrani",
@@ -104,9 +118,9 @@
           "error": null
         },
         {
-          "creator": "Shane Young",
-          "handle": "@ShanesCows",
-          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
+          "creator": "Lisa Crosbie",
+          "handle": "@LisaCrosbie",
+          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
           "videos": [],
           "error": null
         },
@@ -123,13 +137,6 @@
             }
           ],
           "error": null
-        },
-        {
-          "creator": "Lisa Crosbie",
-          "handle": "@LisaCrosbie",
-          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
-          "videos": [],
-          "error": null
         }
       ],
       "fabric_powerbi": [
@@ -143,12 +150,6 @@
               "url": "https://www.youtube.com/watch?v=eo-2NfL-w0U",
               "published": "2026-04-16T14:53:29Z",
               "description": "I is great at answering questions…\nBut terrible at answering the same question twice.\n\nIn this video, I show you how to fix that using AI Skills — a simple but powerful way to make your workflows reusable, consistent, and scalable.\n\nCreate a markdown file SKILL.md with a folder structure like this and you are ready to go!\n\n.github/skills/summarizer/\n└── SKILL.md\n\n\nHave you tested skills yet? If so, what is the best skill you ever created that really helped you become more efficient?\nLet us know "
-            },
-            {
-              "title": "Materialized Lake Views in Microsoft Fabric Explained (Syntax, Data Quality & Architecture)",
-              "url": "https://www.youtube.com/watch?v=T6i9OwmV38Q",
-              "published": "2026-04-15T14:30:24Z",
-              "description": "Materialized Lake Views are one of the most powerful — and often misunderstood — capabilities in Microsoft Fabric.\n\nMany people think of them as just “views that run faster.” But Materialized Lake Views actually provide a declarative way to define transformations, persist results, and enforce data quality rules directly inside the model definition.\n\nIn this video, Patrick walks through how Materialized Lake Views work and why they can change how you design data transformations in Fabric.\n\nYou'll"
             }
           ],
           "error": null
@@ -158,6 +159,12 @@
           "handle": "@DewainRobinson",
           "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
           "videos": [
+            {
+              "title": "So I am making a little change... #ai #conversationalai",
+              "url": "https://www.youtube.com/shorts/fhceqsBpyhs",
+              "published": "2026-04-18T02:12:30Z",
+              "description": ""
+            },
             {
               "title": "Evolving Copilot Studio Dude Channel",
               "url": "https://www.youtube.com/watch?v=DLtrD4-lGb0",
@@ -175,6 +182,18 @@
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
             {
+              "title": "Every Tech Giant Is Building the Same Thing Right Now #ai #agents #infrastructure",
+              "url": "https://www.youtube.com/shorts/7wmoB-J1fFE",
+              "published": "2026-04-18T03:00:08Z",
+              "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/coinbase-stripe-and-cloudflare-all?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when Coinbase launches wallets for agents, Cloudflare ships Markdown for agents, and OpenAI publishes tools that let agents install software and write files—all in the same week? The common story is that these are separate product launches—but the r"
+            },
+            {
+              "title": "Anthropic And OpenAI Are Fighting Over Your Memory. You're Going To Lose.",
+              "url": "https://www.youtube.com/watch?v=4KAF72BTyCE",
+              "published": "2026-04-17T14:00:12Z",
+              "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/the-ai-capital-youve-been-building?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside your AI usage when you're building the most important professional asset of your career and you don't own any of it?\n\nThe common story is that AI memory is a nice feature — but the reality is that your accumulated context across platforms has become a fifth category of prof"
+            },
+            {
               "title": "Tech talent is about to get ugly thanks to this memo #ai #tech #competition",
               "url": "https://www.youtube.com/shorts/PcmFGurjfFo",
               "published": "2026-04-17T03:00:23Z",
@@ -185,85 +204,6 @@
               "url": "https://www.youtube.com/watch?v=XlfumXPPrLY",
               "published": "2026-04-16T14:01:00Z",
               "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/your-ai-is-50x-faster-your-tools?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside computing when every piece of software ever built assumed a human was on the other side — and now that assumption is wrong?\n\nThe common story is that AI isn't fast enough yet. But the reality is that agents operating 50x faster than humans are bottlenecked by the exact human "
-            },
-            {
-              "title": "How the Red Queen memo exposed who will actually survive #tech #AI",
-              "url": "https://www.youtube.com/shorts/WcH97reWDMQ",
-              "published": "2026-04-16T03:00:35Z",
-              "description": "Full Story w/ Prompts:https://natesnewsletter.substack.com/p/my-honest-field-notes-on-how-the?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\n\nWhat's really happening inside the talent market when Toby Lutke's memo said prove AI can't do it before you hire and everyone dismissed it as CEO posturing?\n\nThe common story is that the memo was about productivity — but the reality is that it was about selection pressure, and eight months later the restr"
-            },
-            {
-              "title": "The Real Problem With AI Agents Nobody's Talking About",
-              "url": "https://www.youtube.com/watch?v=2PWJu6uAaoU",
-              "published": "2026-04-15T14:00:08Z",
-              "description": "Full Story w/ Elicitation Prompt (SOUL.md): https://natesnewsletter.substack.com/p/your-agent-needs-a-soulmd-you-cant?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside the OpenClaw phenomenon when 250,000 GitHub stars later the most common message in every community forum is still \"now what?\"\n\nThe common story is that agents are magic boxes — type anything and they'll figure it out. But the reality is that installatio"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Alex Finn",
-          "handle": "@AlexFinn",
-          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
-          "videos": [
-            {
-              "title": "LIVE: You NEED to be using OpenClaw and Claude Code together",
-              "url": "https://www.youtube.com/watch?v=DzH0U-JBems",
-              "published": "2026-04-15T20:21:57Z",
-              "description": "Join the Vibe Coding Academy: https://vibecodingacademy.dev"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Nate Herk",
-          "handle": "@NateHerk",
-          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-          "videos": [
-            {
-              "title": "I Turned Claude Opus 4.7 Into a 24/7 Trader",
-              "url": "https://www.youtube.com/watch?v=6MC1XqZSltw",
-              "published": "2026-04-17T03:42:22Z",
-              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=opus-4-7-trader\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=opus-4-7-trader\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\n14 day FREE n8n trial: https://n8n.partnerlinks.io/22crlu8afq5r\nCode NATEHERK to Self-Host Claude Code for 10% off (annual plan): https://www.hostinger.com/vps/claude-code-hosting\nVoice to text:"
-            },
-            {
-              "title": "Claude Opus 4.7 Just Dropped... Or Did It Really?",
-              "url": "https://www.youtube.com/watch?v=NiMc2PoTiXo",
-              "published": "2026-04-16T16:54:42Z",
-              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=opus-4-7\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=opus-4-7\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\n14 day FREE n8n trial: https://n8n.partnerlinks.io/22crlu8afq5r\nCode NATEHERK to Self-Host Claude Code for 10% off (annual plan): https://www.hostinger.com/vps/claude-code-hosting\nVoice to text: https://ref.w"
-            },
-            {
-              "title": "Claude + HeyGen Just Changed Content Creation Forever",
-              "url": "https://www.youtube.com/watch?v=EbJu9T30nfI",
-              "published": "2026-04-15T13:50:42Z",
-              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=heygen-claude\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=heygen-claude\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\n14 day FREE n8n trial: https://n8n.partnerlinks.io/22crlu8afq5r\nCode NATEHERK to Self-Host Claude Code for 10% off (annual plan): https://www.hostinger.com/vps/claude-code-hosting\nVoice to text: htt"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Simon Scrapes",
-          "handle": "@SimonScrapes",
-          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Paul J Lipsky",
-          "handle": "@PaulJLipsky",
-          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
-          "videos": [
-            {
-              "title": "The 7 Claude Cowork Skills I Use Every Day (Copy Them)",
-              "url": "https://www.youtube.com/watch?v=rsKDTZ5RVS0",
-              "published": "2026-04-16T13:01:28Z",
-              "description": "🔗 Try Consensus (free 1-week Pro trial): https://get.consensus.app/pauljlipsky\n\n⚡ My Skills: https://pauljlipsky.com/skills\n⚠️ Update: If you try to load these skills in and get an error, just start a new task, attach the skill file to it (using attach file) and say \"create this skill for me\". I'm sorry if it's not working the way it's supposed to. \n\n👉 Consensus Skills: https://consensus.app/home/mcp/\n\nhttps://github.com/mvanhorn/last30days-skill\n\nI’m going to show you 7 Claude Cowork skills I u"
-            },
-            {
-              "title": "The Gemini Mac App Is Finally Here (Free Upgrade)",
-              "url": "https://www.youtube.com/watch?v=ImMowTmkkG8",
-              "published": "2026-04-15T19:24:01Z",
-              "description": "It's finally here, the Mac app for Gemini. And what's perhaps the most remarkable thing about this isn't the app itself, but how it was made. But more on that in a second. Let’s take a look at this. \n\nYou can find the app by coming to https://gemini.google/mac/\nThis is available to all Gemini users. You don't need a paid account."
             }
           ],
           "error": null
@@ -273,6 +213,24 @@
           "handle": "@ChaseAI",
           "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
           "videos": [
+            {
+              "title": "The BRAND NEW Claude Design Explained in 30 Seconds",
+              "url": "https://www.youtube.com/shorts/M9pH5ARkKFo",
+              "published": "2026-04-17T17:11:44Z",
+              "description": ""
+            },
+            {
+              "title": "Claude Design is HERE and its INSANE",
+              "url": "https://www.youtube.com/shorts/hDjqMhBkuss",
+              "published": "2026-04-17T16:39:43Z",
+              "description": ""
+            },
+            {
+              "title": "Claude Design is INSANE",
+              "url": "https://www.youtube.com/watch?v=-tGH2tLwCEw",
+              "published": "2026-04-17T16:20:46Z",
+              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community with tons of AI resources🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nAnthropic is now coming for the design space with Claude Design.\n\nTheir response to Stitch and Lovable, Claude Design now gives you the ability to create mockups, powerpoints, and web apps via a graphic interface.\n\n⏰TIMESTAMPS:\n\n0:00 - Intro\n1:15 -  Claude Desi"
+            },
             {
               "title": "Opus 4.7 = Extremely Powerful (& Costly...)",
               "url": "https://www.youtube.com/shorts/ZA72QBForkQ",
@@ -290,24 +248,73 @@
               "url": "https://www.youtube.com/watch?v=gc297hx4F7o",
               "published": "2026-04-16T15:41:41Z",
               "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community with tons of AI resources🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nOpus 4.7 just dropped-- and its good.\n\nWe also get updates to /ultrareview as well as changes to effort levels.\n\nRESOURCES FROM THIS VIDEO:\n➡️ Master Claude Code: https://www.skool.com/chase-ai\n➡️ My Website: https://www.chaseai.io\n➡️ Article: https://www.anthr"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Nate Herk",
+          "handle": "@NateHerk",
+          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+          "videos": [
+            {
+              "title": "Claude Design Just Became Unstoppable",
+              "url": "https://www.youtube.com/watch?v=gAoZ95kqG7w",
+              "published": "2026-04-17T16:57:58Z",
+              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=claude-design-release\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=claude-design-release\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\n14 day FREE n8n trial: https://n8n.partnerlinks.io/22crlu8afq5r\nCode NATEHERK to Self-Host Claude Code for 10% off (annual plan): https://www.hostinger.com/vps/claude-code-hosting\nVo"
             },
             {
-              "title": "This New Repo Lets Claude Code Build Elite Diagrams",
-              "url": "https://www.youtube.com/shorts/slhAWXaJC4I",
-              "published": "2026-04-15T16:15:52Z",
-              "description": ""
+              "title": "I Turned Claude Opus 4.7 Into a 24/7 Trader",
+              "url": "https://www.youtube.com/watch?v=6MC1XqZSltw",
+              "published": "2026-04-17T03:42:22Z",
+              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=opus-4-7-trader\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=opus-4-7-trader\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\n14 day FREE n8n trial: https://n8n.partnerlinks.io/22crlu8afq5r\nCode NATEHERK to Self-Host Claude Code for 10% off (annual plan): https://www.hostinger.com/vps/claude-code-hosting\nVoice to text:"
             },
             {
-              "title": "CodeBurn Is The Latest Usage Tracker Blowing up On Github",
-              "url": "https://www.youtube.com/shorts/f9zMO15HNyE",
-              "published": "2026-04-15T16:13:22Z",
-              "description": ""
+              "title": "Claude Opus 4.7 Just Dropped... Or Did It Really?",
+              "url": "https://www.youtube.com/watch?v=NiMc2PoTiXo",
+              "published": "2026-04-16T16:54:42Z",
+              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=opus-4-7\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=opus-4-7\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\n14 day FREE n8n trial: https://n8n.partnerlinks.io/22crlu8afq5r\nCode NATEHERK to Self-Host Claude Code for 10% off (annual plan): https://www.hostinger.com/vps/claude-code-hosting\nVoice to text: https://ref.w"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Alex Finn",
+          "handle": "@AlexFinn",
+          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
+          "videos": [
+            {
+              "title": "LIVE: Opus 4.7 is incredible, new Codex automated my life, Claude Design is MWAH",
+              "url": "https://www.youtube.com/watch?v=q1atPRjtTtA",
+              "published": "2026-04-17T20:28:19Z",
+              "description": "Join the Vibe Coding Academy: https://vibecodingacademy.dev"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Simon Scrapes",
+          "handle": "@SimonScrapes",
+          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Paul J Lipsky",
+          "handle": "@PaulJLipsky",
+          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
+          "videos": [
+            {
+              "title": "The Canva Killer For AI Creative Design (Kittl Walkthrough)",
+              "url": "https://www.youtube.com/watch?v=oLLHTHeQiI8",
+              "published": "2026-04-17T13:01:38Z",
+              "description": "Kittl link (25% off the first month or year on Pro and Expert plans): https://kittl.pxf.io/WO4zvP\n\nI just used AI to turn one photo into a full brand campaign in minutes — here’s how Kittl’s node-based workflow, artboards, and templates make it insanely fast.\n\n🔗 This video is sponsored. Some product links are affiliate links which means if you buy something we'll receive a small commission.\n\n0:00 Intro\n0:12 What Is Kittl\n0:50 Dashboard Tour\n1:14 Start Project\n1:24 Generate Image\n1:54 Artboards\n2"
             },
             {
-              "title": "Top 10 Claude Code Frontend Design Skills, Plugins, & CLIs",
-              "url": "https://www.youtube.com/watch?v=Q9ty3eopOPs",
-              "published": "2026-04-15T15:17:45Z",
-              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community with tons of AI resources🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nClaude Code sucks at frontend design.\n\nBut we can fix that.\n\nIn this video I go over ten different skills, plugins, and CLIs that can help you improve Claude Code's great weakness.\n\n🔨TOOLS COVERED\n\nImpeccable: https://github.com/pbakaus/impeccable\nSkillUI: http"
+              "title": "The 7 Claude Cowork Skills I Use Every Day (Copy Them)",
+              "url": "https://www.youtube.com/watch?v=rsKDTZ5RVS0",
+              "published": "2026-04-16T13:01:28Z",
+              "description": "🔗 Try Consensus (free 1-week Pro trial): https://get.consensus.app/pauljlipsky\n\n⚡ My Skills: https://pauljlipsky.com/skills\n⚠️ Update: If you try to load these skills in and get an error, just start a new task, attach the skill file to it (using attach file) and say \"create this skill for me\". I'm sorry if it's not working the way it's supposed to. \n\n👉 Consensus Skills: https://consensus.app/home/mcp/\n\nhttps://github.com/mvanhorn/last30days-skill\n\nI’m going to show you 7 Claude Cowork skills I u"
             }
           ],
           "error": null
@@ -315,6 +322,88 @@
       ]
     },
     "newsletters": {
+      "power_platform_dev_weekly": {
+        "name": "Power Platform Dev Weekly",
+        "issue_number": 291,
+        "issue_date": "2026-04-15",
+        "url": "https://www.ppdevweekly.com/p/291",
+        "is_new": false,
+        "sections": {
+          "🥇 Cover Story": [
+            {
+              "title": "Under the Hood: How Dataverse Skills Work and How to Write Your Own",
+              "url": "https://aidevme.com/under-the-hood-how-dataverse-skills-work-and-how-to-write-your-own/"
+            }
+          ],
+          "💎 Model Driven Apps & Dataverse": [
+            {
+              "title": "Reset / Restore the standard (OOTB) button in Dynamics 365 / Dataverse",
+              "url": "https://nishantrana.me/2026/04/14/reset-restore-the-standard-ootb-button-in-dynamics-365-dataverse/"
+            },
+            {
+              "title": "Preserving ‘modifiedon’ During Data Migration in Dynamics 365 / Dataverse",
+              "url": "https://nishantrana.me/2026/04/15/preserving-modifiedon-during-data-migration-in-dynamics-365-dataverse/"
+            }
+          ],
+          "🤖 Copilot & Code Apps": [
+            {
+              "title": "Declarative Agents with Work IQ MCP Servers",
+              "url": "https://nullpointer.se/declarative-agents-workiq.html"
+            }
+          ],
+          "👩‍💻 Dev to the Core": [
+            {
+              "title": "Connecting to Dataverse: Server-to-Server (S2S) Authentication Explained",
+              "url": "https://mytrial365.com/2026/04/02/connecting-to-dataverse-server-to-server-s2s-authentication-explained/"
+            },
+            {
+              "title": "second part",
+              "url": "https://mytrial365.com/2026/04/09/connecting-to-dataverse-multi-tenant-server-to-server-saas-isv-architecture/"
+            },
+            {
+              "title": "How to Create Your Own AI Coding Agent",
+              "url": "https://dev.to/wyattdave/how-to-create-your-own-ai-coding-agent-2h1o"
+            }
+          ],
+          "🚀 PCF & Custom Pages": [
+            {
+              "title": "PCF: Theme and missing border radius tokens",
+              "url": "https://butenko.pro/2026/04/10/pcf-theme-and-missing-border-radius-in-theme-tokens/"
+            }
+          ],
+          "🌎 Power Pages": [
+            {
+              "title": "Power Pages: A Governed Platform for Hosting",
+              "url": "https://www.engineeredcode.com/blog/power-pages-a-governed-platform-for-hosting"
+            }
+          ],
+          "🎮 Other Interesting Articles": [
+            {
+              "title": "Using AI to develop side projects?",
+              "url": "https://www.itaintboring.com/ai/a-semi-philosophical-discussion-with-claude-dont-just-write-it-off-its-a-worthy-experience/"
+            }
+          ],
+          "📺 Videos": [
+            {
+              "title": "VNet for Dataverse - How to not get your data stolen | Super understandable Explanation",
+              "url": "https://www.youtube.com/watch?v=uHu2mjrU_l8"
+            },
+            {
+              "title": "Master 5 Agent Orchestration Patterns in 18 Minutes",
+              "url": "https://www.youtube.com/watch?v=axS-yB8dhy0"
+            },
+            {
+              "title": "How to Evaluate Your Agents Using Test Sets",
+              "url": "https://www.youtube.com/watch?v=q36l1c2j2EI"
+            },
+            {
+              "title": "Copilot Studio: Publish To A Website With Single Sign-On",
+              "url": "https://www.youtube.com/watch?v=dUXE4FTx9Cw"
+            }
+          ]
+        },
+        "error": null
+      },
       "power_bi_weekly": {
         "name": "Power BI Weekly",
         "issue_number": 353,
@@ -616,336 +705,13 @@
           ]
         },
         "error": null
-      },
-      "power_platform_dev_weekly": {
-        "name": "Power Platform Dev Weekly",
-        "issue_number": 291,
-        "issue_date": "2026-04-15",
-        "url": "https://www.ppdevweekly.com/p/291",
-        "is_new": false,
-        "sections": {
-          "🥇 Cover Story": [
-            {
-              "title": "Under the Hood: How Dataverse Skills Work and How to Write Your Own",
-              "url": "https://aidevme.com/under-the-hood-how-dataverse-skills-work-and-how-to-write-your-own/"
-            }
-          ],
-          "💎 Model Driven Apps & Dataverse": [
-            {
-              "title": "Reset / Restore the standard (OOTB) button in Dynamics 365 / Dataverse",
-              "url": "https://nishantrana.me/2026/04/14/reset-restore-the-standard-ootb-button-in-dynamics-365-dataverse/"
-            },
-            {
-              "title": "Preserving ‘modifiedon’ During Data Migration in Dynamics 365 / Dataverse",
-              "url": "https://nishantrana.me/2026/04/15/preserving-modifiedon-during-data-migration-in-dynamics-365-dataverse/"
-            }
-          ],
-          "🤖 Copilot & Code Apps": [
-            {
-              "title": "Declarative Agents with Work IQ MCP Servers",
-              "url": "https://nullpointer.se/declarative-agents-workiq.html"
-            }
-          ],
-          "👩‍💻 Dev to the Core": [
-            {
-              "title": "Connecting to Dataverse: Server-to-Server (S2S) Authentication Explained",
-              "url": "https://mytrial365.com/2026/04/02/connecting-to-dataverse-server-to-server-s2s-authentication-explained/"
-            },
-            {
-              "title": "second part",
-              "url": "https://mytrial365.com/2026/04/09/connecting-to-dataverse-multi-tenant-server-to-server-saas-isv-architecture/"
-            },
-            {
-              "title": "How to Create Your Own AI Coding Agent",
-              "url": "https://dev.to/wyattdave/how-to-create-your-own-ai-coding-agent-2h1o"
-            }
-          ],
-          "🚀 PCF & Custom Pages": [
-            {
-              "title": "PCF: Theme and missing border radius tokens",
-              "url": "https://butenko.pro/2026/04/10/pcf-theme-and-missing-border-radius-in-theme-tokens/"
-            }
-          ],
-          "🌎 Power Pages": [
-            {
-              "title": "Power Pages: A Governed Platform for Hosting",
-              "url": "https://www.engineeredcode.com/blog/power-pages-a-governed-platform-for-hosting"
-            }
-          ],
-          "🎮 Other Interesting Articles": [
-            {
-              "title": "Using AI to develop side projects?",
-              "url": "https://www.itaintboring.com/ai/a-semi-philosophical-discussion-with-claude-dont-just-write-it-off-its-a-worthy-experience/"
-            }
-          ],
-          "📺 Videos": [
-            {
-              "title": "VNet for Dataverse - How to not get your data stolen | Super understandable Explanation",
-              "url": "https://www.youtube.com/watch?v=uHu2mjrU_l8"
-            },
-            {
-              "title": "Master 5 Agent Orchestration Patterns in 18 Minutes",
-              "url": "https://www.youtube.com/watch?v=axS-yB8dhy0"
-            },
-            {
-              "title": "How to Evaluate Your Agents Using Test Sets",
-              "url": "https://www.youtube.com/watch?v=q36l1c2j2EI"
-            },
-            {
-              "title": "Copilot Studio: Publish To A Website With Single Sign-On",
-              "url": "https://www.youtube.com/watch?v=dUXE4FTx9Cw"
-            }
-          ]
-        },
-        "error": null
       }
     },
     "release_plans": {
       "source_url": "https://releaseplans.net/",
       "data_url": "https://releaseplans.net/data/release-plans.json",
-      "products": {
-        "Power Apps": [
-          {
-            "feature_name": "Build generative pages using external codegen tools",
-            "product": "Power Apps",
-            "product_group": "Building modern apps",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "04/16/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "Building and iterating on generative pages becomes dramatically easier and more flexible when makers can use the coding environments and AI coding assistants they rely on daily. Today, generative pages are created inside the Power Apps Studio experience, with tedious copying and pasting of code required to utilize other coding tools and assistants. This feature unlocks a fully code‑first workflow, enabling makers to work entirely from within their preferred codegen tool, such as GitHub Copilot o",
-            "preview_date": "02/25/2026",
-            "ga_date": "04/02/2026"
-          },
-          {
-            "feature_name": "Enforce the modern, refreshed look in model-driven apps",
-            "product": "Power Apps",
-            "product_group": "Building modern apps",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "04/16/2026",
-            "enabled_for": "Users, automatically",
-            "description": "Making the modern look universal gives you a consistent, accessible, and modern experience. Organizations benefit from simplified governance, reduced support overhead, and reliable rollout of UX improvements across environments, freeing admins and makers to focus on solutions rather than maintaining UI exceptions.",
-            "preview_date": "",
-            "ga_date": "04/01/2026"
-          },
-          {
-            "feature_name": "Use streamlined header and navigation for better viewing",
-            "product": "Power Apps",
-            "product_group": "Building modern apps",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "04/16/2026",
-            "enabled_for": "Users by admins, makers, or analysts",
-            "description": "The refreshed header and navigation experience provides a cleaner, more efficient layout across the app shell, forms, and views. These updates help you work efficiently by increasing your working area on forms and views, reducing the time you spend navigating pages, and aligning the experience with the latest Microsoft 365 design patterns.",
-            "preview_date": "05/15/2025",
-            "ga_date": "06/01/2026"
-          },
-          {
-            "feature_name": "Get valuable insights and recommendations for your canvas app using Monitor",
-            "product": "Power Apps",
-            "product_group": "Enable enterprise scale",
-            "status": "In Preview",
-            "release_wave": "",
-            "last_updated": "04/16/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "When makers publish their Power Apps, they often don't know how to check the apps' operational health. Monitor gives makers visibility into app performance data and provides recommendations to improve app performance.",
-            "preview_date": "12/15/2024",
-            "ga_date": ""
-          }
-        ],
-        "Power Pages": [
-          {
-            "feature_name": "Track Power Pages performance and usage with Monitor hub",
-            "product": "Power Pages",
-            "product_group": "Administration and governance",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "04/16/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "Enable makers, admins, and site creators to monitor Power Pages site performance and user experience in Monitor hub, reducing support costs and improving customer satisfaction.",
-            "preview_date": "05/01/2026",
-            "ga_date": "06/01/2026"
-          },
-          {
-            "feature_name": "Enable secure server-side logic in Power Pages",
-            "product": "Power Pages",
-            "product_group": "Professional developer experiences",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "04/16/2026",
-            "enabled_for": "Users by admins, makers, or analysts",
-            "description": "This feature empowers you as a developer or maker to build more secure, scalable, and integrated websites without relying on complex client-side workarounds. By moving logic to the server, organizations save development time, reduce security risks, and simplify API integrations. This leads to faster delivery of robust solutions, lower maintenance costs, and improved compliance with data protection standards.",
-            "preview_date": "10/13/2025",
-            "ga_date": "04/06/2026"
-          },
-          {
-            "feature_name": "Create and delete websites using Power Platform CLI",
-            "product": "Power Pages",
-            "product_group": "Professional developer experiences",
-            "status": "In Preview",
-            "release_wave": "",
-            "last_updated": "04/16/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "You can now create and delete websites with Power Platform command-line interface (CLI). With this capability, you can automate deployments and simplify application lifecycle management processes for Power Pages sites.",
-            "preview_date": "05/01/2026",
-            "ga_date": ""
-          }
-        ],
-        "Power Automate": [
-          {
-            "feature_name": "Create and visualize custom KPIs in the process intelligence experience",
-            "product": "Power Automate",
-            "product_group": "Process mining",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "04/16/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "Custom KPIs put your unique business priorities at the center of process analysis. While standard metrics provide valuable baseline insights, your competitive advantage often lies in tracking the specific measurements that drive your business, whether that's customer-specific SLAs, industry-specific compliance thresholds, or proprietary efficiency calculations. This feature enables your teams to define, calculate, and monitor the exact metrics that align with your strategic goals, without waitin",
-            "preview_date": "04/01/2026",
-            "ga_date": "06/01/2026"
-          },
-          {
-            "feature_name": "Get support for normalized schema import for data ingestion",
-            "product": "Power Automate",
-            "product_group": "Process mining",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "04/16/2026",
-            "enabled_for": "Users by admins, makers, or analysts",
-            "description": "Customers with existing data pipelines or data products in data mesh mostly want to stick to normalized, efficient forms such as star schema. Power Automate Process Mining currently requires you to transform the event log into a single-table form, where attributes with small cardinality are duplicated. Support for star schema reduces storage volumes and speeds up ingestion performance.",
-            "preview_date": "04/01/2026",
-            "ga_date": "05/01/2026"
-          },
-          {
-            "feature_name": "Export object-centric process mining data to Microsoft Fabric semantic model",
-            "product": "Power Automate",
-            "product_group": "Process mining",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "04/16/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "Publishing to Microsoft Fabric breaks down data silos and amplifies the impact of your process insights across your organization. Instead of keeping process analytics isolated in a standalone tool, your teams can now blend object-centric process metrics with financial data, operational KPIs, customer information, and other enterprise data sources within Fabric's unified platform. This means business analysts can build comprehensive Power BI reports that combine process performance with business ",
-            "preview_date": "04/01/2026",
-            "ga_date": "06/01/2026"
-          }
-        ],
-        "Microsoft Copilot Studio": [
-          {
-            "feature_name": "Get Microsoft 365 Copilot agent suggestions based on your work in Copilot Studio",
-            "product": "Microsoft Copilot Studio",
-            "product_group": "Copilot and AI innovation",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "04/16/2026",
-            "enabled_for": "Users, automatically",
-            "description": "Help your makers get started faster by recommending agents tailored to their real work. By using Microsoft 365 Copilot memory, Copilot Studio surfaces relevant, ready-to-customize agent suggestions that reduce setup time and lower the effort required to build high-value agents. This enables more users to create useful agents with less manual configuration, accelerating adoption and time to value.",
-            "preview_date": "",
-            "ga_date": "06/01/2026"
-          },
-          {
-            "feature_name": "Define custom metrics for analytics",
-            "product": "Microsoft Copilot Studio",
-            "product_group": "Copilot and AI innovation",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "04/16/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "Makers can measure agent performance and return on investment (ROI) tailored to your organization's requirements and policies, thus ensuring business insights and decision-making are in line with your organization's approach.",
-            "preview_date": "04/01/2026",
-            "ga_date": "06/01/2026"
-          },
-          {
-            "feature_name": "Configure triggers with end-user credentials",
-            "product": "Microsoft Copilot Studio",
-            "product_group": "Copilot and AI innovation",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "04/16/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "Makers can now manage triggers natively in Copilot Studio and securely share autonomous agents that run with end-user credentials. This capability helps organizations save time, reduce complexity, and scale the adoption of secure, autonomous agents across their organization.",
-            "preview_date": "04/01/2026",
-            "ga_date": "07/01/2026"
-          },
-          {
-            "feature_name": "Invoke agents as workflow steps with the agent node",
-            "product": "Microsoft Copilot Studio",
-            "product_group": "Core authoring",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "04/16/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "The agent node lets you embed reasoning directly into your workflow. This means fewer manual handoffs, faster processing times, and workflows that can handle nuanced decisions without additional development effort, helping teams automate more of their end-to-end processes and reduce operational overhead.",
-            "preview_date": "04/01/2026",
-            "ga_date": "09/01/2026"
-          }
-        ],
-        "Microsoft Dataverse": [
-          {
-            "feature_name": "Guided table selection for first‑time Dataverse sync",
-            "product": "Microsoft Dataverse",
-            "product_group": "Build your low code hyperscale backend on Dataverse",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "04/16/2026",
-            "enabled_for": "Users, automatically",
-            "description": "Guided table selection removes a major source of friction for first‑time customers syncing Microsoft Dataverse data to Microsoft Fabric. Instead of being forced to initially sync all Dataverse tables and later navigate a complex “manage tables” experience to undo unnecessary selections, customers can choose exactly what they need upfront. This feature significantly reduces onboarding complexity for new admins, prevents accidental over‑syncing of hundreds of tables, and lowers storage and compute",
-            "preview_date": "04/01/2026",
-            "ga_date": "04/01/2026"
-          },
-          {
-            "feature_name": "Monitor data management framework with Azure Monitor Application Insights",
-            "product": "Microsoft Dataverse",
-            "product_group": "Finance and operations cross application integration",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "04/16/2026",
-            "enabled_for": "Users by admins, makers, or analysts",
-            "description": "Data management framework telemetry gives customers real‑time visibility into data import and export jobs. It provides progress tracking, detailed error insights, and proactive alerts through Azure Application Insights, helping teams troubleshoot faster, reduce operational effort, and run data management more reliably.",
-            "preview_date": "04/06/2026",
-            "ga_date": "06/01/2026"
-          },
-          {
-            "feature_name": "Improve bulk delete user experience",
-            "product": "Microsoft Dataverse",
-            "product_group": "Improved enterprise experiences in Power Platform",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "04/16/2026",
-            "enabled_for": "Users, automatically",
-            "description": "This release significantly improves the reliability and operational safety of bulk delete jobs in Microsoft Dataverse. By making failures easy to understand and configurations portable across environments, admins can execute large‑scale data cleanup with confidence, reducing troubleshooting time, lowering support dependency, and minimizing the risk of costly misconfigurations in higher environments.",
-            "preview_date": "04/01/2026",
-            "ga_date": "05/01/2026"
-          }
-        ],
-        "Microsoft Power Platform governance and administration": [
-          {
-            "feature_name": "Deploy from Git with pipelines in Power Platform",
-            "product": "Microsoft Power Platform governance and administration",
-            "product_group": "Application lifecycle management",
-            "status": "In Preview",
-            "release_wave": "",
-            "last_updated": "04/16/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "The deploy from Git capability is available natively within the solutions experiences, ensuring citizen developers, code-first developers, and administrators can benefit from parallel development and the safety of guaranteeing only \"checked in\" changes get deployed. Additionally, Power Platform CLI and developer tools now support \"pack\" (build) for the new YAML solution format. This support ensures source code integration also works seamlessly with Azure DevOps pipelines, GitHub Actions, and non",
-            "preview_date": "06/01/2026",
-            "ga_date": ""
-          },
-          {
-            "feature_name": "Automate governance with Agentic Center of Enablement",
-            "product": "Microsoft Power Platform governance and administration",
-            "product_group": "Enterprise scale administration",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "04/16/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "This feature transforms governance from reactive to proactive with AI agents that detect risks, prioritize issues, and automate remediation plans, which reduces manual effort and risk.",
-            "preview_date": "05/01/2026",
-            "ga_date": "06/01/2026"
-          }
-        ]
-      },
-      "total_updates": 19,
+      "products": {},
+      "total_updates": 0,
       "error": null
     }
   },
