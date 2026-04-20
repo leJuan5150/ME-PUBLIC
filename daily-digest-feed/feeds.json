@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-04-19T11:14:34.599711Z",
+  "generated_at": "2026-04-20T11:31:30.173600Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
         {
-          "creator": "VentureToRoam",
-          "handle": "@VentureToRoam",
-          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
+          "creator": "This Story Till Now",
+          "handle": "@ThisStoryTillNow",
+          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
           "videos": [],
           "error": null
         },
         {
-          "creator": "This Story Till Now",
-          "handle": "@ThisStoryTillNow",
-          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "creator": "Ozark Overland Adventure",
+          "handle": "@OzarkOverlandAdventures",
+          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
           "videos": [],
           "error": null
         },
@@ -26,31 +26,24 @@
           "error": null
         },
         {
-          "creator": "Epic Adventure Outfitters",
-          "handle": "@EpicAdventureOutfitters",
-          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
-          "videos": [
-            {
-              "title": "Anything deeper and yeah it could break...#atlas #transfercase #jeep",
-              "url": "https://www.youtube.com/shorts/xOzFwCuVRvE",
-              "published": "2026-04-17T22:53:56Z",
-              "description": ""
-            }
-          ],
+          "creator": "TrailRecon",
+          "handle": "@TrailRecon",
+          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
+          "videos": [],
           "error": null
         },
         {
-          "creator": "Ozark Overland Adventure",
-          "handle": "@OzarkOverlandAdventures",
-          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
-          "videos": [
-            {
-              "title": "Overlander Daily Vlog - Facing Fears on Cliffhanger Trail",
-              "url": "https://www.youtube.com/watch?v=RDxg4EkTBY8",
-              "published": "2026-04-17T15:00:47Z",
-              "description": "We take off on Cliffhanger trail in Moab. A trail Cara said she would never do and the one I busted the rear of my Gladiator on.\n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHNYyUa\nAll Roads Taken - https://www."
-            }
-          ],
+          "creator": "VentureToRoam",
+          "handle": "@VentureToRoam",
+          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Epic Adventure Outfitters",
+          "handle": "@EpicAdventureOutfitters",
+          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
+          "videos": [],
           "error": null
         },
         {
@@ -58,20 +51,6 @@
           "handle": "@LifeStyleOverland",
           "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
           "videos": [],
-          "error": null
-        },
-        {
-          "creator": "TrailRecon",
-          "handle": "@TrailRecon",
-          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
-          "videos": [
-            {
-              "title": "The Trail Most People Never Finish",
-              "url": "https://www.youtube.com/watch?v=tKDlw6Msln0",
-              "published": "2026-04-17T14:01:37Z",
-              "description": "My son Devyn and I took our Jeeps into a canyon in southern Utah that most people drive right past. At the end of the trail — a hidden waterfall on LaVerkin Creek. But the falls were just the beginning. We explored the ghost town of Grafton, the abandoned silver mines of Silver Reef, camped on a cliff overlooking the canyon, and uncovered the history of the pioneers and Paiute who called this place home long before us.\n\nThis is Recon America.\n\n🗺️ Download this exact route on onX Offroad: https:/"
-            }
-          ],
           "error": null
         },
         {
@@ -84,9 +63,30 @@
       ],
       "power_platform": [
         {
-          "creator": "Reza Dorrani",
-          "handle": "@RezaDorrani",
-          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
+          "creator": "Shane Young",
+          "handle": "@ShanesCows",
+          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Matthew Devaney",
+          "handle": "@MatthewDevaney",
+          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
+          "videos": [
+            {
+              "title": "No More Manual Replies: Build An Email Agent In Copilot Studio",
+              "url": "https://www.youtube.com/watch?v=qAWu-xYnSzc",
+              "published": "2026-04-19T19:24:02Z",
+              "description": "Today we are going to build an agent in #CopilotStudio that can automatically reply to emails for you.\n\nThis agent will monitor your inbox for new emails coming in. Then it will choose which tools to call and search its knowledge to get information for the response. And finally, the agent will send a message back to the original sender, just like you or I would.\n\nThere’s a few extra steps when it comes to building an email agent vs. a chat agent. So that's why we are going to build an entire ema"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Lisa Crosbie",
+          "handle": "@LisaCrosbie",
+          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
           "videos": [],
           "error": null
         },
@@ -98,23 +98,9 @@
           "error": null
         },
         {
-          "creator": "Shane Young",
-          "handle": "@ShanesCows",
-          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Matthew Devaney",
-          "handle": "@MatthewDevaney",
-          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Lisa Crosbie",
-          "handle": "@LisaCrosbie",
-          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
+          "creator": "Reza Dorrani",
+          "handle": "@RezaDorrani",
+          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
           "videos": [],
           "error": null
         }
@@ -131,14 +117,7 @@
           "creator": "Dewain Robinson",
           "handle": "@DewainRobinson",
           "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
-          "videos": [
-            {
-              "title": "So I am making a little change... #ai #conversationalai",
-              "url": "https://www.youtube.com/shorts/fhceqsBpyhs",
-              "published": "2026-04-18T02:12:30Z",
-              "description": ""
-            }
-          ],
+          "videos": [],
           "error": null
         }
       ],
@@ -148,6 +127,18 @@
           "handle": "@NateBJones",
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
+            {
+              "title": "Why Nothing Going Wrong Is Actually the Scariest Part #AIWakeUp #Implications",
+              "url": "https://www.youtube.com/shorts/VYC5WrlRlmw",
+              "published": "2026-04-20T03:00:26Z",
+              "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/executive-briefing-trust-architecture?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when an AI agent autonomously researches a stranger's identity, constructs a psychological profile, and publishes a personalized attack—all because a maintainer did his job and closed a pull request? The common story is that something went wrong—"
+            },
+            {
+              "title": "Block Laid Off Half Its Company for AI. AI Can't Do the Job.",
+              "url": "https://www.youtube.com/watch?v=fm6mYqFAM5c",
+              "published": "2026-04-19T17:00:56Z",
+              "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/executive-briefing-why-your-world?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside the world model everyone is suddenly building?\n\nThe common story is that software can replace middle management by maintaining a living picture of your company — but the reality is more complicated.\n\nIn this video, I share the inside scoop on why most world model implementat"
+            },
             {
               "title": "The web is about to look completely different #AI #WebDevelopment #FutureOfTech",
               "url": "https://www.youtube.com/shorts/Gmbj8sTJsRo",
@@ -165,64 +156,6 @@
               "url": "https://www.youtube.com/watch?v=xnG8h3UnNFI",
               "published": "2026-04-18T15:01:36Z",
               "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/the-teams-that-can-define-better?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside the memory architecture debate when Andre Karpathy's wiki idea got 41,000 bookmarks in a week and everyone is asking if it makes OpenBrain obsolete?\n\nThe common story is that these are competing approaches — but the reality is that they solve the same AI amnesia problem from "
-            },
-            {
-              "title": "Every Tech Giant Is Building the Same Thing Right Now #ai #agents #infrastructure",
-              "url": "https://www.youtube.com/shorts/7wmoB-J1fFE",
-              "published": "2026-04-18T03:00:08Z",
-              "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/coinbase-stripe-and-cloudflare-all?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when Coinbase launches wallets for agents, Cloudflare ships Markdown for agents, and OpenAI publishes tools that let agents install software and write files—all in the same week? The common story is that these are separate product launches—but the r"
-            },
-            {
-              "title": "Anthropic And OpenAI Are Fighting Over Your Memory. You're Going To Lose.",
-              "url": "https://www.youtube.com/watch?v=4KAF72BTyCE",
-              "published": "2026-04-17T14:00:12Z",
-              "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/the-ai-capital-youve-been-building?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside your AI usage when you're building the most important professional asset of your career and you don't own any of it?\n\nThe common story is that AI memory is a nice feature — but the reality is that your accumulated context across platforms has become a fifth category of prof"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Nate Herk",
-          "handle": "@NateHerk",
-          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-          "videos": [
-            {
-              "title": "Claude Just Destroyed Every Video Editing Tool",
-              "url": "https://www.youtube.com/watch?v=ZNbgOhxhzXg",
-              "published": "2026-04-18T17:41:59Z",
-              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=claude-video-editing\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=claude-video-editing\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nVoice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nVideo editing just changed forever. What used"
-            },
-            {
-              "title": "Claude Design Just Became Unstoppable",
-              "url": "https://www.youtube.com/watch?v=gAoZ95kqG7w",
-              "published": "2026-04-17T16:57:58Z",
-              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=claude-design-release\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=claude-design-release\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nVoice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nClaude just dropped a feature that complete"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Chase AI",
-          "handle": "@ChaseAI",
-          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
-          "videos": [
-            {
-              "title": "The BRAND NEW Claude Design Explained in 30 Seconds",
-              "url": "https://www.youtube.com/shorts/M9pH5ARkKFo",
-              "published": "2026-04-17T17:11:44Z",
-              "description": ""
-            },
-            {
-              "title": "Claude Design is HERE and its INSANE",
-              "url": "https://www.youtube.com/shorts/hDjqMhBkuss",
-              "published": "2026-04-17T16:39:43Z",
-              "description": ""
-            },
-            {
-              "title": "Claude Design is INSANE",
-              "url": "https://www.youtube.com/watch?v=-tGH2tLwCEw",
-              "published": "2026-04-17T16:20:46Z",
-              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community with tons of AI resources🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nAnthropic is now coming for the design space with Claude Design.\n\nTheir response to Stitch and Lovable, Claude Design now gives you the ability to create mockups, powerpoints, and web apps via a graphic interface.\n\n⏰TIMESTAMPS:\n\n0:00 - Intro\n1:15 -  Claude Desi"
             }
           ],
           "error": null
@@ -237,12 +170,66 @@
               "url": "https://www.youtube.com/watch?v=8YhYtIF9PYI",
               "published": "2026-04-18T15:05:22Z",
               "description": "7 Claude Code tips and tricks that will make you a 10x vibe coder.\n\nFULL Claude Code bootcamp in the Vibe Coding Academy coming up: https://vibecodingacademy.dev\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nClaude tips blog post: https://claude.com/blog/best-practices-for-using-claude-opus-4-7-with-claude-code\n\nClaude tips th"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Chase AI",
+          "handle": "@ChaseAI",
+          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+          "videos": [
+            {
+              "title": "Top 3 Claude Design Tips",
+              "url": "https://www.youtube.com/shorts/PMmL39HBxqM",
+              "published": "2026-04-20T01:47:15Z",
+              "description": ""
             },
             {
-              "title": "LIVE: Opus 4.7 is incredible, new Codex automated my life, Claude Design is MWAH",
-              "url": "https://www.youtube.com/watch?v=q1atPRjtTtA",
-              "published": "2026-04-17T20:28:19Z",
-              "description": "Join the Vibe Coding Academy: https://vibecodingacademy.dev"
+              "title": "This Is DESTROYING Your Claude Design Usage",
+              "url": "https://www.youtube.com/shorts/Svbulil8tVk",
+              "published": "2026-04-20T01:43:12Z",
+              "description": ""
+            },
+            {
+              "title": "The Claude Design Masterclass: What Nobody is Telling You",
+              "url": "https://www.youtube.com/watch?v=iJRq1kLLRmY",
+              "published": "2026-04-20T00:12:08Z",
+              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community with tons of AI resources🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nLet's master Claude Design (and not burn through our usage in the process).\n\nIn this video we go over Claude Design best practices, how it compares in head to head tests with Claude Code, and what you need to do to avoid blowing through your usage in a matter o"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Nate Herk",
+          "handle": "@NateHerk",
+          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+          "videos": [
+            {
+              "title": "Claude Just Destroyed Every Video Editing Tool",
+              "url": "https://www.youtube.com/watch?v=ZNbgOhxhzXg",
+              "published": "2026-04-18T17:41:59Z",
+              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=claude-video-editing\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=claude-video-editing\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nVoice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nVideo editing just changed forever. What used"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Paul J Lipsky",
+          "handle": "@PaulJLipsky",
+          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
+          "videos": [
+            {
+              "title": "Master 80% of Claude Design In Just 15 Minutes",
+              "url": "https://www.youtube.com/watch?v=GPqcZ_GSqOg",
+              "published": "2026-04-19T13:00:23Z",
+              "description": "Claude Design makes it surprisingly easy to build motion graphics, slide decks, and app mockups — and in this video, you'll master 80% of it in just a few minutes.\n\nHeads up, these updates may not be available worldwide yet. Just because I have access to them doesn't mean you will yet.\n\n🔗 This video is not sponsored. Some product links are affiliate links which means if you buy something we'll receive a small commission.\n\n0:00 Intro\n0:36 Interface Overview\n1:02 Design Systems\n3:57 First Slide De"
+            },
+            {
+              "title": "So Much AI News: Claude Design, Opus 4.7, Perplexity Personal Computer, and NotebookLM Updates!",
+              "url": "https://www.youtube.com/watch?v=RCVgaIWoogw",
+              "published": "2026-04-18T13:00:59Z",
+              "description": "Try i10x: https://i10x.ai?fpr=paul53\nSave 15% with code \"PJL15\"\n\nThis week’s biggest AI updates: Claude Opus 4.7, Claude Design, Gemini’s new Mac app, Perplexity Personal Computer, and the latest NotebookLM changes — plus what actually matters (not benchmarks).\n\nHeads up, these updates may not be available worldwide yet. Just because I have access to them doesn't mean you will yet.\n\n🔗 This video is sponsored. Some product links are affiliate links which means if you buy something we'll receive a"
             }
           ],
           "error": null
@@ -260,94 +247,78 @@
             }
           ],
           "error": null
-        },
-        {
-          "creator": "Paul J Lipsky",
-          "handle": "@PaulJLipsky",
-          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
-          "videos": [
-            {
-              "title": "So Much AI News: Claude Design, Opus 4.7, Perplexity Personal Computer, and NotebookLM Updates!",
-              "url": "https://www.youtube.com/watch?v=RCVgaIWoogw",
-              "published": "2026-04-18T13:00:59Z",
-              "description": "Try i10x: https://i10x.ai?fpr=paul53\nSave 15% with code \"PJL15\"\n\nThis week’s biggest AI updates: Claude Opus 4.7, Claude Design, Gemini’s new Mac app, Perplexity Personal Computer, and the latest NotebookLM changes — plus what actually matters (not benchmarks).\n\nHeads up, these updates may not be available worldwide yet. Just because I have access to them doesn't mean you will yet.\n\n🔗 This video is sponsored. Some product links are affiliate links which means if you buy something we'll receive a"
-            },
-            {
-              "title": "The Canva Killer For AI Creative Design (Kittl Walkthrough)",
-              "url": "https://www.youtube.com/watch?v=oLLHTHeQiI8",
-              "published": "2026-04-17T13:01:38Z",
-              "description": "Kittl link (25% off the first month or year on Pro and Expert plans): https://kittl.pxf.io/WO4zvP\n\nI just used AI to turn one photo into a full brand campaign in minutes — here’s how Kittl’s node-based workflow, artboards, and templates make it insanely fast.\n\n🔗 This video is sponsored. Some product links are affiliate links which means if you buy something we'll receive a small commission.\n\n0:00 Intro\n0:12 What Is Kittl\n0:50 Dashboard Tour\n1:14 Start Project\n1:24 Generate Image\n1:54 Artboards\n2"
-            }
-          ],
-          "error": null
         }
       ]
     },
     "newsletters": {
       "power_platform_weekly": {
         "name": "Power Platform Weekly",
-        "issue_number": 259,
-        "issue_date": "2026-04-13",
-        "url": "https://www.ppweekly.com/p/power-platform-weekly-issue-259",
-        "is_new": false,
+        "issue_number": 260,
+        "issue_date": "2026-04-20",
+        "url": "https://www.ppweekly.com/p/power-platform-weekly-issue-260",
+        "is_new": true,
         "sections": {
           "📰 Articles": [
             {
-              "title": "What to Put in Place Before You Deploy Copilot Studio Agents to Production",
-              "url": "https://www.apprising.co.nz/post/what-to-put-in-place-before-you-deploy-copilot-studio-agents-to-production"
+              "title": "Power Apps: Canvas Apps vs. Code Apps – When Low-Code Hits Its Ceiling",
+              "url": "https://aidevme.com/power-apps-canvas-apps-vs-code-apps-when-low-code-hits-its-ceiling/"
             },
             {
-              "title": "Make your Power App available directly in a chat with M365 Copilot",
-              "url": "https://sharepoint247.com/apps/make-your-power-app-available-directly-in-a-chat-with-m365-copilot/"
+              "title": "Crafting Effective Instructions for Copilot Studio Agents",
+              "url": "https://platformsofpower.net/crafting-effective-instructions-for-copilot-studio-agents/"
             },
             {
-              "title": "“Can I Bring Someone?” - Solving Plus-One Waitlisting in Customer Insights Journeys (Part 2)",
-              "url": "https://martinplopez.com/posts/customer-insights-waitlist-2/"
+              "title": "8 Microsoft Sales AI Agents and How to Choose",
+              "url": "https://www.apprising.co.nz/post/microsoft-sales-ai-agents-overview"
             },
             {
-              "title": "I built an AI companion for conference attendees. It's called BRIEF",
-              "url": "https://www.anainesurrutia.com/post/i-built-an-ai-companion-for-conference-attendees-it-s-called-brief"
+              "title": "Time for the Timeline",
+              "url": "https://www.ppcookbook.com/post/time-for-the-timeline"
             },
             {
-              "title": "PCF: Theme and missing border radius tokens",
-              "url": "https://butenko.pro/2026/04/10/pcf-theme-and-missing-border-radius-in-theme-tokens/"
+              "title": "HELP! My Segments Have Expired - Customer Insights Journeys",
+              "url": "https://meganvwalker.com/help-my-segments-have-expired-customer-insights/"
+            },
+            {
+              "title": "How To Clear LookUp Fields Using A Custom Page",
+              "url": "https://meganvwalker.com/how-to-clear-lookup-fields-using-a-custom-page/"
+            },
+            {
+              "title": "Unique join link attendance tracking in Customer Insights - Journeys online Teams events",
+              "url": "https://www.ameyholden.com/articles/unique-join-link-for-teams-meetings-and-webinars-in-dynamics-365-customer-insights-journeys"
+            },
+            {
+              "title": "What is coming to Dynamics 365 Contact Center in 2026 Release Wave 1",
+              "url": "https://d365goddess.com/2026wave1-d365contactcenter/"
+            },
+            {
+              "title": "VNet for Dataverse - How to not get your data stolen",
+              "url": "https://www.untethered365.com/post/vnet-for-dataverse-how-to-not-get-your-data-stolen"
             },
             {
               "title": "Copilot Studio: Publish To Website With Single Sign-On",
               "url": "https://www.matthewdevaney.com/copilot-studio-publish-to-website-with-single-sign-on/"
-            },
-            {
-              "title": "Finding Configuration diffs in Dynamics 365 F&O with AI",
-              "url": "https://medium.com/@ted.ohlsson/finding-configuration-diffs-in-dynamics-36-f-o-with-ai-7502a107b7b1"
-            },
-            {
-              "title": "Under the Hood: How Dataverse Skills Work and How to Write Your Own",
-              "url": "https://aidevme.com/under-the-hood-how-dataverse-skills-work-and-how-to-write-your-own"
-            },
-            {
-              "title": "Dataverse Skills for Enterprise Architects: Governance, ALM, MCP Billing, and Production Readiness",
-              "url": "https://aidevme.com/dataverse-skills-for-enterprise-architects-governance-alm-mcp-billing-and-production-readiness"
             }
           ],
           "🎙️ Podcasts": [
             {
-              "title": "Microsoft Mechanics Podcast",
-              "url": "https://microsoftmechanics.libsyn.com/claude-gpt-multi-model-intelligence-in-copilot"
+              "title": ".NET Rocks Podcast",
+              "url": "https://www.spreaker.com/episode/how-ai-changes-development-with-rob-conery--71146008"
             },
             {
-              "title": "Ctrl+Alt+Azure Podcast",
-              "url": "https://share.transistor.fm/s/f6656c4a"
+              "title": "Unresolved Dependencies Podcast",
+              "url": "https://player.fm/series/unresolved-dependencies/ep-3-colorcloud-special"
             },
             {
-              "title": "MS Cloud IT Pro Podcast",
-              "url": "https://www.msclouditpropodcast.com/episode425/"
+              "title": "Andrew Bibby",
+              "url": "https://www.linkedin.com/in/andrewbibby"
+            },
+            {
+              "title": "Merge Conflict Podcast",
+              "url": "https://www.mergeconflict.fm/510"
             }
           ],
           "📅 Events & Webinars": [
-            {
-              "title": "ColorCloud",
-              "url": "https://colorcloud.rocks/"
-            },
             {
               "title": "Update Days Power Platform",
               "url": "https://power.updatedays.cz/"
@@ -375,38 +346,30 @@
           ],
           "💙 Out of the Blue": [
             {
-              "title": "Power Platform monitor alerts are now generally available",
-              "url": "https://www.microsoft.com/power-platform/blog/power-apps/power-platform-monitor-alerts-are-now-generally-available/"
+              "title": "No, you don’t need a Copilot license to deploy agents to Microsoft 365 Copilot",
+              "url": "https://microsoft.github.io/mcscatblog/posts/no-copilot-license-m365-channel/"
             },
             {
-              "title": "Agent Academy spring drop: Special Ops, Cowork Collective, and a whole new look",
-              "url": "https://devblogs.microsoft.com/powerplatform/agent-academy-update-special-ops-cowork-collective/"
+              "title": "Bridging the gap: Connecting legacy desktop applications to Copilot Studio agents",
+              "url": "https://microsoft.github.io/mcscatblog/posts/connecting-legacy-desktop-apps-to-copilot-studio/"
             },
             {
-              "title": "What’s new in Power Platform: April 2026 feature update",
-              "url": "https://www.microsoft.com/power-platform/blog/2026/04/09/whats-new-in-power-platform-april-2026-feature-update/"
-            },
-            {
-              "title": "From DEV to PROD: auto-install and pinning for Copilot Studio agents",
-              "url": "https://microsoft.github.io/mcscatblog/posts/copilot-studio-teams-deployment/"
-            },
-            {
-              "title": "Deploying Copilot Studio agents in Teams (because test chat was too easy)",
-              "url": "https://microsoft.github.io/mcscatblog/posts/copilot-studio-teams-agent-patterns/"
+              "title": "Making business apps smarter with AI, Copilot, and agents in Power Apps",
+              "url": "https://www.microsoft.com/power-platform/blog/2026/04/15/making-business-apps-smarter-with-ai-copilot-and-agents-in-power-apps/"
             }
           ],
           "📺 Videos": [
             {
-              "title": "Beyond Copilot: AI Agents That Build, Debug and Govern Power Automate Flows",
-              "url": "https://www.youtube.com/watch?v=-aGW0doffZM"
+              "title": "State of Power Platform & Copilot in 2026 (380 Real Responses)",
+              "url": "https://www.youtube.com/watch?v=SK2ks1tVTbA"
             },
             {
-              "title": "What is MCP & How It Simplifies Building Copilot Agents",
-              "url": "https://www.youtube.com/watch?v=GFppCC49rFw"
+              "title": "Set up Microsoft Foundry resource, deploy model and consume it from Power Automate",
+              "url": "https://www.youtube.com/watch?v=H9jmyzWl3mc"
             },
             {
-              "title": "The Big 3: Copilot Cowork, Copilot Counsel & Copilot Critique",
-              "url": "https://www.youtube.com/watch?v=O33x4FBEEkI"
+              "title": "🚀 How to Build Autonomous \"Agentic Agents\" in Copilot Studio (Full Guide)",
+              "url": "https://www.youtube.com/watch?v=fsozDpVqAEo"
             }
           ]
         },
