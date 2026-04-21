@@ -1,37 +1,9 @@
 {
-  "generated_at": "2026-04-20T11:31:30.173600Z",
+  "generated_at": "2026-04-21T11:26:57.332695Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
-        {
-          "creator": "This Story Till Now",
-          "handle": "@ThisStoryTillNow",
-          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Ozark Overland Adventure",
-          "handle": "@OzarkOverlandAdventures",
-          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "LetsGetLost",
-          "handle": "@LetsGetLost",
-          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "TrailRecon",
-          "handle": "@TrailRecon",
-          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
-          "videos": [],
-          "error": null
-        },
         {
           "creator": "VentureToRoam",
           "handle": "@VentureToRoam",
@@ -40,9 +12,23 @@
           "error": null
         },
         {
-          "creator": "Epic Adventure Outfitters",
-          "handle": "@EpicAdventureOutfitters",
-          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
+          "creator": "Ozark Overland Adventure",
+          "handle": "@OzarkOverlandAdventures",
+          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
+          "videos": [
+            {
+              "title": "Overlander Daily Vlog - Stuck in the Hot Tub",
+              "url": "https://www.youtube.com/watch?v=PxI-DxcdY_k",
+              "published": "2026-04-20T15:00:46Z",
+              "description": "Our last full day in Moab includes a visit to the EJS vendor show and getting stuck in the famous Mickey's Hot Tub.\n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHNYyUa\nAll Roads Taken - https://www.allroadstaken"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "This Story Till Now",
+          "handle": "@ThisStoryTillNow",
+          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
           "videos": [],
           "error": null
         },
@@ -54,10 +40,44 @@
           "error": null
         },
         {
+          "creator": "TrailRecon",
+          "handle": "@TrailRecon",
+          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
+          "videos": [],
+          "error": null
+        },
+        {
           "creator": "Casey 250",
           "handle": "@Casey250",
           "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
           "videos": [],
+          "error": null
+        },
+        {
+          "creator": "LetsGetLost",
+          "handle": "@LetsGetLost",
+          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Epic Adventure Outfitters",
+          "handle": "@EpicAdventureOutfitters",
+          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
+          "videos": [
+            {
+              "title": "Tires. The Most Argued About Topic in Jeep Culture. Let's Settle It",
+              "url": "https://www.youtube.com/watch?v=KTPJfyNlN9M",
+              "published": "2026-04-20T22:12:31Z",
+              "description": "Tires. The most argued about topic in Jeep culture. And honestly? \nSome of you need to hear this.\n#OffRoadTires #JeepLife #Overlanding\nIn this episode of 2 Dudes 1 Wrench, Paul and The Ginger finally say out loud what everyone in the shop has been thinking about your tire choice.\n\nMud terrain vs all terrain. \nComfort vs capability. \nBrand loyalty vs actual performance data. \nThe debates that have started more arguments at the trailhead than politics, religion, and who forgot the recovery gear co"
+            },
+            {
+              "title": "There's no such thing as Atlas T-Case...#atlas #transfercase #jeep",
+              "url": "https://www.youtube.com/shorts/Vs0NWa47UWo",
+              "published": "2026-04-20T18:55:00Z",
+              "description": ""
+            }
+          ],
           "error": null
         }
       ],
@@ -66,6 +86,20 @@
           "creator": "Shane Young",
           "handle": "@ShanesCows",
           "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
+          "videos": [
+            {
+              "title": "Build Canvas Apps in VS Code with AI (NEW Power Apps Tool)",
+              "url": "https://www.youtube.com/watch?v=hylO7x91Lv8",
+              "published": "2026-04-20T13:01:17Z",
+              "description": "Finally, we can build fully functional Power Apps Canvas Apps using VS Code or Claude Code via a new MCP Server. Have no clue what that means? Don't worry, in the video I show you both how to build an app AND how to get help debugging an existing app using these AI tool. \n\nMy favorite part? Finding and fixing bugs in my old apps, that is something you can start using today. All experimental of course but very, very cool. \n\nUp your Power Apps Skills Today!\nhttps://www.powerapps911.com/up-your-pow"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Lisa Crosbie",
+          "handle": "@LisaCrosbie",
+          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
           "videos": [],
           "error": null
         },
@@ -84,13 +118,6 @@
           "error": null
         },
         {
-          "creator": "Lisa Crosbie",
-          "handle": "@LisaCrosbie",
-          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "April Dunnam",
           "handle": "@AprilDunnam",
           "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
@@ -101,7 +128,14 @@
           "creator": "Reza Dorrani",
           "handle": "@RezaDorrani",
           "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
-          "videos": [],
+          "videos": [
+            {
+              "title": "Power Apps + SharePoint Forms – Everything You Need to Know (Beyond Basics)",
+              "url": "https://www.youtube.com/watch?v=NGkJsTFXBXk",
+              "published": "2026-04-20T12:00:48Z",
+              "description": "Power Apps customized SharePoint list forms look simple… but there’s a lot more going on behind the scenes.\n\nIn this video, I take a deep dive into Power Apps + SharePoint custom forms — not just how to customize them.\n\n💡 Here’s what you’ll learn:\n✅ What SharePoint custom forms are (InfoPath successor)\n✅ How Power Apps integrates with SharePoint forms\n✅ Security & sharing model (and common misconceptions)\n✅ Why ALM is limited for SharePoint forms\n✅ Risks of using the Default environment\n✅ How to"
+            }
+          ],
           "error": null
         }
       ],
@@ -117,7 +151,14 @@
           "creator": "Dewain Robinson",
           "handle": "@DewainRobinson",
           "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
-          "videos": [],
+          "videos": [
+            {
+              "title": "Understanding The Agentic Reasoning Loop",
+              "url": "https://www.youtube.com/watch?v=WGzof1nK7hc",
+              "published": "2026-04-20T15:20:00Z",
+              "description": "In this video, I got over the concept of agentic reasoning loops and how they work.  We discuss why it is so powerful, demo of one in M365 Copilot Analyst, and key things to know about them.  This is truly the moment where a chatbot becomes a coworker and the value of this process is amazing but is key to understand this process to be able to better use tools in the market and build agents.  I also believe understanding this helps you figure out better ways to keep your token costs down or at le"
+            }
+          ],
           "error": null
         }
       ],
@@ -127,6 +168,18 @@
           "handle": "@NateBJones",
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
+            {
+              "title": "AI Tools Got Faster But Developers Didn't #ai #productivity #shorts",
+              "url": "https://www.youtube.com/shorts/kp4quCdtvXI",
+              "published": "2026-04-21T03:00:45Z",
+              "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/the-5-level-framework-that-explains?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when 90% of Claude Code was written by Claude Code, yet most developers using AI get measurably slower? The common story is that AI coding tools make everyone faster—but the reality is more complicated when a rigorous study found experienced develo"
+            },
+            {
+              "title": "Nobody Knows What You're Worth Anymore | The AI Job Market Reality",
+              "url": "https://www.youtube.com/watch?v=-dJ9WrTG6zQ",
+              "published": "2026-04-20T14:00:01Z",
+              "description": "Nate's TalentBoard + Full Story: https://natesnewsletter.substack.com/p/your-comprehension-is-worth-more?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside the tech job market when 60,000 confirmed cuts hit in Q1 alone and nobody knows what any of us are worth anymore?\n\nThe common story is that you need to build your portfolio, ship projects, and show not tell. But the reality is that everyone is optimizing for the one"
+            },
             {
               "title": "Why Nothing Going Wrong Is Actually the Scariest Part #AIWakeUp #Implications",
               "url": "https://www.youtube.com/shorts/VYC5WrlRlmw",
@@ -138,24 +191,6 @@
               "url": "https://www.youtube.com/watch?v=fm6mYqFAM5c",
               "published": "2026-04-19T17:00:56Z",
               "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/executive-briefing-why-your-world?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside the world model everyone is suddenly building?\n\nThe common story is that software can replace middle management by maintaining a living picture of your company — but the reality is more complicated.\n\nIn this video, I share the inside scoop on why most world model implementat"
-            },
-            {
-              "title": "The web is about to look completely different #AI #WebDevelopment #FutureOfTech",
-              "url": "https://www.youtube.com/shorts/Gmbj8sTJsRo",
-              "published": "2026-04-19T03:00:15Z",
-              "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/coinbase-stripe-and-cloudflare-all?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when Coinbase launches wallets for agents, Cloudflare ships Markdown for agents, and OpenAI publishes tools that let agents install software and write files—all in the same week? The common story is that these are separate product launches—but the r"
-            },
-            {
-              "title": "OpenAI Just Gave Agents the Ability to Do Everything—The Consequences Are Massive #AI #OpenAI",
-              "url": "https://www.youtube.com/shorts/diXrk5gp4XI",
-              "published": "2026-04-18T21:00:35Z",
-              "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/coinbase-stripe-and-cloudflare-all?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when Coinbase launches wallets for agents, Cloudflare ships Markdown for agents, and OpenAI publishes tools that let agents install software and write files—all in the same week? The common story is that these are separate product launches—but the r"
-            },
-            {
-              "title": "Karpathy's Agent Ran 700 Experiments While He Slept. It's Coming For You.",
-              "url": "https://www.youtube.com/watch?v=xnG8h3UnNFI",
-              "published": "2026-04-18T15:01:36Z",
-              "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/the-teams-that-can-define-better?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside the memory architecture debate when Andre Karpathy's wiki idea got 41,000 bookmarks in a week and everyone is asking if it makes OpenBrain obsolete?\n\nThe common story is that these are competing approaches — but the reality is that they solve the same AI amnesia problem from "
             }
           ],
           "error": null
@@ -166,10 +201,10 @@
           "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
           "videos": [
             {
-              "title": "The creator of Claude Code just revealed 7 secrets to using Claude Code (Opus 4.7)",
-              "url": "https://www.youtube.com/watch?v=8YhYtIF9PYI",
-              "published": "2026-04-18T15:05:22Z",
-              "description": "7 Claude Code tips and tricks that will make you a 10x vibe coder.\n\nFULL Claude Code bootcamp in the Vibe Coding Academy coming up: https://vibecodingacademy.dev\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nClaude tips blog post: https://claude.com/blog/best-practices-for-using-claude-opus-4-7-with-claude-code\n\nClaude tips th"
+              "title": "FULL OpenClaw Tutorial for beginners (April 2026 edition)",
+              "url": "https://www.youtube.com/watch?v=mGcdxFPwBdU",
+              "published": "2026-04-21T01:05:23Z",
+              "description": "I've used OpenClaw for over 300 hours. Here's every lesson I've ever learned.\n\nFULL OpenClaw bootcamp in the Vibe Coding Academy coming up: https://vibecodingacademy.dev\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\n0:00 Intro\n1:05 What OpenClaw is\n3:36 Where to host OpenClaw\n7:41 Models\n13:06 Installation\n13:48 Communication "
             }
           ],
           "error": null
@@ -179,6 +214,24 @@
           "handle": "@ChaseAI",
           "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
           "videos": [
+            {
+              "title": "Claude Code Agentic OS Is The Future",
+              "url": "https://www.youtube.com/shorts/yaBDLroG0Lo",
+              "published": "2026-04-21T04:01:25Z",
+              "description": ""
+            },
+            {
+              "title": "Claude Design + Seedance 2 = EASY Animated Websites",
+              "url": "https://www.youtube.com/shorts/xbXXQAphZK4",
+              "published": "2026-04-21T03:54:57Z",
+              "description": ""
+            },
+            {
+              "title": "Claude Design + Seedance 2.0 = INSANE Animated Websites",
+              "url": "https://www.youtube.com/watch?v=7uW1SKmx-Ic",
+              "published": "2026-04-20T21:55:55Z",
+              "description": "🟡 https://higgsfield.ai/?fpr=chase25 🟡\n⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community with the prompts🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nLet's combine the powers of Claude Design and Seedance 2.0 to created animated landing pages.\n\nIn this video, I break down my exact workflow for creating these types of websites, while calling out best practices for the newly relea"
+            },
             {
               "title": "Top 3 Claude Design Tips",
               "url": "https://www.youtube.com/shorts/PMmL39HBxqM",
@@ -192,24 +245,10 @@
               "description": ""
             },
             {
-              "title": "The Claude Design Masterclass: What Nobody is Telling You",
+              "title": "The ONLY Claude Design Guide You Should Watch",
               "url": "https://www.youtube.com/watch?v=iJRq1kLLRmY",
               "published": "2026-04-20T00:12:08Z",
               "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community with tons of AI resources🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nLet's master Claude Design (and not burn through our usage in the process).\n\nIn this video we go over Claude Design best practices, how it compares in head to head tests with Claude Code, and what you need to do to avoid blowing through your usage in a matter o"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Nate Herk",
-          "handle": "@NateHerk",
-          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-          "videos": [
-            {
-              "title": "Claude Just Destroyed Every Video Editing Tool",
-              "url": "https://www.youtube.com/watch?v=ZNbgOhxhzXg",
-              "published": "2026-04-18T17:41:59Z",
-              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=claude-video-editing\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=claude-video-editing\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nVoice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nVideo editing just changed forever. What used"
             }
           ],
           "error": null
@@ -224,12 +263,6 @@
               "url": "https://www.youtube.com/watch?v=GPqcZ_GSqOg",
               "published": "2026-04-19T13:00:23Z",
               "description": "Claude Design makes it surprisingly easy to build motion graphics, slide decks, and app mockups — and in this video, you'll master 80% of it in just a few minutes.\n\nHeads up, these updates may not be available worldwide yet. Just because I have access to them doesn't mean you will yet.\n\n🔗 This video is not sponsored. Some product links are affiliate links which means if you buy something we'll receive a small commission.\n\n0:00 Intro\n0:36 Interface Overview\n1:02 Design Systems\n3:57 First Slide De"
-            },
-            {
-              "title": "So Much AI News: Claude Design, Opus 4.7, Perplexity Personal Computer, and NotebookLM Updates!",
-              "url": "https://www.youtube.com/watch?v=RCVgaIWoogw",
-              "published": "2026-04-18T13:00:59Z",
-              "description": "Try i10x: https://i10x.ai?fpr=paul53\nSave 15% with code \"PJL15\"\n\nThis week’s biggest AI updates: Claude Opus 4.7, Claude Design, Gemini’s new Mac app, Perplexity Personal Computer, and the latest NotebookLM changes — plus what actually matters (not benchmarks).\n\nHeads up, these updates may not be available worldwide yet. Just because I have access to them doesn't mean you will yet.\n\n🔗 This video is sponsored. Some product links are affiliate links which means if you buy something we'll receive a"
             }
           ],
           "error": null
@@ -238,12 +271,19 @@
           "creator": "Simon Scrapes",
           "handle": "@SimonScrapes",
           "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Nate Herk",
+          "handle": "@NateHerk",
+          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
           "videos": [
             {
-              "title": "The Claude Code Setup Nobody Shows You (Replaces OpenClaw + Hermes)",
-              "url": "https://www.youtube.com/watch?v=c2kJ7j3CgUs",
-              "published": "2026-04-18T18:55:29Z",
-              "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes\nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\nAgentic frameworks like Hermes and OpenClaw promise a simple, hands-off future, but the reality is often a messy setup and extra costs. What if you could build a more powerful, integrated system yourself using only Claude Code? In this tutorial, I'll show you how to build your own \"Agentic OS\" by breaking down the five essential features "
+              "title": "How to Never Hit Your Claude Session Limit Again",
+              "url": "https://www.youtube.com/watch?v=_qZvORxGqI0",
+              "published": "2026-04-20T20:16:08Z",
+              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=claude-session-limits\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=claude-session-limits\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\n10 GitHub Repos: https://x.com/D"
             }
           ],
           "error": null
