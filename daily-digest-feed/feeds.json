@@ -1,36 +1,9 @@
 {
-  "generated_at": "2026-04-24T11:26:45.390208Z",
+  "generated_at": "2026-04-25T11:16:52.600176Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
-        {
-          "creator": "Ozark Overland Adventure",
-          "handle": "@OzarkOverlandAdventures",
-          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
-          "videos": [
-            {
-              "title": "Our Favorite Things at MOORE Expo 2026",
-              "url": "https://www.youtube.com/watch?v=-R3Va12Yn5A",
-              "published": "2026-04-23T15:00:01Z",
-              "description": "We had an amazing time at the MOORE Expo! These are our favorite things we found this year. \n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHNYyUa\nAll Roads Taken - https://www.allroadstaken.com\nMOORE Expo - https"
-            },
-            {
-              "title": "Midwest Discovery Route to MOORE Expo - See things we otherwise wouldn't see",
-              "url": "https://www.youtube.com/watch?v=APDfaESBaIo",
-              "published": "2026-04-22T15:00:15Z",
-              "description": "We take off on the Midwest Discovery Route to the MOORE Expo with some of our Patrons and see things we never would have seen otherwise. \n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHNYyUa\nAll Roads Taken - htt"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "This Story Till Now",
-          "handle": "@ThisStoryTillNow",
-          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
-          "videos": [],
-          "error": null
-        },
         {
           "creator": "TrailRecon",
           "handle": "@TrailRecon",
@@ -39,23 +12,50 @@
           "error": null
         },
         {
+          "creator": "VentureToRoam",
+          "handle": "@VentureToRoam",
+          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Ozark Overland Adventure",
+          "handle": "@OzarkOverlandAdventures",
+          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
+          "videos": [
+            {
+              "title": "Moab Adventure Trail Day 3 - Epic scenery and technical trails",
+              "url": "https://www.youtube.com/watch?v=4k53xXui_lQ",
+              "published": "2026-04-24T22:00:05Z",
+              "description": "Day 3 of our 5 day overlanding loop around Moab takes you through some of the most incredible scenery and some fun technical sections.\n\nMoab Adventure Trail GPX File - https://drive.google.com/file/d/1MJX8a8Ah6gdi-jTkFKJK_f4gm5LYu9M1/view?usp=sharing\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHNYyUa\nAll Roads Taken - https://www"
+            },
+            {
+              "title": "Our Favorite Things at MOORE Expo 2026",
+              "url": "https://www.youtube.com/watch?v=-R3Va12Yn5A",
+              "published": "2026-04-23T15:00:01Z",
+              "description": "We had an amazing time at the MOORE Expo! These are our favorite things we found this year. \n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHNYyUa\nAll Roads Taken - https://www.allroadstaken.com\nMOORE Expo - https"
+            }
+          ],
+          "error": null
+        },
+        {
           "creator": "Epic Adventure Outfitters",
           "handle": "@EpicAdventureOutfitters",
           "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
           "videos": [
             {
-              "title": "Trying to make up for Jeep's stupidity! #atlas #transfercase #jeep",
-              "url": "https://www.youtube.com/shorts/v6vVxafQA6Y",
-              "published": "2026-04-22T18:55:00Z",
+              "title": "Why did they make it Full Time 4x4?! #atlas #transfercase #jeep",
+              "url": "https://www.youtube.com/shorts/lFg5i9DSZjc",
+              "published": "2026-04-24T18:55:00Z",
               "description": ""
             }
           ],
           "error": null
         },
         {
-          "creator": "VentureToRoam",
-          "handle": "@VentureToRoam",
-          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
+          "creator": "This Story Till Now",
+          "handle": "@ThisStoryTillNow",
+          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
           "videos": [],
           "error": null
         },
@@ -83,6 +83,13 @@
       ],
       "power_platform": [
         {
+          "creator": "Reza Dorrani",
+          "handle": "@RezaDorrani",
+          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
+          "videos": [],
+          "error": null
+        },
+        {
           "creator": "Shane Young",
           "handle": "@ShanesCows",
           "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
@@ -94,20 +101,6 @@
               "description": "Get a step-by-step beginners guide on how to install:\n-Visual Studio Code\n-NodeJS\n-Git for Windows\n-Dot Net SDK 10\n-PowerShell 7\n-GitHub Copilot CLI\n-Power Apps Canvas Apps MCP\n\nAll so you can start creating Power Apps and editing them with the help of GitHub Copilot and Power Apps Studio.\n\nUp your Power Apps Skills Today!\nhttps://www.powerapps911.com/up-your-power-apps-skills\n\n0:00 Install and Configure Power Apps MCP\n0:54 Overview and Requirements\n2:24 Install VS Code\n4:42 Install NodeJS\n5:42 "
             }
           ],
-          "error": null
-        },
-        {
-          "creator": "Matthew Devaney",
-          "handle": "@MatthewDevaney",
-          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Reza Dorrani",
-          "handle": "@RezaDorrani",
-          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
-          "videos": [],
           "error": null
         },
         {
@@ -123,6 +116,13 @@
           "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
           "videos": [],
           "error": null
+        },
+        {
+          "creator": "Matthew Devaney",
+          "handle": "@MatthewDevaney",
+          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
+          "videos": [],
+          "error": null
         }
       ],
       "fabric_powerbi": [
@@ -130,14 +130,7 @@
           "creator": "Guy in a Cube",
           "handle": "@GuyInACube",
           "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
-          "videos": [
-            {
-              "title": "Hot Take: Silver Is the Most Important Layer in Medallion Architecture (Not Gold)",
-              "url": "https://www.youtube.com/watch?v=t7f7XBxBUi4",
-              "published": "2026-04-22T14:30:52Z",
-              "description": "Sooo is Silver layer overengineering — or the foundation of real data products?\n\nIn this video, Marthe challenge Patrick and the idea that medallion architecture is just ceremony. \n\nSee why standardizing in Silver enables scalable Gold data products, reduces duplication, and supports multiple teams without chaos.\n✅ When simplified architectures work\n✅ Why Silver is about contracts, not cleanup\n✅ How Gold should own business logic\n✅ A practical Fabric demo\n\nAlso check out the video that sparked t"
-            }
-          ],
+          "videos": [],
           "error": null
         },
         {
@@ -155,22 +148,22 @@
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
             {
+              "title": "9ef2b426 ec21 4286 8374 a0d2a476fa1b",
+              "url": "https://www.youtube.com/shorts/7j0ttVwJrow",
+              "published": "2026-04-25T03:00:08Z",
+              "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/the-5-level-framework-that-explains?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when 90% of Claude Code was written by Claude Code, yet most developers using AI get measurably slower? The common story is that AI coding tools make everyone faster—but the reality is more complicated when a rigorous study found experienced develo"
+            },
+            {
+              "title": "Claude Design Does In 30 Minutes What Your Team Does In A Sprint",
+              "url": "https://www.youtube.com/watch?v=KlPxWaY91rE",
+              "published": "2026-04-24T14:00:38Z",
+              "description": "Full Story w/ Prompt Kit: https://natesnewsletter.substack.com/p/claude-design-replaced-a-week-of?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside the Claude Design launch when everyone reacted with Figma stock crashes but missed the actual story?\n\nThe common narrative is that this is a Figma killer — but the reality is that Claude Design is the third piece in a coordinated Anthropic stack that's quietly retiring the"
+            },
+            {
               "title": "Your Apps Don't Need an API Anymore. Codex Just Proved It.",
               "url": "https://www.youtube.com/watch?v=2d9ZmA-4QzU",
               "published": "2026-04-23T14:00:05Z",
               "description": "Full Story w/ Prompt Kit: https://natesnewsletter.substack.com/p/grab-the-workflow-audit-that-tells?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside OpenAI's Codex revamp when they shipped a desktop agent that can drive any Mac app in the background while you do other work?\n\nThe common story is that this is a coding tool update — but the reality is that Codex shifted categories entirely, and the gap to Claude's compu"
-            },
-            {
-              "title": "Dark factories vs everyone else: the real AI divide #ai #engineering",
-              "url": "https://www.youtube.com/shorts/pXxl_-B81b8",
-              "published": "2026-04-23T03:01:00Z",
-              "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/the-5-level-framework-that-explains?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when 90% of Claude Code was written by Claude Code, yet most developers using AI get measurably slower? The common story is that AI coding tools make everyone faster—but the reality is more complicated when a rigorous study found experienced develo"
-            },
-            {
-              "title": "Karpathy's Wiki vs. Open Brain. One Fails When You Need It Most.",
-              "url": "https://www.youtube.com/watch?v=dxq7WtWxi44",
-              "published": "2026-04-22T14:01:09Z",
-              "description": "Full Comparison w/ Prompts & Open Brain Wiki: https://natesnewsletter.substack.com/p/your-ai-re-derives-everything-it?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside the memory architecture debate when Andre Karpathy's wiki idea got 41,000 bookmarks in a week and everyone is asking if it makes OpenBrain obsolete?\n\nThe common story is that these are competing approaches — but the reality is that they solve the same A"
             }
           ],
           "error": null
@@ -181,16 +174,44 @@
           "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
           "videos": [
             {
-              "title": "The best Claude Design workflow you’ll ever see…",
-              "url": "https://www.youtube.com/watch?v=_v_heNg0j1c",
-              "published": "2026-04-22T22:12:45Z",
-              "description": "You will become a MASTER designer if you use Claude Design with ChatGPT Image 2\n\nFULL Claude bootcamp in the Vibe Coding Academy coming up: https://vibecodingacademy.dev\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nTimestamps:\n0:00 Intro\n0:43 This workflow\n2:57 Using ChatGPT Image to make designs\n15:04 Using Claude Design\n19:"
+              "title": "🔴LIVE: ChatGPT 5.5 is here. Does it beat Claude Opus 4.7?",
+              "url": "https://www.youtube.com/watch?v=l2o6HYJpiQI",
+              "published": "2026-04-24T20:24:30Z",
+              "description": "Join the Vibe Coding Academy: https://vibecodingacademy.dev\n\nCheck out ClawComp!!!: http://clawcomp.net"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Paul J Lipsky",
+          "handle": "@PaulJLipsky",
+          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
+          "videos": [
+            {
+              "title": "Weekly AI Update: Google Workspace Intelligence, GPT Images 2.0, Claude LIVE Artifacts",
+              "url": "https://www.youtube.com/watch?v=Wr7XgMK87xM",
+              "published": "2026-04-24T13:35:12Z",
+              "description": "This week’s AI Weekly Update covers Google’s new Workspace Intelligence, OpenAI’s Images 2.0, and Claude’s new Live Artifacts — plus why each one matters more than most people think.\n\nHeads up, these updates may not be available worldwide yet. Just because I have access to them doesn't mean you will yet.\n\n0:00 Intro\n0:51 Cloud Next\n1:03 Workspace Intel\n1:26 Sheets Demo\n2:12 Canvas Demo\n3:17 Docs Demo\n4:28 AI Inbox\n5:27 Workspace Studio\n8:46 OpenAI updates\n12:30 Claude artifacts\n14:03 More Google"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Simon Scrapes",
+          "handle": "@SimonScrapes",
+          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
+          "videos": [
+            {
+              "title": "Claude just got another superpower (but they kept it quiet!)",
+              "url": "https://www.youtube.com/watch?v=rW7NvKnIEqk",
+              "published": "2026-04-24T18:24:19Z",
+              "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes \nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\nClaude Code just released a desktop app update that changes everything. While the official announcement was quiet, they buried the key features that finally let you build structured, agentic systems without ever touching the terminal. In this video, I'll break down the new project and file views and show you how they enable you to build "
             },
             {
-              "title": "🔴LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???",
-              "url": "https://www.youtube.com/watch?v=6npNKBs_UAM",
-              "published": "2026-04-22T20:19:39Z",
-              "description": "Join the Vibe Coding Academy: https://vibecodingacademy.dev"
+              "title": "Every Claude Code Memory System Compared (So You Don't Have To)",
+              "url": "https://www.youtube.com/watch?v=UHVFcUzAGlM",
+              "published": "2026-04-23T20:25:28Z",
+              "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes\n\nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\nStruggling to keep up with Claude Code memory systems? From Mem0 to Karapthy's Wiki, it's getting ridiculous to keep up . This guide breaks down the six levels of AI memory, from the baseline tools you already have to a unified brain that works across all your AI applications. By the end, you'll know exactly which system fits your needs "
             }
           ],
           "error": null
@@ -205,26 +226,6 @@
               "url": "https://www.youtube.com/watch?v=WX4rp-vP3zo",
               "published": "2026-04-23T21:45:53Z",
               "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=gpt-5.5-tests\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=gpt-5.5-tests\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nOpenAI just dropped GPT 5.5 and the benchmarks l"
-            },
-            {
-              "title": "Claude Video Editing Just Became Unrecognizable",
-              "url": "https://www.youtube.com/watch?v=Aw3BkmhYu4I",
-              "published": "2026-04-23T05:07:04Z",
-              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=hyperframes-v2\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=hyperframes-v2\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nHyperframes:https://github.com/heygen-com/hype"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Simon Scrapes",
-          "handle": "@SimonScrapes",
-          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
-          "videos": [
-            {
-              "title": "Every Claude Code Memory System Compared (So You Don't Have To)",
-              "url": "https://www.youtube.com/watch?v=UHVFcUzAGlM",
-              "published": "2026-04-23T20:25:28Z",
-              "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes\n\nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\nStruggling to keep up with Claude Code memory systems? From Mem0 to Karapthy's Wiki, it's getting ridiculous to keep up . This guide breaks down the six levels of AI memory, from the baseline tools you already have to a unified brain that works across all your AI applications. By the end, you'll know exactly which system fits your needs "
             }
           ],
           "error": null
@@ -234,6 +235,24 @@
           "handle": "@ChaseAI",
           "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
           "videos": [
+            {
+              "title": "GPT 5.5 Has A Real Argument as #1",
+              "url": "https://www.youtube.com/shorts/ltt_3abNR_U",
+              "published": "2026-04-24T23:08:12Z",
+              "description": "#chatgptpartner \n@OpenAI"
+            },
+            {
+              "title": "Codex + Computer Use = GAME CHANGER",
+              "url": "https://www.youtube.com/shorts/sYKIJGxG1Lk",
+              "published": "2026-04-24T23:05:59Z",
+              "description": "#ChatGPTPartner\n@openai"
+            },
+            {
+              "title": "I Tested DeepSeek V4 vs Claude Code vs Codex",
+              "url": "https://www.youtube.com/watch?v=uT2m7VD99qA",
+              "published": "2026-04-24T22:41:16Z",
+              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community with the prompts🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nI wake up. A new model comes out.\n\nThis time is GPT 5.5 and Deepseek v4 so I put them in a head to head to head test alongside Opus 4/7 to see who comes out on top.\n\n⏰TIMESTAMPS:\n\n0:00 - Intro\n0:39 -  Model Costs + Benchmarks\n4:56 - Test 1\n17:07 - Test 2\n23:12 - Results"
+            },
             {
               "title": "GPT 5.5 is EXPENSIVE",
               "url": "https://www.youtube.com/shorts/hLooW4xWaqU",
@@ -245,33 +264,8 @@
               "url": "https://www.youtube.com/shorts/LqM42MS0a2Q",
               "published": "2026-04-24T02:08:02Z",
               "description": ""
-            },
-            {
-              "title": "Taste Skill + GPT Images 2 = Frontend Design Cheat Code",
-              "url": "https://www.youtube.com/shorts/1Cfjey1F-HA",
-              "published": "2026-04-23T05:03:25Z",
-              "description": ""
-            },
-            {
-              "title": "Claude Code Agentic OS = The Future",
-              "url": "https://www.youtube.com/shorts/0mofbN7tYA0",
-              "published": "2026-04-23T05:01:06Z",
-              "description": ""
-            },
-            {
-              "title": "Claude Code Agentic OS = UNSTOPPABLE",
-              "url": "https://www.youtube.com/watch?v=pfPi04pIfaw",
-              "published": "2026-04-23T02:55:47Z",
-              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community with the prompts🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nClaude Code Agentic OS is the future/\n\nIn this video I break down the four layers that make up a complete Agentic OS (memory, skill fleet, automations, and a dashboard), the three gaps in normal Claude Code usage that this architecture solves (memory, consistency, and a"
             }
           ],
-          "error": null
-        },
-        {
-          "creator": "Paul J Lipsky",
-          "handle": "@PaulJLipsky",
-          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
-          "videos": [],
           "error": null
         }
       ]
@@ -485,173 +479,249 @@
       },
       "power_bi_weekly": {
         "name": "Power BI Weekly",
-        "issue_number": 353,
+        "issue_number": 354,
         "issue_date": null,
-        "url": "https://powerbiweekly.info/issue-353.html",
+        "url": "https://powerbiweekly.info/issue-354.html",
         "is_new": false,
         "sections": {
-          "Issue #353 - 14th April 2026": [
+          "Issue #354 - 21st April 2026": [
             {
-              "title": "pbi-cli: AI-powered modeling and reporting for Power BI",
-              "url": "https://github.com/MinaSaad1/pbi-cli"
+              "title": "Power BI April 2026 Feature Summary",
+              "url": "https://powerbi.microsoft.com/en-us/blog/power-bi-april-2026-feature-summary/"
             },
             {
-              "title": "pbir-cli",
-              "url": "https://github.com/maxanatsko/pbir.tools"
+              "title": "Direct Lake calculated columns & tables",
+              "url": "https://powerbi.microsoft.com/en-us/blog/power-bi-april-2026-feature-summary/#post-32376-_Toc226459094"
             },
             {
-              "title": "Power BI Luminance & Contrast Checker",
-              "url": "https://github.com/Juls-BI/powerbi-luminance-contrast-checker"
+              "title": "User context aware calculated columns",
+              "url": "https://powerbi.microsoft.com/en-us/blog/power-bi-april-2026-feature-summary/#post-32376-_Toc226459095"
             },
             {
-              "title": "Power BI Alt Text UDF Library",
-              "url": "https://github.com/Juls-BI/powerbi-alttext-udfs"
+              "title": "Fixed size layout for card, button slicer, and list slicer visuals",
+              "url": "https://powerbi.microsoft.com/en-us/blog/power-bi-april-2026-feature-summary/#post-32376-_Toc226459086"
             },
             {
-              "title": "Power BI & European Accessibility Act Part 1 : Implementing Alternative Text",
-              "url": "https://smart-frames.co.uk/2026/04/16/power-bi-european-accessibility-act-part-1-implementing-alternative-text/"
+              "title": "Translytical Task Flows",
+              "url": "https://powerbi.microsoft.com/en-us/blog/translytical-task-flows-generally-available/"
             },
             {
-              "title": "Power BI Security - Complete Guide: RLS, OLS & TMDL Manual + AI Methods",
-              "url": "https://www.youtube.com/watch?v=JyXYEXFILnI"
+              "title": "Goodbye Dataflows, For Some?",
+              "url": "https://bengribaudo.com/blog/2026/04/16/7698/goodbye-dataflows-for-some"
+            },
+            {
+              "title": "Dataflow Gen1 officially marked as Legacy today — Pro users left with no migration path unless they pay for Fabric",
+              "url": "https://www.reddit.com/r/PowerBI/comments/1saqkze/dataflow_gen1_officially_marked_as_legacy_today/"
+            },
+            {
+              "title": "Retirement of Dataflows Gen1",
+              "url": "https://www.reddit.com/r/MicrosoftFabric/comments/1sftuji/retirement_of_dataflows_gen1/"
+            },
+            {
+              "title": "Dataflows: Thank you for eight years of Gen1—and why Gen2 is the future",
+              "url": "https://powerbi.microsoft.com/en-us/blog/dataflows-thank-you-for-eight-years-of-gen1-and-why-gen2-is-the-future/"
+            },
+            {
+              "title": "Understanding parameter types in DAX user-defined functions UDF",
+              "url": "https://www.sqlbi.com/articles/understanding-parameter-types-in-dax-user-defined-functions-udf/"
+            },
+            {
+              "title": "Power BI Semantic Model Refresh Warnings",
+              "url": "https://blog.crossjoin.co.uk/2026/04/19/power-bi-semantic-model-refresh-warnings/"
             }
           ],
           "🛠️ Data Prep": [
             {
-              "title": "DATAFLOWS GEN1 is now LEGACY, here's what I think...",
-              "url": "https://www.youtube.com/watch?v=OA6KSz1un0c"
+              "title": "@bgribaudo",
+              "url": "https://twitter.com/bgribaudo"
             },
             {
-              "title": "@RADACAD_COM",
-              "url": "https://twitter.com/RADACAD_COM"
-            },
-            {
-              "title": "Power BI Dataflow Gen1 Future and Thoughts with Kim Preece",
-              "url": "https://www.youtube.com/watch?v=M6TpDZI5oEs"
-            },
-            {
-              "title": "Different Versions of Dataflow in Power BI and Fabric",
-              "url": "https://www.youtube.com/watch?v=RO4qgH59bxE"
-            },
-            {
-              "title": "How to merge files from a folder in Power BI and have the data update [Spanish]",
-              "url": "https://www.youtube.com/watch?v=xaJbdNMMysw"
+              "title": "Goodbye Dataflows, For Some?",
+              "url": "https://bengribaudo.com/blog/2026/04/16/7698/goodbye-dataflows-for-some"
             }
           ],
           "🧩 Data Modeling": [
             {
-              "title": "@cwebb_bi",
-              "url": "https://twitter.com/cwebb_bi"
+              "title": "@marcorus",
+              "url": "https://twitter.com/marcorus"
             },
             {
-              "title": "Power BI And Support For Third Party Semantic Models",
-              "url": "https://blog.crossjoin.co.uk/2026/04/12/power-bi-and-support-for-third-party-semantic-models/"
+              "title": "Understanding parameter types in DAX user-defined functions UDF",
+              "url": "https://www.sqlbi.com/articles/understanding-parameter-types-in-dax-user-defined-functions-udf/"
             },
             {
-              "title": "Profiling semantic model data in Tabular Editor",
-              "url": "https://tabulareditor.com/blog/profiling-semantic-model-data-in-tabular-editor"
+              "title": "@HavensBI",
+              "url": "https://twitter.com/HavensBI"
             },
             {
-              "title": "@AntrikshShar",
-              "url": "https://twitter.com/AntrikshShar"
-            },
-            {
-              "title": "Fill Up and Down in DAX v2",
-              "url": "https://www.antmanbi.com/post/fill-up-and-down-in-dax-v2"
-            },
-            {
-              "title": "pbi-cli Gi Claude Code the Power BI Skills It Needs Semantic Models & PBIR Reports via AI",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Community-Blog/pbi-cli-Gi-Claude-Code-the-Power-BI-Skills-It-Needs-Semantic/ba-p/5146283"
+              "title": "Master DAX Foundations in Power BI: Calculations, Data Models & Filter Flow (Part 1)",
+              "url": "https://www.youtube.com/watch?v=SpRmi6jNvM8"
             },
             {
               "title": "@chandeep2786",
               "url": "https://twitter.com/chandeep2786"
             },
             {
-              "title": "You’re Probably Making These 4 Modeling Mistakes",
-              "url": "https://www.youtube.com/watch?v=K4IagQVwTic"
+              "title": "Master Power BI Time Intelligence: Custom Period Slicers",
+              "url": "https://www.youtube.com/watch?v=xLdr8ekMepE"
             },
             {
-              "title": "How to adjust your date table in Power BI when you have more than one date column - DAX [Spanish]",
-              "url": "https://www.youtube.com/watch?v=QcAbL1kcYgM"
+              "title": "Stop Using These DAX Formulas | Use Better Alternatives",
+              "url": "https://www.youtube.com/watch?v=YsqZ8N3ZWYY"
             },
             {
-              "title": "How to use multiple dates in Power BI with active and inactive relationships [Spanish]",
-              "url": "https://www.youtube.com/watch?v=DKrStRdUZCo"
+              "title": "AI readiness and best practices for semantic models: a comprehensive guide",
+              "url": "https://tabulareditor.com/blog/ai-readiness-and-best-practices-for-semantic-models-a-comprehensive-guide"
+            },
+            {
+              "title": "@GilbertQue",
+              "url": "https://twitter.com/GilbertQue"
+            },
+            {
+              "title": "How to Set Up Agentic Semantic Model Development for Power BI Using GitHub Copilot on Windows",
+              "url": "https://www.fourmoo.com/2026/04/15/how-to-set-up-agentic-semantic-model-development-for-power-bi-using-github-copilot-on-windows/"
+            },
+            {
+              "title": "Power BI Map Not Working? How to Fix Location Errors",
+              "url": "https://www.selectdistinct.co.uk/2026/04/15/fix-power-bi-map-errors/"
+            },
+            {
+              "title": "@ignacho_07",
+              "url": "https://twitter.com/ignacho_07"
+            },
+            {
+              "title": "Intro a funciones UDF [Spanish]",
+              "url": "https://blog.ladataweb.com.ar/post/814148782183858176/dax-intro-a-funciones-udf"
             }
           ],
           "📊 Report Authoring and Interactivity": [
             {
-              "title": "pbi-cli: AI-powered modeling and reporting for Power BI",
-              "url": "https://github.com/MinaSaad1/pbi-cli"
+              "title": "@MSPowerBI",
+              "url": "https://twitter.com/MSPowerBI"
             },
             {
-              "title": "Power BI & European Accessibility Act Part 1 : Implementing Alternative Text",
-              "url": "https://smart-frames.co.uk/2026/04/16/power-bi-european-accessibility-act-part-1-implementing-alternative-text/"
+              "title": "Translytical Task Flows (Generally Available)",
+              "url": "https://powerbi.microsoft.com/en-us/blog/translytical-task-flows-generally-available/"
             },
             {
-              "title": "Power BI Alt Text UDF Library",
-              "url": "https://github.com/Juls-BI/powerbi-alttext-udfs"
+              "title": "Dynamic Top N + Others with “Show Only Top N” Toggle PART 1",
+              "url": "https://www.youtube.com/watch?v=R2KVwoTPA2w"
             },
             {
-              "title": "Power BI Luminance & Contrast Checker",
-              "url": "https://github.com/Juls-BI/powerbi-luminance-contrast-checker"
+              "title": "New GitHub Project: Project Reporting Narrative Framework for Power BI",
+              "url": "https://smart-frames.co.uk/2026/04/15/new-github-project-project-reporting-narrative-framework-for-power-bi/"
             },
             {
-              "title": "Building better line and trend charts in Power BI reports",
-              "url": "https://tabulareditor.com/blog/building-better-line-and-trend-charts-in-power-bi-reports"
+              "title": "Learn how to visualize confidence intervals in Power BI for better decision making",
+              "url": "https://www.youtube.com/watch?v=_x2VSJaTWYo"
             },
             {
-              "title": "Stop Using Basic KPI Cards! Build Interactive Ones in Power BI DAX + HTML + CLAUDE",
-              "url": "https://www.youtube.com/watch?v=Gy6HNGBiaq8"
+              "title": "@AcuityTraining",
+              "url": "https://twitter.com/AcuityTraining"
             },
             {
-              "title": "Build 3 Custom Power BI Visuals with Claude AI HTML + DAX",
-              "url": "https://www.youtube.com/watch?v=bvesYNEXSlU"
+              "title": "Power BI URL Filters – How To Pre Filter Your Reports!",
+              "url": "https://www.acuitytraining.co.uk/news-tips/power-bi-url-filters-how-to-pre-filter-your-reports/"
             },
             {
-              "title": "Build a Dynamic SVG KPI Card in Power BI with DAX — No Custom Visuals Needed",
-              "url": "https://www.youtube.com/watch?v=B41gxf_kFGU"
+              "title": "Why we built Icon Map Catalog",
+              "url": "https://www.icon-map.com/blog/why-we-built-icon-map-catalog.html"
             },
             {
-              "title": "Dashboard BEFORE and AFTER UX/UI design in Power BI [Spanish]",
-              "url": "https://www.youtube.com/watch?v=yKCq7NboetQ"
+              "title": "@learn_scitech",
+              "url": "https://twitter.com/learn_scitech"
+            },
+            {
+              "title": "How to fix incorrect totals for Table & Matrix visuals in Power BI — without DAX",
+              "url": "https://www.youtube.com/watch?v=BEiTdLbZUk8"
+            },
+            {
+              "title": "@amitchandak78",
+              "url": "https://twitter.com/amitchandak78"
+            },
+            {
+              "title": "Power BI Totals Not Matching? Use Custom Totals (No DAX Needed!)",
+              "url": "https://www.youtube.com/watch?v=MREoKjZ3aXo"
+            },
+            {
+              "title": "@GilbertQue",
+              "url": "https://twitter.com/GilbertQue"
+            },
+            {
+              "title": "How I Built a Full Power BI Semantic Model in Minutes Using Agentic AI and GitHub Copilot",
+              "url": "https://www.fourmoo.com/2026/04/22/how-i-built-a-full-power-bi-semantic-model-in-minutes-using-agentic-ai-and-github-copilot/"
+            },
+            {
+              "title": "@PowerBITips",
+              "url": "https://twitter.com/PowerBITips"
+            },
+            {
+              "title": "Power BI + MCP + GitHub Copilot Demo - 003 Agentic Thinking",
+              "url": "https://www.youtube.com/watch?v=c-vlxZ7RCt0"
+            },
+            {
+              "title": "A Practical Workflow for Building Better Power BI Dashboards with ChatGPT and Copilot",
+              "url": "https://chatgptguide.substack.com/p/a-practical-workflow-for-building"
+            },
+            {
+              "title": "Claude + Power BI 🧠 END-USER AI Analytics (Fabric Models + MCP)",
+              "url": "https://www.youtube.com/watch?v=OTZVL-leV38"
             }
           ],
           "🚀 Deployment, Security and Operations": [
             {
-              "title": "Power BI Security Complete Guide: RLS, OLS & TMDL Manual + AI Methods",
-              "url": "https://www.youtube.com/watch?v=JyXYEXFILnI"
+              "title": "@cwebb_bi",
+              "url": "https://twitter.com/cwebb_bi"
             },
             {
-              "title": "@biinsightnz",
-              "url": "https://twitter.com/biinsightnz"
+              "title": "Power BI Semantic Model Refresh Warnings",
+              "url": "https://blog.crossjoin.co.uk/2026/04/19/power-bi-semantic-model-refresh-warnings/"
             },
             {
-              "title": "Agentic AI in Power BI and Fabric, Part 2: Getting Started with VS Code, GitHub Copilot, and Safe MCP Setup",
-              "url": "https://biinsight.com/agentic-ai-in-power-bi-and-fabric-part-2-getting-started-with-vs-code-github-copilot-and-safe-mcp-setup/"
-            }
-          ],
-          "🌐 General": [
-            {
-              "title": "End-to-End Power BI Project (Sales Analysis Case Study)",
-              "url": "https://www.youtube.com/watch?v=bBXs2WG_KcE"
-            },
-            {
-              "title": "Power BI Best Practices & Next Steps (Fabric + Service)",
-              "url": "https://www.youtube.com/watch?v=_Yu9gHTzHQk"
-            },
-            {
-              "title": "How I Analyzed $20M 🔥 Amazon Sales Data Using Power BI & Claude AI",
-              "url": "https://www.youtube.com/watch?v=OtgkPshK8TY"
+              "title": "What Power BI DirectQuery does to your SQL Server (and how to fix it)",
+              "url": "https://www.sqlservercentral.com/articles/what-power-bi-directquery-does-to-your-sql-server-and-how-to-fix-it"
             },
             {
               "title": "@porcubi",
               "url": "https://twitter.com/porcubi"
             },
             {
-              "title": "Podcast Making Data Matter with Alexander Arvidsson & Valerie Junk - Reports That Drive Action",
-              "url": "https://www.youtube.com/watch?v=gtq8uq8ACeI"
+              "title": "Monitor Semantic Model Refresh in Microsoft Fabric",
+              "url": "https://www.youtube.com/watch?v=Fq_vsZJmsSA"
+            },
+            {
+              "title": "How to Publish Your Own Power BI Reports (And Make IT Happy)",
+              "url": "https://www.youtube.com/watch?v=qHcePaeFTXU"
+            }
+          ],
+          "🌐 General": [
+            {
+              "title": "@MSPowerBI",
+              "url": "https://twitter.com/MSPowerBI"
+            },
+            {
+              "title": "Power BI April 2026 Feature Summary",
+              "url": "https://powerbi.microsoft.com/en-us/blog/power-bi-april-2026-feature-summary/"
+            },
+            {
+              "title": "@PowerBITips",
+              "url": "https://twitter.com/PowerBITips"
+            },
+            {
+              "title": "Enhancing PBI Reports: Marketing Insights Integration - Ep. 519 - Power BI tips",
+              "url": "https://www.youtube.com/watch?v=4dQIzP8kySE"
+            },
+            {
+              "title": "Overfed and Sick Golden Datasets - Ep. 520 - Power BI tips",
+              "url": "https://www.youtube.com/watch?v=7pYH6-DBUns"
+            },
+            {
+              "title": "Looking at AI Assisted Development - Ep.521 - Power BI tips",
+              "url": "https://www.youtube.com/watch?v=Zk8FZhJpWw8"
+            },
+            {
+              "title": "Discount Effectiveness Analysis in Power BI",
+              "url": "https://www.youtube.com/watch?v=XAF-MtotcU8"
             }
           ]
         },
