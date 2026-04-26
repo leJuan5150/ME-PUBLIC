@@ -1,41 +1,14 @@
 {
-  "generated_at": "2026-04-25T11:16:52.600176Z",
+  "generated_at": "2026-04-26T11:16:36.298843Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
         {
-          "creator": "TrailRecon",
-          "handle": "@TrailRecon",
-          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
+          "creator": "This Story Till Now",
+          "handle": "@ThisStoryTillNow",
+          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
           "videos": [],
-          "error": null
-        },
-        {
-          "creator": "VentureToRoam",
-          "handle": "@VentureToRoam",
-          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Ozark Overland Adventure",
-          "handle": "@OzarkOverlandAdventures",
-          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
-          "videos": [
-            {
-              "title": "Moab Adventure Trail Day 3 - Epic scenery and technical trails",
-              "url": "https://www.youtube.com/watch?v=4k53xXui_lQ",
-              "published": "2026-04-24T22:00:05Z",
-              "description": "Day 3 of our 5 day overlanding loop around Moab takes you through some of the most incredible scenery and some fun technical sections.\n\nMoab Adventure Trail GPX File - https://drive.google.com/file/d/1MJX8a8Ah6gdi-jTkFKJK_f4gm5LYu9M1/view?usp=sharing\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHNYyUa\nAll Roads Taken - https://www"
-            },
-            {
-              "title": "Our Favorite Things at MOORE Expo 2026",
-              "url": "https://www.youtube.com/watch?v=-R3Va12Yn5A",
-              "published": "2026-04-23T15:00:01Z",
-              "description": "We had an amazing time at the MOORE Expo! These are our favorite things we found this year. \n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHNYyUa\nAll Roads Taken - https://www.allroadstaken.com\nMOORE Expo - https"
-            }
-          ],
           "error": null
         },
         {
@@ -53,17 +26,38 @@
           "error": null
         },
         {
-          "creator": "This Story Till Now",
-          "handle": "@ThisStoryTillNow",
-          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "creator": "VentureToRoam",
+          "handle": "@VentureToRoam",
+          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
           "videos": [],
           "error": null
         },
         {
-          "creator": "LetsGetLost",
-          "handle": "@LetsGetLost",
-          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
+          "creator": "TrailRecon",
+          "handle": "@TrailRecon",
+          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
           "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Casey 250",
+          "handle": "@Casey250",
+          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Ozark Overland Adventure",
+          "handle": "@OzarkOverlandAdventures",
+          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
+          "videos": [
+            {
+              "title": "Moab Adventure Trail Day 3 - Epic scenery and technical trails",
+              "url": "https://www.youtube.com/watch?v=4k53xXui_lQ",
+              "published": "2026-04-24T22:00:05Z",
+              "description": "Day 3 of our 5 day overlanding loop around Moab takes you through some of the most incredible scenery and some fun technical sections.\n\nMoab Adventure Trail GPX File - https://drive.google.com/file/d/1MJX8a8Ah6gdi-jTkFKJK_f4gm5LYu9M1/view?usp=sharing\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHNYyUa\nAll Roads Taken - https://www"
+            }
+          ],
           "error": null
         },
         {
@@ -74,9 +68,9 @@
           "error": null
         },
         {
-          "creator": "Casey 250",
-          "handle": "@Casey250",
-          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
+          "creator": "LetsGetLost",
+          "handle": "@LetsGetLost",
+          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
           "videos": [],
           "error": null
         }
@@ -90,17 +84,10 @@
           "error": null
         },
         {
-          "creator": "Shane Young",
-          "handle": "@ShanesCows",
-          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
-          "videos": [
-            {
-              "title": "Install and Configure Power Apps MCP",
-              "url": "https://www.youtube.com/watch?v=xUUQqsm83QA",
-              "published": "2026-04-23T12:31:19Z",
-              "description": "Get a step-by-step beginners guide on how to install:\n-Visual Studio Code\n-NodeJS\n-Git for Windows\n-Dot Net SDK 10\n-PowerShell 7\n-GitHub Copilot CLI\n-Power Apps Canvas Apps MCP\n\nAll so you can start creating Power Apps and editing them with the help of GitHub Copilot and Power Apps Studio.\n\nUp your Power Apps Skills Today!\nhttps://www.powerapps911.com/up-your-power-apps-skills\n\n0:00 Install and Configure Power Apps MCP\n0:54 Overview and Requirements\n2:24 Install VS Code\n4:42 Install NodeJS\n5:42 "
-            }
-          ],
+          "creator": "Matthew Devaney",
+          "handle": "@MatthewDevaney",
+          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
+          "videos": [],
           "error": null
         },
         {
@@ -111,32 +98,32 @@
           "error": null
         },
         {
-          "creator": "April Dunnam",
-          "handle": "@AprilDunnam",
-          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
+          "creator": "Shane Young",
+          "handle": "@ShanesCows",
+          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
           "videos": [],
           "error": null
         },
         {
-          "creator": "Matthew Devaney",
-          "handle": "@MatthewDevaney",
-          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
+          "creator": "April Dunnam",
+          "handle": "@AprilDunnam",
+          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
           "videos": [],
           "error": null
         }
       ],
       "fabric_powerbi": [
         {
-          "creator": "Guy in a Cube",
-          "handle": "@GuyInACube",
-          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
+          "creator": "Dewain Robinson",
+          "handle": "@DewainRobinson",
+          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
           "videos": [],
           "error": null
         },
         {
-          "creator": "Dewain Robinson",
-          "handle": "@DewainRobinson",
-          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
+          "creator": "Guy in a Cube",
+          "handle": "@GuyInACube",
+          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
           "videos": [],
           "error": null
         }
@@ -148,7 +135,19 @@
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
             {
-              "title": "9ef2b426 ec21 4286 8374 a0d2a476fa1b",
+              "title": "StrongDM's three person team ships with zero human code review #ai #engineering",
+              "url": "https://www.youtube.com/shorts/eY1u8Ni9ClQ",
+              "published": "2026-04-25T21:00:30Z",
+              "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/the-5-level-framework-that-explains?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when 90% of Claude Code was written by Claude Code, yet most developers using AI get measurably slower? The common story is that AI coding tools make everyone faster—but the reality is more complicated when a rigorous study found experienced develo"
+            },
+            {
+              "title": "ChatGPT Images Just Replaced Three People on Your Team.",
+              "url": "https://www.youtube.com/watch?v=brBPsPPyuQM",
+              "published": "2026-04-25T15:00:55Z",
+              "description": "Full Story w/ Prompt Kit: https://natesnewsletter.substack.com/p/what-gpt-image-2-actually-changed?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside AI image generation after GPT-Image 2's 93% win rate?\n\nThe common story is a better image model — but the reality is more interesting: image generation just joined the reasoning stack, and the workflows, risks, and role changes that follow are nothing like the coverage su"
+            },
+            {
+              "title": "Experienced developers took 19% longer with AI #aicoding #study #reality",
               "url": "https://www.youtube.com/shorts/7j0ttVwJrow",
               "published": "2026-04-25T03:00:08Z",
               "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/the-5-level-framework-that-explains?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when 90% of Claude Code was written by Claude Code, yet most developers using AI get measurably slower? The common story is that AI coding tools make everyone faster—but the reality is more complicated when a rigorous study found experienced develo"
@@ -158,12 +157,6 @@
               "url": "https://www.youtube.com/watch?v=KlPxWaY91rE",
               "published": "2026-04-24T14:00:38Z",
               "description": "Full Story w/ Prompt Kit: https://natesnewsletter.substack.com/p/claude-design-replaced-a-week-of?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside the Claude Design launch when everyone reacted with Figma stock crashes but missed the actual story?\n\nThe common narrative is that this is a Figma killer — but the reality is that Claude Design is the third piece in a coordinated Anthropic stack that's quietly retiring the"
-            },
-            {
-              "title": "Your Apps Don't Need an API Anymore. Codex Just Proved It.",
-              "url": "https://www.youtube.com/watch?v=2d9ZmA-4QzU",
-              "published": "2026-04-23T14:00:05Z",
-              "description": "Full Story w/ Prompt Kit: https://natesnewsletter.substack.com/p/grab-the-workflow-audit-that-tells?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside OpenAI's Codex revamp when they shipped a desktop agent that can drive any Mac app in the background while you do other work?\n\nThe common story is that this is a coding tool update — but the reality is that Codex shifted categories entirely, and the gap to Claude's compu"
             }
           ],
           "error": null
@@ -174,6 +167,12 @@
           "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
           "videos": [
             {
+              "title": "ChatGPT 5.5 Codex vs Opus 4.7: The winner is clear",
+              "url": "https://www.youtube.com/watch?v=cgp-gfSbmNE",
+              "published": "2026-04-25T20:54:45Z",
+              "description": "ChatGPT 5.5 Codex just dropped. Here is a master workflow and how it compares to Claude Opus 4.7 in Claude Code\n\nFULL Claude bootcamp in the Vibe Coding Academy coming up: https://vibecodingacademy.dev\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nPrompt: I want to build a prompt library app. The user should be able to save co"
+            },
+            {
               "title": "🔴LIVE: ChatGPT 5.5 is here. Does it beat Claude Opus 4.7?",
               "url": "https://www.youtube.com/watch?v=l2o6HYJpiQI",
               "published": "2026-04-24T20:24:30Z",
@@ -183,15 +182,15 @@
           "error": null
         },
         {
-          "creator": "Paul J Lipsky",
-          "handle": "@PaulJLipsky",
-          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
+          "creator": "Nate Herk",
+          "handle": "@NateHerk",
+          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
           "videos": [
             {
-              "title": "Weekly AI Update: Google Workspace Intelligence, GPT Images 2.0, Claude LIVE Artifacts",
-              "url": "https://www.youtube.com/watch?v=Wr7XgMK87xM",
-              "published": "2026-04-24T13:35:12Z",
-              "description": "This week’s AI Weekly Update covers Google’s new Workspace Intelligence, OpenAI’s Images 2.0, and Claude’s new Live Artifacts — plus why each one matters more than most people think.\n\nHeads up, these updates may not be available worldwide yet. Just because I have access to them doesn't mean you will yet.\n\n0:00 Intro\n0:51 Cloud Next\n1:03 Workspace Intel\n1:26 Sheets Demo\n2:12 Canvas Demo\n3:17 Docs Demo\n4:28 AI Inbox\n5:27 Workspace Studio\n8:46 OpenAI updates\n12:30 Claude artifacts\n14:03 More Google"
+              "title": "Claude Code + Playwright Automates Literally Anything",
+              "url": "https://www.youtube.com/watch?v=J-6pnl5DQg8",
+              "published": "2026-04-25T14:59:59Z",
+              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=playwright-cli\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=playwright-cli\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nWhen you connect Playwright CLI to Claude Code"
             }
           ],
           "error": null
@@ -206,26 +205,6 @@
               "url": "https://www.youtube.com/watch?v=rW7NvKnIEqk",
               "published": "2026-04-24T18:24:19Z",
               "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes \nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\nClaude Code just released a desktop app update that changes everything. While the official announcement was quiet, they buried the key features that finally let you build structured, agentic systems without ever touching the terminal. In this video, I'll break down the new project and file views and show you how they enable you to build "
-            },
-            {
-              "title": "Every Claude Code Memory System Compared (So You Don't Have To)",
-              "url": "https://www.youtube.com/watch?v=UHVFcUzAGlM",
-              "published": "2026-04-23T20:25:28Z",
-              "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes\n\nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\nStruggling to keep up with Claude Code memory systems? From Mem0 to Karapthy's Wiki, it's getting ridiculous to keep up . This guide breaks down the six levels of AI memory, from the baseline tools you already have to a unified brain that works across all your AI applications. By the end, you'll know exactly which system fits your needs "
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Nate Herk",
-          "handle": "@NateHerk",
-          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-          "videos": [
-            {
-              "title": "I Tested GPT 5.5 vs Opus 4.7: What You Need to Know",
-              "url": "https://www.youtube.com/watch?v=WX4rp-vP3zo",
-              "published": "2026-04-23T21:45:53Z",
-              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=gpt-5.5-tests\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=gpt-5.5-tests\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nOpenAI just dropped GPT 5.5 and the benchmarks l"
             }
           ],
           "error": null
@@ -235,6 +214,18 @@
           "handle": "@ChaseAI",
           "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
           "videos": [
+            {
+              "title": "This Chinese Repo Cloned Claude Design",
+              "url": "https://www.youtube.com/shorts/yrXiM5-ciBQ",
+              "published": "2026-04-25T23:46:00Z",
+              "description": ""
+            },
+            {
+              "title": "Fully Custom Claude Code Agentic OS",
+              "url": "https://www.youtube.com/shorts/5PDEy_gthU8",
+              "published": "2026-04-25T23:41:20Z",
+              "description": ""
+            },
             {
               "title": "GPT 5.5 Has A Real Argument as #1",
               "url": "https://www.youtube.com/shorts/ltt_3abNR_U",
@@ -248,22 +239,24 @@
               "description": "#ChatGPTPartner\n@openai"
             },
             {
-              "title": "I Tested DeepSeek V4 vs Claude Code vs Codex",
+              "title": "I Tested DeepSeek V4 vs Opus 4.7 vs GPT 5.5",
               "url": "https://www.youtube.com/watch?v=uT2m7VD99qA",
               "published": "2026-04-24T22:41:16Z",
               "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community with the prompts🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nI wake up. A new model comes out.\n\nThis time is GPT 5.5 and Deepseek v4 so I put them in a head to head to head test alongside Opus 4/7 to see who comes out on top.\n\n⏰TIMESTAMPS:\n\n0:00 - Intro\n0:39 -  Model Costs + Benchmarks\n4:56 - Test 1\n17:07 - Test 2\n23:12 - Results"
-            },
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Paul J Lipsky",
+          "handle": "@PaulJLipsky",
+          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
+          "videos": [
             {
-              "title": "GPT 5.5 is EXPENSIVE",
-              "url": "https://www.youtube.com/shorts/hLooW4xWaqU",
-              "published": "2026-04-24T06:00:36Z",
-              "description": ""
-            },
-            {
-              "title": "Claude Code WAS Nerfed & Anthropic Confirms It",
-              "url": "https://www.youtube.com/shorts/LqM42MS0a2Q",
-              "published": "2026-04-24T02:08:02Z",
-              "description": ""
+              "title": "Weekly AI Update: Google Workspace Intelligence, GPT Images 2.0, Claude LIVE Artifacts",
+              "url": "https://www.youtube.com/watch?v=Wr7XgMK87xM",
+              "published": "2026-04-24T13:35:12Z",
+              "description": "This week’s AI Weekly Update covers Google’s new Workspace Intelligence, OpenAI’s Images 2.0, and Claude’s new Live Artifacts — plus why each one matters more than most people think.\n\nHeads up, these updates may not be available worldwide yet. Just because I have access to them doesn't mean you will yet.\n\n0:00 Intro\n0:51 Cloud Next\n1:03 Workspace Intel\n1:26 Sheets Demo\n2:12 Canvas Demo\n3:17 Docs Demo\n4:28 AI Inbox\n5:27 Workspace Studio\n8:46 OpenAI updates\n12:30 Claude artifacts\n14:03 More Google"
             }
           ],
           "error": null
