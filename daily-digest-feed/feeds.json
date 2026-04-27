@@ -1,42 +1,28 @@
 {
-  "generated_at": "2026-04-26T11:16:36.298843Z",
+  "generated_at": "2026-04-27T11:35:05.880423Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
         {
+          "creator": "Life Style Overland",
+          "handle": "@LifeStyleOverland",
+          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
+          "videos": [],
+          "error": null
+        },
+        {
           "creator": "This Story Till Now",
           "handle": "@ThisStoryTillNow",
           "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Epic Adventure Outfitters",
-          "handle": "@EpicAdventureOutfitters",
-          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
           "videos": [
             {
-              "title": "Why did they make it Full Time 4x4?! #atlas #transfercase #jeep",
-              "url": "https://www.youtube.com/shorts/lFg5i9DSZjc",
-              "published": "2026-04-24T18:55:00Z",
-              "description": ""
+              "title": "Caught In a Rain Storm & Flash Flood on Can-Ams!",
+              "url": "https://www.youtube.com/watch?v=ebBJDpA_1ME",
+              "published": "2026-04-27T04:56:41Z",
+              "description": "Can-Am invited us out to Moab to test their latest lineup of side by sides. On the first day, we headed out to Hell's Revenge and got caught in a rain storm and flash flood on the trail. \n\nSign up with my link and save 20% on OnX Off-Road: https://bit.ly/onxoffroadtstn\n\nLimited edition TSTN Pirate Merch now on sale: http://www.tstn.shop\n\nWant to support our adventures? Join our Patreon group here:\nhttp://www.patreon.com/thestorytillnow\n\n-------------------------------\nUse code TSTN at checkout t"
             }
           ],
-          "error": null
-        },
-        {
-          "creator": "VentureToRoam",
-          "handle": "@VentureToRoam",
-          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "TrailRecon",
-          "handle": "@TrailRecon",
-          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
-          "videos": [],
           "error": null
         },
         {
@@ -47,30 +33,44 @@
           "error": null
         },
         {
-          "creator": "Ozark Overland Adventure",
-          "handle": "@OzarkOverlandAdventures",
-          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
+          "creator": "LetsGetLost",
+          "handle": "@LetsGetLost",
+          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Epic Adventure Outfitters",
+          "handle": "@EpicAdventureOutfitters",
+          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
           "videos": [
             {
-              "title": "Moab Adventure Trail Day 3 - Epic scenery and technical trails",
-              "url": "https://www.youtube.com/watch?v=4k53xXui_lQ",
-              "published": "2026-04-24T22:00:05Z",
-              "description": "Day 3 of our 5 day overlanding loop around Moab takes you through some of the most incredible scenery and some fun technical sections.\n\nMoab Adventure Trail GPX File - https://drive.google.com/file/d/1MJX8a8Ah6gdi-jTkFKJK_f4gm5LYu9M1/view?usp=sharing\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHNYyUa\nAll Roads Taken - https://www"
+              "title": "Adding more sticks to play with #atlas #transfercase #jeep",
+              "url": "https://www.youtube.com/shorts/B55dpgu1udM",
+              "published": "2026-04-26T18:55:00Z",
+              "description": ""
             }
           ],
           "error": null
         },
         {
-          "creator": "Life Style Overland",
-          "handle": "@LifeStyleOverland",
-          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
+          "creator": "TrailRecon",
+          "handle": "@TrailRecon",
+          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
           "videos": [],
           "error": null
         },
         {
-          "creator": "LetsGetLost",
-          "handle": "@LetsGetLost",
-          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
+          "creator": "VentureToRoam",
+          "handle": "@VentureToRoam",
+          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Ozark Overland Adventure",
+          "handle": "@OzarkOverlandAdventures",
+          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
           "videos": [],
           "error": null
         }
@@ -114,16 +114,16 @@
       ],
       "fabric_powerbi": [
         {
-          "creator": "Dewain Robinson",
-          "handle": "@DewainRobinson",
-          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
+          "creator": "Guy in a Cube",
+          "handle": "@GuyInACube",
+          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
           "videos": [],
           "error": null
         },
         {
-          "creator": "Guy in a Cube",
-          "handle": "@GuyInACube",
-          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
+          "creator": "Dewain Robinson",
+          "handle": "@DewainRobinson",
+          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
           "videos": [],
           "error": null
         }
@@ -135,6 +135,12 @@
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
             {
+              "title": "Apple Just Positioned Itself for the Next Trillion Dollars",
+              "url": "https://www.youtube.com/watch?v=RaAFquzj5B8",
+              "published": "2026-04-26T17:00:36Z",
+              "description": "Full Story w/ Prompt Kit: https://natesnewsletter.substack.com/p/executive-briefing-the-ai-race-youre?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside Apple's AI strategy behind the Tim Cook succession?\nThe common story is a smooth handoff to an Apple lifer — but the reality is more interesting: Apple just restructured the entire company around a race the rest of the industry isn't running.\nIn this video, I share the"
+            },
+            {
               "title": "StrongDM's three person team ships with zero human code review #ai #engineering",
               "url": "https://www.youtube.com/shorts/eY1u8Ni9ClQ",
               "published": "2026-04-25T21:00:30Z",
@@ -145,38 +151,20 @@
               "url": "https://www.youtube.com/watch?v=brBPsPPyuQM",
               "published": "2026-04-25T15:00:55Z",
               "description": "Full Story w/ Prompt Kit: https://natesnewsletter.substack.com/p/what-gpt-image-2-actually-changed?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside AI image generation after GPT-Image 2's 93% win rate?\n\nThe common story is a better image model — but the reality is more interesting: image generation just joined the reasoning stack, and the workflows, risks, and role changes that follow are nothing like the coverage su"
-            },
-            {
-              "title": "Experienced developers took 19% longer with AI #aicoding #study #reality",
-              "url": "https://www.youtube.com/shorts/7j0ttVwJrow",
-              "published": "2026-04-25T03:00:08Z",
-              "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/the-5-level-framework-that-explains?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when 90% of Claude Code was written by Claude Code, yet most developers using AI get measurably slower? The common story is that AI coding tools make everyone faster—but the reality is more complicated when a rigorous study found experienced develo"
-            },
-            {
-              "title": "Claude Design Does In 30 Minutes What Your Team Does In A Sprint",
-              "url": "https://www.youtube.com/watch?v=KlPxWaY91rE",
-              "published": "2026-04-24T14:00:38Z",
-              "description": "Full Story w/ Prompt Kit: https://natesnewsletter.substack.com/p/claude-design-replaced-a-week-of?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside the Claude Design launch when everyone reacted with Figma stock crashes but missed the actual story?\n\nThe common narrative is that this is a Figma killer — but the reality is that Claude Design is the third piece in a coordinated Anthropic stack that's quietly retiring the"
             }
           ],
           "error": null
         },
         {
-          "creator": "Alex Finn",
-          "handle": "@AlexFinn",
-          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
+          "creator": "Paul J Lipsky",
+          "handle": "@PaulJLipsky",
+          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
           "videos": [
             {
-              "title": "ChatGPT 5.5 Codex vs Opus 4.7: The winner is clear",
-              "url": "https://www.youtube.com/watch?v=cgp-gfSbmNE",
-              "published": "2026-04-25T20:54:45Z",
-              "description": "ChatGPT 5.5 Codex just dropped. Here is a master workflow and how it compares to Claude Opus 4.7 in Claude Code\n\nFULL Claude bootcamp in the Vibe Coding Academy coming up: https://vibecodingacademy.dev\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nPrompt: I want to build a prompt library app. The user should be able to save co"
-            },
-            {
-              "title": "🔴LIVE: ChatGPT 5.5 is here. Does it beat Claude Opus 4.7?",
-              "url": "https://www.youtube.com/watch?v=l2o6HYJpiQI",
-              "published": "2026-04-24T20:24:30Z",
-              "description": "Join the Vibe Coding Academy: https://vibecodingacademy.dev\n\nCheck out ClawComp!!!: http://clawcomp.net"
+              "title": "Google AI Studio is Way Underrated (Free Course)",
+              "url": "https://www.youtube.com/watch?v=QDLAhBVF_6g",
+              "published": "2026-04-26T13:00:44Z",
+              "description": "Google AI Studio just got way more useful, so I’ll show you how to use Playground, Build, image generation, text-to-speech, and AI app creation without needing to code.\n\nHeads up, these updates may not be available worldwide yet. Just because I have access to them doesn't mean you will yet.\n\n0:00 Intro\n0:37 AI Studio Setup\n1:49 Playground\n3:97 Image Generation\n7:34 Text To Speech\n10:10 Better Chat\n15:40 Build Gallery\n17:17 Vibe Coding\n22:27 Example 2"
             }
           ],
           "error": null
@@ -196,15 +184,15 @@
           "error": null
         },
         {
-          "creator": "Simon Scrapes",
-          "handle": "@SimonScrapes",
-          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
+          "creator": "Alex Finn",
+          "handle": "@AlexFinn",
+          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
           "videos": [
             {
-              "title": "Claude just got another superpower (but they kept it quiet!)",
-              "url": "https://www.youtube.com/watch?v=rW7NvKnIEqk",
-              "published": "2026-04-24T18:24:19Z",
-              "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes \nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\nClaude Code just released a desktop app update that changes everything. While the official announcement was quiet, they buried the key features that finally let you build structured, agentic systems without ever touching the terminal. In this video, I'll break down the new project and file views and show you how they enable you to build "
+              "title": "ChatGPT 5.5 Codex: I can't believe they did this...",
+              "url": "https://www.youtube.com/watch?v=cgp-gfSbmNE",
+              "published": "2026-04-25T20:54:45Z",
+              "description": "ChatGPT 5.5 Codex just dropped. Here is a master workflow and how it compares to Claude Opus 4.7 in Claude Code\n\nFULL Claude bootcamp in the Vibe Coding Academy coming up: https://vibecodingacademy.dev\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nPrompt: I want to build a prompt library app. The user should be able to save co"
             }
           ],
           "error": null
@@ -214,6 +202,24 @@
           "handle": "@ChaseAI",
           "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
           "videos": [
+            {
+              "title": "Top 3 GitHub repos for Claude Code frontend design (april)",
+              "url": "https://www.youtube.com/shorts/F4eCX6chiTg",
+              "published": "2026-04-26T20:29:04Z",
+              "description": ""
+            },
+            {
+              "title": "Chinese Open Source Repo Just Cloned Claude Design (its GOOD)",
+              "url": "https://www.youtube.com/shorts/AYE4nQfT8VU",
+              "published": "2026-04-26T20:24:15Z",
+              "description": ""
+            },
+            {
+              "title": "This Open Source Repo Just Cloned Claude Design (It's GOOD)",
+              "url": "https://www.youtube.com/watch?v=Nmk1wxoi6ys",
+              "published": "2026-04-26T19:21:17Z",
+              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community with the prompts🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nClaude Design is amazing.\n\nIts limits aren't.\n\nBut with the brand new Huashu Design repo, there is hope as the skill, built on the same system prompts Claude Design uses, gives us the ability to match Claude Design's outputs while drawing on our normal subscription usag"
+            },
             {
               "title": "This Chinese Repo Cloned Claude Design",
               "url": "https://www.youtube.com/shorts/yrXiM5-ciBQ",
@@ -225,38 +231,20 @@
               "url": "https://www.youtube.com/shorts/5PDEy_gthU8",
               "published": "2026-04-25T23:41:20Z",
               "description": ""
-            },
-            {
-              "title": "GPT 5.5 Has A Real Argument as #1",
-              "url": "https://www.youtube.com/shorts/ltt_3abNR_U",
-              "published": "2026-04-24T23:08:12Z",
-              "description": "#chatgptpartner \n@OpenAI"
-            },
-            {
-              "title": "Codex + Computer Use = GAME CHANGER",
-              "url": "https://www.youtube.com/shorts/sYKIJGxG1Lk",
-              "published": "2026-04-24T23:05:59Z",
-              "description": "#ChatGPTPartner\n@openai"
-            },
-            {
-              "title": "I Tested DeepSeek V4 vs Opus 4.7 vs GPT 5.5",
-              "url": "https://www.youtube.com/watch?v=uT2m7VD99qA",
-              "published": "2026-04-24T22:41:16Z",
-              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community with the prompts🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nI wake up. A new model comes out.\n\nThis time is GPT 5.5 and Deepseek v4 so I put them in a head to head to head test alongside Opus 4/7 to see who comes out on top.\n\n⏰TIMESTAMPS:\n\n0:00 - Intro\n0:39 -  Model Costs + Benchmarks\n4:56 - Test 1\n17:07 - Test 2\n23:12 - Results"
             }
           ],
           "error": null
         },
         {
-          "creator": "Paul J Lipsky",
-          "handle": "@PaulJLipsky",
-          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
+          "creator": "Simon Scrapes",
+          "handle": "@SimonScrapes",
+          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
           "videos": [
             {
-              "title": "Weekly AI Update: Google Workspace Intelligence, GPT Images 2.0, Claude LIVE Artifacts",
-              "url": "https://www.youtube.com/watch?v=Wr7XgMK87xM",
-              "published": "2026-04-24T13:35:12Z",
-              "description": "This week’s AI Weekly Update covers Google’s new Workspace Intelligence, OpenAI’s Images 2.0, and Claude’s new Live Artifacts — plus why each one matters more than most people think.\n\nHeads up, these updates may not be available worldwide yet. Just because I have access to them doesn't mean you will yet.\n\n0:00 Intro\n0:51 Cloud Next\n1:03 Workspace Intel\n1:26 Sheets Demo\n2:12 Canvas Demo\n3:17 Docs Demo\n4:28 AI Inbox\n5:27 Workspace Studio\n8:46 OpenAI updates\n12:30 Claude artifacts\n14:03 More Google"
+              "title": "Claude Design Is Way Bigger Than You Think (Full Course)",
+              "url": "https://www.youtube.com/watch?v=-_aQquBH5PU",
+              "published": "2026-04-26T17:07:17Z",
+              "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes \nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\nIn this video, I'm moving beyond simple demos to show you how to use Claude Design to build real assets for a real business. We'll fix our design system, build a new landing page, prototype a mobile app, create a sales deck, and generate a launch video. Follow along to learn the workflows and prompting techniques that separate generic \"A"
             }
           ],
           "error": null
@@ -266,69 +254,49 @@
     "newsletters": {
       "power_platform_weekly": {
         "name": "Power Platform Weekly",
-        "issue_number": 260,
-        "issue_date": "2026-04-20",
-        "url": "https://www.ppweekly.com/p/power-platform-weekly-issue-260",
-        "is_new": false,
+        "issue_number": 261,
+        "issue_date": "2026-04-27",
+        "url": "https://www.ppweekly.com/p/power-platform-weekly-issue-261",
+        "is_new": true,
         "sections": {
           "📰 Articles": [
             {
-              "title": "Power Apps: Canvas Apps vs. Code Apps – When Low-Code Hits Its Ceiling",
-              "url": "https://aidevme.com/power-apps-canvas-apps-vs-code-apps-when-low-code-hits-its-ceiling/"
+              "title": "Re-introducing Data Validation Tool for Dataverse – PPTB",
+              "url": "https://mbeard.co.uk/2026/04/20/re-introducing-data-validation-tool-for-dataverse-pptb/"
             },
             {
-              "title": "Crafting Effective Instructions for Copilot Studio Agents",
-              "url": "https://platformsofpower.net/crafting-effective-instructions-for-copilot-studio-agents/"
+              "title": "Power Apps- Comparing Different Ways to Create Apps With AI",
+              "url": "https://dev.to/wyattdave/power-apps-comparing-different-ways-to-create-apps-with-ai-b33"
             },
             {
-              "title": "8 Microsoft Sales AI Agents and How to Choose",
-              "url": "https://www.apprising.co.nz/post/microsoft-sales-ai-agents-overview"
+              "title": "Create Add To Outlook Link For Sessions or Events In CIJ",
+              "url": "https://meganvwalker.com/create-add-to-outlook-link-for-sessions-cij/"
             },
             {
-              "title": "Time for the Timeline",
-              "url": "https://www.ppcookbook.com/post/time-for-the-timeline"
+              "title": "Adventures with Power Platform: Deploying the Power Platform Communication Site Template",
+              "url": "https://mattruma.com/adventures-with-power-platform-deploying-the-power-platform-communication-site-template/"
             },
             {
-              "title": "HELP! My Segments Have Expired - Customer Insights Journeys",
-              "url": "https://meganvwalker.com/help-my-segments-have-expired-customer-insights/"
+              "title": "Accelerating Model-Driven App Development with Power Apps Generative Pages: A Simpler Way – Part 1",
+              "url": "https://www.inogic.com/blog/2026/04/accelerating-model-driven-app-development-with-power-apps-generative-pages-a-simpler-way-part-1"
             },
             {
-              "title": "How To Clear LookUp Fields Using A Custom Page",
-              "url": "https://meganvwalker.com/how-to-clear-lookup-fields-using-a-custom-page/"
-            },
-            {
-              "title": "Unique join link attendance tracking in Customer Insights - Journeys online Teams events",
-              "url": "https://www.ameyholden.com/articles/unique-join-link-for-teams-meetings-and-webinars-in-dynamics-365-customer-insights-journeys"
-            },
-            {
-              "title": "What is coming to Dynamics 365 Contact Center in 2026 Release Wave 1",
-              "url": "https://d365goddess.com/2026wave1-d365contactcenter/"
-            },
-            {
-              "title": "VNet for Dataverse - How to not get your data stolen",
-              "url": "https://www.untethered365.com/post/vnet-for-dataverse-how-to-not-get-your-data-stolen"
-            },
-            {
-              "title": "Copilot Studio: Publish To Website With Single Sign-On",
-              "url": "https://www.matthewdevaney.com/copilot-studio-publish-to-website-with-single-sign-on/"
+              "title": "Power Pages Backend Trifecta",
+              "url": "https://www.dancingwithcrm.com/power-pages-backend-trifecta/"
             }
           ],
           "🎙️ Podcasts": [
             {
-              "title": ".NET Rocks Podcast",
-              "url": "https://www.spreaker.com/episode/how-ai-changes-development-with-rob-conery--71146008"
+              "title": "Ctrl+Alt+Azure Podcast",
+              "url": "https://share.transistor.fm/s/5851f1ef"
             },
             {
-              "title": "Unresolved Dependencies Podcast",
-              "url": "https://player.fm/series/unresolved-dependencies/ep-3-colorcloud-special"
+              "title": "Awkward Silence Podcast",
+              "url": "https://podcasts.apple.com/us/podcast/exploring-sales-agents-project-ops-and-ai-in-wave-1-2026/id1772710944?i=1000762459168"
             },
             {
-              "title": "Andrew Bibby",
-              "url": "https://www.linkedin.com/in/andrewbibby"
-            },
-            {
-              "title": "Merge Conflict Podcast",
-              "url": "https://www.mergeconflict.fm/510"
+              "title": "Tech Directions Podcast",
+              "url": "https://creators.spotify.com/pod/profile/ey-microsoft/episodes/How-Agentic-AI-can-transform-enterprise-operations-through-co-innovation-e3id44u"
             }
           ],
           "📅 Events & Webinars": [
@@ -359,30 +327,38 @@
           ],
           "💙 Out of the Blue": [
             {
-              "title": "No, you don’t need a Copilot license to deploy agents to Microsoft 365 Copilot",
-              "url": "https://microsoft.github.io/mcscatblog/posts/no-copilot-license-m365-channel/"
+              "title": "Intelligent apps, human leadership, and the new shape of work",
+              "url": "https://www.microsoft.com/power-platform/blog/power-platform/intelligent-apps-human-leadership-and-the-new-shape-of-work/"
             },
             {
-              "title": "Bridging the gap: Connecting legacy desktop applications to Copilot Studio agents",
-              "url": "https://microsoft.github.io/mcscatblog/posts/connecting-legacy-desktop-apps-to-copilot-studio/"
+              "title": "Custom tools and rich UI for app-based conversations are now in public preview",
+              "url": "https://www.microsoft.com/power-platform/blog/power-apps/custom-tools-and-rich-ui-for-app-based-conversations-are-now-in-public-preview/"
             },
             {
-              "title": "Making business apps smarter with AI, Copilot, and agents in Power Apps",
-              "url": "https://www.microsoft.com/power-platform/blog/2026/04/15/making-business-apps-smarter-with-ai-copilot-and-agents-in-power-apps/"
+              "title": "More secure SharePoint integration in Power Pages with site-scoped permissions",
+              "url": "https://www.microsoft.com/power-platform/blog/power-pages/more-secure-sharepoint-integration-in-power-pages-with-site-scoped-permissions/"
+            },
+            {
+              "title": "Translytical task flows (generally available)",
+              "url": "https://powerbi.microsoft.com/blog/translytical-task-flows-generally-available/"
+            },
+            {
+              "title": "Power BI April 2026 feature summary",
+              "url": "https://powerbi.microsoft.com/blog/power-bi-april-2026-feature-summary/"
             }
           ],
           "📺 Videos": [
             {
-              "title": "State of Power Platform & Copilot in 2026 (380 Real Responses)",
-              "url": "https://www.youtube.com/watch?v=SK2ks1tVTbA"
+              "title": "Build Once, Communicate Three Ways with Power Automate",
+              "url": "https://www.youtube.com/watch?v=KFNorfNZnSU"
             },
             {
-              "title": "Set up Microsoft Foundry resource, deploy model and consume it from Power Automate",
-              "url": "https://www.youtube.com/watch?v=H9jmyzWl3mc"
+              "title": "❌ Don’t edit records one by one in D365 | Microsoft Dynamics 365 F&O",
+              "url": "https://www.youtube.com/watch?v=Rtf7gU5UdIU"
             },
             {
-              "title": "🚀 How to Build Autonomous \"Agentic Agents\" in Copilot Studio (Full Guide)",
-              "url": "https://www.youtube.com/watch?v=fsozDpVqAEo"
+              "title": "How to use AI and Power Automate to add tasks to MS Planner | AI Builder | No Copilot Licence",
+              "url": "https://www.youtube.com/watch?v=AZlIbNvVo68"
             }
           ]
         },
