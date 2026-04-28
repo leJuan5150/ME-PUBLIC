@@ -32,7 +32,8 @@ YOUTUBE_SOURCES: dict[str, list[dict]] = {
         {"name": "Chase AI",      "handle": "@ChaseAI",       "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA"},
         {"name": "Nate Herk",     "handle": "@NateHerk",      "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA"},
         {"name": "Paul J Lipsky", "handle": "@PaulJLipsky",   "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw"},
-        {"name": "Simon Scrapes", "handle": "@SimonScrapes",  "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA"},
+        {"name": "Simon Scrapes",   "handle": "@SimonScrapes",    "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA"},
+        {"name": "AI Daily Brief", "handle": "@AIDailyBrief",   "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA"},
     ],
 }
 
