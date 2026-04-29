@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-04-28T11:34:32.198289Z",
+  "generated_at": "2026-04-29T11:33:05.765005Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
         {
-          "creator": "Ozark Overland Adventure",
-          "handle": "@OzarkOverlandAdventures",
-          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
+          "creator": "LetsGetLost",
+          "handle": "@LetsGetLost",
+          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
           "videos": [],
           "error": null
         },
         {
-          "creator": "LetsGetLost",
-          "handle": "@LetsGetLost",
-          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
+          "creator": "TrailRecon",
+          "handle": "@TrailRecon",
+          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
           "videos": [],
           "error": null
         },
@@ -26,29 +26,23 @@
           "error": null
         },
         {
-          "creator": "Epic Adventure Outfitters",
-          "handle": "@EpicAdventureOutfitters",
-          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
+          "creator": "Ozark Overland Adventure",
+          "handle": "@OzarkOverlandAdventures",
+          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
           "videos": [
             {
-              "title": "Jeep Wheels - Steel vs Alloy. Beadlock vs Non. We're Going There!",
-              "url": "https://www.youtube.com/watch?v=KWqLNNO63ZU",
-              "published": "2026-04-28T00:29:10Z",
-              "description": "Steel vs alloy. Beadlock vs non. \nTwo dudes. Zero diplomacy. \nLet's go.\n\n#JeepLife #AlloyWheels #Beadlock\n\nPaul and The Ginger walk straight into one of the most argued about topics in Jeep culture and refuse to apologize for their opinions.\n\nWheels. The decision every Jeep owner spends way too much time on, way too much money on, and way too much time defending on the internet afterward.\nAnd for good reason...because it actually matters.\n\nSteel or alloy. Beadlock or non. Offset, backspacing, si"
-            },
-            {
-              "title": "Adding more sticks to play with #atlas #transfercase #jeep",
-              "url": "https://www.youtube.com/shorts/B55dpgu1udM",
-              "published": "2026-04-26T18:55:00Z",
-              "description": ""
+              "title": "Overlander Daily Vlog - Latest Jeep Upgrades",
+              "url": "https://www.youtube.com/watch?v=vOcuYP8Ptqo",
+              "published": "2026-04-28T15:01:35Z",
+              "description": "These are the latest upgrades to our Jeep Wrangler Rubicon and Gladiator Rubicon.\n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHNYyUa\nAll Roads Taken - https://www.allroadstaken.com\nMOORE Expo - https://mooreexp"
             }
           ],
           "error": null
         },
         {
-          "creator": "TrailRecon",
-          "handle": "@TrailRecon",
-          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
+          "creator": "Casey 250",
+          "handle": "@Casey250",
+          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
           "videos": [],
           "error": null
         },
@@ -67,28 +61,34 @@
           "error": null
         },
         {
+          "creator": "Epic Adventure Outfitters",
+          "handle": "@EpicAdventureOutfitters",
+          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
+          "videos": [
+            {
+              "title": "They fit so nicely...#atlas #transfercase #jeep",
+              "url": "https://www.youtube.com/shorts/9SnmTko3nXo",
+              "published": "2026-04-28T18:55:01Z",
+              "description": ""
+            },
+            {
+              "title": "Jeep Wheels - Steel vs Alloy. Beadlock vs Non. We're Going There!",
+              "url": "https://www.youtube.com/watch?v=KWqLNNO63ZU",
+              "published": "2026-04-28T00:29:10Z",
+              "description": "Steel vs alloy. Beadlock vs non. \nTwo dudes. Zero diplomacy. \nLet's go.\n\n#JeepLife #AlloyWheels #Beadlock\n\nPaul and The Ginger walk straight into one of the most argued about topics in Jeep culture and refuse to apologize for their opinions.\n\nWheels. The decision every Jeep owner spends way too much time on, way too much money on, and way too much time defending on the internet afterward.\nAnd for good reason...because it actually matters.\n\nSteel or alloy. Beadlock or non. Offset, backspacing, si"
+            }
+          ],
+          "error": null
+        },
+        {
           "creator": "Life Style Overland",
           "handle": "@LifeStyleOverland",
           "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
           "videos": [],
           "error": null
-        },
-        {
-          "creator": "Casey 250",
-          "handle": "@Casey250",
-          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
-          "videos": [],
-          "error": null
         }
       ],
       "power_platform": [
-        {
-          "creator": "Shane Young",
-          "handle": "@ShanesCows",
-          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
-          "videos": [],
-          "error": null
-        },
         {
           "creator": "Matthew Devaney",
           "handle": "@MatthewDevaney",
@@ -97,24 +97,31 @@
           "error": null
         },
         {
-          "creator": "April Dunnam",
-          "handle": "@AprilDunnam",
-          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
-          "videos": [],
+          "creator": "Shane Young",
+          "handle": "@ShanesCows",
+          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
+          "videos": [
+            {
+              "title": "Stop Repeating Yourself - Build Custom Skills in Copilot Cowork",
+              "url": "https://www.youtube.com/watch?v=L0HxiiifsTo",
+              "published": "2026-04-28T12:30:27Z",
+              "description": "Copilot Cowork is awesome and if you add custom skills, it is next level! In this video, you will learn how to use Copilot Cowork to create custom skills for you. Then, we take a gnarly look at how to use ChatGPT to kind of create one for you, teaching you how the manual mechanics work. \n\nIf you aren't using Copilot Cowork today, you are behind. And if you are using it, why wouldn't you invest another few minutes and stop repeating yourself by using Custom Skills.\n\nUp your Power Apps Skills Toda"
+            }
+          ],
           "error": null
         },
         {
           "creator": "Reza Dorrani",
           "handle": "@RezaDorrani",
           "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
-          "videos": [
-            {
-              "title": "Power Apps Vibe + SharePoint Lists: Build a React App in Minutes 🤯",
-              "url": "https://www.youtube.com/watch?v=WkBO5li21lo",
-              "published": "2026-04-27T11:30:32Z",
-              "description": "In this video, I show you the brand new Power Apps Vibe experience with SharePoint Lists — and how to build a real React-based application in minutes without writing traditional Power Fx formulas.\n\nThis isn’t just a demo. This is an example of a real-world app built step-by-step using modern, AI-assisted development.\n\n🔥 What you’ll learn:\n→ Connect multiple SharePoint Lists using the new Vibe coding experience\n→ How Power Apps Vibe generates a React-based app\n→ Build a complete Issue Tracker app"
-            }
-          ],
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "April Dunnam",
+          "handle": "@AprilDunnam",
+          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
+          "videos": [],
           "error": null
         },
         {
@@ -139,6 +146,12 @@
           "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
           "videos": [
             {
+              "title": "The Agent Dude has so much new content it's crazy!",
+              "url": "https://www.youtube.com/shorts/Tvb890F9Dqk",
+              "published": "2026-04-28T22:52:01Z",
+              "description": ""
+            },
+            {
               "title": "How To Use Enhanced Task Completion",
               "url": "https://www.youtube.com/watch?v=9Z2sqgX3Q1s",
               "published": "2026-04-27T13:37:26Z",
@@ -150,81 +163,41 @@
       ],
       "ai": [
         {
-          "creator": "Alex Finn",
-          "handle": "@AlexFinn",
-          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
-          "videos": [
-            {
-              "title": "🔴LIVE: ChatGPT 5.5 Pro greatest AI model ever?",
-              "url": "https://www.youtube.com/watch?v=H0MT0lWm_kk",
-              "published": "2026-04-27T20:35:48Z",
-              "description": "Join the Vibe Coding Academy: https://vibecodingacademy.dev"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Chase AI",
-          "handle": "@ChaseAI",
-          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
-          "videos": [
-            {
-              "title": "Claude Code + Impeccable = Design CHEAT CODE",
-              "url": "https://www.youtube.com/watch?v=0-AosS67IGU",
-              "published": "2026-04-28T06:08:10Z",
-              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community with the prompts🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nFrontend design is one of Claude Code's greatest weakness, but this open source repo might be able to solve that.\n\nImpeccable gives Claude Code a proper design vocabulary, and shows it what good design, and bad design, actually looks like. We can also edit our web pages"
-            },
-            {
-              "title": "Top 3 GitHub repos for Claude Code frontend design (april)",
-              "url": "https://www.youtube.com/shorts/F4eCX6chiTg",
-              "published": "2026-04-26T20:29:04Z",
-              "description": ""
-            },
-            {
-              "title": "Chinese Open Source Repo Just Cloned Claude Design (its GOOD)",
-              "url": "https://www.youtube.com/shorts/AYE4nQfT8VU",
-              "published": "2026-04-26T20:24:15Z",
-              "description": ""
-            },
-            {
-              "title": "This Open Source Repo Just Cloned Claude Design (It's GOOD)",
-              "url": "https://www.youtube.com/watch?v=Nmk1wxoi6ys",
-              "published": "2026-04-26T19:21:17Z",
-              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community with the prompts🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nClaude Design is amazing.\n\nIts limits aren't.\n\nBut with the brand new Huashu Design repo, there is hope as the skill, built on the same system prompts Claude Design uses, gives us the ability to match Claude Design's outputs while drawing on our normal subscription usag"
-            }
-          ],
-          "error": null
-        },
-        {
           "creator": "NateBJones",
           "handle": "@NateBJones",
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
             {
+              "title": "GPT-5.5 vs Claude vs Gemini: The Real Difference Nobody's Talking About",
+              "url": "https://www.youtube.com/watch?v=9aIYhjeYxzM",
+              "published": "2026-04-28T14:00:14Z",
+              "description": "Full Story w/ Prompt Kit: https://natesnewsletter.substack.com/p/chatgpt-55-scored-87-where-the-next?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside the GPT-5.5 release when everyone is comparing benchmark deltas but missing that the floor moved?\n\nThe common story is that 5.5 is a little better than 5.4 — but the reality is that this model changes what you can reasonably ask a model to do, and I put it through three"
+            },
+            {
               "title": "OpenAI Just Gave Every Team A Free Employee. Here's The Catch.",
               "url": "https://www.youtube.com/watch?v=QrvVkm-8Jx4",
               "published": "2026-04-27T14:00:47Z",
               "description": "Full Story w/ Prompt Kit: https://natesnewsletter.substack.com/p/your-team-spends-5-hours-a-week-on?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside ChatGPT's new Workspace Agents launch? The common story is that this is just a chatbot upgrade — but the reality is more interesting.\n\nIn this video, I share the inside scoop on what Workspace Agents actually replaces and where it fits: • Why this threatens lightweight a"
-            },
-            {
-              "title": "Apple Just Positioned Itself for the Next Trillion Dollars",
-              "url": "https://www.youtube.com/watch?v=RaAFquzj5B8",
-              "published": "2026-04-26T17:00:36Z",
-              "description": "Full Story w/ Prompt Kit: https://natesnewsletter.substack.com/p/executive-briefing-the-ai-race-youre?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside Apple's AI strategy behind the Tim Cook succession?\nThe common story is a smooth handoff to an Apple lifer — but the reality is more interesting: Apple just restructured the entire company around a race the rest of the industry isn't running.\nIn this video, I share the"
             }
           ],
           "error": null
         },
         {
-          "creator": "Paul J Lipsky",
-          "handle": "@PaulJLipsky",
-          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
+          "creator": "Alex Finn",
+          "handle": "@AlexFinn",
+          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
           "videos": [
             {
-              "title": "Google AI Studio is Way Underrated (Free Course)",
-              "url": "https://www.youtube.com/watch?v=QDLAhBVF_6g",
-              "published": "2026-04-26T13:00:44Z",
-              "description": "Google AI Studio just got way more useful, so I’ll show you how to use Playground, Build, image generation, text-to-speech, and AI app creation without needing to code.\n\nHeads up, these updates may not be available worldwide yet. Just because I have access to them doesn't mean you will yet.\n\n0:00 Intro\n0:37 AI Studio Setup\n1:49 Playground\n3:97 Image Generation\n7:34 Text To Speech\n10:10 Better Chat\n15:40 Build Gallery\n17:17 Vibe Coding\n22:27 Example 2"
+              "title": "Hermes Agent w/ ChatGPT 5.5 is literally magic",
+              "url": "https://www.youtube.com/watch?v=B2wHaRDf3Qo",
+              "published": "2026-04-28T22:13:21Z",
+              "description": "Hermes Agent with ChatGPT 5.5 is excellent. Here is your full tutorial with use cases.\n\nFULL Claude bootcamp in the Vibe Coding Academy coming up: https://vibecodingacademy.dev\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nHeremes Agent:\nhermes-agent.nousresearch.com \n\nTimestamps:\n0:00 Intro\n0:39 Differences with OpenClaw\n3:25"
+            },
+            {
+              "title": "🔴LIVE: ChatGPT 5.5 Pro greatest AI model ever?",
+              "url": "https://www.youtube.com/watch?v=H0MT0lWm_kk",
+              "published": "2026-04-27T20:35:48Z",
+              "description": "Join the Vibe Coding Academy: https://vibecodingacademy.dev"
             }
           ],
           "error": null
@@ -244,15 +217,33 @@
           "error": null
         },
         {
-          "creator": "Simon Scrapes",
-          "handle": "@SimonScrapes",
-          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
+          "creator": "Chase AI",
+          "handle": "@ChaseAI",
+          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
           "videos": [
             {
-              "title": "How Smart People Are Using Claude Design",
-              "url": "https://www.youtube.com/watch?v=-_aQquBH5PU",
-              "published": "2026-04-26T17:07:17Z",
-              "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes \nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\nLinks to resources used:\n- SkillUI - https://github.com/amaancoderx/npxskillui\n- Taste Skill - https://github.com/leonxlnx/taste-skill\n- Claude Design - https://claude.ai/design\n\nIn this video, I'm moving beyond simple demos to show you how to use Claude Design to build real assets for a real business. We'll fix our design system, build "
+              "title": "This One Hack Improves Claude Code's Performance in 10 Seconds",
+              "url": "https://www.youtube.com/shorts/D-Y4qih2z8o",
+              "published": "2026-04-29T05:23:04Z",
+              "description": ""
+            },
+            {
+              "title": "Claude Code + Excalidraw = Diagram Demon",
+              "url": "https://www.youtube.com/shorts/YcThVySWfHc",
+              "published": "2026-04-28T15:00:57Z",
+              "description": ""
+            },
+            {
+              "title": "Impeccable Fixes Claude Code's Greatest Problem",
+              "url": "https://www.youtube.com/shorts/2jedTYUqkAs",
+              "published": "2026-04-28T12:30:08Z",
+              "description": ""
+            },
+            {
+              "title": "Impeccable Just Fixed Claude Code's Biggest Problem",
+              "url": "https://www.youtube.com/watch?v=0-AosS67IGU",
+              "published": "2026-04-28T06:08:10Z",
+              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community with the prompts🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nFrontend design is one of Claude Code's greatest weakness, but this open source repo might be able to solve that.\n\nImpeccable gives Claude Code a proper design vocabulary, and shows it what good design, and bad design, actually looks like. We can also edit our web pages"
             }
           ],
           "error": null
@@ -263,10 +254,31 @@
           "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
           "videos": [
             {
-              "title": "Where the Economy Thrives After AI",
-              "url": "https://www.youtube.com/watch?v=M2-hytpxccg",
-              "published": "2026-04-26T21:09:26Z",
-              "description": "A new economic argument suggests AI won’t simply wipe out work, but will shift value toward the parts of the economy where human presence, provenance, care, taste, and relationship matter most. NLW explores Alex Imas' case for a post-commodity economy, why automation may make relational work more valuable, and how the AI jobs debate is missing the question of what new demand gets unlocked when supply becomes abundant.\n\nSource: ⁠https://aleximas.substack.com/p/what-will-be-scarce⁠\n\nSIGN UP FOR OU"
+              "title": "How Deepseek v4 Connects to the US Grid",
+              "url": "https://www.youtube.com/watch?v=qkKEV9rkFqI",
+              "published": "2026-04-28T13:04:01Z",
+              "description": "Google's reported $40 billion investment into Anthropic and hyperscaler deals with Broadcom, Amazon, and Microsoft lock down gigawatts of compute for AI training. White House invocation of the Defense Production Act to bolster US electric‑grid infrastructure spotlights energy and supply‑chain constraints, creating a potential bottleneck for AI growth and upward pressure on electricity prices. DeepSeek V4 (PRO and Flash) debuts with million‑token context windows and pricing far below leading West"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Paul J Lipsky",
+          "handle": "@PaulJLipsky",
+          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Simon Scrapes",
+          "handle": "@SimonScrapes",
+          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
+          "videos": [
+            {
+              "title": "Give Me 20 Minutes. I’ll Teach You 80% of Claude Code.",
+              "url": "https://www.youtube.com/watch?v=0qqV4yv-Hss",
+              "published": "2026-04-28T15:52:03Z",
+              "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes \nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\nReady to master Claude Code? This video is your fast track to becoming a power user, covering the 15 concepts that make up 80% of real-world use cases. We'll explore the core foundations, master context management, and dive into personalizing your setup with skills and hooks. Finally, we'll level up by looking at how to build a true Agen"
             }
           ],
           "error": null
@@ -279,7 +291,7 @@
         "issue_number": 261,
         "issue_date": "2026-04-27",
         "url": "https://www.ppweekly.com/p/power-platform-weekly-issue-261",
-        "is_new": true,
+        "is_new": false,
         "sections": {
           "📰 Articles": [
             {
@@ -381,6 +393,88 @@
             {
               "title": "How to use AI and Power Automate to add tasks to MS Planner | AI Builder | No Copilot Licence",
               "url": "https://www.youtube.com/watch?v=AZlIbNvVo68"
+            }
+          ]
+        },
+        "error": null
+      },
+      "power_platform_dev_weekly": {
+        "name": "Power Platform Dev Weekly",
+        "issue_number": 291,
+        "issue_date": "2026-04-15",
+        "url": "https://www.ppdevweekly.com/p/291",
+        "is_new": false,
+        "sections": {
+          "🥇 Cover Story": [
+            {
+              "title": "Under the Hood: How Dataverse Skills Work and How to Write Your Own",
+              "url": "https://aidevme.com/under-the-hood-how-dataverse-skills-work-and-how-to-write-your-own/"
+            }
+          ],
+          "💎 Model Driven Apps & Dataverse": [
+            {
+              "title": "Reset / Restore the standard (OOTB) button in Dynamics 365 / Dataverse",
+              "url": "https://nishantrana.me/2026/04/14/reset-restore-the-standard-ootb-button-in-dynamics-365-dataverse/"
+            },
+            {
+              "title": "Preserving ‘modifiedon’ During Data Migration in Dynamics 365 / Dataverse",
+              "url": "https://nishantrana.me/2026/04/15/preserving-modifiedon-during-data-migration-in-dynamics-365-dataverse/"
+            }
+          ],
+          "🤖 Copilot & Code Apps": [
+            {
+              "title": "Declarative Agents with Work IQ MCP Servers",
+              "url": "https://nullpointer.se/declarative-agents-workiq.html"
+            }
+          ],
+          "👩‍💻 Dev to the Core": [
+            {
+              "title": "Connecting to Dataverse: Server-to-Server (S2S) Authentication Explained",
+              "url": "https://mytrial365.com/2026/04/02/connecting-to-dataverse-server-to-server-s2s-authentication-explained/"
+            },
+            {
+              "title": "second part",
+              "url": "https://mytrial365.com/2026/04/09/connecting-to-dataverse-multi-tenant-server-to-server-saas-isv-architecture/"
+            },
+            {
+              "title": "How to Create Your Own AI Coding Agent",
+              "url": "https://dev.to/wyattdave/how-to-create-your-own-ai-coding-agent-2h1o"
+            }
+          ],
+          "🚀 PCF & Custom Pages": [
+            {
+              "title": "PCF: Theme and missing border radius tokens",
+              "url": "https://butenko.pro/2026/04/10/pcf-theme-and-missing-border-radius-in-theme-tokens/"
+            }
+          ],
+          "🌎 Power Pages": [
+            {
+              "title": "Power Pages: A Governed Platform for Hosting",
+              "url": "https://www.engineeredcode.com/blog/power-pages-a-governed-platform-for-hosting"
+            }
+          ],
+          "🎮 Other Interesting Articles": [
+            {
+              "title": "Using AI to develop side projects?",
+              "url": "https://www.itaintboring.com/ai/a-semi-philosophical-discussion-with-claude-dont-just-write-it-off-its-a-worthy-experience/"
+            }
+          ],
+          "📺 Videos": [
+            {
+              "title": "VNet for Dataverse - How to not get your data stolen | Super understandable Explanation",
+              "url": "https://www.youtube.com/watch?v=uHu2mjrU_l8"
+            },
+            {
+              "title": "Master 5 Agent Orchestration Patterns in 18 Minutes",
+              "url": "https://www.youtube.com/watch?v=axS-yB8dhy0"
+            },
+            {
+              "title": "How to Evaluate Your Agents Using Test Sets",
+              "url": "https://www.youtube.com/watch?v=q36l1c2j2EI"
+            },
+            {
+              "title": "Copilot Studio: Publish To A Website With Single Sign-On",
+              "url": "https://www.youtube.com/watch?v=dUXE4FTx9Cw"
             }
           ]
         },
@@ -631,88 +725,6 @@
             {
               "title": "Discount Effectiveness Analysis in Power BI",
               "url": "https://www.youtube.com/watch?v=XAF-MtotcU8"
-            }
-          ]
-        },
-        "error": null
-      },
-      "power_platform_dev_weekly": {
-        "name": "Power Platform Dev Weekly",
-        "issue_number": 291,
-        "issue_date": "2026-04-15",
-        "url": "https://www.ppdevweekly.com/p/291",
-        "is_new": false,
-        "sections": {
-          "🥇 Cover Story": [
-            {
-              "title": "Under the Hood: How Dataverse Skills Work and How to Write Your Own",
-              "url": "https://aidevme.com/under-the-hood-how-dataverse-skills-work-and-how-to-write-your-own/"
-            }
-          ],
-          "💎 Model Driven Apps & Dataverse": [
-            {
-              "title": "Reset / Restore the standard (OOTB) button in Dynamics 365 / Dataverse",
-              "url": "https://nishantrana.me/2026/04/14/reset-restore-the-standard-ootb-button-in-dynamics-365-dataverse/"
-            },
-            {
-              "title": "Preserving ‘modifiedon’ During Data Migration in Dynamics 365 / Dataverse",
-              "url": "https://nishantrana.me/2026/04/15/preserving-modifiedon-during-data-migration-in-dynamics-365-dataverse/"
-            }
-          ],
-          "🤖 Copilot & Code Apps": [
-            {
-              "title": "Declarative Agents with Work IQ MCP Servers",
-              "url": "https://nullpointer.se/declarative-agents-workiq.html"
-            }
-          ],
-          "👩‍💻 Dev to the Core": [
-            {
-              "title": "Connecting to Dataverse: Server-to-Server (S2S) Authentication Explained",
-              "url": "https://mytrial365.com/2026/04/02/connecting-to-dataverse-server-to-server-s2s-authentication-explained/"
-            },
-            {
-              "title": "second part",
-              "url": "https://mytrial365.com/2026/04/09/connecting-to-dataverse-multi-tenant-server-to-server-saas-isv-architecture/"
-            },
-            {
-              "title": "How to Create Your Own AI Coding Agent",
-              "url": "https://dev.to/wyattdave/how-to-create-your-own-ai-coding-agent-2h1o"
-            }
-          ],
-          "🚀 PCF & Custom Pages": [
-            {
-              "title": "PCF: Theme and missing border radius tokens",
-              "url": "https://butenko.pro/2026/04/10/pcf-theme-and-missing-border-radius-in-theme-tokens/"
-            }
-          ],
-          "🌎 Power Pages": [
-            {
-              "title": "Power Pages: A Governed Platform for Hosting",
-              "url": "https://www.engineeredcode.com/blog/power-pages-a-governed-platform-for-hosting"
-            }
-          ],
-          "🎮 Other Interesting Articles": [
-            {
-              "title": "Using AI to develop side projects?",
-              "url": "https://www.itaintboring.com/ai/a-semi-philosophical-discussion-with-claude-dont-just-write-it-off-its-a-worthy-experience/"
-            }
-          ],
-          "📺 Videos": [
-            {
-              "title": "VNet for Dataverse - How to not get your data stolen | Super understandable Explanation",
-              "url": "https://www.youtube.com/watch?v=uHu2mjrU_l8"
-            },
-            {
-              "title": "Master 5 Agent Orchestration Patterns in 18 Minutes",
-              "url": "https://www.youtube.com/watch?v=axS-yB8dhy0"
-            },
-            {
-              "title": "How to Evaluate Your Agents Using Test Sets",
-              "url": "https://www.youtube.com/watch?v=q36l1c2j2EI"
-            },
-            {
-              "title": "Copilot Studio: Publish To A Website With Single Sign-On",
-              "url": "https://www.youtube.com/watch?v=dUXE4FTx9Cw"
             }
           ]
         },
