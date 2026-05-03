@@ -1,27 +1,13 @@
 {
-  "generated_at": "2026-05-02T11:17:27.884337Z",
+  "generated_at": "2026-05-03T11:16:22.548100Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
         {
-          "creator": "This Story Till Now",
-          "handle": "@ThisStoryTillNow",
-          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "TrailRecon",
-          "handle": "@TrailRecon",
-          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "VentureToRoam",
-          "handle": "@VentureToRoam",
-          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
+          "creator": "Life Style Overland",
+          "handle": "@LifeStyleOverland",
+          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
           "videos": [],
           "error": null
         },
@@ -36,48 +22,14 @@
           "creator": "Casey 250",
           "handle": "@Casey250",
           "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
-          "videos": [
-            {
-              "title": "I Built the Perfect Off-Grid Power System in My Jeep",
-              "url": "https://www.youtube.com/watch?v=4PyBrMpC0-0",
-              "published": "2026-04-30T22:00:11Z",
-              "description": "📌Download onX Offroad to try for FREE onX Offroad - https://bit.ly/4h0stAr \n💥 Use Code: CASEY250 for a discount\n\n🔥 Links to Products in This Video:\n\nEcoflow Delta 3 Max Plus - https://bit.ly/3L24g23\n500w Alternator Charger - https://bit.ly/4eTNjUp\nStarlink - https://bit.ly/4pDYEtY\nBouge RV Light - https://amzn.to/421tHpZ \nUSB 800w box  - https://amzn.to/49ljcSe\nStarlink AC adapter - https://amzn.to/4uj9GXQ\n\nGetting reliable power off-grid shouldn't be a struggle, but finding the right way to int"
-            }
-          ],
+          "videos": [],
           "error": null
         },
         {
-          "creator": "Ozark Overland Adventure",
-          "handle": "@OzarkOverlandAdventures",
-          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
-          "videos": [
-            {
-              "title": "Moab Adventure Trail Day 4 - Into the Most Remote Areas",
-              "url": "https://www.youtube.com/watch?v=mGm3qHrEe1A",
-              "published": "2026-05-01T22:00:52Z",
-              "description": "Day 4 of our 5 day overlanding loop around Moab takes you from Chicken Corners into the most remote area of Moab where few people visit.\n\nGet up to $500 off with Hypershell’s Anniversary Sale: https://hypershell.tech/a/omnitrack/8e2e95dd\n\nMoab Adventure Trail GPX File - https://drive.google.com/file/d/1MJX8a8Ah6gdi-jTkFKJK_f4gm5LYu9M1/view?usp=sharing\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease"
-            },
-            {
-              "title": "GEAR Summit - Epic Off Roading plus Amazing Firearms Training",
-              "url": "https://www.youtube.com/watch?v=X2Fn-wYLJ3Q",
-              "published": "2026-04-30T15:01:04Z",
-              "description": "We attend the first ever GEAR Summit put on by Gun Owners of America at Merus Adventure Park and its my new favorite overlanding event!\n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHNYyUa\nAll Roads Taken - https"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Life Style Overland",
-          "handle": "@LifeStyleOverland",
-          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
-          "videos": [
-            {
-              "title": "After 210,000 hard miles in our 4Runner...",
-              "url": "https://www.youtube.com/watch?v=-utL81W1CTQ",
-              "published": "2026-05-01T00:00:00Z",
-              "description": "Our legendary 4Runner named Silver has taken us to some incredible places these past 12 years but constant hard use has taken its toll. Is this the end of the trail for her?\n\nSupport the Channel:\nhttps://lso.link/support"
-            }
-          ],
+          "creator": "This Story Till Now",
+          "handle": "@ThisStoryTillNow",
+          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "videos": [],
           "error": null
         },
         {
@@ -93,20 +45,41 @@
             }
           ],
           "error": null
-        }
-      ],
-      "power_platform": [
+        },
         {
-          "creator": "Matthew Devaney",
-          "handle": "@MatthewDevaney",
-          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
+          "creator": "VentureToRoam",
+          "handle": "@VentureToRoam",
+          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
           "videos": [],
           "error": null
         },
         {
-          "creator": "Lisa Crosbie",
-          "handle": "@LisaCrosbie",
-          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
+          "creator": "TrailRecon",
+          "handle": "@TrailRecon",
+          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Ozark Overland Adventure",
+          "handle": "@OzarkOverlandAdventures",
+          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
+          "videos": [
+            {
+              "title": "Moab Adventure Trail Day 4 - Into the Most Remote Areas",
+              "url": "https://www.youtube.com/watch?v=mGm3qHrEe1A",
+              "published": "2026-05-01T22:00:52Z",
+              "description": "Day 4 of our 5 day overlanding loop around Moab takes you from Chicken Corners into the most remote area of Moab where few people visit.\n\nGet up to $500 off with Hypershell’s Anniversary Sale: https://hypershell.tech/a/omnitrack/8e2e95dd\n\nMoab Adventure Trail GPX File - https://drive.google.com/file/d/1MJX8a8Ah6gdi-jTkFKJK_f4gm5LYu9M1/view?usp=sharing\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease"
+            }
+          ],
+          "error": null
+        }
+      ],
+      "power_platform": [
+        {
+          "creator": "Reza Dorrani",
+          "handle": "@RezaDorrani",
+          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
           "videos": [],
           "error": null
         },
@@ -118,9 +91,9 @@
           "error": null
         },
         {
-          "creator": "Reza Dorrani",
-          "handle": "@RezaDorrani",
-          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
+          "creator": "Matthew Devaney",
+          "handle": "@MatthewDevaney",
+          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
           "videos": [],
           "error": null
         },
@@ -128,32 +101,18 @@
           "creator": "April Dunnam",
           "handle": "@AprilDunnam",
           "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
-          "videos": [
-            {
-              "title": "Can Copilot Cowork Fix My Slides Automatically? | Can it Cowork Ep. 1",
-              "url": "https://www.youtube.com/watch?v=osjHPVfNF3w",
-              "published": "2026-04-30T13:15:06Z",
-              "description": "Today I put Copilot Cowork to the test in a real scenario I run into all the time.\n\nI had a slide deck for a conference presentation that needed to match the official event template. Instead of manually reformatting every slide, I wanted to see if Copilot Cowork could take my existing slides and automatically align them to the template deck.\n\nSo, I tried it live.\n\nIn this episode of Can it Cowork?, I walk through the experiment step-by-step and see if Copilot Cowork can actually handle this real"
-            }
-          ],
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Lisa Crosbie",
+          "handle": "@LisaCrosbie",
+          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
+          "videos": [],
           "error": null
         }
       ],
       "fabric_powerbi": [
-        {
-          "creator": "Guy in a Cube",
-          "handle": "@GuyInACube",
-          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
-          "videos": [
-            {
-              "title": "Most Microsoft Fabric Workspaces Are Organized Wrong",
-              "url": "https://www.youtube.com/watch?v=NTee1Q4t9C0",
-              "published": "2026-04-30T14:30:17Z",
-              "description": "Most teams treat **Microsoft Fabric workspaces like folders**.\n\nA place to organize reports.\nA place to store dashboards.\nA place to group projects.\n\nBut workspaces aren’t folders.\n\nThey define **accountability boundaries**.\n\nIn this video, Patrick walks through how he evaluates **workspace structure in Microsoft Fabric** and why poor workspace design leads to:\n\n• unclear ownership\n• project sprawl\n• permission chaos\n• blurred Dev vs Test vs Prod boundaries\n\nUsing a real Fabric environment, Patr"
-            }
-          ],
-          "error": null
-        },
         {
           "creator": "Dewain Robinson",
           "handle": "@DewainRobinson",
@@ -164,58 +123,50 @@
               "url": "https://www.youtube.com/shorts/-AGyN9YhjmY",
               "published": "2026-05-01T15:00:18Z",
               "description": "Summary\n\nThe conversation emphasizes the role of AI as an amplifier rather than a competitor, encouraging individuals to leverage AI to enhance their productivity and value proposition within their organizations.\n\nTakeaways\n\n* AI as an amplifier\n* Value proposition through AI\n\nChapters\n\n* 00:00 AI as an Amplifier"
-            },
-            {
-              "title": "The Agent Dudecast EP6 Phil Topness / Luis Camino",
-              "url": "https://www.youtube.com/watch?v=jo0pCvMv2B4",
-              "published": "2026-04-30T15:01:30Z",
-              "description": "PODCAST SUMMARY\n\nThe episode introduces the evolution of the Agent Dude channel, shifting to practical, real‑world use of agents and Copilot. It covers the role of the Copilot Acceleration Team (CAT) and CAPE in helping organizations adopt, scale, and govern AI.\n\nKey themes include the Frontier Transformation Pattern for AI maturity, the Power Up program for accelerating learning, and the Guidance Center and live webinars as core enablement resources. Boot camps, hands‑on labs, and the Copilot S"
             }
           ],
+          "error": null
+        },
+        {
+          "creator": "Guy in a Cube",
+          "handle": "@GuyInACube",
+          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
+          "videos": [],
           "error": null
         }
       ],
       "ai": [
         {
-          "creator": "NateBJones",
-          "handle": "@NateBJones",
-          "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
+          "creator": "Alex Finn",
+          "handle": "@AlexFinn",
+          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
           "videos": [
             {
-              "title": "When AI Optimizes for the Wrong Objective #aifails",
-              "url": "https://www.youtube.com/shorts/AyZGx1nWzis",
-              "published": "2026-05-02T03:00:10Z",
-              "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/klarna-saved-60-million-and-broke?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when Klarna's AI agent does the work of 853 employees but costs the company something far more valuable than the $60 million it saved? The common story is that AI can't handle nuance—but the reality is more interesting when the AI worked too well at optimizing for exactly the wrong"
-            },
+              "title": "LIVE: OpenClaw vs Hermes Agent: The ultimate showdown",
+              "url": "https://www.youtube.com/watch?v=UCPE3wPAcho",
+              "published": "2026-05-01T20:48:54Z",
+              "description": "Join the Vibe Coding Academy: https://www.skool.com/vibe-coding-academy"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Nate Herk",
+          "handle": "@NateHerk",
+          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Paul J Lipsky",
+          "handle": "@PaulJLipsky",
+          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
+          "videos": [
             {
-              "title": "OKRs Were Never Built for AI #aiagents #futureofwork #shorts",
-              "url": "https://www.youtube.com/shorts/RQXvde0wCPs",
-              "published": "2026-05-02T00:00:34Z",
-              "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/klarna-saved-60-million-and-broke?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when Klarna's AI agent does the work of 853 employees but costs the company something far more valuable than the $60 million it saved? The common story is that AI can't handle nuance—but the reality is more interesting when the AI worked too well at "
-            },
-            {
-              "title": "RTX 5090, Mac Studio, or DGX Spark? I tried all three.",
-              "url": "https://www.youtube.com/watch?v=iUSdS-6uwr4",
-              "published": "2026-05-01T14:01:13Z",
-              "description": "Full Story w/ Prompt Kit: https://natesnewsletter.substack.com/p/personal-ai-computer-stack?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside the personal AI computer movement when everyone is defaulting to cloud models but the real power comes from owning the substrate underneath?\n\nThe common framing is local versus cloud — but the reality is that this is a routing decision, and the long-term reason to build your own"
-            },
-            {
-              "title": "Tests vs Scenarios: Which One Actually Works #softwaredevelopment #QA #testing",
-              "url": "https://www.youtube.com/shorts/g2occe4xMHk",
-              "published": "2026-05-01T03:00:45Z",
-              "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/the-5-level-framework-that-explains?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when 90% of Claude Code was written by Claude Code, yet most developers using AI get measurably slower? The common story is that AI coding tools make everyone faster—but the reality is more complicated when a rigorous study found experienced develo"
-            },
-            {
-              "title": "What Actually Stops Leaders From Deciding #psychology #truth",
-              "url": "https://www.youtube.com/shorts/21KNrDoIXnM",
-              "published": "2026-05-01T00:00:03Z",
-              "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/gemini-31-pro-broke-every-benchmark?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when Google ships the smartest AI model on the planet, prices it at a seventh of the competition, and doesn't care if you keep using Claude or ChatGPT? The common story is that this is another benchmark race—but the reality is more interesting when"
-            },
-            {
-              "title": "Microsoft Is Testing Claude Against Its Own Copilot. Here's Why.",
-              "url": "https://www.youtube.com/watch?v=JvCtGjrn_N0",
-              "published": "2026-04-30T14:00:29Z",
-              "description": "Full Story w/ Prompt Kit: https://natesnewsletter.substack.com/p/wrong-ai-default?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside corporate AI procurement when everyone on your team knows the default tool can't do the job but saying so makes you sound like the problem instead of the person trying to get work done?\n\nThe common framing is that you're asking for an exception — but the reality is that your company is ex"
+              "title": "AI News: Codex Surges; Free NotebookLM Updates; Viral Image Prompts",
+              "url": "https://www.youtube.com/watch?v=tIEbxKQDL4s",
+              "published": "2026-05-02T13:01:37Z",
+              "description": "Try i10x: https://i10x.ai?fpr=paul53\nSave 15% with code \"PJL15\"\n\nPOTT:\n\n\"Redraw the attached image in the most clumsy, scribbly, and utterly pathetic way possible. Use a white background, and make it look like it was drawn in MS Paint with a mouse.\nIt should be vaguely similar but also not really, kind of matching but also off in a confusing, awkward way, with that low-quality pixel-by-pixel feel that really emphasizes how ridiculously bad it is. Actually, you know what, whatever, just draw it h"
             }
           ],
           "error": null
@@ -225,6 +176,24 @@
           "handle": "@ChaseAI",
           "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
           "videos": [
+            {
+              "title": "Create a Custom Agentic OS with Claude Code in 3 Steps",
+              "url": "https://www.youtube.com/shorts/X4cQwbSNDtM",
+              "published": "2026-05-02T23:42:25Z",
+              "description": ""
+            },
+            {
+              "title": "Do NOT Miss These 10 Open Source Claude Code Tools",
+              "url": "https://www.youtube.com/shorts/yKZtGNA_MWg",
+              "published": "2026-05-02T23:36:14Z",
+              "description": ""
+            },
+            {
+              "title": "Top 10 NEW Open Source Claude Code Tools (May)",
+              "url": "https://www.youtube.com/watch?v=6cYBFfA7Nyk",
+              "published": "2026-05-02T23:01:39Z",
+              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community with the prompts🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nThe open source community is exploding with AI projects, yet its almost impossible to find ones that actually move the needle.\n\nIn today's video, I show you 10 new open source AI projects you need to check out if you use Claude Code\n\n🔨Tools:\n\n1. caveman: https://github."
+            },
             {
               "title": "Two Open Source Claude Design Alternatives",
               "url": "https://www.youtube.com/shorts/mdiSnFLzQaI",
@@ -248,85 +217,50 @@
               "url": "https://www.youtube.com/shorts/D2DjQp03I5I",
               "published": "2026-05-01T14:00:18Z",
               "description": ""
-            },
-            {
-              "title": "n8n Just Got a New Tool (and it can SUPERCHARGE Claude Automations)",
-              "url": "https://www.youtube.com/shorts/Op-OpCjs0KE",
-              "published": "2026-05-01T11:15:03Z",
-              "description": ""
-            },
-            {
-              "title": "This New n8n Tool Just Changed Claude Code Automations",
-              "url": "https://www.youtube.com/watch?v=Gq0l4IYRIIU",
-              "published": "2026-05-01T07:23:56Z",
-              "description": "⚡Master Claude Code: https://www.skool.com/chase-ai\n\n🔥FREE community with the prompts🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nN8N just released a brand new tool, the N8N MCP server, designed with agentic coding in mind. In this video, we dive into its capabilities and talk about where it fits into an AI landscape dominated by agentic coding tools.\n\n⏰TIMESTAMPS:\n\n0:00 - Intro\n0:22 -  n8n MCP\n3:57 - MCP Install + Demo\n9:35 - Final Though"
-            },
-            {
-              "title": "The 7 Levels of Claude Code & Content (From Slop to Agentic)",
-              "url": "https://www.youtube.com/watch?v=S6YwrVql83U",
-              "published": "2026-04-30T15:34:28Z",
-              "description": "⚡Master Claude Code: https://www.skool.com/chase-ai\n\n🔥FREE community with the prompts🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nMost people have zero clue how to use Claude Code as their marketing engine. Instead, it becomes a vehicle for AI slop, hurting your brand and reputation in the process.\n\nIn this video, I supply the antidote as we traverse the seven levels of Claude Code marketing so you can understand how to use this tool to su"
             }
           ],
           "error": null
         },
         {
-          "creator": "Alex Finn",
-          "handle": "@AlexFinn",
-          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
+          "creator": "NateBJones",
+          "handle": "@NateBJones",
+          "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
             {
-              "title": "LIVE: OpenClaw vs Hermes Agent: The ultimate showdown",
-              "url": "https://www.youtube.com/watch?v=UCPE3wPAcho",
-              "published": "2026-05-01T20:48:54Z",
-              "description": "Join the Vibe Coding Academy: https://www.skool.com/vibe-coding-academy"
+              "title": "AI Works Too Well at the Wrong Thing #IntentEngineering #AItruth",
+              "url": "https://www.youtube.com/shorts/YRiPVdPqTlk",
+              "published": "2026-05-03T03:00:36Z",
+              "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/klarna-saved-60-million-and-broke?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when Klarna's AI agent does the work of 853 employees but costs the company something far more valuable than the $60 million it saved? The common story is that AI can't handle nuance—but the reality is more interesting when the AI worked too well at "
             },
             {
-              "title": "ChatGPT 5.5 Codex is the greatest AI coding tool ever. Here's how to use it",
-              "url": "https://www.youtube.com/watch?v=iz3_xhi6iQE",
-              "published": "2026-04-30T17:54:13Z",
-              "description": "ChatGPT 5.5 Codex is the great AI coding tool ever. Here's how to use it\n\nFULL Claude bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nThe prompt:\nI want to build out a full stock investing app. This is an app where I can enter a company or t"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Nate Herk",
-          "handle": "@NateHerk",
-          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-          "videos": [
-            {
-              "title": "Build & Sell Claude Code Operating Systems (2+ Hour Course)",
-              "url": "https://www.youtube.com/watch?v=bCljOfCH8Ms",
-              "published": "2026-05-01T07:30:47Z",
-              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=ai-os-course\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=ai-os-course\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nThis is the full walkthrough of how I build my AI "
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Paul J Lipsky",
-          "handle": "@PaulJLipsky",
-          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "AI Daily Brief",
-          "handle": "@AIDailyBrief",
-          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
-          "videos": [
-            {
-              "title": "How Harness-as-a-Service Will Change Agents",
-              "url": "https://www.youtube.com/watch?v=jvqQ8VlhO-w",
-              "published": "2026-05-01T14:51:50Z",
-              "description": "Big tech earnings show an AI-driven cloud surge and soaring compute spending across Google, Amazon, Microsoft, and Meta. Harness-as-a-service emerges as a new infrastructure layer, with cursor SDK, managed agents, and hosted runtimes providing sandboxed execution environments. Benchmarks and demos reveal large performance gains from harness improvements and rapid growth of agentic apps for coding, IT triage, and workflow automation.\n\nThe AI Daily Brief helps you understand the most important new"
+              "title": "The $60M AI Win That Wasn't #ai #shorts",
+              "url": "https://www.youtube.com/shorts/J-lOw3au-0E",
+              "published": "2026-05-03T00:00:31Z",
+              "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/klarna-saved-60-million-and-broke?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when Klarna's AI agent does the work of 853 employees but costs the company something far more valuable than the $60 million it saved? The common story is that AI can't handle nuance—but the reality is more interesting when the AI worked too well at optimizing for exactly the wrong"
             },
             {
-              "title": "The AI Subsidy Era is Over",
-              "url": "https://www.youtube.com/watch?v=5MPFyOKlASc",
-              "published": "2026-04-30T15:55:36Z",
-              "description": "End of the AI subsidy era forces a shift from flat-fee subscriptions to usage-based pricing as agentic, token-heavy workflows escalate inference costs.  \nAnthropic, OpenAI, Microsoft, and GitHub Copilot reveal capacity constraints, model metering, and steep price multipliers with direct impacts on vendor competition and market expectations. Practical strategies include auditing AI spending, running cheap-model bake-offs, appointing a model sommelier, building escalation paths, and maintaining an"
+              "title": "Anthropic Might Buy Atlassian For $40B. Here's Why It Makes Sense.",
+              "url": "https://www.youtube.com/watch?v=FDkvRl1RlT0",
+              "published": "2026-05-02T15:00:31Z",
+              "description": "Full Story w/ Prompt Kit: https://natesnewsletter.substack.com/p/issue-trackers-agent-infrastructure?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\n\nWhat's really happening inside the issue tracker category when Linear's CEO says issue tracking is dead but OpenAI publishes Symphony using Linear as the control plane for autonomous coding agents?\n\nThe common story is that tickets are process overhead waiting to be eliminated — but the reality is t"
+            },
+            {
+              "title": "When AI Optimizes for the Wrong Objective #aifails",
+              "url": "https://www.youtube.com/shorts/AyZGx1nWzis",
+              "published": "2026-05-02T03:00:10Z",
+              "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/klarna-saved-60-million-and-broke?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when Klarna's AI agent does the work of 853 employees but costs the company something far more valuable than the $60 million it saved? The common story is that AI can't handle nuance—but the reality is more interesting when the AI worked too well at optimizing for exactly the wrong"
+            },
+            {
+              "title": "OKRs Were Never Built for AI #aiagents #futureofwork #shorts",
+              "url": "https://www.youtube.com/shorts/RQXvde0wCPs",
+              "published": "2026-05-02T00:00:34Z",
+              "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/klarna-saved-60-million-and-broke?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when Klarna's AI agent does the work of 853 employees but costs the company something far more valuable than the $60 million it saved? The common story is that AI can't handle nuance—but the reality is more interesting when the AI worked too well at "
+            },
+            {
+              "title": "RTX 5090, Mac Studio, or DGX Spark? I tried all three.",
+              "url": "https://www.youtube.com/watch?v=iUSdS-6uwr4",
+              "published": "2026-05-01T14:01:13Z",
+              "description": "Full Story w/ Prompt Kit: https://natesnewsletter.substack.com/p/personal-ai-computer-stack?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside the personal AI computer movement when everyone is defaulting to cloud models but the real power comes from owning the substrate underneath?\n\nThe common framing is local versus cloud — but the reality is that this is a routing decision, and the long-term reason to build your own"
             }
           ],
           "error": null
@@ -337,10 +271,30 @@
           "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
           "videos": [
             {
-              "title": "Stop Downloading Claude Code Skills. Do This Instead.",
-              "url": "https://www.youtube.com/watch?v=FD53kEpLh9c",
-              "published": "2026-04-30T18:38:29Z",
-              "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes \nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\nMost downloaded Claude skills are built for a single task, but real work is a sequence of connected processes. In this video, we'll show you how to stop using skills in isolation and avoid building bloated \"mega-skills\". You'll learn the framework for building Skill Systems: modular, focused skills chained together into powerful, end-to-"
+              "title": "Creating Your Own Agentic OS is Easy (Insanely Powerful)",
+              "url": "https://www.youtube.com/watch?v=w0S-khYCaB4",
+              "published": "2026-05-02T16:33:16Z",
+              "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes\nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\n\nEver wondered why AI tools like Claude Code give you generic output and forget context? It's not about better prompts; it's about the system underneath. In this video, I break down exactly how to build your own Agentic Operating System step-by-step. You'll learn how to give your AI a memory, teach it repeatable skills, and create a struc"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "AI Daily Brief",
+          "handle": "@AIDailyBrief",
+          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
+          "videos": [
+            {
+              "title": "The Week AI Grew Up",
+              "url": "https://www.youtube.com/watch?v=IpD1chtKILE",
+              "published": "2026-05-02T13:12:06Z",
+              "description": "Transition from startup-style AI to infrastructure-era AI marked by explosive token demand, compute bottlenecks, and a shift to usage-based pricing.  \nMarket signals include roughly 40% higher GPU rental costs, record cloud growth at major providers, and widespread adoption of per-use billing to manage token scarcity. Product and policy developments highlight agent and harness platforms such as Cursor and Codex, government scrutiny of supply‑chain and deployment risk, and anomalous model behavio"
+            },
+            {
+              "title": "How Harness-as-a-Service Will Change Agents",
+              "url": "https://www.youtube.com/watch?v=jvqQ8VlhO-w",
+              "published": "2026-05-01T14:51:50Z",
+              "description": "Big tech earnings show an AI-driven cloud surge and soaring compute spending across Google, Amazon, Microsoft, and Meta. Harness-as-a-service emerges as a new infrastructure layer, with cursor SDK, managed agents, and hosted runtimes providing sandboxed execution environments. Benchmarks and demos reveal large performance gains from harness improvements and rapid growth of agentic apps for coding, IT triage, and workflow automation.\n\nThe AI Daily Brief helps you understand the most important new"
             }
           ],
           "error": null
