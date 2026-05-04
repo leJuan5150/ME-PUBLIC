@@ -1,14 +1,49 @@
 {
-  "generated_at": "2026-05-03T11:16:22.548100Z",
+  "generated_at": "2026-05-04T11:35:37.180970Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
         {
+          "creator": "TrailRecon",
+          "handle": "@TrailRecon",
+          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
+          "videos": [
+            {
+              "title": "This Trail Leads to New Mexico's Weirdest Town",
+              "url": "https://www.youtube.com/watch?v=LA68kMRcEbk",
+              "published": "2026-05-03T14:00:34Z",
+              "description": "This adventure I'm in Truth or Consequences, New Mexico for two days of exploring on and off the trail. The first day runs the Rio Grande Trail north toward town, with side trips up to old mineshafts, a long shelf road, and one section that turned me around. The second day is spent walking the streets of one of the strangest small towns in America, a place that traded its name to a radio show in 1950, sits on top of geothermal hot springs the Apache held sacred for centuries, and still has a fad"
+            }
+          ],
+          "error": null
+        },
+        {
           "creator": "Life Style Overland",
           "handle": "@LifeStyleOverland",
           "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
           "videos": [],
+          "error": null
+        },
+        {
+          "creator": "This Story Till Now",
+          "handle": "@ThisStoryTillNow",
+          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Ozark Overland Adventure",
+          "handle": "@OzarkOverlandAdventures",
+          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
+          "videos": [
+            {
+              "title": "Bluetti Elite 300  - How we use it in our Truck Camper",
+              "url": "https://www.youtube.com/watch?v=ggkiGbwtm8c",
+              "published": "2026-05-03T15:01:08Z",
+              "description": "The Bluetti Elite 300 packs so much power in a small package, it's the perfect power station for any truck camper, van, or RV.\n\nElite 300: https://reurl.cc/0moNMM\nCode: OZARK8OFF (8% off for Elite 300)\n#bluetti #powerstation #elite300 #SpringPowerMood\n\nMoab Adventure Trail GPX File - https://drive.google.com/file/d/1MJX8a8Ah6gdi-jTkFKJK_f4gm5LYu9M1/view?usp=sharing\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadve"
+            }
+          ],
           "error": null
         },
         {
@@ -26,24 +61,10 @@
           "error": null
         },
         {
-          "creator": "This Story Till Now",
-          "handle": "@ThisStoryTillNow",
-          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "Epic Adventure Outfitters",
           "handle": "@EpicAdventureOutfitters",
           "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
-          "videos": [
-            {
-              "title": "Lifetime Jeep Owner Drives Ford Ranger Raptor",
-              "url": "https://www.youtube.com/watch?v=KT0D0QlD9-E",
-              "published": "2026-05-01T18:55:01Z",
-              "description": "He drove a Ford. Voluntarily. With his own hands. \nWe're still processing it. Welcome to the video nobody saw coming.\n\n#FordRangerRaptor #OffRoad #4x4\n\nThe Ginger, a camera, and a Ford Ranger Raptor that had absolutely no idea what it was getting itself into.\n\nLanden owns a Ford Ranger Raptor. Landen is brave. Landen let The Ginger put it on the hoist, pop the hood, and then take it out for a drive with absolutely zero filter and zero mercy.\nWhat follows is one of the most brutally honest vehicl"
-            }
-          ],
+          "videos": [],
           "error": null
         },
         {
@@ -52,35 +73,21 @@
           "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
           "videos": [],
           "error": null
-        },
-        {
-          "creator": "TrailRecon",
-          "handle": "@TrailRecon",
-          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Ozark Overland Adventure",
-          "handle": "@OzarkOverlandAdventures",
-          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
-          "videos": [
-            {
-              "title": "Moab Adventure Trail Day 4 - Into the Most Remote Areas",
-              "url": "https://www.youtube.com/watch?v=mGm3qHrEe1A",
-              "published": "2026-05-01T22:00:52Z",
-              "description": "Day 4 of our 5 day overlanding loop around Moab takes you from Chicken Corners into the most remote area of Moab where few people visit.\n\nGet up to $500 off with Hypershell’s Anniversary Sale: https://hypershell.tech/a/omnitrack/8e2e95dd\n\nMoab Adventure Trail GPX File - https://drive.google.com/file/d/1MJX8a8Ah6gdi-jTkFKJK_f4gm5LYu9M1/view?usp=sharing\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease"
-            }
-          ],
-          "error": null
         }
       ],
       "power_platform": [
         {
-          "creator": "Reza Dorrani",
-          "handle": "@RezaDorrani",
-          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
-          "videos": [],
+          "creator": "Matthew Devaney",
+          "handle": "@MatthewDevaney",
+          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
+          "videos": [
+            {
+              "title": "How To See HIDDEN DETAILS In Copilot Studio Transcripts",
+              "url": "https://www.youtube.com/watch?v=uPWyhoRqo-0",
+              "published": "2026-05-03T20:11:46Z",
+              "description": "Today I’m gonna show you how to get full conversation transcripts for your agents in Copilot Studio. Including the hidden stuff.\n\nThat’s right the hidden stuff. Because the details you see over here in the activity tab, that’s only half the story. And many times important details are missing. The way we are going to do it is with this free, downloadable app. I vibe coded it with Power Apps and it allows you to easily review the transcripts in an environment.\n\nLet’s take a look at the Copilot Stu"
+            }
+          ],
           "error": null
         },
         {
@@ -91,10 +98,24 @@
           "error": null
         },
         {
-          "creator": "Matthew Devaney",
-          "handle": "@MatthewDevaney",
-          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
+          "creator": "Lisa Crosbie",
+          "handle": "@LisaCrosbie",
+          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
           "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Reza Dorrani",
+          "handle": "@RezaDorrani",
+          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
+          "videos": [
+            {
+              "title": "NEW Data Grid Control in Canvas Power Apps — Explained",
+              "url": "https://www.youtube.com/watch?v=iX-GKh6G0DA",
+              "published": "2026-05-04T11:30:39Z",
+              "description": "The NEW Data Grid Modern Control in Canvas Power Apps is here — and this video is a full deep dive.\n\nThe Data Grid displays records in a column-and-row layout built on Fluent UI. You can connect it to data sources like SharePoint, Dataverse, or collections. It supports virtual scrolling for large datasets, optional search filtering, sortable columns, and selectable rows. Columns are configured as sub-controls and support multiple types including text, number, phone, email, URL, and button. Use i"
+            }
+          ],
           "error": null
         },
         {
@@ -103,129 +124,49 @@
           "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
           "videos": [],
           "error": null
-        },
-        {
-          "creator": "Lisa Crosbie",
-          "handle": "@LisaCrosbie",
-          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
-          "videos": [],
-          "error": null
         }
       ],
       "fabric_powerbi": [
         {
-          "creator": "Dewain Robinson",
-          "handle": "@DewainRobinson",
-          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
+          "creator": "Guy in a Cube",
+          "handle": "@GuyInACube",
+          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
           "videos": [
             {
-              "title": "Collaborate with AI, Not Compete",
-              "url": "https://www.youtube.com/shorts/-AGyN9YhjmY",
-              "published": "2026-05-01T15:00:18Z",
-              "description": "Summary\n\nThe conversation emphasizes the role of AI as an amplifier rather than a competitor, encouraging individuals to leverage AI to enhance their productivity and value proposition within their organizations.\n\nTakeaways\n\n* AI as an amplifier\n* Value proposition through AI\n\nChapters\n\n* 00:00 AI as an Amplifier"
+              "title": "Marthe don't agree! Silver is the most important in the medallion architecture. 🏅 #dataarchitecture",
+              "url": "https://www.youtube.com/shorts/iFY_mGxVEiM",
+              "published": "2026-05-03T17:31:06Z",
+              "description": ""
             }
           ],
           "error": null
         },
         {
-          "creator": "Guy in a Cube",
-          "handle": "@GuyInACube",
-          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
+          "creator": "Dewain Robinson",
+          "handle": "@DewainRobinson",
+          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
           "videos": [],
           "error": null
         }
       ],
       "ai": [
         {
-          "creator": "Alex Finn",
-          "handle": "@AlexFinn",
-          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
-          "videos": [
-            {
-              "title": "LIVE: OpenClaw vs Hermes Agent: The ultimate showdown",
-              "url": "https://www.youtube.com/watch?v=UCPE3wPAcho",
-              "published": "2026-05-01T20:48:54Z",
-              "description": "Join the Vibe Coding Academy: https://www.skool.com/vibe-coding-academy"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Nate Herk",
-          "handle": "@NateHerk",
-          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Paul J Lipsky",
-          "handle": "@PaulJLipsky",
-          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
-          "videos": [
-            {
-              "title": "AI News: Codex Surges; Free NotebookLM Updates; Viral Image Prompts",
-              "url": "https://www.youtube.com/watch?v=tIEbxKQDL4s",
-              "published": "2026-05-02T13:01:37Z",
-              "description": "Try i10x: https://i10x.ai?fpr=paul53\nSave 15% with code \"PJL15\"\n\nPOTT:\n\n\"Redraw the attached image in the most clumsy, scribbly, and utterly pathetic way possible. Use a white background, and make it look like it was drawn in MS Paint with a mouse.\nIt should be vaguely similar but also not really, kind of matching but also off in a confusing, awkward way, with that low-quality pixel-by-pixel feel that really emphasizes how ridiculously bad it is. Actually, you know what, whatever, just draw it h"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Chase AI",
-          "handle": "@ChaseAI",
-          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
-          "videos": [
-            {
-              "title": "Create a Custom Agentic OS with Claude Code in 3 Steps",
-              "url": "https://www.youtube.com/shorts/X4cQwbSNDtM",
-              "published": "2026-05-02T23:42:25Z",
-              "description": ""
-            },
-            {
-              "title": "Do NOT Miss These 10 Open Source Claude Code Tools",
-              "url": "https://www.youtube.com/shorts/yKZtGNA_MWg",
-              "published": "2026-05-02T23:36:14Z",
-              "description": ""
-            },
-            {
-              "title": "Top 10 NEW Open Source Claude Code Tools (May)",
-              "url": "https://www.youtube.com/watch?v=6cYBFfA7Nyk",
-              "published": "2026-05-02T23:01:39Z",
-              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community with the prompts🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nThe open source community is exploding with AI projects, yet its almost impossible to find ones that actually move the needle.\n\nIn today's video, I show you 10 new open source AI projects you need to check out if you use Claude Code\n\n🔨Tools:\n\n1. caveman: https://github."
-            },
-            {
-              "title": "Two Open Source Claude Design Alternatives",
-              "url": "https://www.youtube.com/shorts/mdiSnFLzQaI",
-              "published": "2026-05-01T23:39:03Z",
-              "description": ""
-            },
-            {
-              "title": "Open Source + Local Claude Design?",
-              "url": "https://www.youtube.com/shorts/3crcfEN8Tkc",
-              "published": "2026-05-01T23:32:12Z",
-              "description": ""
-            },
-            {
-              "title": "ANOTHER Open Source Repo Just Cloned Claude Design",
-              "url": "https://www.youtube.com/watch?v=BGQ9i3fvNds",
-              "published": "2026-05-01T23:06:48Z",
-              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community with the prompts🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nAnother Claude Design clone just hit Github.\n\nThis time its Open Design, and it builds upon the foundation Huashu Design created-- giving us a GUI that apes Claude Design.\n\nIn this video, I break down how it works, how to use it, and whether its worth your time.\n\n\n⏰TIME"
-            },
-            {
-              "title": "Giving Your Claude Code Content Taste",
-              "url": "https://www.youtube.com/shorts/D2DjQp03I5I",
-              "published": "2026-05-01T14:00:18Z",
-              "description": ""
-            }
-          ],
-          "error": null
-        },
-        {
           "creator": "NateBJones",
           "handle": "@NateBJones",
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
+            {
+              "title": "AI Is Cheaper to Copy Than Create #Shorts #AI",
+              "url": "https://www.youtube.com/shorts/zqJKDFQvSzA",
+              "published": "2026-05-04T03:01:05Z",
+              "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/three-labs-just-stole-claudes-brain?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when three Chinese labs run 16 million automated conversations across 24,000 fake accounts to steal Claude's capabilities? The common story is Cold War espionage—but the reality is more interesting when you recognize this is a Napster problem, and "
+            },
+            {
+              "title": "Stripe, Visa, Mastercard, Microsoft, Meta. All Building The Same Thing.",
+              "url": "https://www.youtube.com/watch?v=XGvDbeoSN3E",
+              "published": "2026-05-03T17:00:44Z",
+              "description": "Full Story w/ Prompt Kit: https://natesnewsletter.substack.com/p/agentic-commerce-buyers-power?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside Stripe's agent commerce announcement when everyone is talking about agents buying coffee but missing the actual shift underneath?\n\nThe common headline is that agents can spend money now — but the reality is that for the first time in decades, power in the internet economy is "
+            },
             {
               "title": "AI Works Too Well at the Wrong Thing #IntentEngineering #AItruth",
               "url": "https://www.youtube.com/shorts/YRiPVdPqTlk",
@@ -243,38 +184,85 @@
               "url": "https://www.youtube.com/watch?v=FDkvRl1RlT0",
               "published": "2026-05-02T15:00:31Z",
               "description": "Full Story w/ Prompt Kit: https://natesnewsletter.substack.com/p/issue-trackers-agent-infrastructure?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\n\nWhat's really happening inside the issue tracker category when Linear's CEO says issue tracking is dead but OpenAI publishes Symphony using Linear as the control plane for autonomous coding agents?\n\nThe common story is that tickets are process overhead waiting to be eliminated — but the reality is t"
-            },
-            {
-              "title": "When AI Optimizes for the Wrong Objective #aifails",
-              "url": "https://www.youtube.com/shorts/AyZGx1nWzis",
-              "published": "2026-05-02T03:00:10Z",
-              "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/klarna-saved-60-million-and-broke?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when Klarna's AI agent does the work of 853 employees but costs the company something far more valuable than the $60 million it saved? The common story is that AI can't handle nuance—but the reality is more interesting when the AI worked too well at optimizing for exactly the wrong"
-            },
-            {
-              "title": "OKRs Were Never Built for AI #aiagents #futureofwork #shorts",
-              "url": "https://www.youtube.com/shorts/RQXvde0wCPs",
-              "published": "2026-05-02T00:00:34Z",
-              "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/klarna-saved-60-million-and-broke?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when Klarna's AI agent does the work of 853 employees but costs the company something far more valuable than the $60 million it saved? The common story is that AI can't handle nuance—but the reality is more interesting when the AI worked too well at "
-            },
-            {
-              "title": "RTX 5090, Mac Studio, or DGX Spark? I tried all three.",
-              "url": "https://www.youtube.com/watch?v=iUSdS-6uwr4",
-              "published": "2026-05-01T14:01:13Z",
-              "description": "Full Story w/ Prompt Kit: https://natesnewsletter.substack.com/p/personal-ai-computer-stack?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside the personal AI computer movement when everyone is defaulting to cloud models but the real power comes from owning the substrate underneath?\n\nThe common framing is local versus cloud — but the reality is that this is a routing decision, and the long-term reason to build your own"
             }
           ],
           "error": null
         },
         {
-          "creator": "Simon Scrapes",
-          "handle": "@SimonScrapes",
-          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
+          "creator": "Alex Finn",
+          "handle": "@AlexFinn",
+          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Nate Herk",
+          "handle": "@NateHerk",
+          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
           "videos": [
             {
-              "title": "Creating Your Own Agentic OS is Easy (Insanely Powerful)",
-              "url": "https://www.youtube.com/watch?v=w0S-khYCaB4",
-              "published": "2026-05-02T16:33:16Z",
-              "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes\nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\n\nEver wondered why AI tools like Claude Code give you generic output and forget context? It's not about better prompts; it's about the system underneath. In this video, I break down exactly how to build your own Agentic Operating System step-by-step. You'll learn how to give your AI a memory, teach it repeatable skills, and create a struc"
+              "title": "I Tried 100+ Claude Code Skills. These 6 Are The Best",
+              "url": "https://www.youtube.com/watch?v=eRS3CmvrOvA",
+              "published": "2026-05-03T13:42:51Z",
+              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=best-claude-code-skills\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=best-claude-code-skills\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nAfter 400 hours in Claude Co"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Chase AI",
+          "handle": "@ChaseAI",
+          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+          "videos": [
+            {
+              "title": "Never Fall Behind With This Github Trending Tracker",
+              "url": "https://www.youtube.com/shorts/PhJQAi8LU8k",
+              "published": "2026-05-03T22:34:22Z",
+              "description": ""
+            },
+            {
+              "title": "stop vibe coding virtue signaling pls",
+              "url": "https://www.youtube.com/shorts/gmQrvNl-E7A",
+              "published": "2026-05-03T22:13:33Z",
+              "description": ""
+            },
+            {
+              "title": "Create a Custom Agentic OS with Claude Code in 3 Steps",
+              "url": "https://www.youtube.com/shorts/X4cQwbSNDtM",
+              "published": "2026-05-02T23:42:25Z",
+              "description": ""
+            },
+            {
+              "title": "Do NOT Miss These 10 Open Source Claude Code Tools",
+              "url": "https://www.youtube.com/shorts/yKZtGNA_MWg",
+              "published": "2026-05-02T23:36:14Z",
+              "description": ""
+            },
+            {
+              "title": "Top 10 NEW Open Source Claude Code Tools (May)",
+              "url": "https://www.youtube.com/watch?v=6cYBFfA7Nyk",
+              "published": "2026-05-02T23:01:39Z",
+              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community with the prompts🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nThe open source community is exploding with AI projects, yet its almost impossible to find ones that actually move the needle.\n\nIn today's video, I show you 10 new open source AI projects you need to check out if you use Claude Code\n\n🔨Tools:\n\n1. caveman: https://github."
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Paul J Lipsky",
+          "handle": "@PaulJLipsky",
+          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
+          "videos": [
+            {
+              "title": "Gemini Workspace Intelligence Is Here (Connect Gmail, Drive, Sheets, Docs…)",
+              "url": "https://www.youtube.com/watch?v=E93UOV891bM",
+              "published": "2026-05-03T13:00:22Z",
+              "description": "Try Brevo: https://www.brevo.com/pricing/\n\nUse code \"PAULLIPSKY\" to save 50% on Starter and Standard plans for the first 3 months (applicable to new paying customers only).\n\nGoogle just rolled out Workspace Intelligence and it's about to change everything about how Gemini works across Drive, Gmail, Docs, Sheets, Slides, and Vids.\n\nHeads up, these updates may not be available worldwide yet. Just because I have access to them doesn't mean you will yet.\n\n🔗 This video is sponsored. Some product link"
+            },
+            {
+              "title": "AI News: Codex Surges; Free NotebookLM Updates; Viral Image Prompts",
+              "url": "https://www.youtube.com/watch?v=tIEbxKQDL4s",
+              "published": "2026-05-02T13:01:37Z",
+              "description": "Try i10x: https://i10x.ai?fpr=paul53\nSave 15% with code \"PJL15\"\n\nPOTT:\n\n\"Redraw the attached image in the most clumsy, scribbly, and utterly pathetic way possible. Use a white background, and make it look like it was drawn in MS Paint with a mouse.\nIt should be vaguely similar but also not really, kind of matching but also off in a confusing, awkward way, with that low-quality pixel-by-pixel feel that really emphasizes how ridiculously bad it is. Actually, you know what, whatever, just draw it h"
             }
           ],
           "error": null
@@ -289,12 +277,20 @@
               "url": "https://www.youtube.com/watch?v=IpD1chtKILE",
               "published": "2026-05-02T13:12:06Z",
               "description": "Transition from startup-style AI to infrastructure-era AI marked by explosive token demand, compute bottlenecks, and a shift to usage-based pricing.  \nMarket signals include roughly 40% higher GPU rental costs, record cloud growth at major providers, and widespread adoption of per-use billing to manage token scarcity. Product and policy developments highlight agent and harness platforms such as Cursor and Codex, government scrutiny of supply‑chain and deployment risk, and anomalous model behavio"
-            },
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Simon Scrapes",
+          "handle": "@SimonScrapes",
+          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
+          "videos": [
             {
-              "title": "How Harness-as-a-Service Will Change Agents",
-              "url": "https://www.youtube.com/watch?v=jvqQ8VlhO-w",
-              "published": "2026-05-01T14:51:50Z",
-              "description": "Big tech earnings show an AI-driven cloud surge and soaring compute spending across Google, Amazon, Microsoft, and Meta. Harness-as-a-service emerges as a new infrastructure layer, with cursor SDK, managed agents, and hosted runtimes providing sandboxed execution environments. Benchmarks and demos reveal large performance gains from harness improvements and rapid growth of agentic apps for coding, IT triage, and workflow automation.\n\nThe AI Daily Brief helps you understand the most important new"
+              "title": "Creating Your Own Agentic OS is Easy (Insanely Powerful)",
+              "url": "https://www.youtube.com/watch?v=w0S-khYCaB4",
+              "published": "2026-05-02T16:33:16Z",
+              "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes\nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\n\nEver wondered why AI tools like Claude Code give you generic output and forget context? It's not about better prompts; it's about the system underneath. In this video, I break down exactly how to build your own Agentic Operating System step-by-step. You'll learn how to give your AI a memory, teach it repeatable skills, and create a struc"
             }
           ],
           "error": null
@@ -409,6 +405,88 @@
             {
               "title": "How to use AI and Power Automate to add tasks to MS Planner | AI Builder | No Copilot Licence",
               "url": "https://www.youtube.com/watch?v=AZlIbNvVo68"
+            }
+          ]
+        },
+        "error": null
+      },
+      "power_platform_dev_weekly": {
+        "name": "Power Platform Dev Weekly",
+        "issue_number": 292,
+        "issue_date": "2026-04-29",
+        "url": "https://www.ppdevweekly.com/p/292",
+        "is_new": false,
+        "sections": {
+          "🥇 Cover Story": [
+            {
+              "title": "Copilot Studio: Build Email Agents To Automate Replies",
+              "url": "https://www.matthewdevaney.com/copilot-studio-build-email-agents-to-automate-replies/"
+            }
+          ],
+          "💎 Model Driven Apps & Dataverse": [
+            {
+              "title": "The Choice Column Conundrum:A Data Migrator’s Essential Tip",
+              "url": "https://dev.to/balagmadhu/the-choice-column-conundruma-data-migrators-essential-tip-4ba5"
+            },
+            {
+              "title": "Adding Custom Pages To A Model Driven App Navigation",
+              "url": "https://meganvwalker.com/adding-custom-pages-to-a-model-driven-app-navigation/"
+            }
+          ],
+          "🤖 Copilot & Code Apps": [
+            {
+              "title": "Power Apps- Comparing Different Ways to Create Apps With AI",
+              "url": "https://dev.to/wyattdave/power-apps-comparing-different-ways-to-create-apps-with-ai-b33"
+            }
+          ],
+          "🌎 Power Pages": [
+            {
+              "title": "Power Pages: Escape Filters",
+              "url": "https://www.engineeredcode.com/blog/power-pages-escape-filters"
+            },
+            {
+              "title": "Power Pages Backend Trifecta",
+              "url": "https://www.dancingwithcrm.com/power-pages-backend-trifecta/"
+            }
+          ],
+          "🎮 Other Interesting Articles": [
+            {
+              "title": "Using AI to develop side projects?",
+              "url": "https://www.itaintboring.com/ai/using-ai-to-develop-side-projects/"
+            },
+            {
+              "title": "Adventures with Power Platform: Deploying the Power Platform Communication Site Template",
+              "url": "https://mattruma.com/adventures-with-power-platform-deploying-the-power-platform-communication-site-template/"
+            },
+            {
+              "title": "What is coming to Dynamics 365 Sales in 2026 Release Wave 1",
+              "url": "https://d365goddess.com/what-is-coming-to-dynamics-365-sales/?utm_source=feedly&utm_medium=rss&utm_campaign=what-is-coming-to-dynamics-365-sales"
+            },
+            {
+              "title": "Fix: “Rows with localizable attributes can only be created…” in Product Creation",
+              "url": "https://himbap.com/blog/?p=4771"
+            }
+          ],
+          "📺 Videos": [
+            {
+              "title": "Power Apps Vibe + SharePoint Lists: Build a React App in Minutes 🤯",
+              "url": "https://www.youtube.com/watch?v=WkBO5li21lo"
+            },
+            {
+              "title": "How to Connect Copilot Studio Agents to Code Apps",
+              "url": "https://www.youtube.com/watch?v=BYLd58t0B7Y"
+            },
+            {
+              "title": "EXPLAINED: Copilot Studio Agents vs. Power Automate Flows",
+              "url": "https://www.youtube.com/watch?v=B119SbXhQns"
+            },
+            {
+              "title": "Build Canvas Apps in VS Code with AI (NEW Power Apps Tool)",
+              "url": "https://www.youtube.com/watch?v=hylO7x91Lv8"
+            },
+            {
+              "title": "How To Deploy Copilot Studio Agents in Microsoft Teams",
+              "url": "https://www.youtube.com/watch?v=NpSsxmbhGQU"
             }
           ]
         },
@@ -541,88 +619,6 @@
             {
               "title": "Design Power BI Reports Like a Pro | Native Charts, Tables & UI Tips | Gustaw Dudek | Full Tutorial",
               "url": "https://www.youtube.com/watch?v=Nk-uZbQm5U4"
-            }
-          ]
-        },
-        "error": null
-      },
-      "power_platform_dev_weekly": {
-        "name": "Power Platform Dev Weekly",
-        "issue_number": 292,
-        "issue_date": "2026-04-29",
-        "url": "https://www.ppdevweekly.com/p/292",
-        "is_new": false,
-        "sections": {
-          "🥇 Cover Story": [
-            {
-              "title": "Copilot Studio: Build Email Agents To Automate Replies",
-              "url": "https://www.matthewdevaney.com/copilot-studio-build-email-agents-to-automate-replies/"
-            }
-          ],
-          "💎 Model Driven Apps & Dataverse": [
-            {
-              "title": "The Choice Column Conundrum:A Data Migrator’s Essential Tip",
-              "url": "https://dev.to/balagmadhu/the-choice-column-conundruma-data-migrators-essential-tip-4ba5"
-            },
-            {
-              "title": "Adding Custom Pages To A Model Driven App Navigation",
-              "url": "https://meganvwalker.com/adding-custom-pages-to-a-model-driven-app-navigation/"
-            }
-          ],
-          "🤖 Copilot & Code Apps": [
-            {
-              "title": "Power Apps- Comparing Different Ways to Create Apps With AI",
-              "url": "https://dev.to/wyattdave/power-apps-comparing-different-ways-to-create-apps-with-ai-b33"
-            }
-          ],
-          "🌎 Power Pages": [
-            {
-              "title": "Power Pages: Escape Filters",
-              "url": "https://www.engineeredcode.com/blog/power-pages-escape-filters"
-            },
-            {
-              "title": "Power Pages Backend Trifecta",
-              "url": "https://www.dancingwithcrm.com/power-pages-backend-trifecta/"
-            }
-          ],
-          "🎮 Other Interesting Articles": [
-            {
-              "title": "Using AI to develop side projects?",
-              "url": "https://www.itaintboring.com/ai/using-ai-to-develop-side-projects/"
-            },
-            {
-              "title": "Adventures with Power Platform: Deploying the Power Platform Communication Site Template",
-              "url": "https://mattruma.com/adventures-with-power-platform-deploying-the-power-platform-communication-site-template/"
-            },
-            {
-              "title": "What is coming to Dynamics 365 Sales in 2026 Release Wave 1",
-              "url": "https://d365goddess.com/what-is-coming-to-dynamics-365-sales/?utm_source=feedly&utm_medium=rss&utm_campaign=what-is-coming-to-dynamics-365-sales"
-            },
-            {
-              "title": "Fix: “Rows with localizable attributes can only be created…” in Product Creation",
-              "url": "https://himbap.com/blog/?p=4771"
-            }
-          ],
-          "📺 Videos": [
-            {
-              "title": "Power Apps Vibe + SharePoint Lists: Build a React App in Minutes 🤯",
-              "url": "https://www.youtube.com/watch?v=WkBO5li21lo"
-            },
-            {
-              "title": "How to Connect Copilot Studio Agents to Code Apps",
-              "url": "https://www.youtube.com/watch?v=BYLd58t0B7Y"
-            },
-            {
-              "title": "EXPLAINED: Copilot Studio Agents vs. Power Automate Flows",
-              "url": "https://www.youtube.com/watch?v=B119SbXhQns"
-            },
-            {
-              "title": "Build Canvas Apps in VS Code with AI (NEW Power Apps Tool)",
-              "url": "https://www.youtube.com/watch?v=hylO7x91Lv8"
-            },
-            {
-              "title": "How To Deploy Copilot Studio Agents in Microsoft Teams",
-              "url": "https://www.youtube.com/watch?v=NpSsxmbhGQU"
             }
           ]
         },
