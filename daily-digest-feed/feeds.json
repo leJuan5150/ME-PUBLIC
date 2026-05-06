@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-05-05T11:29:42.540212Z",
+  "generated_at": "2026-05-06T11:35:54.673151Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
         {
-          "creator": "Life Style Overland",
-          "handle": "@LifeStyleOverland",
-          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
+          "creator": "TrailRecon",
+          "handle": "@TrailRecon",
+          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
           "videos": [],
           "error": null
         },
         {
-          "creator": "This Story Till Now",
-          "handle": "@ThisStoryTillNow",
-          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "creator": "Life Style Overland",
+          "handle": "@LifeStyleOverland",
+          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
           "videos": [],
           "error": null
         },
@@ -26,17 +26,38 @@
           "error": null
         },
         {
+          "creator": "This Story Till Now",
+          "handle": "@ThisStoryTillNow",
+          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "videos": [],
+          "error": null
+        },
+        {
           "creator": "Ozark Overland Adventure",
           "handle": "@OzarkOverlandAdventures",
           "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
           "videos": [
             {
-              "title": "Bluetti Elite 300  - How we use it in our Truck Camper",
-              "url": "https://www.youtube.com/watch?v=ggkiGbwtm8c",
-              "published": "2026-05-03T15:01:08Z",
-              "description": "The Bluetti Elite 300 packs so much power in a small package, it's the perfect power station for any truck camper, van, or RV.\n\nElite 300: https://reurl.cc/0moNMM\nCode: OZARK8OFF (8% off for Elite 300)\n#bluetti #powerstation #elite300 #SpringPowerMood\n\nMoab Adventure Trail GPX File - https://drive.google.com/file/d/1MJX8a8Ah6gdi-jTkFKJK_f4gm5LYu9M1/view?usp=sharing\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadve"
+              "title": "Overlander Daily Vlog - I traveled 1200 miles for this special event",
+              "url": "https://www.youtube.com/watch?v=d31TPrb_rdo",
+              "published": "2026-05-05T15:01:05Z",
+              "description": "I travel 1200 miles round trip from Merus Adventure Park just for this special event.\n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHNYyUa\nAll Roads Taken - https://www.allroadstaken.com\nMOORE Expo - https://moor"
             }
           ],
+          "error": null
+        },
+        {
+          "creator": "Casey 250",
+          "handle": "@Casey250",
+          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "LetsGetLost",
+          "handle": "@LetsGetLost",
+          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
+          "videos": [],
           "error": null
         },
         {
@@ -52,79 +73,9 @@
             }
           ],
           "error": null
-        },
-        {
-          "creator": "Casey 250",
-          "handle": "@Casey250",
-          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "TrailRecon",
-          "handle": "@TrailRecon",
-          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
-          "videos": [
-            {
-              "title": "This Trail Leads to New Mexico's Weirdest Town",
-              "url": "https://www.youtube.com/watch?v=LA68kMRcEbk",
-              "published": "2026-05-03T14:00:34Z",
-              "description": "This adventure I'm in Truth or Consequences, New Mexico for two days of exploring on and off the trail. The first day runs the Rio Grande Trail north toward town, with side trips up to old mineshafts, a long shelf road, and one section that turned me around. The second day is spent walking the streets of one of the strangest small towns in America, a place that traded its name to a radio show in 1950, sits on top of geothermal hot springs the Apache held sacred for centuries, and still has a fad"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "LetsGetLost",
-          "handle": "@LetsGetLost",
-          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
-          "videos": [],
-          "error": null
         }
       ],
       "power_platform": [
-        {
-          "creator": "Reza Dorrani",
-          "handle": "@RezaDorrani",
-          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
-          "videos": [
-            {
-              "title": "NEW Data Grid Control in Canvas Power Apps — Explained",
-              "url": "https://www.youtube.com/watch?v=iX-GKh6G0DA",
-              "published": "2026-05-04T11:30:39Z",
-              "description": "The NEW Data Grid Modern Control in Canvas Power Apps is here — and this video is a full deep dive.\n\nThe Data Grid displays records in a column-and-row layout built on Fluent UI. You can connect it to data sources like SharePoint, Dataverse, or collections. It supports virtual scrolling for large datasets, optional search filtering, sortable columns, and selectable rows. Columns are configured as sub-controls and support multiple types including text, number, phone, email, URL, and button. Use i"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Matthew Devaney",
-          "handle": "@MatthewDevaney",
-          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
-          "videos": [
-            {
-              "title": "How To See HIDDEN DETAILS In Copilot Studio Transcripts",
-              "url": "https://www.youtube.com/watch?v=uPWyhoRqo-0",
-              "published": "2026-05-03T20:11:46Z",
-              "description": "Today I’m gonna show you how to get full conversation transcripts for your agents in Copilot Studio. Including the hidden stuff.\n\nThat’s right the hidden stuff. Because the details you see over here in the activity tab, that’s only half the story. And many times important details are missing. The way we are going to do it is with this free, downloadable app. I vibe coded it with Power Apps and it allows you to easily review the transcripts in an environment.\n\nLet’s take a look at the Copilot Stu"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "April Dunnam",
-          "handle": "@AprilDunnam",
-          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Lisa Crosbie",
-          "handle": "@LisaCrosbie",
-          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
-          "videos": [],
-          "error": null
-        },
         {
           "creator": "Shane Young",
           "handle": "@ShanesCows",
@@ -138,14 +89,62 @@
             }
           ],
           "error": null
+        },
+        {
+          "creator": "Lisa Crosbie",
+          "handle": "@LisaCrosbie",
+          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "April Dunnam",
+          "handle": "@AprilDunnam",
+          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Reza Dorrani",
+          "handle": "@RezaDorrani",
+          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Matthew Devaney",
+          "handle": "@MatthewDevaney",
+          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
+          "videos": [],
+          "error": null
         }
       ],
       "fabric_powerbi": [
+        {
+          "creator": "Guy in a Cube",
+          "handle": "@GuyInACube",
+          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
+          "videos": [
+            {
+              "title": "April release of Power BI is so so so good if you want a free design update 😍🔥 #PowerBI",
+              "url": "https://www.youtube.com/shorts/GtdRu5yRnAQ",
+              "published": "2026-05-05T16:56:42Z",
+              "description": ""
+            }
+          ],
+          "error": null
+        },
         {
           "creator": "Dewain Robinson",
           "handle": "@DewainRobinson",
           "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
           "videos": [
+            {
+              "title": "Power Up: Learn AI by Doing",
+              "url": "https://www.youtube.com/shorts/xL2yP-Hqn6E",
+              "published": "2026-05-05T15:00:43Z",
+              "description": "Summary\n\nThe conversation introduces Power Up as a tool to help people try AI and build confidence through hands-on experience. It emphasizes the accessibility of AI for everyone and the empowerment that comes from learning by doing.\n\nTakeaways\n\n* AI for everyone\n* Confidence through doing\n\nChapters\n\n* 00:00 Introduction to Power Up and AI"
+            },
             {
               "title": "Boot Camps: Training with Engineering Experts",
               "url": "https://www.youtube.com/shorts/946gOFTp92A",
@@ -160,20 +159,6 @@
             }
           ],
           "error": null
-        },
-        {
-          "creator": "Guy in a Cube",
-          "handle": "@GuyInACube",
-          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
-          "videos": [
-            {
-              "title": "Marthe don't agree! Silver is the most important in the medallion architecture. 🏅 #dataarchitecture",
-              "url": "https://www.youtube.com/shorts/iFY_mGxVEiM",
-              "published": "2026-05-03T17:31:06Z",
-              "description": ""
-            }
-          ],
-          "error": null
         }
       ],
       "ai": [
@@ -182,6 +167,18 @@
           "handle": "@NateBJones",
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
+            {
+              "title": "Nuclear Weapons vs AI: Which Is Actually Harder to Stop? #ai #nuclear",
+              "url": "https://www.youtube.com/shorts/caULlNzJGj0",
+              "published": "2026-05-06T03:00:41Z",
+              "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/three-labs-just-stole-claudes-brain?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when three Chinese labs run 16 million automated conversations across 24,000 fake accounts to steal Claude's capabilities? The common story is Cold War espionage—but the reality is more interesting when you recognize this is a Napster problem, and "
+            },
+            {
+              "title": "Consumer AI Has a Problem Nobody's Naming.",
+              "url": "https://www.youtube.com/watch?v=Z0HizICooiw",
+              "published": "2026-05-05T14:00:58Z",
+              "description": "Full Story w/ Prompt Kit: https://natesnewsletter.substack.com/p/consumer-ai-anticipation-gap?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside consumer AI when software is finally capable enough to help but has somehow become one more thing to manage?\n\nThe common pitch is that agents can do anything — but the reality is that most consumer agent products are still reactive, putting the hardest job on your shoulders: f"
+            },
             {
               "title": "This Is Why Distilled Models Collapse #AIShorts #LLM",
               "url": "https://www.youtube.com/shorts/X1h75jqeD0Q",
@@ -193,18 +190,59 @@
               "url": "https://www.youtube.com/watch?v=rYqt6mMlv7o",
               "published": "2026-05-04T14:01:31Z",
               "description": "Full Story w/ Prompt Kit and link Nate's TalentBoard: https://natesnewsletter.substack.com/p/job-at-risk-ai-audit?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside knowledge work when your calendar is full, your manager is happy, and the first sign your job is on thin ice is that nothing looks wrong?\n\nThe common framing is will AI replace my job — but the reality is that AI doesn't have to replace your whole job to pu"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Nate Herk",
+          "handle": "@NateHerk",
+          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+          "videos": [
+            {
+              "title": "Master 97% of Codex in 1 Hour (full course)",
+              "url": "https://www.youtube.com/watch?v=3TdD8Qv5Tk8",
+              "published": "2026-05-06T01:21:13Z",
+              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=codex-97-percent\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=codex-97-percent\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nCodex is an absolute beast for getting rea"
             },
             {
-              "title": "AI Is Cheaper to Copy Than Create #Shorts #AI",
-              "url": "https://www.youtube.com/shorts/zqJKDFQvSzA",
-              "published": "2026-05-04T03:01:05Z",
-              "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/three-labs-just-stole-claudes-brain?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when three Chinese labs run 16 million automated conversations across 24,000 fake accounts to steal Claude's capabilities? The common story is Cold War espionage—but the reality is more interesting when you recognize this is a Napster problem, and "
+              "title": "Higgsfield Just Turned Claude Into a Creative Agency",
+              "url": "https://www.youtube.com/watch?v=xn6Z5PYyAIE",
+              "published": "2026-05-05T03:05:58Z",
+              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=higgsfield-cli\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=higgsfield-cli\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nHiggsfield gives you access to the best AI ima"
             },
             {
-              "title": "Stripe, Visa, Mastercard, Microsoft, Meta. All Building The Same Thing.",
-              "url": "https://www.youtube.com/watch?v=XGvDbeoSN3E",
-              "published": "2026-05-03T17:00:44Z",
-              "description": "Full Story w/ Prompt Kit: https://natesnewsletter.substack.com/p/agentic-commerce-buyers-power?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside Stripe's agent commerce announcement when everyone is talking about agents buying coffee but missing the actual shift underneath?\n\nThe common headline is that agents can spend money now — but the reality is that for the first time in decades, power in the internet economy is "
+              "title": "Building Realistic Voice Agents Has Never Been Easier",
+              "url": "https://www.youtube.com/watch?v=-cdexJWN8YA",
+              "published": "2026-05-04T12:46:03Z",
+              "description": "ElevenLabs: https://elevenlabs.io/agents?utm_source=youtube&amp;utm_medium=influencer&amp;utm_campaign=influencer_-_nate_herk&amp;utm_content=build_voice_agents_with_claude_code\nFull courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=elevenlabs-claude-code\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=elevenlabs-claude-code\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFR"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Simon Scrapes",
+          "handle": "@SimonScrapes",
+          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "AI Daily Brief",
+          "handle": "@AIDailyBrief",
+          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
+          "videos": [
+            {
+              "title": "Is AI Doom Going Out of Style?",
+              "url": "https://www.youtube.com/watch?v=Bn43KmcMMB8",
+              "published": "2026-05-05T20:55:51Z",
+              "description": "Faint but converging signals suggest the AI doom narrative may finally be cracking — and they're showing up in the chattering class and the markets at the same time. This episode walks through the evidence: Ezra Klein's New York Times pushback on the AI job apocalypse, Alex Imas's scarcity framework, Atlassian's blowout earnings, and Sam Altman's rhetorical pivot from replacement to augmentation.\n\nThe AI Daily Brief helps you understand the most important news and discussions in AI. \nSubscribe t"
+            },
+            {
+              "title": "Why Agents Make Every Job a Startup",
+              "url": "https://www.youtube.com/watch?v=HnE5oKiWVRc",
+              "published": "2026-05-05T00:12:06Z",
+              "description": "Agents are turning every job into a startup by unlocking an infinite backlog and enabling parallel 24/7 work. Consequences include exhilaration, new forms of burnout from judgment overload, and constraints from cost, evaluation, and audience absorption. Responses require new technical and coordination roles, pacing infrastructure, and leadership retooling toward prioritization and portfolio decisions.\n\nThe AI Daily Brief helps you understand the most important news and discussions in AI. \nSubscr"
             }
           ],
           "error": null
@@ -214,6 +252,12 @@
           "handle": "@AlexFinn",
           "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
           "videos": [
+            {
+              "title": "Hermes Agent might have just killed OpenClaw",
+              "url": "https://www.youtube.com/watch?v=Bg-IPiql7x8",
+              "published": "2026-05-05T21:11:59Z",
+              "description": "Hermes Agent has had updates the last month that makes it better than OpenClaw. Here's how to use them.\n\n2nd Youtube Channel: https://www.youtube.com/@UC_qaRKiYQv_afIt2sbqOlMg \nFULL Claude bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nThe "
+            },
             {
               "title": "LIVE: Is Hermes better than OpenClaw? FINALE!!!",
               "url": "https://www.youtube.com/watch?v=DU192Mj71tk",
@@ -229,7 +273,19 @@
           "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
           "videos": [
             {
-              "title": "Build Your CUSTOM Claude Code Agentic OS (3 Steps)",
+              "title": "codex is insane, actually",
+              "url": "https://www.youtube.com/shorts/OXzoaX3aH-s",
+              "published": "2026-05-06T05:06:04Z",
+              "description": ""
+            },
+            {
+              "title": "The Claude Code Agentic OS Evolution in 3 Steps",
+              "url": "https://www.youtube.com/shorts/Z58LM_lESxA",
+              "published": "2026-05-05T13:01:04Z",
+              "description": ""
+            },
+            {
+              "title": "Stop Using Claude Code Without an Agentic OS",
               "url": "https://www.youtube.com/watch?v=Bgxsx8slDEA",
               "published": "2026-05-05T03:37:16Z",
               "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community with the prompts🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nYour custom Claude Code Agentic OS can be yours in just three simple steps.\n\nIn this video I breakdown how to setup the architecture, memory, and observability pieces of your Claude Code Agentic OS, giving you the ability to push your Claude Code efficiency to the limit"
@@ -239,51 +295,6 @@
               "url": "https://www.youtube.com/shorts/UQ7QVBfyRBc",
               "published": "2026-05-04T21:25:14Z",
               "description": ""
-            },
-            {
-              "title": "Never Fall Behind With This Github Trending Tracker",
-              "url": "https://www.youtube.com/shorts/PhJQAi8LU8k",
-              "published": "2026-05-03T22:34:22Z",
-              "description": ""
-            },
-            {
-              "title": "stop vibe coding virtue signaling pls",
-              "url": "https://www.youtube.com/shorts/gmQrvNl-E7A",
-              "published": "2026-05-03T22:13:33Z",
-              "description": ""
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Simon Scrapes",
-          "handle": "@SimonScrapes",
-          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Nate Herk",
-          "handle": "@NateHerk",
-          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-          "videos": [
-            {
-              "title": "Higgsfield Just Turned Claude Into a Creative Agency",
-              "url": "https://www.youtube.com/watch?v=xn6Z5PYyAIE",
-              "published": "2026-05-05T03:05:58Z",
-              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=higgsfield-cli\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=higgsfield-cli\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nHiggsfield gives you access to the best AI ima"
-            },
-            {
-              "title": "Building Realistic Voice Agents Has Never Been Easier",
-              "url": "https://www.youtube.com/watch?v=-cdexJWN8YA",
-              "published": "2026-05-04T12:46:03Z",
-              "description": "ElevenLabs: https://elevenlabs.io/agents?utm_source=youtube&amp;utm_medium=influencer&amp;utm_campaign=influencer_-_nate_herk&amp;utm_content=build_voice_agents_with_claude_code\nFull courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=elevenlabs-claude-code\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=elevenlabs-claude-code\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFR"
-            },
-            {
-              "title": "I Tried 100+ Claude Code Skills. These 6 Are The Best",
-              "url": "https://www.youtube.com/watch?v=eRS3CmvrOvA",
-              "published": "2026-05-03T13:42:51Z",
-              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=best-claude-code-skills\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=best-claude-code-skills\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nAfter 400 hours in Claude Co"
             }
           ],
           "error": null
@@ -294,24 +305,10 @@
           "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
           "videos": [
             {
-              "title": "Gemini Workspace Intelligence Is Here (Connect Gmail, Drive, Sheets, Docs…)",
-              "url": "https://www.youtube.com/watch?v=E93UOV891bM",
-              "published": "2026-05-03T13:00:22Z",
-              "description": "Try Brevo: https://www.brevo.com/pricing/\n\nUse code \"PAULLIPSKY\" to save 50% on Starter and Standard plans for the first 3 months (applicable to new paying customers only).\n\nGoogle just rolled out Workspace Intelligence and it's about to change everything about how Gemini works across Drive, Gmail, Docs, Sheets, Slides, and Vids.\n\nHeads up, these updates may not be available worldwide yet. Just because I have access to them doesn't mean you will yet.\n\n🔗 This video is sponsored. Some product link"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "AI Daily Brief",
-          "handle": "@AIDailyBrief",
-          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
-          "videos": [
-            {
-              "title": "Why Agents Make Every Job a Startup",
-              "url": "https://www.youtube.com/watch?v=HnE5oKiWVRc",
-              "published": "2026-05-05T00:12:06Z",
-              "description": "Agents are turning every job into a startup by unlocking an infinite backlog and enabling parallel 24/7 work. Consequences include exhilaration, new forms of burnout from judgment overload, and constraints from cost, evaluation, and audience absorption. Responses require new technical and coordination roles, pacing infrastructure, and leadership retooling toward prioritization and portfolio decisions.\n\nThe AI Daily Brief helps you understand the most important news and discussions in AI. \nSubscr"
+              "title": "OpenAI Codex Explained for Normal People (“Claude Cowork Killer”)",
+              "url": "https://www.youtube.com/watch?v=ZkGzEMDeJos",
+              "published": "2026-05-05T13:01:07Z",
+              "description": "Try i10x: https://i10x.ai?fpr=paul53\nSave 15% with code \"PJL15\"\n\nOpenAI's Codex isn't just a coding tool — here's how knowledge workers can use it to organize files, automate emails, generate on-brand infographics, and build custom dashboards in about 15 minutes.\n\n🔗 This video is sponsored. Some product links are affiliate links which means if you buy something we'll receive a small commission.\n\n0:00 Intro\n0:29 What Is Codex\n1:00 Setup\n2:53 Projects\n3:46 Excel Demo\n5:24 Brand Kit\n6:51 Desktop Pe"
             }
           ],
           "error": null
@@ -319,138 +316,6 @@
       ]
     },
     "newsletters": {
-      "power_bi_weekly": {
-        "name": "Power BI Weekly",
-        "issue_number": 355,
-        "issue_date": null,
-        "url": "https://powerbiweekly.info/issue-355.html",
-        "is_new": false,
-        "sections": {
-          "Issue #355 - 28th April 2026": [
-            {
-              "title": "a comprehensive guide to building better bar charts in Power BI",
-              "url": "https://tabulareditor.com/blog/building-better-bar-charts-in-power-bi-reports-a-comprehensive-guide"
-            },
-            {
-              "title": "a practical font scaling guide for Power BI's new larger canvas sizes",
-              "url": "https://smart-frames.co.uk/2026/04/27/power-bi-font-scaling-guide/"
-            },
-            {
-              "title": "how to create an animated landing page in Power BI",
-              "url": "https://www.youtube.com/watch?v=PsvIcs2CEFQ"
-            },
-            {
-              "title": "Medallion Architecture in Excel",
-              "url": "https://endjin.com/blog/medallion-architecture-in-excel"
-            },
-            {
-              "title": "a rigorous Fabric performance benchmarking exercise comparing Spark and Python notebooks",
-              "url": "https://endjin.com/blog/fabric-performance-benchmarking-spark-versus-python-notebooks"
-            }
-          ],
-          "🛠️ Data Prep": [
-            {
-              "title": "@RADACAD_COM",
-              "url": "https://twitter.com/RADACAD_COM"
-            },
-            {
-              "title": "Power Platform Dataflows instead of Power BI Dataflow Gen1",
-              "url": "https://www.youtube.com/watch?v=YqJyBVrb_Cc"
-            },
-            {
-              "title": "short When the cost of moving to Microsoft Fabric Dataflows makes sense",
-              "url": "https://www.youtube.com/shorts/LFLQJqEUdz0"
-            }
-          ],
-          "🧩 Data Modeling": [
-            {
-              "title": "@tlachev",
-              "url": "https://twitter.com/tlachev"
-            },
-            {
-              "title": "Power BI Unmaterialized Columns",
-              "url": "https://prologika.com/powerbi-unmaterialized-columns/"
-            },
-            {
-              "title": "@AntrikshShar",
-              "url": "https://twitter.com/AntrikshShar"
-            },
-            {
-              "title": "Get Rows from Previous Partition into Current Partition",
-              "url": "https://www.antmanbi.com/post/get-rows-from-previous-partition-into-current-partition"
-            },
-            {
-              "title": "Power BI Dynamic Top N with Field Parameters DAX Tutorial",
-              "url": "https://www.youtube.com/watch?v=v9ERIJ5iiF0"
-            },
-            {
-              "title": "@SchreiberLars",
-              "url": "https://twitter.com/SchreiberLars"
-            },
-            {
-              "title": "Dein Power BI Modell – ein Spinnennetz? So entdeckst du fehlende Beziehungen [German]",
-              "url": "https://ssbi-blog.de/blog/business-topics/dein-power-bi-modell-ein-spinnennetz-so-entdeckst-du-fehlende-beziehungen/"
-            }
-          ],
-          "📊 Report Authoring and Interactivity": [
-            {
-              "title": "Power BI Font Scaling Guide for New Canvas Sizes",
-              "url": "https://smart-frames.co.uk/2026/04/27/power-bi-font-scaling-guide/"
-            },
-            {
-              "title": "Building better bar charts in Power BI reports: a comprehensive guide",
-              "url": "https://tabulareditor.com/blog/building-better-bar-charts-in-power-bi-reports-a-comprehensive-guide"
-            },
-            {
-              "title": "@BadiuAlexandru",
-              "url": "https://twitter.com/BadiuAlexandru"
-            },
-            {
-              "title": "Power BI Bookmarks Documentation (Part III): PBIR Annotations + Claude Skills",
-              "url": "https://github.com/alexbadiu-insightsinmotion/PBI-Documentation/blob/main/25%20-%20Documenting%20Bookmarks%20(Part%20III)%20-%20PBIR%20Annotations%20%2B%20Claude%20Skills%20(1).md"
-            },
-            {
-              "title": "Make Columns Appear in Between Parameter Columns Regardless of the Selection",
-              "url": "https://www.youtube.com/watch?v=guRBFHJl298"
-            },
-            {
-              "title": "Create an Animated Landing Page in Power BI (Pro Level) [Spanish]",
-              "url": "https://www.youtube.com/watch?v=PsvIcs2CEFQ"
-            },
-            {
-              "title": "Dynamic Sales KPI Card in Power BI — Pure DAX, No Custom Visuals 2026",
-              "url": "https://www.youtube.com/watch?v=csGqy7QV-ZY"
-            },
-            {
-              "title": "Power BI tables are ugly… Until you do THIS",
-              "url": "https://www.youtube.com/watch?v=_NVjuOcbVUE"
-            },
-            {
-              "title": "@chandeep2786",
-              "url": "https://twitter.com/chandeep2786"
-            },
-            {
-              "title": "You Won’t Get Hired with Dashboards Like This (7 Steps to Fix It)",
-              "url": "https://www.youtube.com/watch?v=UPyUCPkLg98"
-            },
-            {
-              "title": "I Used Claude AI to Build Power BI Reports",
-              "url": "https://www.youtube.com/watch?v=WIagELLeOSw"
-            }
-          ],
-          "🌐 General": [
-            {
-              "title": "Customer Churn Dashboard in Power BI | End-to-End Guide",
-              "url": "https://www.youtube.com/watch?v=ImBgUbRrw3A"
-            },
-            {
-              "title": "Design Power BI Reports Like a Pro | Native Charts, Tables & UI Tips | Gustaw Dudek | Full Tutorial",
-              "url": "https://www.youtube.com/watch?v=Nk-uZbQm5U4"
-            }
-          ]
-        },
-        "error": null
-      },
       "power_platform_weekly": {
         "name": "Power Platform Weekly",
         "issue_number": 262,
@@ -648,6 +513,138 @@
             {
               "title": "How To Deploy Copilot Studio Agents in Microsoft Teams",
               "url": "https://www.youtube.com/watch?v=NpSsxmbhGQU"
+            }
+          ]
+        },
+        "error": null
+      },
+      "power_bi_weekly": {
+        "name": "Power BI Weekly",
+        "issue_number": 355,
+        "issue_date": null,
+        "url": "https://powerbiweekly.info/issue-355.html",
+        "is_new": false,
+        "sections": {
+          "Issue #355 - 28th April 2026": [
+            {
+              "title": "a comprehensive guide to building better bar charts in Power BI",
+              "url": "https://tabulareditor.com/blog/building-better-bar-charts-in-power-bi-reports-a-comprehensive-guide"
+            },
+            {
+              "title": "a practical font scaling guide for Power BI's new larger canvas sizes",
+              "url": "https://smart-frames.co.uk/2026/04/27/power-bi-font-scaling-guide/"
+            },
+            {
+              "title": "how to create an animated landing page in Power BI",
+              "url": "https://www.youtube.com/watch?v=PsvIcs2CEFQ"
+            },
+            {
+              "title": "Medallion Architecture in Excel",
+              "url": "https://endjin.com/blog/medallion-architecture-in-excel"
+            },
+            {
+              "title": "a rigorous Fabric performance benchmarking exercise comparing Spark and Python notebooks",
+              "url": "https://endjin.com/blog/fabric-performance-benchmarking-spark-versus-python-notebooks"
+            }
+          ],
+          "🛠️ Data Prep": [
+            {
+              "title": "@RADACAD_COM",
+              "url": "https://twitter.com/RADACAD_COM"
+            },
+            {
+              "title": "Power Platform Dataflows instead of Power BI Dataflow Gen1",
+              "url": "https://www.youtube.com/watch?v=YqJyBVrb_Cc"
+            },
+            {
+              "title": "short When the cost of moving to Microsoft Fabric Dataflows makes sense",
+              "url": "https://www.youtube.com/shorts/LFLQJqEUdz0"
+            }
+          ],
+          "🧩 Data Modeling": [
+            {
+              "title": "@tlachev",
+              "url": "https://twitter.com/tlachev"
+            },
+            {
+              "title": "Power BI Unmaterialized Columns",
+              "url": "https://prologika.com/powerbi-unmaterialized-columns/"
+            },
+            {
+              "title": "@AntrikshShar",
+              "url": "https://twitter.com/AntrikshShar"
+            },
+            {
+              "title": "Get Rows from Previous Partition into Current Partition",
+              "url": "https://www.antmanbi.com/post/get-rows-from-previous-partition-into-current-partition"
+            },
+            {
+              "title": "Power BI Dynamic Top N with Field Parameters DAX Tutorial",
+              "url": "https://www.youtube.com/watch?v=v9ERIJ5iiF0"
+            },
+            {
+              "title": "@SchreiberLars",
+              "url": "https://twitter.com/SchreiberLars"
+            },
+            {
+              "title": "Dein Power BI Modell – ein Spinnennetz? So entdeckst du fehlende Beziehungen [German]",
+              "url": "https://ssbi-blog.de/blog/business-topics/dein-power-bi-modell-ein-spinnennetz-so-entdeckst-du-fehlende-beziehungen/"
+            }
+          ],
+          "📊 Report Authoring and Interactivity": [
+            {
+              "title": "Power BI Font Scaling Guide for New Canvas Sizes",
+              "url": "https://smart-frames.co.uk/2026/04/27/power-bi-font-scaling-guide/"
+            },
+            {
+              "title": "Building better bar charts in Power BI reports: a comprehensive guide",
+              "url": "https://tabulareditor.com/blog/building-better-bar-charts-in-power-bi-reports-a-comprehensive-guide"
+            },
+            {
+              "title": "@BadiuAlexandru",
+              "url": "https://twitter.com/BadiuAlexandru"
+            },
+            {
+              "title": "Power BI Bookmarks Documentation (Part III): PBIR Annotations + Claude Skills",
+              "url": "https://github.com/alexbadiu-insightsinmotion/PBI-Documentation/blob/main/25%20-%20Documenting%20Bookmarks%20(Part%20III)%20-%20PBIR%20Annotations%20%2B%20Claude%20Skills%20(1).md"
+            },
+            {
+              "title": "Make Columns Appear in Between Parameter Columns Regardless of the Selection",
+              "url": "https://www.youtube.com/watch?v=guRBFHJl298"
+            },
+            {
+              "title": "Create an Animated Landing Page in Power BI (Pro Level) [Spanish]",
+              "url": "https://www.youtube.com/watch?v=PsvIcs2CEFQ"
+            },
+            {
+              "title": "Dynamic Sales KPI Card in Power BI — Pure DAX, No Custom Visuals 2026",
+              "url": "https://www.youtube.com/watch?v=csGqy7QV-ZY"
+            },
+            {
+              "title": "Power BI tables are ugly… Until you do THIS",
+              "url": "https://www.youtube.com/watch?v=_NVjuOcbVUE"
+            },
+            {
+              "title": "@chandeep2786",
+              "url": "https://twitter.com/chandeep2786"
+            },
+            {
+              "title": "You Won’t Get Hired with Dashboards Like This (7 Steps to Fix It)",
+              "url": "https://www.youtube.com/watch?v=UPyUCPkLg98"
+            },
+            {
+              "title": "I Used Claude AI to Build Power BI Reports",
+              "url": "https://www.youtube.com/watch?v=WIagELLeOSw"
+            }
+          ],
+          "🌐 General": [
+            {
+              "title": "Customer Churn Dashboard in Power BI | End-to-End Guide",
+              "url": "https://www.youtube.com/watch?v=ImBgUbRrw3A"
+            },
+            {
+              "title": "Design Power BI Reports Like a Pro | Native Charts, Tables & UI Tips | Gustaw Dudek | Full Tutorial",
+              "url": "https://www.youtube.com/watch?v=Nk-uZbQm5U4"
             }
           ]
         },
