@@ -1,30 +1,9 @@
 {
-  "generated_at": "2026-05-08T11:31:24.976285Z",
+  "generated_at": "2026-05-09T11:19:12.573058Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
-        {
-          "creator": "TrailRecon",
-          "handle": "@TrailRecon",
-          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "This Story Till Now",
-          "handle": "@ThisStoryTillNow",
-          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Life Style Overland",
-          "handle": "@LifeStyleOverland",
-          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
-          "videos": [],
-          "error": null
-        },
         {
           "creator": "LetsGetLost",
           "handle": "@LetsGetLost",
@@ -33,16 +12,23 @@
           "error": null
         },
         {
-          "creator": "VentureToRoam",
-          "handle": "@VentureToRoam",
-          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
-          "videos": [],
+          "creator": "Ozark Overland Adventure",
+          "handle": "@OzarkOverlandAdventures",
+          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
+          "videos": [
+            {
+              "title": "Moab Adventure Trail Day 5 - The BEST day in Moab's Remote Backcountry",
+              "url": "https://www.youtube.com/watch?v=PG1-hgV0Yio",
+              "published": "2026-05-08T22:00:23Z",
+              "description": "Day 5 of our 5 day overlanding loop around Moab is the best day of all taking us through new areas with epic scenary, fun trails and killer campsites.\n\nMoab Adventure Trail GPX File - https://drive.google.com/file/d/1MJX8a8Ah6gdi-jTkFKJK_f4gm5LYu9M1/view?usp=sharing\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHNYyUa\nAll Roads Tak"
+            }
+          ],
           "error": null
         },
         {
-          "creator": "Epic Adventure Outfitters",
-          "handle": "@EpicAdventureOutfitters",
-          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
+          "creator": "VentureToRoam",
+          "handle": "@VentureToRoam",
+          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
           "videos": [],
           "error": null
         },
@@ -54,25 +40,46 @@
           "error": null
         },
         {
-          "creator": "Ozark Overland Adventure",
-          "handle": "@OzarkOverlandAdventures",
-          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
-          "videos": [
-            {
-              "title": "Overlander Daily Vlog - Between a Rock and a Hard Place",
-              "url": "https://www.youtube.com/watch?v=7AbkhF4zXUI",
-              "published": "2026-05-06T22:00:07Z",
-              "description": "After AdventureHER, Cara and I take off on one of our favorite trails where we have both received body damage in the past - Bergflow at Merus Adventure Park.\n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHNYyUa\nA"
-            }
-          ],
+          "creator": "Epic Adventure Outfitters",
+          "handle": "@EpicAdventureOutfitters",
+          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Life Style Overland",
+          "handle": "@LifeStyleOverland",
+          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "This Story Till Now",
+          "handle": "@ThisStoryTillNow",
+          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "TrailRecon",
+          "handle": "@TrailRecon",
+          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
+          "videos": [],
           "error": null
         }
       ],
       "power_platform": [
         {
-          "creator": "Matthew Devaney",
-          "handle": "@MatthewDevaney",
-          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
+          "creator": "Shane Young",
+          "handle": "@ShanesCows",
+          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Lisa Crosbie",
+          "handle": "@LisaCrosbie",
+          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
           "videos": [],
           "error": null
         },
@@ -84,13 +91,6 @@
           "error": null
         },
         {
-          "creator": "Shane Young",
-          "handle": "@ShanesCows",
-          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "April Dunnam",
           "handle": "@AprilDunnam",
           "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
@@ -98,9 +98,9 @@
           "error": null
         },
         {
-          "creator": "Lisa Crosbie",
-          "handle": "@LisaCrosbie",
-          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
+          "creator": "Matthew Devaney",
+          "handle": "@MatthewDevaney",
+          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
           "videos": [],
           "error": null
         }
@@ -112,10 +112,10 @@
           "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
           "videos": [
             {
-              "title": "AI Agents: Three Main Categories",
-              "url": "https://www.youtube.com/shorts/PokSZ5hUtZw",
-              "published": "2026-05-06T15:00:22Z",
-              "description": "Summary\n\nThe conversation explores the frontier transformation pattern and its relevance to agent usage categories and patterns. It delves into the ways people use agents and identifies three main categories, as well as five patterns around these categories.\n\nTakeaways\n\n* Agent usage categories\n* Patterns of agent usage\n\nChapters\n\n* 00:00 Agent Usage Categories"
+              "title": "AI: Start Small, Build Confidence",
+              "url": "https://www.youtube.com/shorts/XNGA9gTj9tE",
+              "published": "2026-05-08T15:00:26Z",
+              "description": "Summary\n\nThe conversation emphasizes the importance of starting small and building confidence over time when working with AI. It also highlights the value of leveraging patterns and tools to improve daily work, rather than focusing on mastering specific tools.\n\nTakeaways\n\n* Start small, use AI to support work\n* Build confidence over time\n* Trust the process, don't focus on mastering tools\n\nChapters\n\n* 00:00 Leveraging Patterns and Tools"
             }
           ],
           "error": null
@@ -130,12 +130,6 @@
               "url": "https://www.youtube.com/watch?v=bhToFEBxrXA",
               "published": "2026-05-07T14:30:29Z",
               "description": "Are you actually supposed to use a Silver layer in every Microsoft Fabric solution?\n\nIn this video, we debate one of the biggest architecture discussions happening in modern data platforms right now:\n\n👉 Do you really need a Silver layer in a Medallion Architecture?\n\nPatrick argues that most Microsoft Fabric architectures are overbuilt with unnecessary Bronze, Silver, and Gold layers that add complexity, ownership overhead, and cost.\n\nMarthe argues that the Silver layer is the foundation for scal"
-            },
-            {
-              "title": "A Better Way to Handle Power BI Report Design! (Organizational Themes)",
-              "url": "https://www.youtube.com/watch?v=14xoumEm6wA",
-              "published": "2026-05-06T14:30:01Z",
-              "description": "Organizational Themes let Power BI tenant admins centrally manage and publish branded theme JSON files so report creators can apply approved themes directly in Power BI Desktop and the Power BI service! No more emailing files or guessing which version is latest. \n\nIn this video Marthe shows you:\n✅ Uploading a theme in the Fabric admin portal\n✅ Enabling it for the Theme gallery\n✅ Applying it in Desktop + Service\n\nOrganizational themes (Preview): https://learn.microsoft.com/en-us/power-bi/create-r"
             }
           ],
           "error": null
@@ -143,10 +137,67 @@
       ],
       "ai": [
         {
+          "creator": "Chase AI",
+          "handle": "@ChaseAI",
+          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+          "videos": [
+            {
+              "title": "Dont Design in Claude Code Without Checking out These Repos",
+              "url": "https://www.youtube.com/shorts/ppT0EEltnPo",
+              "published": "2026-05-09T02:37:54Z",
+              "description": ""
+            },
+            {
+              "title": "STOP Using Claude Code Without an Agentic OS",
+              "url": "https://www.youtube.com/shorts/hRGF1gt_3AI",
+              "published": "2026-05-09T01:25:14Z",
+              "description": "Free agentic OS webinar: https://www.chaseai.io/workshop"
+            },
+            {
+              "title": "Codex + claude code feels like cheating",
+              "url": "https://www.youtube.com/shorts/vJ6N9wpoe9U",
+              "published": "2026-05-08T12:31:25Z",
+              "description": ""
+            },
+            {
+              "title": "You Don't Understand the Power of a Claude Code Agentic OS",
+              "url": "https://www.youtube.com/shorts/-9-kS6TxoWs",
+              "published": "2026-05-08T02:12:15Z",
+              "description": ""
+            },
+            {
+              "title": "You're Using Claude Code Wrong (Add Codex)",
+              "url": "https://www.youtube.com/watch?v=VdxUKiF8CWI",
+              "published": "2026-05-08T01:21:59Z",
+              "description": "⚡Master Claude Code & Codex⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community with the prompts🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nIt's not either or.\n\nIt's and.\n\nStop succumbing to AI tribalism and instead learn how to embrace the two best tools in the game, Claude Code and Codex, in order to get the best of both worlds.\n\nIn this video, I break down what you need to know about Codex, how to integrate it with Claude Code, and run th"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Alex Finn",
+          "handle": "@AlexFinn",
+          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
+          "videos": [],
+          "error": null
+        },
+        {
           "creator": "NateBJones",
           "handle": "@NateBJones",
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
+            {
+              "title": "Frontier vs Comfortable: Where Do You Actually Sit? #ai #strategy #career",
+              "url": "https://www.youtube.com/shorts/cUo-QtAectY",
+              "published": "2026-05-09T03:00:43Z",
+              "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/a-fictional-recession-just-crashed?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when a fictional recession scenario wipes $100 billion in market cap and IBM craters 13% in a single day? The common story is about AI disruption—but the reality is more interesting when both the doomer and boomer narratives are wrong about the same"
+            },
+            {
+              "title": "271 Vulnerabilities: What Mozilla's AI Found Changes Everything",
+              "url": "https://www.youtube.com/watch?v=W79FW7iUkro",
+              "published": "2026-05-08T14:00:50Z",
+              "description": "Full article w/ Prompts: https://natesnewsletter.substack.com/p/ai-code-trust-verification-shift?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside software security when Mozilla points Anthropic's Mythos at Firefox and ships fixes for 271 vulnerabilities in a single release cycle?\n\nThe common story is that AI found bugs — but the reality is that the sentence \"a good human engineer wrote this\" is becoming a much weaker"
+            },
             {
               "title": "While Markets Panic, This Happens #ai #opportunity",
               "url": "https://www.youtube.com/shorts/5FLfz7KzV50",
@@ -158,32 +209,6 @@
               "url": "https://www.youtube.com/watch?v=85Q9htV2CBE",
               "published": "2026-05-07T14:00:11Z",
               "description": "Full Story w/ Open Brain Agent Memory: https://natesnewsletter.substack.com/p/openclaw-agent-runtime-model-swapping?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside OpenClaw when everyone is arguing about the model layer but missing that the runtime itself changed shape in April?\n\nThe common story is about Anthropic versus OpenAI and subscription policies — but the reality is that OpenClaw crossed into serious work m"
-            },
-            {
-              "title": "16 Million Fake Accounts Stealing AI Capabilities #ai #news",
-              "url": "https://www.youtube.com/shorts/MfO_Edrgy0w",
-              "published": "2026-05-07T03:00:25Z",
-              "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/three-labs-just-stole-claudes-brain?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when three Chinese labs run 16 million automated conversations across 24,000 fake accounts to steal Claude's capabilities? The common story is Cold War espionage—but the reality is more interesting when you recognize this is a Napster problem, and "
-            },
-            {
-              "title": "The Work Primitive: What Every AI Product Leader Gets Wrong",
-              "url": "https://www.youtube.com/watch?v=b1fxYGPbHeo",
-              "published": "2026-05-06T14:01:00Z",
-              "description": "Full Story w/ Prompt Kit: https://natesnewsletter.substack.com/p/ai-work-primitives-access-vs-meaning?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside the platform fight for agents when everyone is building demos where an AI clicks buttons but missing the strategic layer underneath?\n\nThe common story is that computer use levels the playing field — but the reality is that the visible work the model does is distracting"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Alex Finn",
-          "handle": "@AlexFinn",
-          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
-          "videos": [
-            {
-              "title": "LIVE: Anthropic and Elon just teamed up to take down OpenAI",
-              "url": "https://www.youtube.com/watch?v=q030uxRoV6U",
-              "published": "2026-05-06T20:12:34Z",
-              "description": "Join the Vibe Coding Academy:  https://vibecodingacademy.dev\nSub to my 2nd Channel: https://www.youtube.com/@AlexFinnLabs1"
             }
           ],
           "error": null
@@ -194,48 +219,30 @@
           "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
           "videos": [
             {
+              "title": "Printing Press Just 10x'd Everyone's Claude Code",
+              "url": "https://www.youtube.com/watch?v=YHk45NEpspE",
+              "published": "2026-05-09T01:55:16Z",
+              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=printing-press-cc\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=printing-press-cc\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nLinks mentioned:\nhttps://github.com/mvan"
+            },
+            {
               "title": "Overwhelmed By AI? Just Copy My Tech Stack",
               "url": "https://www.youtube.com/watch?v=35WuZxbAY68",
               "published": "2026-05-08T01:38:26Z",
               "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=ai-tools-may-26\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=ai-tools-may-26\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): \nhttps://www.hostinger.com/vps/claude-code-hosting\n\nIf you've been feeling overwhelmed by the c"
-            },
-            {
-              "title": "Claude Just Solved Session Limits",
-              "url": "https://www.youtube.com/watch?v=3QclAjmu5Tw",
-              "published": "2026-05-07T01:33:43Z",
-              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=claude-in-space\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=claude-in-space\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nAnthropic just announced a SpaceX partnershi"
             }
           ],
           "error": null
         },
         {
-          "creator": "Chase AI",
-          "handle": "@ChaseAI",
-          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+          "creator": "Paul J Lipsky",
+          "handle": "@PaulJLipsky",
+          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
           "videos": [
             {
-              "title": "You Don't Understand the Power of a Claude Code Agentic OS",
-              "url": "https://www.youtube.com/shorts/-9-kS6TxoWs",
-              "published": "2026-05-08T02:12:15Z",
-              "description": ""
-            },
-            {
-              "title": "STOP Using Claude Code OR Codex",
-              "url": "https://www.youtube.com/watch?v=VdxUKiF8CWI",
-              "published": "2026-05-08T01:21:59Z",
-              "description": "⚡Master Claude Code & Codex⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community with the prompts🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nIt's not either or.\n\nIt's and.\n\nStop succumbing to AI tribalism and instead learn how to embrace the two best tools in the game, Claude Code and Codex, in order to get the best of both worlds.\n\nIn this video, I break down what you need to know about Codex, how to integrate it with Claude Code, and run th"
-            },
-            {
-              "title": "Stop ONLY Using Claude Code",
-              "url": "https://www.youtube.com/shorts/LykJDI78VTM",
-              "published": "2026-05-07T06:20:42Z",
-              "description": ""
-            },
-            {
-              "title": "Codex or Claude Code is the wrong question",
-              "url": "https://www.youtube.com/shorts/TOXViOwJNuY",
-              "published": "2026-05-06T13:01:01Z",
-              "description": ""
+              "title": "Codex vs Cowork for Regular People (Every Feature Compared)",
+              "url": "https://www.youtube.com/watch?v=hq6r5CE5B5s",
+              "published": "2026-05-08T13:01:22Z",
+              "description": "Try the VITURE Beast: https://viture.us/Paul \n(Use code \"Paul\" for 10% OFF)\n\nClaude Cowork and OpenAI's Codex are two of the best AI agents for non-technical users — but after putting them head-to-head on every kind of knowledge work I could throw at them, the winner might surprise you.\n\n🔗 This video is sponsored. Some product links are affiliate links which means if you buy something we'll receive a small commission.\n\n0:00 Intro\n0:31 The Apps\n2:18 Folders & Projects\n6:03 Connectors\n8:41 Automat"
             }
           ],
           "error": null
@@ -246,16 +253,16 @@
           "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
           "videos": [
             {
+              "title": "The Week the AI Story Shifted",
+              "url": "https://www.youtube.com/watch?v=ef4WR5vUJro",
+              "published": "2026-05-08T23:23:21Z",
+              "description": "Weekly recap highlights a shifting AI narrative and growing consensus: automation will create relational and augmentation jobs instead of an immediate job apocalypse. Large corporate deals and data center investments signal a pivot from model hype toward sustained infrastructure and enterprise deployment. Product maturation appears through harness engineering, voice features, and persistent goal-driven agents enabling continuous unattended workflows and surging token demand.\n\nThe AI Daily Brief "
+            },
+            {
               "title": "Surprise Elon-Anthropic Team Up Reshapes AI Race",
               "url": "https://www.youtube.com/watch?v=RnqEXgcwg-g",
               "published": "2026-05-07T21:38:41Z",
               "description": "Surprise SpaceX–Anthropic partnership injects massive Colossus-scale compute into Anthropic's Claude ecosystem and reframes compute as a strategic kingmaker. DevDay emphasized an agent-first strategy with Dreaming (scheduled memory review), Managed Agents, Outcomes-based grading, add-ins, industry connectors, and multi-agent orchestration. Shift toward harnesses and agent ecosystems raises business and safety questions about consolidation, continual learning, and control of critical AI infrastru"
-            },
-            {
-              "title": "Who Cares About Consumer AI",
-              "url": "https://www.youtube.com/watch?v=f2lynShlg20",
-              "published": "2026-05-06T19:37:26Z",
-              "description": "Video analyzes the clash between consumer and enterprise AI, highlighting Coinbase's AI framing of layoffs and Meta's consumer-agent project Hatch. Product and model updates covered include OpenAI's GPT-5.5 Instant and a shift toward coding and enterprise use cases. Market implications include Anthropic's reported $200 billion Google Cloud compute commitment, Palantir's revenue surge, and debates over ads, agentic commerce, token scarcity, and compute as a tradable commodity.\n\nThe AI Daily Brief"
             }
           ],
           "error": null
@@ -264,13 +271,6 @@
           "creator": "Simon Scrapes",
           "handle": "@SimonScrapes",
           "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Paul J Lipsky",
-          "handle": "@PaulJLipsky",
-          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
           "videos": [],
           "error": null
         }
