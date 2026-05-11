@@ -1,21 +1,28 @@
 {
-  "generated_at": "2026-05-10T11:21:10.046764Z",
+  "generated_at": "2026-05-11T12:03:32.612969Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
         {
-          "creator": "Life Style Overland",
-          "handle": "@LifeStyleOverland",
-          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
+          "creator": "This Story Till Now",
+          "handle": "@ThisStoryTillNow",
+          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
           "videos": [],
           "error": null
         },
         {
-          "creator": "Casey 250",
-          "handle": "@Casey250",
-          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
-          "videos": [],
+          "creator": "TrailRecon",
+          "handle": "@TrailRecon",
+          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
+          "videos": [
+            {
+              "title": "The Most Expensive Off-Road Trailer I've Ever Towed",
+              "url": "https://www.youtube.com/watch?v=t74evQg1Xh4",
+              "published": "2026-05-10T14:01:17Z",
+              "description": "I've had the Patriot Campers ST5 Super Tourer for a couple months now and it's time to talk about it. I've taken it solo, Regena and I did a four day trip up to Northern California, and we've really gotten to know this trailer. In this video, I take it out into the desert for one last trip before summer shuts things down, walk you through everything inside and out, and give you my honest take on what it's like to live with the most expensive off-road trailer I've ever towed. I also talk about so"
+            }
+          ],
           "error": null
         },
         {
@@ -24,32 +31,39 @@
           "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
           "videos": [
             {
-              "title": "Moab Adventure Trail Day 5 - The BEST day in Moab's Remote Backcountry",
-              "url": "https://www.youtube.com/watch?v=PG1-hgV0Yio",
-              "published": "2026-05-08T22:00:23Z",
-              "description": "Day 5 of our 5 day overlanding loop around Moab is the best day of all taking us through new areas with epic scenary, fun trails and killer campsites.\n\nMoab Adventure Trail GPX File - https://drive.google.com/file/d/1MJX8a8Ah6gdi-jTkFKJK_f4gm5LYu9M1/view?usp=sharing\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHNYyUa\nAll Roads Tak"
+              "title": "Overlander Daily Vlog - This Isn't Working",
+              "url": "https://www.youtube.com/watch?v=60EBrusVKxk",
+              "published": "2026-05-10T15:00:15Z",
+              "description": "The Starlink setup we installed on our new Wrangler isn't working. So I fixed it. \n\nValve stem repair kit - https://amzn.to/42ZeCFK\n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHNYyUa\nAll Roads Taken - https://w"
             }
           ],
           "error": null
         },
         {
-          "creator": "LetsGetLost",
-          "handle": "@LetsGetLost",
-          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "TrailRecon",
-          "handle": "@TrailRecon",
-          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
-          "videos": [],
+          "creator": "Life Style Overland",
+          "handle": "@LifeStyleOverland",
+          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
+          "videos": [
+            {
+              "title": "Tundra Camping in Peaceful Appalachia",
+              "url": "https://www.youtube.com/watch?v=R1gj2g41P4c",
+              "published": "2026-05-10T17:03:26Z",
+              "description": "Ride along as the Griz steps up to lead our overland adventures following the growing list of mechanical challenges with Silver. In this episode, I head off on a (much needed) peaceful trail exploration through the scenic Appalachians.\n\nI also give an update on the Tundra’s evolving overland kit, and share recent modifications designed for comfort and capability on these extended trips. While I truly miss travel in the Wild West, these eastern adventures offer a different pace and a distinct sen"
+            }
+          ],
           "error": null
         },
         {
           "creator": "VentureToRoam",
           "handle": "@VentureToRoam",
           "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "LetsGetLost",
+          "handle": "@LetsGetLost",
+          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
           "videos": [],
           "error": null
         },
@@ -61,19 +75,33 @@
           "error": null
         },
         {
-          "creator": "This Story Till Now",
-          "handle": "@ThisStoryTillNow",
-          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "creator": "Casey 250",
+          "handle": "@Casey250",
+          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
           "videos": [],
           "error": null
         }
       ],
       "power_platform": [
         {
-          "creator": "Reza Dorrani",
-          "handle": "@RezaDorrani",
-          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
+          "creator": "Shane Young",
+          "handle": "@ShanesCows",
+          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
           "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Lisa Crosbie",
+          "handle": "@LisaCrosbie",
+          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
+          "videos": [
+            {
+              "title": "Copilot Cowork: Tutorial for Beginners",
+              "url": "https://www.youtube.com/watch?v=FQq89qpwDpU",
+              "published": "2026-05-11T10:30:12Z",
+              "description": "In this video, I show you how to use Microsoft 365 Copilot Cowork, the new Copilot experience that can actually DO work for you instead of just chatting about it.\n\nAfter using Copilot Cowork in my real day-to-day job for several weeks, I genuinely think this is the biggest leap we’ve seen since Microsoft first launched Copilot.\n\nIn this tutorial you will learn:\n- What Copilot Co-work actually is\n- How to access it (Frontier program + licensing)\n- The difference between chat vs AI delegation\n- Ho"
+            }
+          ],
           "error": null
         },
         {
@@ -84,16 +112,9 @@
           "error": null
         },
         {
-          "creator": "Lisa Crosbie",
-          "handle": "@LisaCrosbie",
-          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Shane Young",
-          "handle": "@ShanesCows",
-          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
+          "creator": "Reza Dorrani",
+          "handle": "@RezaDorrani",
+          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
           "videos": [],
           "error": null
         },
@@ -110,30 +131,50 @@
           "creator": "Guy in a Cube",
           "handle": "@GuyInACube",
           "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
-          "videos": [],
+          "videos": [
+            {
+              "title": "Why should you consider materialized lake views in Fabric? 🤔",
+              "url": "https://www.youtube.com/shorts/-zhpSBL3dYI",
+              "published": "2026-05-10T16:56:58Z",
+              "description": ""
+            }
+          ],
           "error": null
         },
         {
           "creator": "Dewain Robinson",
           "handle": "@DewainRobinson",
           "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
-          "videos": [
-            {
-              "title": "AI: Start Small, Build Confidence",
-              "url": "https://www.youtube.com/shorts/XNGA9gTj9tE",
-              "published": "2026-05-08T15:00:26Z",
-              "description": "Summary\n\nThe conversation emphasizes the importance of starting small and building confidence over time when working with AI. It also highlights the value of leveraging patterns and tools to improve daily work, rather than focusing on mastering specific tools.\n\nTakeaways\n\n* Start small, use AI to support work\n* Build confidence over time\n* Trust the process, don't focus on mastering tools\n\nChapters\n\n* 00:00 Leveraging Patterns and Tools"
-            }
-          ],
+          "videos": [],
           "error": null
         }
       ],
       "ai": [
         {
+          "creator": "Alex Finn",
+          "handle": "@AlexFinn",
+          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
+          "videos": [
+            {
+              "title": "Hermes Agent is blowing me away...",
+              "url": "https://www.youtube.com/watch?v=cEo95olh2j4",
+              "published": "2026-05-09T20:54:26Z",
+              "description": "Hermes Agent is the best AI agent out there. Even better than OpenClaw. Here's how to get the most out of it\n\n2nd Youtube Channel: https://www.youtube.com/@UC_qaRKiYQv_afIt2sbqOlMg \nFULL Hermes bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n"
+            }
+          ],
+          "error": null
+        },
+        {
           "creator": "NateBJones",
           "handle": "@NateBJones",
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
+            {
+              "title": "Anthropic And OpenAI Just Admitted The Model Isn't Enough.",
+              "url": "https://www.youtube.com/watch?v=EpJ0CjTJSag",
+              "published": "2026-05-10T18:00:09Z",
+              "description": "Full article w/ Prompts & Playbook: https://natesnewsletter.substack.com/p/enterprise-ai-buying-build-room?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening with AI agent security — and what does it mean for your AI roadmap? The common story is that McKinsey's Lilly platform had a security lapse — but the reality is a procurement and organizational design failure that most companies are quietly repeating right now.\n\nIn this "
+            },
             {
               "title": "Human Oversight Isn't Slowing AI Down, It's Protecting It #AIGovernance #Shorts",
               "url": "https://www.youtube.com/shorts/lNX4m6KmX4U",
@@ -151,32 +192,6 @@
               "url": "https://www.youtube.com/watch?v=647pSnX5H_Y",
               "published": "2026-05-09T15:00:09Z",
               "description": "Full article w/ the Ultimate Codex Plugin Guide: https://natesnewsletter.substack.com/p/codex-plugins-bottleneck-moved?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening with codex plugins, skills, prompts, and MCPs as agents start doing real work? The common story is that plugins are just app store add-ons — but the reality is more complicated.\n\nIn this video, I share the inside scoop on the agentic scaffolding that actually"
-            },
-            {
-              "title": "Frontier vs Comfortable: Where Do You Actually Sit? #ai #strategy #career",
-              "url": "https://www.youtube.com/shorts/cUo-QtAectY",
-              "published": "2026-05-09T03:00:43Z",
-              "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/a-fictional-recession-just-crashed?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when a fictional recession scenario wipes $100 billion in market cap and IBM craters 13% in a single day? The common story is about AI disruption—but the reality is more interesting when both the doomer and boomer narratives are wrong about the same"
-            },
-            {
-              "title": "271 Vulnerabilities: What Mozilla's AI Found Changes Everything",
-              "url": "https://www.youtube.com/watch?v=W79FW7iUkro",
-              "published": "2026-05-08T14:00:50Z",
-              "description": "Full article w/ Prompts: https://natesnewsletter.substack.com/p/ai-code-trust-verification-shift?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening inside software security when Mozilla points Anthropic's Mythos at Firefox and ships fixes for 271 vulnerabilities in a single release cycle?\n\nThe common story is that AI found bugs — but the reality is that the sentence \"a good human engineer wrote this\" is becoming a much weaker"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Alex Finn",
-          "handle": "@AlexFinn",
-          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
-          "videos": [
-            {
-              "title": "Hermes Agent is blowing me away...",
-              "url": "https://www.youtube.com/watch?v=cEo95olh2j4",
-              "published": "2026-05-09T20:54:26Z",
-              "description": "Hermes Agent is the best AI agent out there. Even better than OpenClaw. Here's how to get the most out of it\n\n2nd Youtube Channel: https://www.youtube.com/@UC_qaRKiYQv_afIt2sbqOlMg \nFULL Hermes bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n"
             }
           ],
           "error": null
@@ -186,6 +201,18 @@
           "handle": "@ChaseAI",
           "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
           "videos": [
+            {
+              "title": "codex is really good, actually",
+              "url": "https://www.youtube.com/shorts/0QwCVq5ZUvg",
+              "published": "2026-05-11T04:16:27Z",
+              "description": ""
+            },
+            {
+              "title": "The Best Claude Code Project For Beginners",
+              "url": "https://www.youtube.com/shorts/jTZ0FqY5peM",
+              "published": "2026-05-11T04:10:49Z",
+              "description": ""
+            },
             {
               "title": "codex just became the best long running agentic coding harness",
               "url": "https://www.youtube.com/shorts/637zk1TgEQw",
@@ -199,28 +226,10 @@
               "description": ""
             },
             {
-              "title": "STOP Using Claude Code For This (Use Codex)",
+              "title": "Codex Just Became THE BEST Long Running Agentic Harness",
               "url": "https://www.youtube.com/watch?v=nOFordZCyzs",
               "published": "2026-05-10T03:06:59Z",
               "description": "⚡Master Claude Code & Codex⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\n/goal might have just turned Codex into the best harness for long running agentic tasks.\n\nIn this video, I break down how /goal works, how to install it, and demo it on a run project.\n\n⏰TIMESTAMPS:\n\n0:00 - Intro\n0:32 - Goals\n2:42 - How it Works\n7:31 - Demo\n16:29 - Outro\n\nRESOURCES FROM THIS VIDEO:\n➡️ Master Claude Code &"
-            },
-            {
-              "title": "Dont Design in Claude Code Without Checking out These Repos",
-              "url": "https://www.youtube.com/shorts/ppT0EEltnPo",
-              "published": "2026-05-09T02:37:54Z",
-              "description": ""
-            },
-            {
-              "title": "STOP Using Claude Code Without an Agentic OS",
-              "url": "https://www.youtube.com/shorts/hRGF1gt_3AI",
-              "published": "2026-05-09T01:25:14Z",
-              "description": "Free agentic OS webinar: https://www.chaseai.io/workshop"
-            },
-            {
-              "title": "Codex + claude code feels like cheating",
-              "url": "https://www.youtube.com/shorts/vJ6N9wpoe9U",
-              "published": "2026-05-08T12:31:25Z",
-              "description": ""
             }
           ],
           "error": null
@@ -235,14 +244,15 @@
               "url": "https://www.youtube.com/watch?v=gb5TlGw6Uks",
               "published": "2026-05-10T02:42:25Z",
               "description": "Code NATEHERK for 10% off Hermes VPS: http://hostinger.com/natehermes\nFull courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=hermes-course\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=hermes-course\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps"
-            },
-            {
-              "title": "This is The Most Powerful Tool to Give to Claude Code",
-              "url": "https://www.youtube.com/watch?v=YHk45NEpspE",
-              "published": "2026-05-09T01:55:16Z",
-              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=printing-press-cc\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=printing-press-cc\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nLinks mentioned:\nhttps://github.com/mvan"
             }
           ],
+          "error": null
+        },
+        {
+          "creator": "AI Daily Brief",
+          "handle": "@AIDailyBrief",
+          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
+          "videos": [],
           "error": null
         },
         {
@@ -265,30 +275,16 @@
           "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
           "videos": [
             {
+              "title": "EVERY Google AI Tool Explained In One Video (Most Are Free)",
+              "url": "https://www.youtube.com/watch?v=NR95C7Jp3NI",
+              "published": "2026-05-10T13:00:40Z",
+              "description": "Google has released way more AI tools than most people realize, so this video runs through the useful ones, the weird ones, and the hidden free tools worth trying before they get folded into something bigger.\n\nMore In Depth Tutorials:\n\nGemini: https://youtu.be/-_FizlRlfYs\nNotebookLM: https://youtu.be/b2fGNHPlUGA\nGoogle AI Studio: https://youtu.be/QDLAhBVF_6g\nPomelli: https://youtu.be/A5_T5NJhW9M\nGoogle Flow Music: https://youtu.be/itof6wbKPHQ\n\n0:00 Intro\n0:28 Gemini\n0:48 NotebookLM\n1:34 Illumina"
+            },
+            {
               "title": "AI News: ChatGPT Is Back, NotebookLM Update, Google AI Health Coach, New Pomelli Feature...",
               "url": "https://www.youtube.com/watch?v=myJ2IVHOfrI",
               "published": "2026-05-09T13:01:24Z",
               "description": "Try i10x: https://i10x.ai/?fpr=paul53\nSave 15% with code \"PJL15\"\n\nChatGPT returns to form with a major model update while Google and Perplexity drop massive new tools for health and desktop control.\n\nPrompt of the week: https://x.com/itsolelehmann/status/2036065138147471665\n\nHeads up, these updates may not be available worldwide yet. Just because I have access to them doesn't mean you will yet.\n\n🔗 This video is sponsored. Some product links are affiliate links which means if you buy something we"
-            },
-            {
-              "title": "Codex vs Cowork for Regular People (Every Feature Compared)",
-              "url": "https://www.youtube.com/watch?v=hq6r5CE5B5s",
-              "published": "2026-05-08T13:01:22Z",
-              "description": "Try the VITURE Beast: https://viture.us/Paul \n(Use code \"Paul\" for 10% OFF)\n\nClaude Cowork and OpenAI's Codex are two of the best AI agents for non-technical users — but after putting them head-to-head on every kind of knowledge work I could throw at them, the winner might surprise you.\n\n🔗 This video is sponsored. Some product links are affiliate links which means if you buy something we'll receive a small commission.\n\n0:00 Intro\n0:31 The Apps\n2:18 Folders & Projects\n6:03 Connectors\n8:41 Automat"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "AI Daily Brief",
-          "handle": "@AIDailyBrief",
-          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
-          "videos": [
-            {
-              "title": "The Week the AI Story Shifted",
-              "url": "https://www.youtube.com/watch?v=ef4WR5vUJro",
-              "published": "2026-05-08T23:23:21Z",
-              "description": "Weekly recap highlights a shifting AI narrative and growing consensus: automation will create relational and augmentation jobs instead of an immediate job apocalypse. Large corporate deals and data center investments signal a pivot from model hype toward sustained infrastructure and enterprise deployment. Product maturation appears through harness engineering, voice features, and persistent goal-driven agents enabling continuous unattended workflows and surging token demand.\n\nThe AI Daily Brief "
             }
           ],
           "error": null
@@ -298,68 +294,48 @@
     "newsletters": {
       "power_platform_weekly": {
         "name": "Power Platform Weekly",
-        "issue_number": 262,
-        "issue_date": "2026-05-05",
-        "url": "https://www.ppweekly.com/p/power-platform-weekly-issue-262",
-        "is_new": false,
+        "issue_number": 263,
+        "issue_date": "2026-05-11",
+        "url": "https://www.ppweekly.com/p/power-platform-weekly-issue-263",
+        "is_new": true,
         "sections": {
           "📰 Articles": [
             {
-              "title": "Dataverse Actions, Functions & Flows in Power Apps Code Apps: Complete Guide",
-              "url": "https://aidevme.com/dataverse-actions-functions-flows-in-power-apps-code-apps-complete-guide"
+              "title": "Work Trend Index 2026: the Agency Gap is real, and HR owns the fix",
+              "url": "https://www.anainesurrutia.com/post/work-trend-index-2026-the-agency-gap-is-real-and-hr-owns-the-fix"
             },
             {
-              "title": "AI Agents vs. Agentic AI: Why the Architecture Matters",
-              "url": "https://lowcodepower.com/2026/04/29/ai-agents-vs-agentic-ai-why-the-architecture-matters/"
+              "title": "Why Computer Use in Copilot Studio is finally interesting for the enterprise",
+              "url": "http://sharepoint247.com/ai/why-computer-use-in-copilot-studio-is-finally-interesting-for-the-enterprise/"
             },
             {
-              "title": "ALM on Power Platform: ADO + GitHub, the best of both worlds",
-              "url": "https://dev.to/_neronotte/alm-on-power-platform-ado-github-the-best-of-both-worlds-5dbh"
+              "title": "Power Apps Vibe Coded Experience [Preview]",
+              "url": "https://d365demystified.com/2026/05/07/power-apps-vibe-coded-experience-preview/"
             },
             {
-              "title": "Power Pages: Escape Filters",
-              "url": "https://www.engineeredcode.com/blog/power-pages-escape-filters"
+              "title": "Create Add To Google Link For Session Or Event Registrations",
+              "url": "https://meganvwalker.com/add-to-google-link-session-or-event-registrations/"
             },
             {
-              "title": "Access Event Registration Custom Questions & Answers In CIJ",
-              "url": "https://meganvwalker.com/access-event-registration-custom-questions-cij/"
-            },
-            {
-              "title": "Find Contacts With Failed Form Submissions Via A Segment",
-              "url": "https://meganvwalker.com/contacts-with-failed-form-submissions-via-segment/"
-            },
-            {
-              "title": "What is coming to Dynamics 365 Sales in 2026 Release Wave 1",
-              "url": "https://d365goddess.com/what-is-coming-to-dynamics-365-sales/"
-            },
-            {
-              "title": "The death of BizApps and the rise of the agentic Power Platform",
-              "url": "https://nullpointer.se/agentification-power-platform.html"
-            },
-            {
-              "title": "Abracadabra, create me a F&O environment",
-              "url": "https://medium.com/@ted.ohlsson/abracadabra-create-me-a-f-o-environment-10807e38852d"
+              "title": "Lead Scoring in Dynamics 365 Customer Insights: The 5Ws and How to Start",
+              "url": "https://martinplopez.com/posts/customer-insights-lead-scoring/"
             }
           ],
           "🎙️ Podcasts": [
             {
-              "title": "Microsoft Mechanics Podcast",
-              "url": "https://microsoftmechanics.libsyn.com/operations-context-for-ai-ontology-in-fabric-iq"
+              "title": "Ctrl+Alt+Azure Podcast",
+              "url": "https://share.transistor.fm/s/5fbf2946"
             },
             {
-              "title": "Power Platform Podcast",
-              "url": "https://powerplatformpodcast.com/episodes/sequins-dinosaurs-data-cat-schneider-on-standing-out-in-the-power-platform-community/"
+              "title": "Code. Deploy. Go Live. Podcast",
+              "url": "https://codedeploygo.live/episodes/031-microsoft-365-copilot-extensibility-declarative-agents-custom-engines-and-work-iq-with-microsofts-paolo-pialorsi"
             },
             {
-              "title": "Weekend Power Platform Podcast",
-              "url": "https://www.podbean.com/ep/pb-q46rr-1aa9c0f"
+              "title": "Power Platform Boost Podcast",
+              "url": "https://powerplatformboost.buzzsprout.com/2147912/episodes/19130741-10-coffees-and-a-redbull-85"
             }
           ],
           "📅 Events & Webinars": [
-            {
-              "title": "European BizApps Summit",
-              "url": "https://bizappssummit.eu/"
-            },
             {
               "title": "Agent Academy Live",
               "url": "https://developer.microsoft.com/en-us/reactor/events/27042/"
@@ -383,34 +359,30 @@
           ],
           "💙 Out of the Blue": [
             {
-              "title": "Introducing real-time voice agents in Microsoft Copilot Studio",
-              "url": "https://www.microsoft.com/microsoft-copilot/blog/copilot-studio/extend-ai-voice-support-introducing-real-time-voice-agents-in-microsoft-copilot-studio/"
+              "title": "Dataverse is your agent data platform: here’s what’s new",
+              "url": "https://www.microsoft.com/power-platform/blog/2026/05/05/dataverse-agent-data-platform/"
             },
             {
-              "title": "Dataverse plugin is now on the Claude Marketplace",
-              "url": "https://devblogs.microsoft.com/powerplatform/dataverse-plugin-claude-marketplace/"
+              "title": "Semantic model settings pane (Preview)",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Semantic-model-settings-pane-Preview/ba-p/5177694"
             },
             {
-              "title": "The new loop: How Power Pages builds software with AI",
-              "url": "https://devblogs.microsoft.com/powerplatform/the-new-loop-how-power-pages-builds-software-with-ai/"
-            },
-            {
-              "title": "How to set context variables to Copilot Studio agents using WebChat",
-              "url": "https://microsoft.github.io/mcscatblog/posts/webchat-context-variables/"
+              "title": "Execute DAX Queries REST API (Preview)",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Execute-DAX-Queries-REST-API-Preview/ba-p/5177697"
             }
           ],
           "📺 Videos": [
             {
-              "title": "How to build a Power Automate flow that generates a daily recap of Outlook E-mails received",
-              "url": "https://www.youtube.com/watch?v=l9MRW6HxoAY"
+              "title": "Build a Multi-Stage Approval Process in Power Automate",
+              "url": "https://www.youtube.com/watch?v=HXUvBD_IBIQ"
             },
             {
-              "title": "Power Automate Conditions Explained — Make Your Flow Smart (If/Else Logic)",
-              "url": "https://www.youtube.com/watch?v=749W2TKUF3I"
+              "title": "Did You Notice This New Button in SharePoint? Here's What It Does",
+              "url": "https://www.youtube.com/watch?v=aN2t2FH_1TI"
             },
             {
-              "title": "How To Use Enhanced Task Completion",
-              "url": "https://www.youtube.com/watch?v=9Z2sqgX3Q1s"
+              "title": "Using Claude Code or GitHub Copilot CLI with Copilot Studio Plugin",
+              "url": "https://www.youtube.com/watch?v=G8KocZvVAhk"
             }
           ]
         },
