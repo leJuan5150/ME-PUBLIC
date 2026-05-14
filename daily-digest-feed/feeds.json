@@ -1,44 +1,9 @@
 {
-  "generated_at": "2026-05-13T11:44:23.881042Z",
+  "generated_at": "2026-05-14T11:35:40.373001Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
-        {
-          "creator": "Ozark Overland Adventure",
-          "handle": "@OzarkOverlandAdventures",
-          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
-          "videos": [
-            {
-              "title": "Overlander Daily Vlog - Does it really matter?",
-              "url": "https://www.youtube.com/watch?v=YTVJdCUiumQ",
-              "published": "2026-05-12T15:01:02Z",
-              "description": "I make a key change to my Gladiator suspension setup and open IceCo's newest and most exciting fridge - VL45-Plus\n\nVL45 Plus Kickstarter - https://www.kickstarter.com/projects/iceco/iceco-vl45-plus-the-first-3-way-access-portable-freezer?ref=di75ug\n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandad"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "TrailRecon",
-          "handle": "@TrailRecon",
-          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "LetsGetLost",
-          "handle": "@LetsGetLost",
-          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Casey 250",
-          "handle": "@Casey250",
-          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
-          "videos": [],
-          "error": null
-        },
         {
           "creator": "VentureToRoam",
           "handle": "@VentureToRoam",
@@ -54,17 +19,38 @@
           "error": null
         },
         {
+          "creator": "LetsGetLost",
+          "handle": "@LetsGetLost",
+          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Ozark Overland Adventure",
+          "handle": "@OzarkOverlandAdventures",
+          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
+          "videos": [
+            {
+              "title": "Overlander Daily Vlog - Does it really matter?",
+              "url": "https://www.youtube.com/watch?v=YTVJdCUiumQ",
+              "published": "2026-05-12T15:01:02Z",
+              "description": "I make a key change to my Gladiator suspension setup and open IceCo's newest and most exciting fridge - VL45-Plus\n\nVL45 Plus Kickstarter - https://www.kickstarter.com/projects/iceco/iceco-vl45-plus-the-first-3-way-access-portable-freezer?ref=di75ug\n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandad"
+            }
+          ],
+          "error": null
+        },
+        {
           "creator": "Epic Adventure Outfitters",
           "handle": "@EpicAdventureOutfitters",
           "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
-          "videos": [
-            {
-              "title": "The Complete Jeep Maintenance Checklist Nobody Gave You",
-              "url": "https://www.youtube.com/watch?v=zhpqvqo1-Eg",
-              "published": "2026-05-11T20:37:59Z",
-              "description": "Your Jeep doesn't just fail on trail out of nowhere. It tried to tell you. Multiple times. You were just too busy planning the next trip to listen.\n\n#JeepLife #JeepMaintenance #Overlanding #OffRoad\n\nIn this episode of 2 Dudes 1 Wrench, Paul and The Ginger go full dad mode on Jeep maintenance and give you the complete checklist that nobody handed you when you drove off the lot.\n\nHere is the uncomfortable truth: most Jeep breakdowns on trail are not bad luck. They are deferred maintenance catching"
-            }
-          ],
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "TrailRecon",
+          "handle": "@TrailRecon",
+          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
+          "videos": [],
           "error": null
         },
         {
@@ -73,21 +59,21 @@
           "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
           "videos": [],
           "error": null
+        },
+        {
+          "creator": "Casey 250",
+          "handle": "@Casey250",
+          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
+          "videos": [],
+          "error": null
         }
       ],
       "power_platform": [
         {
-          "creator": "Shane Young",
-          "handle": "@ShanesCows",
-          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
-          "videos": [
-            {
-              "title": "Breaking News for Power Platform Lovers Everywhere",
-              "url": "https://www.youtube.com/watch?v=sDNTgyQjtzg",
-              "published": "2026-05-11T12:31:15Z",
-              "description": "PowerApps911 has joined forces with TMC to create the ultimate Microsoft Business Applications partner. Get answers to all of your questions, yes even the awkward ones as Shane paints you a picture of the future. You even get to meet Rudy, the new dog.\n\nTMC Website\nhttps://abouttmc.com/\n\nUp your Power Apps Skills Today!\nhttps://www.powerapps911.com/up-your-power-apps-skills\n\nLet's connect!\nhttps://www.powerapps911.com/shane"
-            }
-          ],
+          "creator": "Lisa Crosbie",
+          "handle": "@LisaCrosbie",
+          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
+          "videos": [],
           "error": null
         },
         {
@@ -98,9 +84,16 @@
           "error": null
         },
         {
-          "creator": "Lisa Crosbie",
-          "handle": "@LisaCrosbie",
-          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
+          "creator": "Matthew Devaney",
+          "handle": "@MatthewDevaney",
+          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Shane Young",
+          "handle": "@ShanesCows",
+          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
           "videos": [],
           "error": null
         },
@@ -108,28 +101,7 @@
           "creator": "Reza Dorrani",
           "handle": "@RezaDorrani",
           "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
-          "videos": [
-            {
-              "title": "Power Apps CODE Apps FULL Tutorial — Step by Step Solution Build",
-              "url": "https://www.youtube.com/watch?v=vI7csoOe7-4",
-              "published": "2026-05-11T12:01:38Z",
-              "description": "The complete tutorial on Power Apps CODE Apps — step by step, start to finish! In this video, we'll build an Internal Order Supply App from scratch, featuring role-based access, a modern UI, and a full end-to-end solution build you can actually deploy.\n\nIf you've been curious about Power Apps Code Apps but didn't know where to start, this video has you covered. From setup all the way to code to deployment, with role-based logic baked right in.\n\n🔥 What You'll Learn:\n✅ What Power Apps Code Apps ar"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Matthew Devaney",
-          "handle": "@MatthewDevaney",
-          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
-          "videos": [
-            {
-              "title": "NEW Workflows Feature In Copilot Studio (20-Min Full Demo)",
-              "url": "https://www.youtube.com/watch?v=o532hBhzSoQ",
-              "published": "2026-05-12T03:05:21Z",
-              "description": "I just got my hands on the all new workflows designer feature for #CopilotStudio and today we are going to take a look at it together for the first time.\n\nWorkflows are ideal for when you want to orchestrate agents as part of a repeatable process. So you can do things like add variables, if/else statements and loops just like a traditional automation.\n\nAnd then you can also add agentic actions like prompts and skills, and even bring a human into the loop when needed\n\nWhile workflows are built on"
-            }
-          ],
+          "videos": [],
           "error": null
         }
       ],
@@ -138,21 +110,21 @@
           "creator": "Dewain Robinson",
           "handle": "@DewainRobinson",
           "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
-          "videos": [
-            {
-              "title": "How to Remain Relevant in a world of AI",
-              "url": "https://www.youtube.com/watch?v=QLKqfH0B-DM",
-              "published": "2026-05-11T18:53:37Z",
-              "description": "In this video I walk you through my 8 key things you need to do and know to remain relevant in the world of AI.  We explore how to accelerate your value and where you will find your value when working with AI.  I give you tricks to what successful people do when working with AI as it is not about competing with AI but learning to harness its powers to make you all that you can be."
-            }
-          ],
+          "videos": [],
           "error": null
         },
         {
           "creator": "Guy in a Cube",
           "handle": "@GuyInACube",
           "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
-          "videos": [],
+          "videos": [
+            {
+              "title": "Did you know about AI functions?",
+              "url": "https://www.youtube.com/shorts/7xRGgo0UIwc",
+              "published": "2026-05-13T17:29:07Z",
+              "description": ""
+            }
+          ],
           "error": null
         }
       ],
@@ -162,6 +134,18 @@
           "handle": "@NateBJones",
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
+            {
+              "title": "Professors Notice Something's Drastically Wrong #college #teacher",
+              "url": "https://www.youtube.com/shorts/8n4OV0jotDs",
+              "published": "2026-05-14T03:00:13Z",
+              "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/my-kids-do-long-division-by-hand?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n_______________________________________\nWhat's really happening when AI tutors double learning outcomes in controlled studies but college professors report students can no longer read a full chapter? The common story is that AI will either save education or destroy it—but the reality is more interesting when the calculator mo"
+            },
+            {
+              "title": "Pinecone Just Demoted Vector Search. Here's the Knowledge Layer.",
+              "url": "https://www.youtube.com/watch?v=lqiwQiDglGk",
+              "published": "2026-05-13T14:01:15Z",
+              "description": "Full article w/ Prompts: https://natesnewsletter.substack.com/p/rag-agents-knowledge-layer-architecture?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________________________\n\nWhat's really happening inside the AI agent memory infrastructure war?\n\nThe common story is that bigger context windows and better vector search will solve it — but the reality is every serious infrastructure vendor is racing to fix a deeper problem that classic RAG can't touch.\n\n"
+            },
             {
               "title": "I Built 2 AI Agents. One Had This. Total Game Changer #aiagents #ai #engineering",
               "url": "https://www.youtube.com/shorts/fsFxiXzwvp8",
@@ -179,18 +163,6 @@
               "url": "https://www.youtube.com/watch?v=j5_wcDifNko",
               "published": "2026-05-12T14:01:07Z",
               "description": "Full article w/ Prompts: https://natesnewsletter.substack.com/p/agentic-commerce-protocol-war?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________________________\n\nWhat's really happening inside the agentic commerce protocol war?\n\nThe common story is that AI agents will just plug into existing checkout — but the reality is that six camps are fighting over who carries the responsibility when an agent spends your money.\n\nIn this video, I share the insid"
-            },
-            {
-              "title": "While Execs Panic, This Skill Gets Rare #ai #career",
-              "url": "https://www.youtube.com/shorts/OhtcvogXtok",
-              "published": "2026-05-12T00:00:20Z",
-              "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/a-fictional-recession-just-crashed?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when a fictional recession scenario wipes $100 billion in market cap and IBM craters 13% in a single day? The common story is about AI disruption—but the reality is more interesting when both the doomer and boomer narratives are wrong about the same"
-            },
-            {
-              "title": "LLM Agents: The Security Breach Pattern Nobody's Talking About",
-              "url": "https://www.youtube.com/watch?v=SX1myuPEDFg",
-              "published": "2026-05-11T14:00:52Z",
-              "description": "Full article w/ Prompts & Playbook: https://natesnewsletter.substack.com/p/agent-judge-layer-production-control?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________________________\nWhat's really happening when AI agents take real actions in production, and why do better prompts keep failing to stop them?\n\nThe common story is that prompt engineering and human approval will keep AI agents safe — but the reality is that frontier-model agents now need the"
             }
           ],
           "error": null
@@ -201,10 +173,16 @@
           "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
           "videos": [
             {
-              "title": "LIVE: Talking AI news (no Hermes use cases ignore the thumbnail)",
-              "url": "https://www.youtube.com/watch?v=Gz_uZcnCDLs",
-              "published": "2026-05-11T20:11:47Z",
-              "description": "Join the Vibe Coding Academy: https://vibecodingacademy.dev\n2nd channel: https://www.youtube.com/@UC_qaRKiYQv_afIt2sbqOlMg"
+              "title": "LIVE: The greatest Claude Code workflow ever",
+              "url": "https://www.youtube.com/watch?v=yoPv_M2A40U",
+              "published": "2026-05-13T20:12:33Z",
+              "description": "Join the Vibe Coding Academy:  https://vibecodingacademy.dev\n2nd channel: youtube.com/@AlexFinnLabsOfficial"
+            },
+            {
+              "title": "Hermes Agent powered by local models on the DGX Spark is basically magic",
+              "url": "https://www.youtube.com/watch?v=7JRHSo2F-Wk",
+              "published": "2026-05-13T13:30:07Z",
+              "description": "Here is how to set up Hermes Agent on local models using the DGX Spark. Thank you NVIDIA for sponsoring this video! Learn more about NVIDIA DGX Spark: https://nvda.ws/4tNT1fn\n\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nFULL Hermes bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meet"
             }
           ],
           "error": null
@@ -214,6 +192,18 @@
           "handle": "@ChaseAI",
           "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
           "videos": [
+            {
+              "title": "Your Claude Code Agentic OS Sucks",
+              "url": "https://www.youtube.com/watch?v=d86VCtQ_dN8",
+              "published": "2026-05-14T08:15:38Z",
+              "description": "⚡Master Claude Code + Codex⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nLet's solve Claude Code Agentic OS.\n\nWhile the command center gets all the attention, the true power of an agentic OS is the skill architecture that acts as its backbone. In this video, I break down why that is, how to create it, and where we get the most value out of these complex systems.\n\n⏰TIMESTAMPS:\n\n0:00 - The Real"
+            },
+            {
+              "title": "claude code vs codex is not a question",
+              "url": "https://www.youtube.com/shorts/u_xyjZq-xDU",
+              "published": "2026-05-13T12:31:07Z",
+              "description": ""
+            },
             {
               "title": "The Open Source Playwright Alternative for Claude Code",
               "url": "https://www.youtube.com/shorts/5TtqiquQ5Co",
@@ -225,58 +215,6 @@
               "url": "https://www.youtube.com/shorts/PopZ4Wz1nY4",
               "published": "2026-05-12T12:15:07Z",
               "description": ""
-            },
-            {
-              "title": "Claude Code Just Got a Dashboard",
-              "url": "https://www.youtube.com/shorts/INgFj4Wd9zY",
-              "published": "2026-05-12T06:01:08Z",
-              "description": ""
-            },
-            {
-              "title": "Claude Code Just Got a Dashboard",
-              "url": "https://www.youtube.com/watch?v=7zxIeRWasbc",
-              "published": "2026-05-11T22:29:29Z",
-              "description": "⚡Master Claude Code & Codex⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nRESOURCES FROM THIS VIDEO:\n➡️ Master Claude Code & Codex: https://www.skool.com/chase-ai\n➡️ My Website: https://www.chaseai.io\n➡️ Article: https://claude.com/blog/agent-view-in-claude-code\n\n#claudecode"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "AI Daily Brief",
-          "handle": "@AIDailyBrief",
-          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
-          "videos": [
-            {
-              "title": "The Best Way to Talk to Your Agents",
-              "url": "https://www.youtube.com/watch?v=NNxGQw1uQHc",
-              "published": "2026-05-12T15:29:16Z",
-              "description": "Debate over HTML versus Markdown highlights richer, interactive handoffs and a shift from producing outputs to staging and scaffolding work for AI agents. Headlines include Anthropic's potential near-trillion valuation round and SpaceX compute deal, Cerebras IPO upsizing, TSMC capacity constraints, household micro data-center trials, and an OpenAI Codex Chrome plugin for live browser context.\n\nThe AI Daily Brief helps you understand the most important news and discussions in AI. \nSubscribe to th"
-            },
-            {
-              "title": "The New Jobs AI Will Create",
-              "url": "https://www.youtube.com/watch?v=WhAAKxPlMhw",
-              "published": "2026-05-11T12:34:46Z",
-              "description": "The AI jobs debate has spent years asking which roles will disappear. This weekend long-read asks the more important question: what becomes possible when AI expands the amount of useful work the economy can support? NLW lays out a first-principles case for why better AI does not simply mean less human work, exploring how cheaper services, broader access, continuous support, personalization, and human trust can create new demand. From there, he introduces the “human premium” that remains even as "
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Nate Herk",
-          "handle": "@NateHerk",
-          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-          "videos": [
-            {
-              "title": "Every Level of Claude Explained in 21 Minutes",
-              "url": "https://www.youtube.com/watch?v=ZRb7D6R64hM",
-              "published": "2026-05-12T13:59:35Z",
-              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=every-level-of-claude\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=every-level-of-claude\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nEvery Level of Claude Code Expla"
-            },
-            {
-              "title": "Claude Code Just Got an Agent Dashboard",
-              "url": "https://www.youtube.com/watch?v=ZAaxx3qyT8g",
-              "published": "2026-05-12T01:06:06Z",
-              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=agent-view-cc\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=agent-view-cc\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nClaude Code just dropped Agent View, a new way t"
             }
           ],
           "error": null
@@ -296,17 +234,50 @@
           "error": null
         },
         {
+          "creator": "AI Daily Brief",
+          "handle": "@AIDailyBrief",
+          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
+          "videos": [
+            {
+              "title": "Towards AI That Can Actually Interact",
+              "url": "https://www.youtube.com/watch?v=-UTIXsziBJI",
+              "published": "2026-05-13T17:38:56Z",
+              "description": "OpenAI launched DeployCo, a $4 billion joint venture providing forward‑deployed engineers for enterprise AI transformation. Anthropic and OpenAI warned secondary‑market tokens tied to private stock can be void and may prompt legal disputes. Thinking Machines unveiled interaction models processing continuous audio‑visual micro‑turns alongside a background reasoning model, unlocking real‑time translation, proactive visual cues, and new human‑AI collaboration paradigms.\n\nThe AI Daily Brief helps yo"
+            },
+            {
+              "title": "The Best Way to Talk to Your Agents",
+              "url": "https://www.youtube.com/watch?v=NNxGQw1uQHc",
+              "published": "2026-05-12T15:29:16Z",
+              "description": "Debate over HTML versus Markdown highlights richer, interactive handoffs and a shift from producing outputs to staging and scaffolding work for AI agents. Headlines include Anthropic's potential near-trillion valuation round and SpaceX compute deal, Cerebras IPO upsizing, TSMC capacity constraints, household micro data-center trials, and an OpenAI Codex Chrome plugin for live browser context.\n\nThe AI Daily Brief helps you understand the most important news and discussions in AI. \nSubscribe to th"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Nate Herk",
+          "handle": "@NateHerk",
+          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+          "videos": [
+            {
+              "title": "Anthropic Just Dethroned OpenAI. Here's What Happens Next.",
+              "url": "https://www.youtube.com/watch?v=-nG-9vlSkho",
+              "published": "2026-05-13T21:20:51Z",
+              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=free-sample-phase\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=free-sample-phase\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nFree Codex application form: https://ope"
+            },
+            {
+              "title": "Every Level of Claude Explained in 21 Minutes",
+              "url": "https://www.youtube.com/watch?v=ZRb7D6R64hM",
+              "published": "2026-05-12T13:59:35Z",
+              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=every-level-of-claude\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=every-level-of-claude\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nEvery Level of Claude Code Expla"
+            }
+          ],
+          "error": null
+        },
+        {
           "creator": "Simon Scrapes",
           "handle": "@SimonScrapes",
           "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
-          "videos": [
-            {
-              "title": "Claude Code has a new UI (pair it with Claude OS)",
-              "url": "https://www.youtube.com/watch?v=J6tPNRc9m2Q",
-              "published": "2026-05-12T10:45:59Z",
-              "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes\nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\nMore about Agent View: https://code.claude.com/docs/en/agent-view\n\nAI agents are revolutionizing how we work, but managing multiple agents at once has become a chaotic new problem. Enter Claude Code's new Agent View, a native UI designed to bring order to your agentic workflows. In this tutorial, I'll show you how to get started, walk you"
-            }
-          ],
+          "videos": [],
           "error": null
         }
       ]
