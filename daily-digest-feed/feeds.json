@@ -1,14 +1,28 @@
 {
-  "generated_at": "2026-05-15T11:39:25.412953Z",
+  "generated_at": "2026-05-16T11:23:28.333548Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
         {
-          "creator": "This Story Till Now",
-          "handle": "@ThisStoryTillNow",
-          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "creator": "Life Style Overland",
+          "handle": "@LifeStyleOverland",
+          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
           "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Ozark Overland Adventure",
+          "handle": "@OzarkOverlandAdventures",
+          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
+          "videos": [
+            {
+              "title": "Everything Went Wrong in the Ozarks!",
+              "url": "https://www.youtube.com/watch?v=-POrm6i8gdI",
+              "published": "2026-05-15T22:00:00Z",
+              "description": "I take off on what was supposed to be a relaxing trip to the Ozarks to reflect on some big changes coming soon but things don't go as planned. \n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHNYyUa\nAll Roads Taken"
+            }
+          ],
           "error": null
         },
         {
@@ -19,9 +33,9 @@
           "error": null
         },
         {
-          "creator": "Life Style Overland",
-          "handle": "@LifeStyleOverland",
-          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
+          "creator": "Epic Adventure Outfitters",
+          "handle": "@EpicAdventureOutfitters",
+          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
           "videos": [],
           "error": null
         },
@@ -40,32 +54,39 @@
           "error": null
         },
         {
-          "creator": "Ozark Overland Adventure",
-          "handle": "@OzarkOverlandAdventures",
-          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Epic Adventure Outfitters",
-          "handle": "@EpicAdventureOutfitters",
-          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "VentureToRoam",
           "handle": "@VentureToRoam",
           "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "This Story Till Now",
+          "handle": "@ThisStoryTillNow",
+          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
           "videos": [],
           "error": null
         }
       ],
       "power_platform": [
         {
+          "creator": "Matthew Devaney",
+          "handle": "@MatthewDevaney",
+          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
+          "videos": [],
+          "error": null
+        },
+        {
           "creator": "Lisa Crosbie",
           "handle": "@LisaCrosbie",
           "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "April Dunnam",
+          "handle": "@AprilDunnam",
+          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
           "videos": [],
           "error": null
         },
@@ -82,41 +103,20 @@
           "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
           "videos": [],
           "error": null
-        },
-        {
-          "creator": "Matthew Devaney",
-          "handle": "@MatthewDevaney",
-          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "April Dunnam",
-          "handle": "@AprilDunnam",
-          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
-          "videos": [],
-          "error": null
         }
       ],
       "fabric_powerbi": [
         {
-          "creator": "Guy in a Cube",
-          "handle": "@GuyInACube",
-          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
-          "videos": [
-            {
-              "title": "Did you know about AI functions?",
-              "url": "https://www.youtube.com/shorts/7xRGgo0UIwc",
-              "published": "2026-05-13T17:29:07Z",
-              "description": ""
-            }
-          ],
-          "error": null
-        },
-        {
           "creator": "Dewain Robinson",
           "handle": "@DewainRobinson",
           "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Guy in a Cube",
+          "handle": "@GuyInACube",
+          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
           "videos": [],
           "error": null
         }
@@ -127,6 +127,18 @@
           "handle": "@NateBJones",
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
+            {
+              "title": "Sarah Friar on the Tool That Scaled Her Fundraise #OpenAI #funding",
+              "url": "https://www.youtube.com/shorts/9bA49Yc3dlw",
+              "published": "2026-05-16T00:00:14Z",
+              "description": "Full conversation with Tibo, who leads Codex at OpenAI, is exclusive to Substack subscribers tomorrow, May 16th. Link in bio."
+            },
+            {
+              "title": "Your SaaS Bill Just Got a Second Meter. You're About to Pay It.",
+              "url": "https://www.youtube.com/watch?v=adNErrz2aA0",
+              "published": "2026-05-15T14:00:04Z",
+              "description": "Full article w/ Prompts: https://natesnewsletter.substack.com/p/saas-agent-license-renewal?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________________________\nWhat's really happening inside SaaS pricing as AI agents take over the work? The common story is that agents will just replace seats — but the reality is more complicated.\n\nIn this video, I share the inside scoop on how the agent era is rewriting SaaS economics and what to negotiate before your"
+            },
             {
               "title": "The Secret Behind GPT's Simplicity #chatgpt #ai",
               "url": "https://www.youtube.com/shorts/IQ5zojQHHKE",
@@ -144,86 +156,6 @@
               "url": "https://www.youtube.com/watch?v=jwtpMSRAPAQ",
               "published": "2026-05-14T14:01:09Z",
               "description": "Full article w/ Prompts: https://natesnewsletter.substack.com/p/saas-agent-license-renewal?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________________________\n\nWhat's really happening inside the AI agent implementation war?\n\nThe common story is that the AI agent battle is between OpenAI and Anthropic on raw model quality — but the reality is that private equity, hyperscalers, consultancies, and systems of record are all converging on the implementati"
-            },
-            {
-              "title": "Professors Notice Something's Drastically Wrong #college #teacher",
-              "url": "https://www.youtube.com/shorts/8n4OV0jotDs",
-              "published": "2026-05-14T03:00:13Z",
-              "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/my-kids-do-long-division-by-hand?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n_______________________________________\nWhat's really happening when AI tutors double learning outcomes in controlled studies but college professors report students can no longer read a full chapter? The common story is that AI will either save education or destroy it—but the reality is more interesting when the calculator mo"
-            },
-            {
-              "title": "Pinecone Just Demoted Vector Search. Here's the Knowledge Layer.",
-              "url": "https://www.youtube.com/watch?v=lqiwQiDglGk",
-              "published": "2026-05-13T14:01:15Z",
-              "description": "Full article w/ Prompts: https://natesnewsletter.substack.com/p/rag-agents-knowledge-layer-architecture?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________________________\n\nWhat's really happening inside the AI agent memory infrastructure war?\n\nThe common story is that bigger context windows and better vector search will solve it — but the reality is every serious infrastructure vendor is racing to fix a deeper problem that classic RAG can't touch.\n\n"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Alex Finn",
-          "handle": "@AlexFinn",
-          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
-          "videos": [
-            {
-              "title": "LIVE: The greatest Claude Code workflow ever",
-              "url": "https://www.youtube.com/watch?v=yoPv_M2A40U",
-              "published": "2026-05-13T20:12:33Z",
-              "description": "Join the Vibe Coding Academy:  https://vibecodingacademy.dev\n2nd channel: youtube.com/@AlexFinnLabsOfficial"
-            },
-            {
-              "title": "Hermes Agent powered by local models on the DGX Spark is basically magic",
-              "url": "https://www.youtube.com/watch?v=7JRHSo2F-Wk",
-              "published": "2026-05-13T13:30:07Z",
-              "description": "Here is how to set up Hermes Agent on local models using the DGX Spark. Thank you NVIDIA for sponsoring this video! Learn more about NVIDIA DGX Spark: https://nvda.ws/4tNT1fn\n\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nFULL Hermes bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meet"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Paul J Lipsky",
-          "handle": "@PaulJLipsky",
-          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
-          "videos": [
-            {
-              "title": "OpenAI Codex Now Works from Anywhere (Dispatch Killer?)",
-              "url": "https://www.youtube.com/watch?v=9N1ky5Y_fPc",
-              "published": "2026-05-14T21:48:55Z",
-              "description": "Get on the waitlist: https://join.pauljlipsky.com/waitlist\n\nOpenAI just rolled out Codex inside the ChatGPT mobile app and the way it connects to your desktop is way better than I expected.\n\nHeads up, these updates may not be available worldwide yet. Just because I have access to them doesn't mean you will yet.\n\n0:00 - Intro\n0:19 - Setup Process\n3:25 - My Thoughts\n3:53 - Connection Issues\n4:35 - Notifications\n5:12 - Multiple Desktops\n6:12 - Availability\n6:39 - Final Thoughts"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Nate Herk",
-          "handle": "@NateHerk",
-          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-          "videos": [
-            {
-              "title": "Anthropic Just Dethroned OpenAI. Here's What Happens Next.",
-              "url": "https://www.youtube.com/watch?v=-nG-9vlSkho",
-              "published": "2026-05-13T21:20:51Z",
-              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=free-sample-phase\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=free-sample-phase\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nFree Codex application form: https://ope"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "AI Daily Brief",
-          "handle": "@AIDailyBrief",
-          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
-          "videos": [
-            {
-              "title": "In Defense of Tokenmaxxing",
-              "url": "https://www.youtube.com/watch?v=izRIZ1bMq4A",
-              "published": "2026-05-14T16:24:56Z",
-              "description": "The AI Daily Brief helps you understand the most important news and discussions in AI. \nSubscribe to the podcast version of The AI Daily Brief wherever you listen: https://pod.link/1680633614\nGet it ad free at http://patreon.com/aidailybrief\nLearn more about the show https://aidailybrief.ai/"
-            },
-            {
-              "title": "Towards AI That Can Actually Interact",
-              "url": "https://www.youtube.com/watch?v=-UTIXsziBJI",
-              "published": "2026-05-13T17:38:56Z",
-              "description": "OpenAI launched DeployCo, a $4 billion joint venture providing forward‑deployed engineers for enterprise AI transformation. Anthropic and OpenAI warned secondary‑market tokens tied to private stock can be void and may prompt legal disputes. Thinking Machines unveiled interaction models processing continuous audio‑visual micro‑turns alongside a background reasoning model, unlocking real‑time translation, proactive visual cues, and new human‑AI collaboration paradigms.\n\nThe AI Daily Brief helps yo"
             }
           ],
           "error": null
@@ -234,22 +166,42 @@
           "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
           "videos": [
             {
+              "title": "This Claude Code + Obsidian Command Center is INSANE",
+              "url": "https://www.youtube.com/shorts/v-boxgVuEEY",
+              "published": "2026-05-16T02:51:43Z",
+              "description": ""
+            },
+            {
+              "title": "This Claude Code + Obsidian Command Center is INSANE",
+              "url": "https://www.youtube.com/watch?v=glAoiBWVkmU",
+              "published": "2026-05-16T02:09:21Z",
+              "description": "⚡Master Claude Code + Codex⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nLet's solve Claude Code Agentic OS.\n\nWhile the command center gets all the attention, the true power of an agentic OS is the skill architecture that acts as its backbone. In this video, I break down why that is, how to create it, and where we get the most value out of these complex systems.\n\n⏰TIMESTAMPS:\n\n0:00 - Intro\n0:"
+            },
+            {
+              "title": "My Secret Content Claude Code Skill",
+              "url": "https://www.youtube.com/shorts/dhtsk9Na6Tc",
+              "published": "2026-05-15T12:01:11Z",
+              "description": ""
+            },
+            {
               "title": "This Obsidian Command Center Just Upgraded the Terminal",
               "url": "https://www.youtube.com/shorts/IOCJSLGbM8A",
               "published": "2026-05-15T04:13:38Z",
               "description": ""
-            },
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Alex Finn",
+          "handle": "@AlexFinn",
+          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
+          "videos": [
             {
-              "title": "Claude Code Has Evolved",
-              "url": "https://www.youtube.com/watch?v=d86VCtQ_dN8",
-              "published": "2026-05-14T08:15:38Z",
-              "description": "⚡Master Claude Code + Codex⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nLet's solve Claude Code Agentic OS.\n\nWhile the command center gets all the attention, the true power of an agentic OS is the skill architecture that acts as its backbone. In this video, I break down why that is, how to create it, and where we get the most value out of these complex systems.\n\n⏰TIMESTAMPS:\n\n0:00 - The Real"
-            },
-            {
-              "title": "claude code vs codex is not a question",
-              "url": "https://www.youtube.com/shorts/u_xyjZq-xDU",
-              "published": "2026-05-13T12:31:07Z",
-              "description": ""
+              "title": "LIVE: GROK BUILD CLI IS ACTUALLY INCREDIBLE???",
+              "url": "https://www.youtube.com/watch?v=0nI5oo0BDDA",
+              "published": "2026-05-15T20:24:28Z",
+              "description": "Join the Vibe Coding Academy:  https://vibecodingacademy.dev\n2nd channel: https://youtube.com/@AlexFinnLabsOfficial"
             }
           ],
           "error": null
@@ -267,10 +219,342 @@
             }
           ],
           "error": null
+        },
+        {
+          "creator": "Nate Herk",
+          "handle": "@NateHerk",
+          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+          "videos": [
+            {
+              "title": "I Tested 3 Ways to Deploy Claude Agents (Here's When to Use Each)",
+              "url": "https://www.youtube.com/watch?v=xJ5oz63mIec",
+              "published": "2026-05-15T15:16:02Z",
+              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=3-deploys-claude\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=3-deploys-claude\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nTheo's video on SDK pricing: https://youtu"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "AI Daily Brief",
+          "handle": "@AIDailyBrief",
+          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
+          "videos": [
+            {
+              "title": "In Defense of Tokenmaxxing",
+              "url": "https://www.youtube.com/watch?v=izRIZ1bMq4A",
+              "published": "2026-05-14T16:24:56Z",
+              "description": "The AI Daily Brief helps you understand the most important news and discussions in AI. \nSubscribe to the podcast version of The AI Daily Brief wherever you listen: https://pod.link/1680633614\nGet it ad free at http://patreon.com/aidailybrief\nLearn more about the show https://aidailybrief.ai/"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Paul J Lipsky",
+          "handle": "@PaulJLipsky",
+          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
+          "videos": [
+            {
+              "title": "OpenAI Codex Now Works from Anywhere (Dispatch Killer?)",
+              "url": "https://www.youtube.com/watch?v=9N1ky5Y_fPc",
+              "published": "2026-05-14T21:48:55Z",
+              "description": "Get on the waitlist: https://join.pauljlipsky.com/waitlist\n\nOpenAI just rolled out Codex inside the ChatGPT mobile app and the way it connects to your desktop is way better than I expected.\n\nHeads up, these updates may not be available worldwide yet. Just because I have access to them doesn't mean you will yet.\n\n0:00 - Intro\n0:19 - Setup Process\n3:25 - My Thoughts\n3:53 - Connection Issues\n4:35 - Notifications\n5:12 - Multiple Desktops\n6:12 - Availability\n6:39 - Final Thoughts"
+            }
+          ],
+          "error": null
         }
       ]
     },
     "newsletters": {
+      "power_platform_dev_weekly": {
+        "name": "Power Platform Dev Weekly",
+        "issue_number": 293,
+        "issue_date": "2026-05-13",
+        "url": "https://www.ppdevweekly.com/p/293",
+        "is_new": false,
+        "sections": {
+          "🥇 Cover Story": [
+            {
+              "title": "Vibe coded Power Pages SPA: unfiltered",
+              "url": "https://dev.to/_neronotte/vibe-coded-power-pages-spa-unfiltered-11a6"
+            }
+          ],
+          "🖼️Canvas Apps": [
+            {
+              "title": "Filter And Display Contacts Based On Account In Custom Page",
+              "url": "https://meganvwalker.com/filter-and-display-contacts-based-on-account-in-custom-page/"
+            }
+          ],
+          "💎 Model Driven Apps & Dataverse": [
+            {
+              "title": "Pass Parameters to HTML Web Resources in Model Driven Apps",
+              "url": "https://rajeevpentyala.com/2026/05/06/pass-parameters-to-html-web-resources-in-model-driven-apps/"
+            }
+          ],
+          "🤖 Copilot & Code Apps": [
+            {
+              "title": "How To View Conversation Transcripts In Copilot Studio",
+              "url": "https://www.matthewdevaney.com/how-to-view-conversation-transcripts-in-copilot-studio/"
+            },
+            {
+              "title": "Power Apps Vibe Coded Experience [Preview]",
+              "url": "https://d365demystified.com/2026/05/07/power-apps-vibe-coded-experience-preview/"
+            },
+            {
+              "title": "I don't want AI to write my code",
+              "url": "https://automatevalue.com/blog/i-dont-want-ai-to-write-my-code/"
+            }
+          ],
+          "🚀Power Automate": [
+            {
+              "title": "Stop Copying Logic Across Flows. Use Child Flows",
+              "url": "https://mytrial365.com/2026/05/07/stop-copying-logic-across-flows-use-child-flows/"
+            },
+            {
+              "title": "Power Apps Code Apps – Trigger a Power Automate Flow",
+              "url": "https://rajeevpentyala.com/2026/05/05/power-apps-code-apps-trigger-a-power-automate-flow/"
+            }
+          ],
+          "🎮 Other Interesting Articles": [
+            {
+              "title": "Exam AB-620: Design and build integrated AI agent solutions in Copilot Studio",
+              "url": "https://thecrm.ninja/exam-ab-620-design-and-build-integrated-ai-agent-solutions-in-copilot-studio/"
+            },
+            {
+              "title": "Why Computer Use in Copilot Studio is finally interesting for the enterprise",
+              "url": "https://sharepoint247.com/ai/why-computer-use-in-copilot-studio-is-finally-interesting-for-the-enterprise/"
+            },
+            {
+              "title": "Power Platform & Tenant Level Analytics",
+              "url": "https://sharepains.com/2026/05/06/power-platform-tenant-level-analytics/"
+            },
+            {
+              "title": "ALM on Power Platform: ADO + GitHub, the best of both worlds",
+              "url": "https://dev.to/_neronotte/alm-on-power-platform-ado-github-the-best-of-both-worlds-5dbh"
+            },
+            {
+              "title": "The death of BizApps and the rise of the agentic Power Platform",
+              "url": "https://nullpointer.se/agentification-power-platform.html"
+            }
+          ],
+          "📺 Videos": [
+            {
+              "title": "NEW Workflows Feature In Copilot Studio (20-Min Full Demo)",
+              "url": "https://www.youtube.com/watch?v=o532hBhzSoQ"
+            },
+            {
+              "title": "#5 MCT, MVP, E7 and WTF?! 😳",
+              "url": "https://www.youtube.com/watch?v=PPZTpgB9Zus"
+            }
+          ]
+        },
+        "error": null
+      },
+      "power_bi_weekly": {
+        "name": "Power BI Weekly",
+        "issue_number": 357,
+        "issue_date": null,
+        "url": "https://powerbiweekly.info/issue-357.html",
+        "is_new": false,
+        "sections": {
+          "Issue #357 - 12th May 2026": [
+            {
+              "title": "redesigned semantic model settings pane",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Semantic-model-settings-pane-Preview/ba-p/5177694"
+            },
+            {
+              "title": "Execute DAX Queries REST API",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Execute-DAX-Queries-REST-API-Preview/ba-p/5177697"
+            },
+            {
+              "title": "Power BI load-testing notebook that won Microsoft Fabric Semantic Link Developer Challenge 2026",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Community-Blog/Power-BI-load-testing-notebook-that-won-Microsoft-Fabric/ba-p/5180382"
+            },
+            {
+              "title": "laying out five foundational investments",
+              "url": "https://downhill-data.com/2026/05/11/conversational-bi-is-in-its-creative-destruction-phase-here-are-five-long-term-investments-that-wont-go-out-of-date/"
+            }
+          ],
+          "🛠️ Data Prep": [
+            {
+              "title": "@bgribaudo",
+              "url": "https://twitter.com/bgribaudo"
+            },
+            {
+              "title": "Deep Dive into Joins (Part 1): Join vs. Nested Join",
+              "url": "https://bengribaudo.com/blog/2026/05/05/7714/deep-dive-into-joins-part-1-join-vs-nested-join"
+            },
+            {
+              "title": "How to go from a single table to a star model in Power BI [Spanish]",
+              "url": "https://www.youtube.com/watch?v=qaxkEgQj0no"
+            }
+          ],
+          "🧩 Data Modeling": [
+            {
+              "title": "@HavensBI",
+              "url": "https://twitter.com/HavensBI"
+            },
+            {
+              "title": "Understand DAX Context in Power BI: CALCULATE, Filter Context & Row Context (Part 2)",
+              "url": "https://www.youtube.com/watch?v=YO0H_9qylRA"
+            },
+            {
+              "title": "TMDL Explained: How to Access Hidden Power BI Settings",
+              "url": "https://www.youtube.com/watch?v=XJV1xHSn4e0"
+            },
+            {
+              "title": "@amitchandak78",
+              "url": "https://twitter.com/amitchandak78"
+            },
+            {
+              "title": "User Context Aware (Dynamic) Columns in Power BI",
+              "url": "https://www.youtube.com/watch?v=Jy_JMeycB50"
+            },
+            {
+              "title": "@chandeep2786",
+              "url": "https://twitter.com/chandeep2786"
+            },
+            {
+              "title": "Various DAX Formatting Tricks",
+              "url": "https://www.youtube.com/watch?v=Uk3JQpv821k"
+            },
+            {
+              "title": "Direct Lake on SQL with Fabric Data Warehouse",
+              "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Direct-Lake-on-SQL-with-Fabric-Data-Warehouse/ba-p/5177641"
+            },
+            {
+              "title": "@biinsightnz",
+              "url": "https://twitter.com/biinsightnz"
+            },
+            {
+              "title": "Agentic AI in Power BI and Fabric, Part 3: Agentic AI in Action with GitHub Copilot and Power BI Modeling MCP",
+              "url": "https://biinsight.com/agentic-ai-in-action-with-github-copilot-and-power-bi-modeling-mcp/"
+            },
+            {
+              "title": "Claude AI + Power BI: Understand Any Dataset in 60 Seconds",
+              "url": "https://www.youtube.com/watch?v=KMINTLC0zfo"
+            }
+          ],
+          "📊 Report Authoring and Interactivity": [
+            {
+              "title": "Building better scatterplots in Power BI reports",
+              "url": "https://tabulareditor.com/blog/building-better-scatterplots-in-power-bi-reports"
+            },
+            {
+              "title": "Points, Polygons or 3D? Choosing the Right Map in Icon Map Pro",
+              "url": "https://www.icon-map.com/blog/points-polygons-or-3d-choosing-the-right-map-in-icon-map-pro.html"
+            },
+            {
+              "title": "@porcubi",
+              "url": "https://twitter.com/porcubi"
+            },
+            {
+              "title": "Conditional Formatting for Line Chart Markers in Power BI",
+              "url": "https://www.youtube.com/watch?v=_FsWWsccX8o"
+            },
+            {
+              "title": "Series label leader lines for line charts in Power BI",
+              "url": "https://www.youtube.com/watch?v=40ectPVJLNY"
+            },
+            {
+              "title": "@RADACAD_COM",
+              "url": "https://twitter.com/RADACAD_COM"
+            },
+            {
+              "title": "The updates and future of visualization in power BI - Interview with Zoe Douglas",
+              "url": "https://www.youtube.com/watch?v=PDEYc37VbE4"
+            },
+            {
+              "title": "The Missing Rule for Power BI Layouts",
+              "url": "https://smart-frames.co.uk/2026/05/11/the-missing-rule-for-power-bi-layouts/"
+            },
+            {
+              "title": "@HowToPowerBI",
+              "url": "https://twitter.com/HowToPowerBI"
+            },
+            {
+              "title": "This Power BI Chart Makes Every Case Count (Literally)",
+              "url": "https://www.youtube.com/watch?v=8Ys3wH7bfQc"
+            },
+            {
+              "title": "@ignacho_07",
+              "url": "https://twitter.com/ignacho_07"
+            },
+            {
+              "title": "Efecto mejorar experiencia de usuario para explicar tarjeta [Spanish]",
+              "url": "https://ibarrau.tumblr.com/post/815895653345542144/powerbi-efecto-mejorar-experiencia-de-usuario"
+            },
+            {
+              "title": "Getting Claude AI to Build a Power BI Landing Page",
+              "url": "https://www.youtube.com/watch?v=JiW6LoNlTmk"
+            }
+          ],
+          "🚀 Deployment, Security and Operations": [
+            {
+              "title": "Power BI load-testing notebook that won Microsoft Fabric Semantic Link Developer Challenge 2026",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Community-Blog/Power-BI-load-testing-notebook-that-won-Microsoft-Fabric/ba-p/5180382"
+            },
+            {
+              "title": "@MSPowerBI",
+              "url": "https://twitter.com/MSPowerBI"
+            },
+            {
+              "title": "Semantic model settings pane (Preview)",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Semantic-model-settings-pane-Preview/ba-p/5177694"
+            },
+            {
+              "title": "Execute DAX Queries REST API (Preview)",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Execute-DAX-Queries-REST-API-Preview/ba-p/5177697"
+            },
+            {
+              "title": "@cwebb_bi",
+              "url": "https://twitter.com/cwebb_bi"
+            },
+            {
+              "title": "Power BI Semantic Model Memory Errors, Part 5: The “Maximum Allowable Memory Allocation” Error",
+              "url": "https://blog.crossjoin.co.uk/2026/05/10/power-bi-semantic-model-memory-errors-part-5-the-maximum-allowable-memory-allocation-error/"
+            },
+            {
+              "title": "Scaling Your Power BI CI/CD Pipeline Across Projects",
+              "url": "https://fabricatedinsights.substack.com/p/scaling-your-power-bi-cicd-pipeline"
+            },
+            {
+              "title": "Never Lose Power BI Changes Again: PBIP + Azure DevOps Guide",
+              "url": "https://www.youtube.com/watch?v=BWYfNECeNDE"
+            }
+          ],
+          "🌐 General": [
+            {
+              "title": "Conversational BI Is in Its “Creative Destruction” Phase – Here are five long term investments that won’t go out of date",
+              "url": "https://downhill-data.com/2026/05/11/conversational-bi-is-in-its-creative-destruction-phase-here-are-five-long-term-investments-that-wont-go-out-of-date/"
+            },
+            {
+              "title": "Getting Claude AI to Build a Full Power BI Report By Itself",
+              "url": "https://www.youtube.com/watch?v=zbtE7kxDelk"
+            },
+            {
+              "title": "Supply Chain Management (SCM) Dashboard in Power BI",
+              "url": "https://www.youtube.com/watch?v=ImLoBLO1fJ4"
+            },
+            {
+              "title": "@PowerBITips",
+              "url": "https://twitter.com/PowerBITips"
+            },
+            {
+              "title": "Stop Using Bookmarks - Ep.526 - Power BI tips",
+              "url": "https://www.youtube.com/watch?v=33VeHtGLImk"
+            },
+            {
+              "title": "@jasehimm",
+              "url": "https://twitter.com/jasehimm"
+            },
+            {
+              "title": "Episode 326 – Microsoft Fabric & Power BI April 2026 Feature Summary",
+              "url": "https://bifocal.show/2026/05/12/episode-326/"
+            }
+          ]
+        },
+        "error": null
+      },
       "power_platform_weekly": {
         "name": "Power Platform Weekly",
         "issue_number": 263,
@@ -366,696 +650,13 @@
           ]
         },
         "error": null
-      },
-      "power_platform_dev_weekly": {
-        "name": "Power Platform Dev Weekly",
-        "issue_number": 293,
-        "issue_date": "2026-05-13",
-        "url": "https://www.ppdevweekly.com/p/293",
-        "is_new": false,
-        "sections": {
-          "🥇 Cover Story": [
-            {
-              "title": "Vibe coded Power Pages SPA: unfiltered",
-              "url": "https://dev.to/_neronotte/vibe-coded-power-pages-spa-unfiltered-11a6"
-            }
-          ],
-          "🖼️Canvas Apps": [
-            {
-              "title": "Filter And Display Contacts Based On Account In Custom Page",
-              "url": "https://meganvwalker.com/filter-and-display-contacts-based-on-account-in-custom-page/"
-            }
-          ],
-          "💎 Model Driven Apps & Dataverse": [
-            {
-              "title": "Pass Parameters to HTML Web Resources in Model Driven Apps",
-              "url": "https://rajeevpentyala.com/2026/05/06/pass-parameters-to-html-web-resources-in-model-driven-apps/"
-            }
-          ],
-          "🤖 Copilot & Code Apps": [
-            {
-              "title": "How To View Conversation Transcripts In Copilot Studio",
-              "url": "https://www.matthewdevaney.com/how-to-view-conversation-transcripts-in-copilot-studio/"
-            },
-            {
-              "title": "Power Apps Vibe Coded Experience [Preview]",
-              "url": "https://d365demystified.com/2026/05/07/power-apps-vibe-coded-experience-preview/"
-            },
-            {
-              "title": "I don't want AI to write my code",
-              "url": "https://automatevalue.com/blog/i-dont-want-ai-to-write-my-code/"
-            }
-          ],
-          "🚀Power Automate": [
-            {
-              "title": "Stop Copying Logic Across Flows. Use Child Flows",
-              "url": "https://mytrial365.com/2026/05/07/stop-copying-logic-across-flows-use-child-flows/"
-            },
-            {
-              "title": "Power Apps Code Apps – Trigger a Power Automate Flow",
-              "url": "https://rajeevpentyala.com/2026/05/05/power-apps-code-apps-trigger-a-power-automate-flow/"
-            }
-          ],
-          "🎮 Other Interesting Articles": [
-            {
-              "title": "Exam AB-620: Design and build integrated AI agent solutions in Copilot Studio",
-              "url": "https://thecrm.ninja/exam-ab-620-design-and-build-integrated-ai-agent-solutions-in-copilot-studio/"
-            },
-            {
-              "title": "Why Computer Use in Copilot Studio is finally interesting for the enterprise",
-              "url": "https://sharepoint247.com/ai/why-computer-use-in-copilot-studio-is-finally-interesting-for-the-enterprise/"
-            },
-            {
-              "title": "Power Platform & Tenant Level Analytics",
-              "url": "https://sharepains.com/2026/05/06/power-platform-tenant-level-analytics/"
-            },
-            {
-              "title": "ALM on Power Platform: ADO + GitHub, the best of both worlds",
-              "url": "https://dev.to/_neronotte/alm-on-power-platform-ado-github-the-best-of-both-worlds-5dbh"
-            },
-            {
-              "title": "The death of BizApps and the rise of the agentic Power Platform",
-              "url": "https://nullpointer.se/agentification-power-platform.html"
-            }
-          ],
-          "📺 Videos": [
-            {
-              "title": "NEW Workflows Feature In Copilot Studio (20-Min Full Demo)",
-              "url": "https://www.youtube.com/watch?v=o532hBhzSoQ"
-            },
-            {
-              "title": "#5 MCT, MVP, E7 and WTF?! 😳",
-              "url": "https://www.youtube.com/watch?v=PPZTpgB9Zus"
-            }
-          ]
-        },
-        "error": null
-      },
-      "power_bi_weekly": {
-        "name": "Power BI Weekly",
-        "issue_number": 356,
-        "issue_date": null,
-        "url": "https://powerbiweekly.info/issue-356.html",
-        "is_new": false,
-        "sections": {
-          "Issue #356 - 5th May 2026": [
-            {
-              "title": "On-premises data gateway April 2026 release",
-              "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blogs/On-premises-data-gateway-April-2026-release/ba-p/5171981"
-            },
-            {
-              "title": "Fabric and Power BI blogs have moved",
-              "url": "https://www.reddit.com/r/MicrosoftFabric/comments/1t56l5v/fabric_blog_moved/"
-            },
-            {
-              "title": "a thorough walkthrough of filtering measures through slicers",
-              "url": "https://www.sqlbi.com/articles/filtering-measures-through-slicers/"
-            },
-            {
-              "title": "a practical guide to accessibility in PBIP, covering tab order and alt text",
-              "url": "https://github.com/alexbadiu-insightsinmotion/PBI-Documentation/blob/main/26%20-%20Accessibility%20in%20PBIP%20with%20Tab%20Order%20and%20Alt%20Text.md"
-            },
-            {
-              "title": "Power Apps or Translytical Task Flows?",
-              "url": "https://www.nickyvv.com/2026/04/power-apps-or-translytical-task-flows.html"
-            },
-            {
-              "title": "using binding hints to automatically connect a semantic model to a Shareable Cloud Connection on publish",
-              "url": "https://blog.crossjoin.co.uk/2026/05/03/connecting-power-bi-semantic-models-to-data-sources-automatically-with-binding-hints/"
-            }
-          ],
-          "🛠️ Data Prep": [
-            {
-              "title": "@bgribaudo",
-              "url": "https://twitter.com/bgribaudo"
-            },
-            {
-              "title": "Deep Dive into Joins (Part 1): Join vs. Nested Join",
-              "url": "https://bengribaudo.com/blog/2026/05/05/7714/deep-dive-into-joins-part-1-join-vs-nested-join"
-            },
-            {
-              "title": "@chandeep2786",
-              "url": "https://twitter.com/chandeep2786"
-            },
-            {
-              "title": "The Only Nested Tables Guide You Need",
-              "url": "https://www.youtube.com/watch?v=3jjpley5fww"
-            }
-          ],
-          "🧩 Data Modeling": [
-            {
-              "title": "@FerrariAlberto",
-              "url": "https://twitter.com/FerrariAlberto"
-            },
-            {
-              "title": "Filtering measures through slicers",
-              "url": "https://www.sqlbi.com/articles/filtering-measures-through-slicers/"
-            },
-            {
-              "title": "@HavensBI",
-              "url": "https://twitter.com/HavensBI"
-            },
-            {
-              "title": "Understand DAX Context in Power BI: CALCULATE, Filter Context & Row Context (Part 2)",
-              "url": "https://www.youtube.com/watch?v=YO0H_9qylRA"
-            },
-            {
-              "title": "Designing a Reusable Power BI Semantic Model for Multi-Fact Analysis",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Community-Blog/Designing-a-Reusable-Power-BI-Semantic-Model-for-Multi-Fact/ba-p/5161094"
-            },
-            {
-              "title": "Claude + Power BI Performance Tuning: Complete AI-Powered Optimization Guide",
-              "url": "https://www.youtube.com/watch?v=xFkoE7S4qng"
-            },
-            {
-              "title": "Star Schema in Power BI | Complete Guide for Data Modeling (2026)",
-              "url": "https://www.youtube.com/watch?v=wKKxBjOJW3M"
-            },
-            {
-              "title": "Master Data Modeling in Power BI | Relationships, Star Schema & DAX Secrets",
-              "url": "https://www.youtube.com/watch?v=VnnNe8F-lGc"
-            },
-            {
-              "title": "Data Modeling in Power BI: Fundamentals You Should Understand [Spanish]",
-              "url": "https://www.youtube.com/watch?v=1AT2NqWJbb8"
-            },
-            {
-              "title": "How to detect and correct errors in model relationships in Power BI [Spanish]",
-              "url": "https://www.youtube.com/watch?v=R0EAj7VMrtk"
-            },
-            {
-              "title": "I Let Claude AI Build My ENTIRE Power BI Data Model (Star Schema, DAX & All)",
-              "url": "https://www.youtube.com/watch?v=Z_H5QmAl_14"
-            }
-          ],
-          "📊 Report Authoring and Interactivity": [
-            {
-              "title": "@porcubi",
-              "url": "https://twitter.com/porcubi"
-            },
-            {
-              "title": "Clean Up Your Matrix Visual in Power BI 8 step tutorial",
-              "url": "https://www.valeriejunk.nl/improve-power-bi-matrix-visual/"
-            },
-            {
-              "title": "Design Power BI Wireframes with Claude AI",
-              "url": "https://www.youtube.com/watch?v=hE7GpyTvPAM"
-            },
-            {
-              "title": "Creating a Pyramid Chart in Power BI Using Native Charts",
-              "url": "https://www.youtube.com/watch?v=1i6I9qMU93I"
-            },
-            {
-              "title": "@NickyvV",
-              "url": "https://twitter.com/NickyvV"
-            },
-            {
-              "title": "Power Apps or Translytical Task Flows",
-              "url": "https://www.nickyvv.com/2026/04/power-apps-or-translytical-task-flows.html"
-            },
-            {
-              "title": "New Launch: PBIX A11y Accessibility Checker for Power BI",
-              "url": "https://smart-frames.co.uk/2026/05/01/new-launch-pbix-a11y-accessibility-checker-for-power-bi/"
-            },
-            {
-              "title": "Turning a RealWorld Lesson into PBIX A11y for Power BI",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Community-Blog/Turning-a-Real-World-Lesson-into-PBIX-A11y-for-Power-BI/ba-p/5176720"
-            },
-            {
-              "title": "Building PBIX A11y: A Lovable Experiment in Accessible Analytics",
-              "url": "https://smart-frames.co.uk/2026/05/05/building-pbix-a11y-an-experiment-in-accessible-analytics/"
-            },
-            {
-              "title": "Minimum Font Size Calculator: Making Power BI Accessibility Effortless",
-              "url": "https://smart-frames.co.uk/2026/05/03/minimum-font-size-calculator-making-power-bi-accessibility-effortless/"
-            },
-            {
-              "title": "Accessibility as a Design Framework in Power BI",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Community-Blog/Accessibility-as-a-Design-Framework-in-Power-BI/ba-p/5178110"
-            },
-            {
-              "title": "@HavensBI",
-              "url": "https://twitter.com/HavensBI"
-            },
-            {
-              "title": "Next Generation Maps in Power BI with Icon Map (with James Dales)",
-              "url": "https://www.youtube.com/watch?v=7pN-8N8tO6s"
-            },
-            {
-              "title": "@BadiuAlexandru",
-              "url": "https://twitter.com/BadiuAlexandru"
-            },
-            {
-              "title": "Accessibility in PBIP with Tab Order and Alt Text",
-              "url": "https://github.com/alexbadiu-insightsinmotion/PBI-Documentation/blob/main/26%20-%20Accessibility%20in%20PBIP%20with%20Tab%20Order%20and%20Alt%20Text.md"
-            }
-          ],
-          "🚀 Deployment, Security and Operations": [
-            {
-              "title": "@cwebb_bi",
-              "url": "https://twitter.com/cwebb_bi"
-            },
-            {
-              "title": "Connecting Power BI Semantic Models To Data Sources Automatically With Binding Hints",
-              "url": "https://blog.crossjoin.co.uk/2026/05/03/connecting-power-bi-semantic-models-to-data-sources-automatically-with-binding-hints/"
-            },
-            {
-              "title": "Unlock Power BI Superpowers with AI and Semantic Link Labs",
-              "url": "https://www.youtube.com/watch?v=-ky-JeH9bsI"
-            },
-            {
-              "title": "The XMLA endpoint for Power BI: how it works and how to use it",
-              "url": "https://tabulareditor.com/blog/the-xmla-endpoint-for-power-bi-how-it-works-and-how-to-use-it"
-            },
-            {
-              "title": "On-premises data gateway April 2026 release",
-              "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blogs/On-premises-data-gateway-April-2026-release/ba-p/5171981"
-            }
-          ],
-          "🌐 General": [
-            {
-              "title": "Finance Dashboard in Power BI (Profit, Margin, Forecast Explained) Step By Step Beginner Guide",
-              "url": "https://www.youtube.com/watch?v=Q1qUjvVoGmE"
-            }
-          ]
-        },
-        "error": null
       }
     },
     "release_plans": {
       "source_url": "https://releaseplans.net/",
       "data_url": "https://releaseplans.net/data/release-plans.json",
-      "products": {
-        "Power Apps": [
-          {
-            "feature_name": "Use generative pages globally",
-            "product": "Power Apps",
-            "product_group": "Building modern apps",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "05/14/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "As organizations build applications for users across a wide range of geographies, it’s essential that generated experiences feel natural to each audience. Up until now, generative pages were only available in US environments, which limited global teams from taking advantage of AI‑assisted page creation. This update removes that barrier by enabling generative pages to be created and used worldwide. This milestone also provides mechanisms to support makers in producing content that matches their l",
-            "preview_date": "",
-            "ga_date": "04/02/2026"
-          },
-          {
-            "feature_name": "Download wrapped apps directly from Dataverse",
-            "product": "Power Apps",
-            "product_group": "Building modern apps",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "05/14/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "Deliver your custom-branded apps faster by downloading them directly from Dataverse. No more Azure Blob Storage setup means less overhead and smoother distribution, especially for teams working in virtual networks.",
-            "preview_date": "",
-            "ga_date": "04/23/2026"
-          },
-          {
-            "feature_name": "Simplify wrap setup within wizard Azure integration",
-            "product": "Power Apps",
-            "product_group": "Building modern apps",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "05/14/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "This feature significantly reduces the effort and expertise required to wrap Power Apps mobile apps. By eliminating manual Azure configuration steps, you can onboard faster, reduce setup errors, and complete wrapping much easier than before, accelerating app distribution to frontline users.",
-            "preview_date": "",
-            "ga_date": "04/13/2026"
-          },
-          {
-            "feature_name": "Use CLI to discover, create, and wire connectors in code apps",
-            "product": "Power Apps",
-            "product_group": "Building modern apps",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "05/14/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "You can build richer, more complex code apps by using manual development or coding agents, so your developers move faster from ideas to production. This approach shortens the path from ideation and prototyping to deployment, helping you deliver enterprise-ready apps sooner while saving development time and effort.",
-            "preview_date": "06/01/2026",
-            "ga_date": "07/01/2026"
-          },
-          {
-            "feature_name": "Visualize the data in your view easily with Copilot",
-            "product": "Power Apps",
-            "product_group": "Copilot for Power Apps makers and users",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "05/14/2026",
-            "enabled_for": "Users by admins, makers, or analysts",
-            "description": "AI-generated visualizations from Copilot help you understand patterns, trends, and relationships in your data. You can easily turn tabular data into a chart. Plus, you can personalize the visualization to turn data into insights without needing any other analytical tool. With AI-generated visualizations, you save time and gain valuable insights faster.",
-            "preview_date": "01/23/2025",
-            "ga_date": "04/15/2026"
-          },
-          {
-            "feature_name": "Fill forms faster with smart paste",
-            "product": "Power Apps",
-            "product_group": "Copilot for Power Apps makers and users",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "05/14/2026",
-            "enabled_for": "Users by admins, makers, or analysts",
-            "description": "The new smart paste option in Copilot's form fill assistance feature helps users fill forms faster and easier with text content from any source. Users can copy the content, select a button, or use a keyboard shortcut to smart paste, and get inline suggestions in the form based on the copied content.",
-            "preview_date": "10/20/2024",
-            "ga_date": "04/15/2026"
-          },
-          {
-            "feature_name": "Direct SharePoint List Integration for the new Power Apps experience",
-            "product": "Power Apps",
-            "product_group": "Copilot for Power Apps makers and users",
-            "status": "In Preview",
-            "release_wave": "",
-            "last_updated": "05/14/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "This feature gives makers flexibility to work seamlessly in the new Power Apps vibe experience with SharePoint lists as a source for their data. It accelerates time to value, reduces duplication, ensures data stays governed under existing SharePoint policies, and simplifies collaboration by keeping data in familiar environments.",
-            "preview_date": "04/24/2026",
-            "ga_date": ""
-          },
-          {
-            "feature_name": "Explore and visualize data with data exploration agent",
-            "product": "Power Apps",
-            "product_group": "Copilot for Power Apps makers and users",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "05/14/2026",
-            "enabled_for": "Users by admins, makers, or analysts",
-            "description": "Turn raw data into actionable insights effortlessly. By using Copilot, you can use natural language to create charts, apply advanced filters, and uncover patterns without relying on external analytics tools. This feature saves time, boosts productivity, and empowers decision-making by making data exploration intuitive and accessible.",
-            "preview_date": "11/15/2024",
-            "ga_date": "04/15/2026"
-          },
-          {
-            "feature_name": "Use Microsoft 365 Copilot in canvas apps",
-            "product": "Power Apps",
-            "product_group": "Copilot for Power Apps makers and users",
-            "status": "In Preview",
-            "release_wave": "",
-            "last_updated": "05/14/2026",
-            "enabled_for": "Users by admins, makers, or analysts",
-            "description": "When you add Microsoft 365 Copilot to your canvas apps, users can get answers and take action right where work happens, without switching between tools or searching for information. This approach leads to faster task completion and decisions, fewer delays caused by missing context, and less reliance on support teams and training to help users navigate processes. The result is improved productivity and app adoption, reduced operational friction, and better use of existing staff and resources.",
-            "preview_date": "04/13/2026",
-            "ga_date": ""
-          },
-          {
-            "feature_name": "Use Microsoft 365 Copilot in model-driven apps",
-            "product": "Power Apps",
-            "product_group": "Copilot for Power Apps makers and users",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "05/14/2026",
-            "enabled_for": "Users by admins, makers, or analysts",
-            "description": "When you build Microsoft 365 Copilot into your model-driven apps, users can get answers and take action right where work happens, without hopping between tools or hunting for information. That approach means faster task completion and decisions, fewer delays caused by missing context, and less reliance on support teams and training to help users navigate processes. The result: improved productivity and app adoption, reduced operational friction, and better use of existing staff and resources.",
-            "preview_date": "",
-            "ga_date": "04/13/2026"
-          },
-          {
-            "feature_name": "Enhanced experience for form filling with Copilot",
-            "product": "Power Apps",
-            "product_group": "Copilot for Power Apps makers and users",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "05/14/2026",
-            "enabled_for": "Users by admins, makers, or analysts",
-            "description": "With the new capabilities and experience in Copilot's form-fill assistance feature, users can quickly and easily fill out forms using copied text content, images, files, and emails.",
-            "preview_date": "02/02/2025",
-            "ga_date": "04/15/2026"
-          }
-        ],
-        "Power Pages": [
-          {
-            "feature_name": "Manage external authentication providers with granular controls",
-            "product": "Power Pages",
-            "product_group": "Administration and governance",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "05/14/2026",
-            "enabled_for": "Users, automatically",
-            "description": "This feature gives you precise control over which external identity providers can be used on your Power Pages sites. It helps you enforce security, compliance, and privacy standards while maintaining flexibility for your team.",
-            "preview_date": "07/01/2026",
-            "ga_date": "09/01/2026"
-          }
-        ],
-        "Power Automate": [
-          {
-            "feature_name": "Restore accidentally deleted flows",
-            "product": "Power Automate",
-            "product_group": "Cloud flows",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "05/14/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "With the introduction of the ability to restore accidentally deleted flows directly from the portal, organizations gain a powerful tool to maintain business continuity and minimize operational disruptions. This feature allows flow owners, co-owners, and environment administrators to recover deleted flows quickly and easily within a set timeframe. This recovery process eliminates the need to contact customer support for assistance. As a result, your teams can save valuable time, reduce downtime, ",
-            "preview_date": "",
-            "ga_date": "07/01/2026"
-          },
-          {
-            "feature_name": "Visualize desktop flows with flow chart view",
-            "product": "Power Automate",
-            "product_group": "Desktop flows",
-            "status": "In Preview",
-            "release_wave": "",
-            "last_updated": "05/14/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "Designing automations becomes significantly easier when users can visualize the full structure of a desktop flow. The flow‑chart view helps makers better understand branching, sub-flows, decision points, and execution paths, enabling faster onboarding and reducing flow‑building errors. With a clearer representation of logic, teams can collaborate more effectively, troubleshoot issues faster, and confidently scale their automation estate.",
-            "preview_date": "07/01/2026",
-            "ga_date": ""
-          },
-          {
-            "feature_name": "View machine and flow utilization in dashboards",
-            "product": "Power Automate",
-            "product_group": "Desktop flows",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "05/14/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "Get clear insight into how your automation workloads use machine capacity. You’ll know which machines your flows rely on and how well they’re performing. This means you can plan capacity smarter, cut down on idle time, and make the most of your infrastructure.",
-            "preview_date": "",
-            "ga_date": "07/01/2026"
-          },
-          {
-            "feature_name": "View unattended run video logs in portal",
-            "product": "Power Automate",
-            "product_group": "Desktop flows",
-            "status": "In Preview",
-            "release_wave": "",
-            "last_updated": "05/14/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "This feature enables faster and more efficient troubleshooting of unattended flow failures by making video logs centrally accessible in the portal. Users no longer need access to the machine where the flow ran, reducing operational friction, improving collaboration across teams, and accelerating issue resolution.",
-            "preview_date": "09/01/2026",
-            "ga_date": ""
-          },
-          {
-            "feature_name": "Create and manage custom dashboard tiles",
-            "product": "Power Automate",
-            "product_group": "Desktop flows",
-            "status": "In Preview",
-            "release_wave": "",
-            "last_updated": "05/14/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "This feature enables users to monitor the metrics that matter most to their role or team without relying on external tools. By allowing personalized visualizations directly within Automation Center, users can gain faster insights, improve operational visibility, and make more informed decisions.",
-            "preview_date": "08/01/2026",
-            "ga_date": ""
-          },
-          {
-            "feature_name": "Debug flows using variable default values",
-            "product": "Power Automate",
-            "product_group": "Desktop flows",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "05/14/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "This feature is for makers who build and maintain complex desktop flows. You can test and troubleshoot flows faster by setting variable default values directly in the designer, instead of restarting runs or manually preparing inputs each time. This reduces debugging time, lowers frustration, and helps you iterate more confidently when working with conditional logic and complex scenarios.",
-            "preview_date": "",
-            "ga_date": "06/01/2026"
-          },
-          {
-            "feature_name": "Automate PowerPoint presentations in desktop flows",
-            "product": "Power Automate",
-            "product_group": "Desktop flows",
-            "status": "In Preview",
-            "release_wave": "",
-            "last_updated": "05/14/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "This feature lets you automate routine PowerPoint tasks right in your desktop flows. You’ll cut down on manual work, keep your presentations consistent, and free up time to focus on what matters most. Plus, it makes it easy to integrate presentation creation into your broader business processes, helping you work smarter and faster.",
-            "preview_date": "06/01/2026",
-            "ga_date": ""
-          },
-          {
-            "feature_name": "Self-healing agent for UI/web automation in desktop flows",
-            "product": "Power Automate",
-            "product_group": "Desktop flows",
-            "status": "In Preview",
-            "release_wave": "",
-            "last_updated": "05/14/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "When a desktop flow fails in a UI or web automation action and can't find the corresponding element, the flow typically stops. This agentic, AI-powered functionality solves this issue by finding what element the application needs to interact with in case of an error to prevent the flow from stopping and allowing it to continue to work as intended.",
-            "preview_date": "03/31/2026",
-            "ga_date": ""
-          },
-          {
-            "feature_name": "Connect to local AI models from desktop flows",
-            "product": "Power Automate",
-            "product_group": "Desktop flows",
-            "status": "In Preview",
-            "release_wave": "",
-            "last_updated": "05/14/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "You can now add AI to your desktop flows without sending data outside your environment. By running models locally, you’ll keep control of your data, meet privacy standards, and cut down on dependency on external services. Plus, you’ll make the most of the AI investments you already have, helping your business work smarter and faster.",
-            "preview_date": "06/01/2026",
-            "ga_date": ""
-          },
-          {
-            "feature_name": "Automate administrator-level desktop applications in unattended runs",
-            "product": "Power Automate",
-            "product_group": "Desktop flows",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "05/14/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "You can now automate desktop apps that require admin rights during unattended runs. This capability eliminates previous limitations, allowing you to streamline complex, high-value processes. By closing these gaps, you’ll improve efficiency, reduce manual effort, and strengthen your overall automation strategy.",
-            "preview_date": "",
-            "ga_date": "05/01/2026"
-          },
-          {
-            "feature_name": "Run Python scripts using current Python versions in desktop flows",
-            "product": "Power Automate",
-            "product_group": "Desktop flows",
-            "status": "In Preview",
-            "release_wave": "",
-            "last_updated": "05/14/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "You can now use the full Python ecosystem in your desktop flows without the old limitations of IronPython. With support for the latest Python versions, you’ll have access to popular libraries and tools, making it easier to create smarter, more flexible automations. This means faster development, fewer workarounds, and more powerful solutions for your business.",
-            "preview_date": "06/01/2026",
-            "ga_date": ""
-          },
-          {
-            "feature_name": "Get support for normalized schema import for data ingestion",
-            "product": "Power Automate",
-            "product_group": "Process mining",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "05/14/2026",
-            "enabled_for": "Users by admins, makers, or analysts",
-            "description": "Customers with existing data pipelines or data products in data mesh mostly want to stick to normalized, efficient forms such as star schema. Power Automate Process Mining currently requires you to transform the event log into a single-table form, where attributes with small cardinality are duplicated. Support for star schema reduces storage volumes and speeds up ingestion performance.",
-            "preview_date": "05/01/2026",
-            "ga_date": "06/01/2026"
-          }
-        ],
-        "Microsoft Copilot Studio": [
-          {
-            "feature_name": "Give read-only analytics access to users",
-            "product": "Microsoft Copilot Studio",
-            "product_group": "Copilot and AI innovation",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "05/14/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "The Analyst role enables you to share agent analytics without granting editing or modification permissions for the agents. By using this role, you can share agent analytics with confidence, knowing your team gets the insights they need without any risk of accidental changes. Your analysts can independently review session data, explore themes, and track performance trends, all while you retain full control over agent configuration, publishing, and sharing.",
-            "preview_date": "",
-            "ga_date": "04/28/2026"
-          }
-        ],
-        "Microsoft Dataverse": [
-          {
-            "feature_name": "Create Dataverse agent users with Microsoft Entra agent identity",
-            "product": "Microsoft Dataverse",
-            "product_group": "Activate Enterprise Data in Copilot",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "05/14/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "The feature enables secure, compliant management of AI agents in Microsoft Dataverse, which reduces risk and improves governance for autonomous and interactive agents.",
-            "preview_date": "05/01/2026",
-            "ga_date": "06/01/2026"
-          },
-          {
-            "feature_name": "Guided table selection for first‑time Dataverse sync",
-            "product": "Microsoft Dataverse",
-            "product_group": "Build your low code hyperscale backend on Dataverse",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "05/14/2026",
-            "enabled_for": "Users, automatically",
-            "description": "Guided table selection removes a major source of friction for first‑time customers syncing Microsoft Dataverse data to Microsoft Fabric. Instead of being forced to initially sync all Dataverse tables and later navigate a complex manage tables experience to undo unnecessary selections, customers can choose exactly what they need upfront. This feature significantly reduces onboarding complexity for new admins, prevents accidental over‑syncing of hundreds of tables, and lowers storage and compute c",
-            "preview_date": "05/08/2026",
-            "ga_date": "05/08/2026"
-          },
-          {
-            "feature_name": "Chat and reason over Dataverse business data in Microsoft 365 Copilot",
-            "product": "Microsoft Dataverse",
-            "product_group": "Enable AI powered business workflows in Work IQ with Dataverse",
-            "status": "In Preview",
-            "release_wave": "",
-            "last_updated": "05/14/2026",
-            "enabled_for": "Users by admins, makers, or analysts",
-            "description": "Allow Microsoft 365 Copilot users to search and reason over Microsoft Dataverse business data in Microsoft 365 Copilot.",
-            "preview_date": "06/01/2026",
-            "ga_date": ""
-          },
-          {
-            "feature_name": "Build Dataverse solutions with coding agents using Dataverse skills",
-            "product": "Microsoft Dataverse",
-            "product_group": "Enable AI powered business workflows in Work IQ with Dataverse",
-            "status": "In Preview",
-            "release_wave": "",
-            "last_updated": "05/14/2026",
-            "enabled_for": "Users by admins, makers, or analysts",
-            "description": "By using coding agents, you can eliminate the need to manually create Microsoft Dataverse tables and solutions through the UI. Dataverse skills guide coding agents to connect to your environment and build solutions by using tables, relationships, forms, and views. This process also includes creating sample data.",
-            "preview_date": "06/01/2026",
-            "ga_date": ""
-          },
-          {
-            "feature_name": "Improve Dataverse MCP server quality with updated tools",
-            "product": "Microsoft Dataverse",
-            "product_group": "Enable AI powered business workflows in Work IQ with Dataverse",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "05/14/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "Microsoft Dataverse MCP improves agent tool routing with clearer tool boundaries, adds unstructured data search alongside structured records, and introduces business skill management from any MCP-compatible client.",
-            "preview_date": "",
-            "ga_date": "06/01/2026"
-          },
-          {
-            "feature_name": "Improve bulk delete user experience",
-            "product": "Microsoft Dataverse",
-            "product_group": "Improved enterprise experiences in Power Platform",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "05/14/2026",
-            "enabled_for": "Users, automatically",
-            "description": "This release significantly improves the reliability and operational safety of bulk delete jobs in Microsoft Dataverse. By making failures easy to understand and configurations portable across environments, admins can execute large‑scale data cleanup with confidence, reducing troubleshooting time, lowering support dependency, and minimizing the risk of costly misconfigurations in higher environments.",
-            "preview_date": "04/30/2026",
-            "ga_date": "05/01/2026"
-          }
-        ],
-        "Microsoft Power Platform governance and administration": [
-          {
-            "feature_name": "Automate governance with Agentic Center of Enablement",
-            "product": "Microsoft Power Platform governance and administration",
-            "product_group": "Enterprise scale administration",
-            "status": "In Preview",
-            "release_wave": "",
-            "last_updated": "05/14/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "This feature transforms governance from reactive to proactive with AI agents that detect risks, prioritize issues, and automate remediation plans, which reduces manual effort and risk.",
-            "preview_date": "07/01/2026",
-            "ga_date": ""
-          },
-          {
-            "feature_name": "Detect operational health issues across Power Platform resources quickly",
-            "product": "Microsoft Power Platform governance and administration",
-            "product_group": "Monitoring operational health",
-            "status": "In Preview",
-            "release_wave": "",
-            "last_updated": "05/14/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "This feature enables organizations to detect operational health issues across Power Platform resources quickly, which reduces downtime and the cost of disrupted business processes. Not only can alerts be configured to run reliably every 24 hours, but users have the ability to configure them with a 1‑hour evaluation frequency. This helps teams catch degradations early, minimizing the need for manual monitoring or engineering intervention. By preventing issues from escalating, businesses save time",
-            "preview_date": "06/01/2026",
-            "ga_date": ""
-          }
-        ]
-      },
-      "total_updates": 33,
+      "products": {},
+      "total_updates": 0,
       "error": null
     }
   },
