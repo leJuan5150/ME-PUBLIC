@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T11:23:28.333548Z",
+  "generated_at": "2026-05-17T11:26:51.639405Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
@@ -8,6 +8,20 @@
           "creator": "Life Style Overland",
           "handle": "@LifeStyleOverland",
           "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "VentureToRoam",
+          "handle": "@VentureToRoam",
+          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Epic Adventure Outfitters",
+          "handle": "@EpicAdventureOutfitters",
+          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
           "videos": [],
           "error": null
         },
@@ -26,6 +40,13 @@
           "error": null
         },
         {
+          "creator": "This Story Till Now",
+          "handle": "@ThisStoryTillNow",
+          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "videos": [],
+          "error": null
+        },
+        {
           "creator": "Casey 250",
           "handle": "@Casey250",
           "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
@@ -33,37 +54,23 @@
           "error": null
         },
         {
-          "creator": "Epic Adventure Outfitters",
-          "handle": "@EpicAdventureOutfitters",
-          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "TrailRecon",
           "handle": "@TrailRecon",
           "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
-          "videos": [],
+          "videos": [
+            {
+              "title": "My New Ultimate Off-Road Tow Rig",
+              "url": "https://www.youtube.com/watch?v=Cq6HfKsbD_8",
+              "published": "2026-05-16T14:00:15Z",
+              "description": "I bought another one. In this Coffee One Take, I sit down and talk about why I just picked up aa new vehicle, what role it fills in the fleet, and what the build plan looks like going forward.\n\n⭐️ TrailRecon Summit 5: https://bit.ly/TrailReconSummit5\n⛑️TrailRecon First Aid Kit: https://bit.ly/TrailReconFirstAidKit\n🌎 TrailRecon Shop: https://bit.ly/trailreconstore\n\nFollow me on:\n🛻 Facebook: https://www.facebook.com/trailrecon/\n📸 Instagram: https://www.instagram.com/trailrecon/"
+            }
+          ],
           "error": null
         },
         {
           "creator": "LetsGetLost",
           "handle": "@LetsGetLost",
           "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "VentureToRoam",
-          "handle": "@VentureToRoam",
-          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "This Story Till Now",
-          "handle": "@ThisStoryTillNow",
-          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
           "videos": [],
           "error": null
         }
@@ -73,6 +80,13 @@
           "creator": "Matthew Devaney",
           "handle": "@MatthewDevaney",
           "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Shane Young",
+          "handle": "@ShanesCows",
+          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
           "videos": [],
           "error": null
         },
@@ -94,13 +108,6 @@
           "creator": "Reza Dorrani",
           "handle": "@RezaDorrani",
           "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Shane Young",
-          "handle": "@ShanesCows",
-          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
           "videos": [],
           "error": null
         }
@@ -128,6 +135,24 @@
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
             {
+              "title": "Agents vs Chatbots: Codex Changes Everything #aiagents #codex #automation",
+              "url": "https://www.youtube.com/shorts/D0Lc4HF5pzE",
+              "published": "2026-05-17T03:00:22Z",
+              "description": "Watch the full conversation with Tibo, who leads Codex at OpenAI, live on Substack now. Link in bio.\n\nWhat's the real difference between a chatbot that answers questions and an AI agent that can perform actions? This video shares the inside scoop on why powerful artificial intelligence, like Codex, meets the bar for an agent. We explore how these ai tools are changing the landscape of automation, moving beyond simple Q&amp;A to executing complex tasks."
+            },
+            {
+              "title": "GPT-5.5 vs 1000 Piece Lego Set #ai #challenge",
+              "url": "https://www.youtube.com/shorts/tpmCddboe74",
+              "published": "2026-05-17T00:00:51Z",
+              "description": "Watch the full conversation with Tibo, who leads Codex at OpenAI, exclusively on Substack. Link in bio.\n\nWhat's really happening when AI models like GPT-5.5 attempt complex creative tasks? \n\nThis video explores the current ai limits of artificial intelligence in designing custom set Lego sets. We discuss how these ai models perform, revealing an interesting ai evaluation of their capabilities in handling intricate designs."
+            },
+            {
+              "title": "Anthropic's Mythos Just Beat OpenAI's GPT-5.5 At Real Hacking",
+              "url": "https://www.youtube.com/watch?v=dm3_Z-5PYnQ",
+              "published": "2026-05-16T15:01:03Z",
+              "description": "Exclusive Interview w/ Tibo, lead of Codex at OpenAI on Substack Now: https://natesnewsletter.substack.com/p/codex-five-leadership-chairs-tibo-interview?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n__________________________________\nWhat's really happening with AI agents inside the enterprise stack? The common story is that AI agents are still just chatbots — but the reality is they're already recovering lost Bitcoin, driving desktop apps, and rewriting how Notio"
+            },
+            {
               "title": "Sarah Friar on the Tool That Scaled Her Fundraise #OpenAI #funding",
               "url": "https://www.youtube.com/shorts/9bA49Yc3dlw",
               "published": "2026-05-16T00:00:14Z",
@@ -138,56 +163,6 @@
               "url": "https://www.youtube.com/watch?v=adNErrz2aA0",
               "published": "2026-05-15T14:00:04Z",
               "description": "Full article w/ Prompts: https://natesnewsletter.substack.com/p/saas-agent-license-renewal?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________________________\nWhat's really happening inside SaaS pricing as AI agents take over the work? The common story is that agents will just replace seats — but the reality is more complicated.\n\nIn this video, I share the inside scoop on how the agent era is rewriting SaaS economics and what to negotiate before your"
-            },
-            {
-              "title": "The Secret Behind GPT's Simplicity #chatgpt #ai",
-              "url": "https://www.youtube.com/shorts/IQ5zojQHHKE",
-              "published": "2026-05-15T03:45:01Z",
-              "description": "Full conversation with Tibo, who leads Codex at OpenAI, is exclusive to Substack subscribers this Saturday May 16th. Link in bio."
-            },
-            {
-              "title": "Codex Just Valued A Random House In India. I Wasn't Ready. #codex",
-              "url": "https://www.youtube.com/shorts/oWIXee9h3nU",
-              "published": "2026-05-14T22:01:02Z",
-              "description": "Full conversation with Tibo, who leads Codex at OpenAI, is exclusive to Substack subscribers this Saturday May 16th. Link in bio."
-            },
-            {
-              "title": "The Trillion Dollar Agentic Workflow Opportunity Is Here",
-              "url": "https://www.youtube.com/watch?v=jwtpMSRAPAQ",
-              "published": "2026-05-14T14:01:09Z",
-              "description": "Full article w/ Prompts: https://natesnewsletter.substack.com/p/saas-agent-license-renewal?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________________________\n\nWhat's really happening inside the AI agent implementation war?\n\nThe common story is that the AI agent battle is between OpenAI and Anthropic on raw model quality — but the reality is that private equity, hyperscalers, consultancies, and systems of record are all converging on the implementati"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Chase AI",
-          "handle": "@ChaseAI",
-          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
-          "videos": [
-            {
-              "title": "This Claude Code + Obsidian Command Center is INSANE",
-              "url": "https://www.youtube.com/shorts/v-boxgVuEEY",
-              "published": "2026-05-16T02:51:43Z",
-              "description": ""
-            },
-            {
-              "title": "This Claude Code + Obsidian Command Center is INSANE",
-              "url": "https://www.youtube.com/watch?v=glAoiBWVkmU",
-              "published": "2026-05-16T02:09:21Z",
-              "description": "⚡Master Claude Code + Codex⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nLet's solve Claude Code Agentic OS.\n\nWhile the command center gets all the attention, the true power of an agentic OS is the skill architecture that acts as its backbone. In this video, I break down why that is, how to create it, and where we get the most value out of these complex systems.\n\n⏰TIMESTAMPS:\n\n0:00 - Intro\n0:"
-            },
-            {
-              "title": "My Secret Content Claude Code Skill",
-              "url": "https://www.youtube.com/shorts/dhtsk9Na6Tc",
-              "published": "2026-05-15T12:01:11Z",
-              "description": ""
-            },
-            {
-              "title": "This Obsidian Command Center Just Upgraded the Terminal",
-              "url": "https://www.youtube.com/shorts/IOCJSLGbM8A",
-              "published": "2026-05-15T04:13:38Z",
-              "description": ""
             }
           ],
           "error": null
@@ -207,20 +182,6 @@
           "error": null
         },
         {
-          "creator": "Simon Scrapes",
-          "handle": "@SimonScrapes",
-          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
-          "videos": [
-            {
-              "title": "Skill Chaining in Claude OS is INSANE (Don’t Fall Behind!)",
-              "url": "https://www.youtube.com/watch?v=RrMTtG1ZccI",
-              "published": "2026-05-14T16:59:07Z",
-              "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes \nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\nMost people are building Claude systems that will be redundant in 3 months. They're focusing on dashboards and features that Anthropic will solve for them. But there's one thing Anthropic will never solve: building the exact systems your business needs. In this video, I'll show you what's actually worth your time: the architecture undern"
-            }
-          ],
-          "error": null
-        },
-        {
           "creator": "Nate Herk",
           "handle": "@NateHerk",
           "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
@@ -235,15 +196,65 @@
           "error": null
         },
         {
-          "creator": "AI Daily Brief",
-          "handle": "@AIDailyBrief",
-          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
+          "creator": "Chase AI",
+          "handle": "@ChaseAI",
+          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
           "videos": [
             {
-              "title": "In Defense of Tokenmaxxing",
-              "url": "https://www.youtube.com/watch?v=izRIZ1bMq4A",
-              "published": "2026-05-14T16:24:56Z",
-              "description": "The AI Daily Brief helps you understand the most important news and discussions in AI. \nSubscribe to the podcast version of The AI Daily Brief wherever you listen: https://pod.link/1680633614\nGet it ad free at http://patreon.com/aidailybrief\nLearn more about the show https://aidailybrief.ai/"
+              "title": "Top 3 Underrated Open Source Repos Nobody Talks About",
+              "url": "https://www.youtube.com/shorts/_Wn7b5TLUGU",
+              "published": "2026-05-17T01:30:21Z",
+              "description": ""
+            },
+            {
+              "title": "Is It Time To Switch to Codex?",
+              "url": "https://www.youtube.com/shorts/RqbyKfSNo4c",
+              "published": "2026-05-16T21:58:21Z",
+              "description": ""
+            },
+            {
+              "title": "Every Claude Code User NEEDS To Watch This",
+              "url": "https://www.youtube.com/watch?v=8kWONfT_-H8",
+              "published": "2026-05-16T19:06:25Z",
+              "description": "⚡Master Claude Code + Codex⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nLet's solve Claude Code Agentic OS.\n\nWhile the command center gets all the attention, the true power of an agentic OS is the skill architecture that acts as its backbone. In this video, I break down why that is, how to create it, and where we get the most value out of these complex systems.\n\n⏰TIMESTAMPS:\n\n0:00 - Intro\n1:"
+            },
+            {
+              "title": "Why Anthropic's $200 Credit Actually Screws You",
+              "url": "https://www.youtube.com/shorts/-jIMJ1cNXaM",
+              "published": "2026-05-16T14:00:00Z",
+              "description": ""
+            },
+            {
+              "title": "This Claude Code + Obsidian Command Center is INSANE",
+              "url": "https://www.youtube.com/shorts/v-boxgVuEEY",
+              "published": "2026-05-16T02:51:43Z",
+              "description": ""
+            },
+            {
+              "title": "This Claude Code + Obsidian Command Center is INSANE",
+              "url": "https://www.youtube.com/watch?v=glAoiBWVkmU",
+              "published": "2026-05-16T02:09:21Z",
+              "description": "⚡Master Claude Code + Codex⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nLet's solve Claude Code Agentic OS.\n\nWhile the command center gets all the attention, the true power of an agentic OS is the skill architecture that acts as its backbone. In this video, I break down why that is, how to create it, and where we get the most value out of these complex systems.\n\n⏰TIMESTAMPS:\n\n0:00 - Intro\n0:"
+            },
+            {
+              "title": "My Secret Content Claude Code Skill",
+              "url": "https://www.youtube.com/shorts/dhtsk9Na6Tc",
+              "published": "2026-05-15T12:01:11Z",
+              "description": ""
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Simon Scrapes",
+          "handle": "@SimonScrapes",
+          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
+          "videos": [
+            {
+              "title": "3 Claude Memory Systems to Get You Ahead of 99% of People",
+              "url": "https://www.youtube.com/watch?v=rFWxRZ5D-lM",
+              "published": "2026-05-16T16:08:14Z",
+              "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes \nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\nGrab the implementation plan: https://scrapeshq.notion.site/claude-memory-systems \n\nClaude Code's default memory systems are underperforming, and it's far behind advanced open-source systems like Hermes and MemSearch. In this video, we break down how all agentic memory systems work by looking at three core functions: Store, Inject, and Re"
             }
           ],
           "error": null
@@ -254,17 +265,120 @@
           "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
           "videos": [
             {
-              "title": "OpenAI Codex Now Works from Anywhere (Dispatch Killer?)",
-              "url": "https://www.youtube.com/watch?v=9N1ky5Y_fPc",
-              "published": "2026-05-14T21:48:55Z",
-              "description": "Get on the waitlist: https://join.pauljlipsky.com/waitlist\n\nOpenAI just rolled out Codex inside the ChatGPT mobile app and the way it connects to your desktop is way better than I expected.\n\nHeads up, these updates may not be available worldwide yet. Just because I have access to them doesn't mean you will yet.\n\n0:00 - Intro\n0:19 - Setup Process\n3:25 - My Thoughts\n3:53 - Connection Issues\n4:35 - Notifications\n5:12 - Multiple Desktops\n6:12 - Availability\n6:39 - Final Thoughts"
+              "title": "AI News: AI Hysteria, Android AI is Insane, Codex Mobile + More",
+              "url": "https://www.youtube.com/watch?v=S5VcqCD9zI4",
+              "published": "2026-05-16T13:00:42Z",
+              "description": "Try DoMyWork: https://domywork.ai/r/paul\n\nJoin the waitlist for my upcoming AI community: https://join.pauljlipsky.com/waitlist\n\nAI hysteria is going wild, Google's Android AI updates have me thinking about switching from iPhone for the first time in 15 years, OpenAI brought Codex to mobile, and there's a whole lot more to unpack in this week's AI news.\n\nPrompt of The Week: https://docs.google.com/document/d/1570YEXaOrqE1QR0R4-E6RmV733LKWoLk-oL7BzVryTw/edit?usp=sharing\n\n🔗 This video is sponsored"
             }
           ],
+          "error": null
+        },
+        {
+          "creator": "AI Daily Brief",
+          "handle": "@AIDailyBrief",
+          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
+          "videos": [],
           "error": null
         }
       ]
     },
     "newsletters": {
+      "power_platform_weekly": {
+        "name": "Power Platform Weekly",
+        "issue_number": 263,
+        "issue_date": "2026-05-11",
+        "url": "https://www.ppweekly.com/p/power-platform-weekly-issue-263",
+        "is_new": false,
+        "sections": {
+          "📰 Articles": [
+            {
+              "title": "Work Trend Index 2026: the Agency Gap is real, and HR owns the fix",
+              "url": "https://www.anainesurrutia.com/post/work-trend-index-2026-the-agency-gap-is-real-and-hr-owns-the-fix"
+            },
+            {
+              "title": "Why Computer Use in Copilot Studio is finally interesting for the enterprise",
+              "url": "http://sharepoint247.com/ai/why-computer-use-in-copilot-studio-is-finally-interesting-for-the-enterprise/"
+            },
+            {
+              "title": "Power Apps Vibe Coded Experience [Preview]",
+              "url": "https://d365demystified.com/2026/05/07/power-apps-vibe-coded-experience-preview/"
+            },
+            {
+              "title": "Create Add To Google Link For Session Or Event Registrations",
+              "url": "https://meganvwalker.com/add-to-google-link-session-or-event-registrations/"
+            },
+            {
+              "title": "Lead Scoring in Dynamics 365 Customer Insights: The 5Ws and How to Start",
+              "url": "https://martinplopez.com/posts/customer-insights-lead-scoring/"
+            }
+          ],
+          "🎙️ Podcasts": [
+            {
+              "title": "Ctrl+Alt+Azure Podcast",
+              "url": "https://share.transistor.fm/s/5fbf2946"
+            },
+            {
+              "title": "Code. Deploy. Go Live. Podcast",
+              "url": "https://codedeploygo.live/episodes/031-microsoft-365-copilot-extensibility-declarative-agents-custom-engines-and-work-iq-with-microsofts-paolo-pialorsi"
+            },
+            {
+              "title": "Power Platform Boost Podcast",
+              "url": "https://powerplatformboost.buzzsprout.com/2147912/episodes/19130741-10-coffees-and-a-redbull-85"
+            }
+          ],
+          "📅 Events & Webinars": [
+            {
+              "title": "Agent Academy Live",
+              "url": "https://developer.microsoft.com/en-us/reactor/events/27042/"
+            },
+            {
+              "title": "DynamicsCon",
+              "url": "https://dynamicscon.com/"
+            },
+            {
+              "title": "DynamicsMinds",
+              "url": "https://www.dynamicsminds.com/"
+            },
+            {
+              "title": "Build",
+              "url": "https://build.microsoft.com/home"
+            },
+            {
+              "title": "European Power Platform Conference",
+              "url": "https://www.sharepointeurope.com/european-power-platform-conference/"
+            }
+          ],
+          "💙 Out of the Blue": [
+            {
+              "title": "Dataverse is your agent data platform: here’s what’s new",
+              "url": "https://www.microsoft.com/power-platform/blog/2026/05/05/dataverse-agent-data-platform/"
+            },
+            {
+              "title": "Semantic model settings pane (Preview)",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Semantic-model-settings-pane-Preview/ba-p/5177694"
+            },
+            {
+              "title": "Execute DAX Queries REST API (Preview)",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Execute-DAX-Queries-REST-API-Preview/ba-p/5177697"
+            }
+          ],
+          "📺 Videos": [
+            {
+              "title": "Build a Multi-Stage Approval Process in Power Automate",
+              "url": "https://www.youtube.com/watch?v=HXUvBD_IBIQ"
+            },
+            {
+              "title": "Anyone can create workflows with SharePoint's new button!",
+              "url": "https://www.youtube.com/watch?v=aN2t2FH_1TI"
+            },
+            {
+              "title": "Using Claude Code or GitHub Copilot CLI with Copilot Studio Plugin",
+              "url": "https://www.youtube.com/watch?v=G8KocZvVAhk"
+            }
+          ]
+        },
+        "error": null
+      },
       "power_platform_dev_weekly": {
         "name": "Power Platform Dev Weekly",
         "issue_number": 293,
@@ -550,102 +664,6 @@
             {
               "title": "Episode 326 – Microsoft Fabric & Power BI April 2026 Feature Summary",
               "url": "https://bifocal.show/2026/05/12/episode-326/"
-            }
-          ]
-        },
-        "error": null
-      },
-      "power_platform_weekly": {
-        "name": "Power Platform Weekly",
-        "issue_number": 263,
-        "issue_date": "2026-05-11",
-        "url": "https://www.ppweekly.com/p/power-platform-weekly-issue-263",
-        "is_new": false,
-        "sections": {
-          "📰 Articles": [
-            {
-              "title": "Work Trend Index 2026: the Agency Gap is real, and HR owns the fix",
-              "url": "https://www.anainesurrutia.com/post/work-trend-index-2026-the-agency-gap-is-real-and-hr-owns-the-fix"
-            },
-            {
-              "title": "Why Computer Use in Copilot Studio is finally interesting for the enterprise",
-              "url": "http://sharepoint247.com/ai/why-computer-use-in-copilot-studio-is-finally-interesting-for-the-enterprise/"
-            },
-            {
-              "title": "Power Apps Vibe Coded Experience [Preview]",
-              "url": "https://d365demystified.com/2026/05/07/power-apps-vibe-coded-experience-preview/"
-            },
-            {
-              "title": "Create Add To Google Link For Session Or Event Registrations",
-              "url": "https://meganvwalker.com/add-to-google-link-session-or-event-registrations/"
-            },
-            {
-              "title": "Lead Scoring in Dynamics 365 Customer Insights: The 5Ws and How to Start",
-              "url": "https://martinplopez.com/posts/customer-insights-lead-scoring/"
-            }
-          ],
-          "🎙️ Podcasts": [
-            {
-              "title": "Ctrl+Alt+Azure Podcast",
-              "url": "https://share.transistor.fm/s/5fbf2946"
-            },
-            {
-              "title": "Code. Deploy. Go Live. Podcast",
-              "url": "https://codedeploygo.live/episodes/031-microsoft-365-copilot-extensibility-declarative-agents-custom-engines-and-work-iq-with-microsofts-paolo-pialorsi"
-            },
-            {
-              "title": "Power Platform Boost Podcast",
-              "url": "https://powerplatformboost.buzzsprout.com/2147912/episodes/19130741-10-coffees-and-a-redbull-85"
-            }
-          ],
-          "📅 Events & Webinars": [
-            {
-              "title": "Agent Academy Live",
-              "url": "https://developer.microsoft.com/en-us/reactor/events/27042/"
-            },
-            {
-              "title": "DynamicsCon",
-              "url": "https://dynamicscon.com/"
-            },
-            {
-              "title": "DynamicsMinds",
-              "url": "https://www.dynamicsminds.com/"
-            },
-            {
-              "title": "Build",
-              "url": "https://build.microsoft.com/home"
-            },
-            {
-              "title": "European Power Platform Conference",
-              "url": "https://www.sharepointeurope.com/european-power-platform-conference/"
-            }
-          ],
-          "💙 Out of the Blue": [
-            {
-              "title": "Dataverse is your agent data platform: here’s what’s new",
-              "url": "https://www.microsoft.com/power-platform/blog/2026/05/05/dataverse-agent-data-platform/"
-            },
-            {
-              "title": "Semantic model settings pane (Preview)",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Semantic-model-settings-pane-Preview/ba-p/5177694"
-            },
-            {
-              "title": "Execute DAX Queries REST API (Preview)",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Execute-DAX-Queries-REST-API-Preview/ba-p/5177697"
-            }
-          ],
-          "📺 Videos": [
-            {
-              "title": "Build a Multi-Stage Approval Process in Power Automate",
-              "url": "https://www.youtube.com/watch?v=HXUvBD_IBIQ"
-            },
-            {
-              "title": "Anyone can create workflows with SharePoint's new button!",
-              "url": "https://www.youtube.com/watch?v=aN2t2FH_1TI"
-            },
-            {
-              "title": "Using Claude Code or GitHub Copilot CLI with Copilot Studio Plugin",
-              "url": "https://www.youtube.com/watch?v=G8KocZvVAhk"
             }
           ]
         },
