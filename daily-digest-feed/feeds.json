@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T11:26:51.639405Z",
+  "generated_at": "2026-05-18T12:10:25.744351Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
@@ -8,48 +8,6 @@
           "creator": "Life Style Overland",
           "handle": "@LifeStyleOverland",
           "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "VentureToRoam",
-          "handle": "@VentureToRoam",
-          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Epic Adventure Outfitters",
-          "handle": "@EpicAdventureOutfitters",
-          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Ozark Overland Adventure",
-          "handle": "@OzarkOverlandAdventures",
-          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
-          "videos": [
-            {
-              "title": "Everything Went Wrong in the Ozarks!",
-              "url": "https://www.youtube.com/watch?v=-POrm6i8gdI",
-              "published": "2026-05-15T22:00:00Z",
-              "description": "I take off on what was supposed to be a relaxing trip to the Ozarks to reflect on some big changes coming soon but things don't go as planned. \n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHNYyUa\nAll Roads Taken"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "This Story Till Now",
-          "handle": "@ThisStoryTillNow",
-          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Casey 250",
-          "handle": "@Casey250",
-          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
           "videos": [],
           "error": null
         },
@@ -71,6 +29,55 @@
           "creator": "LetsGetLost",
           "handle": "@LetsGetLost",
           "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Epic Adventure Outfitters",
+          "handle": "@EpicAdventureOutfitters",
+          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Casey 250",
+          "handle": "@Casey250",
+          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "VentureToRoam",
+          "handle": "@VentureToRoam",
+          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
+          "videos": [
+            {
+              "title": "I Explore an ABANDONED NUCLEAR MISSILE Silo in Idaho",
+              "url": "https://www.youtube.com/watch?v=pMkhAfpbQYU",
+              "published": "2026-05-17T16:01:10Z",
+              "description": "Support my Partners:\nK-Suspension: https://geni.us/Ksuspension\nSave 20% on OnX Offroad: https://geni.us/OnXOffroad V2R20\nBook at Stay at the Titan Ranch: https://geni.us/TitanRanch\nVisit the Titan Museum: https://geni.us/TitanMuseum\n\nI discovered there is an Abandoned Nuclear Missile Silo in Idaho. This leftover relic from the Cold War had 100 foot tall missiles with spaceship propulsion and 4 megaton warheads pointed at our biggest enemy of time, RUSSIA. Once I found it, I had to go see what wa"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "This Story Till Now",
+          "handle": "@ThisStoryTillNow",
+          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "videos": [
+            {
+              "title": "It doesn’t matter 🤷‍♂️🏝️",
+              "url": "https://www.youtube.com/shorts/hCo8fKB_qWQ",
+              "published": "2026-05-18T05:52:55Z",
+              "description": ""
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Ozark Overland Adventure",
+          "handle": "@OzarkOverlandAdventures",
+          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
           "videos": [],
           "error": null
         }
@@ -108,7 +115,14 @@
           "creator": "Reza Dorrani",
           "handle": "@RezaDorrani",
           "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
-          "videos": [],
+          "videos": [
+            {
+              "title": "Trigger Power Automate Flows from Power Apps Code Apps (Full Tutorial)",
+              "url": "https://www.youtube.com/watch?v=1wvJbhp3_oE",
+              "published": "2026-05-18T12:00:04Z",
+              "description": "Power Apps Code Apps just unlocked one of the most-requested capabilities: calling Power Automate cloud flows directly from your React code — with typed inputs, typed responses, and full IntelliSense. \n\nIn this full tutorial I walk through the entire workflow end-to-end, from the npm CLI commands to writing the React code that triggers the flow, passes parameters, and handles the response.\n\nThen I take it further and showcase a full-fledged Help Desk code app that triggers a real approval workfl"
+            }
+          ],
           "error": null
         }
       ],
@@ -135,6 +149,18 @@
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
             {
+              "title": "How teams accidentally sabotage AI adoption #ai #aitools",
+              "url": "https://www.youtube.com/shorts/WwpDswEjTXg",
+              "published": "2026-05-18T03:00:24Z",
+              "description": "What's really happening with AI agents inside the enterprise stack? The common story is that AI agents are still just chatbots — but the reality is they're already recovering lost Bitcoin, driving desktop apps, and rewriting how Notion, Claude, and AWS get used.\n\nThis video offers the inside scoop on how a rigid, \"top down\" approach to implementing coding \"ai agents\" often fails. We explore how different teams within a company need to discover what \"agentic ai\" applications work best for their s"
+            },
+            {
+              "title": "5 Levers That Separate Winning AI Investments from Disasters",
+              "url": "https://www.youtube.com/watch?v=LIkYVsxMpS8",
+              "published": "2026-05-17T18:00:14Z",
+              "description": "Full Briefing w/ Matrix: https://natesnewsletter.substack.com/p/build-buy-hire-wait-ai-matrix?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n__________________________________\n\nWhat's really happening inside AI investment decisions at most companies? The common story is that you need an AI strategy — but the reality is more complicated.\n\nIn this video, I share the inside scoop on how to allocate capital across build, buy, hire, and wait for AI agents and workflows:"
+            },
+            {
               "title": "Agents vs Chatbots: Codex Changes Everything #aiagents #codex #automation",
               "url": "https://www.youtube.com/shorts/D0Lc4HF5pzE",
               "published": "2026-05-17T03:00:22Z",
@@ -151,46 +177,6 @@
               "url": "https://www.youtube.com/watch?v=dm3_Z-5PYnQ",
               "published": "2026-05-16T15:01:03Z",
               "description": "Exclusive Interview w/ Tibo, lead of Codex at OpenAI on Substack Now: https://natesnewsletter.substack.com/p/codex-five-leadership-chairs-tibo-interview?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n__________________________________\nWhat's really happening with AI agents inside the enterprise stack? The common story is that AI agents are still just chatbots — but the reality is they're already recovering lost Bitcoin, driving desktop apps, and rewriting how Notio"
-            },
-            {
-              "title": "Sarah Friar on the Tool That Scaled Her Fundraise #OpenAI #funding",
-              "url": "https://www.youtube.com/shorts/9bA49Yc3dlw",
-              "published": "2026-05-16T00:00:14Z",
-              "description": "Full conversation with Tibo, who leads Codex at OpenAI, is exclusive to Substack subscribers tomorrow, May 16th. Link in bio."
-            },
-            {
-              "title": "Your SaaS Bill Just Got a Second Meter. You're About to Pay It.",
-              "url": "https://www.youtube.com/watch?v=adNErrz2aA0",
-              "published": "2026-05-15T14:00:04Z",
-              "description": "Full article w/ Prompts: https://natesnewsletter.substack.com/p/saas-agent-license-renewal?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________________________\nWhat's really happening inside SaaS pricing as AI agents take over the work? The common story is that agents will just replace seats — but the reality is more complicated.\n\nIn this video, I share the inside scoop on how the agent era is rewriting SaaS economics and what to negotiate before your"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Alex Finn",
-          "handle": "@AlexFinn",
-          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
-          "videos": [
-            {
-              "title": "LIVE: GROK BUILD CLI IS ACTUALLY INCREDIBLE???",
-              "url": "https://www.youtube.com/watch?v=0nI5oo0BDDA",
-              "published": "2026-05-15T20:24:28Z",
-              "description": "Join the Vibe Coding Academy:  https://vibecodingacademy.dev\n2nd channel: https://youtube.com/@AlexFinnLabsOfficial"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Nate Herk",
-          "handle": "@NateHerk",
-          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-          "videos": [
-            {
-              "title": "I Tested 3 Ways to Deploy Claude Agents (Here's When to Use Each)",
-              "url": "https://www.youtube.com/watch?v=xJ5oz63mIec",
-              "published": "2026-05-15T15:16:02Z",
-              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=3-deploys-claude\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=3-deploys-claude\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nTheo's video on SDK pricing: https://youtu"
             }
           ],
           "error": null
@@ -223,24 +209,34 @@
               "url": "https://www.youtube.com/shorts/-jIMJ1cNXaM",
               "published": "2026-05-16T14:00:00Z",
               "description": ""
-            },
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Alex Finn",
+          "handle": "@AlexFinn",
+          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
+          "videos": [
             {
-              "title": "This Claude Code + Obsidian Command Center is INSANE",
-              "url": "https://www.youtube.com/shorts/v-boxgVuEEY",
-              "published": "2026-05-16T02:51:43Z",
-              "description": ""
-            },
+              "title": "Claude Code is 1000x better when you use this tool",
+              "url": "https://www.youtube.com/watch?v=VQPWyS2KGt0",
+              "published": "2026-05-17T18:06:00Z",
+              "description": "Here is the one tool you need to make Claude Code so much more powerful. You are going to love this workflow\n\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nFULL Claude Code bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nPr"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Nate Herk",
+          "handle": "@NateHerk",
+          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+          "videos": [
             {
-              "title": "This Claude Code + Obsidian Command Center is INSANE",
-              "url": "https://www.youtube.com/watch?v=glAoiBWVkmU",
-              "published": "2026-05-16T02:09:21Z",
-              "description": "⚡Master Claude Code + Codex⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nLet's solve Claude Code Agentic OS.\n\nWhile the command center gets all the attention, the true power of an agentic OS is the skill architecture that acts as its backbone. In this video, I break down why that is, how to create it, and where we get the most value out of these complex systems.\n\n⏰TIMESTAMPS:\n\n0:00 - Intro\n0:"
-            },
-            {
-              "title": "My Secret Content Claude Code Skill",
-              "url": "https://www.youtube.com/shorts/dhtsk9Na6Tc",
-              "published": "2026-05-15T12:01:11Z",
-              "description": ""
+              "title": "The AI Career Opportunity Nobody is Talking About in 2026",
+              "url": "https://www.youtube.com/watch?v=iIfOprq2kCM",
+              "published": "2026-05-17T16:24:10Z",
+              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=ibm-ceo-study\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=ibm-ceo-study\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nIBM Survey Data: https://newsroom.ibm.com/2026-0"
             }
           ],
           "error": null
@@ -251,24 +247,10 @@
           "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
           "videos": [
             {
-              "title": "3 Claude Memory Systems to Get You Ahead of 99% of People",
+              "title": "Master Claude Memory to Get Ahead of 99% of People",
               "url": "https://www.youtube.com/watch?v=rFWxRZ5D-lM",
               "published": "2026-05-16T16:08:14Z",
               "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes \nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\nGrab the implementation plan: https://scrapeshq.notion.site/claude-memory-systems \n\nClaude Code's default memory systems are underperforming, and it's far behind advanced open-source systems like Hermes and MemSearch. In this video, we break down how all agentic memory systems work by looking at three core functions: Store, Inject, and Re"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Paul J Lipsky",
-          "handle": "@PaulJLipsky",
-          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
-          "videos": [
-            {
-              "title": "AI News: AI Hysteria, Android AI is Insane, Codex Mobile + More",
-              "url": "https://www.youtube.com/watch?v=S5VcqCD9zI4",
-              "published": "2026-05-16T13:00:42Z",
-              "description": "Try DoMyWork: https://domywork.ai/r/paul\n\nJoin the waitlist for my upcoming AI community: https://join.pauljlipsky.com/waitlist\n\nAI hysteria is going wild, Google's Android AI updates have me thinking about switching from iPhone for the first time in 15 years, OpenAI brought Codex to mobile, and there's a whole lot more to unpack in this week's AI news.\n\nPrompt of The Week: https://docs.google.com/document/d/1570YEXaOrqE1QR0R4-E6RmV733LKWoLk-oL7BzVryTw/edit?usp=sharing\n\n🔗 This video is sponsored"
             }
           ],
           "error": null
@@ -279,101 +261,165 @@
           "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
           "videos": [],
           "error": null
+        },
+        {
+          "creator": "Paul J Lipsky",
+          "handle": "@PaulJLipsky",
+          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
+          "videos": [
+            {
+              "title": "12 Hidden Tricks To Level Up Claude Cowork",
+              "url": "https://www.youtube.com/watch?v=76aUqqi-Gak",
+              "published": "2026-05-17T13:00:20Z",
+              "description": "Join The Waitlist for my Skool Community: https://join.pauljlipsky.com/waitlist\n(There’s no obligation to join the actual community. Join even if you’re interested to learn more)\n\nTwelve simple tricks that will help you unlock the full potential of Claude Cowork — including the one project setup mistake almost everyone is making.\n\n0:00 Intro\n0:19 Projects\n2:25 Claude.md\n4:07 Folder Tips\n5:15 Dispatch\n6:06 Dictation\n7:17 Scheduling\n8:15 Skills\n9:47 Connectors\n10:11 Claude Design\n10:47 Obsidian\n12"
+            },
+            {
+              "title": "AI News: AI Hysteria, Android AI is Insane, Codex Mobile + More",
+              "url": "https://www.youtube.com/watch?v=S5VcqCD9zI4",
+              "published": "2026-05-16T13:00:42Z",
+              "description": "Try DoMyWork: https://domywork.ai/r/paul\n\nJoin the waitlist for my upcoming AI community: https://join.pauljlipsky.com/waitlist\n\nAI hysteria is going wild, Google's Android AI updates have me thinking about switching from iPhone for the first time in 15 years, OpenAI brought Codex to mobile, and there's a whole lot more to unpack in this week's AI news.\n\nPrompt of The Week: https://docs.google.com/document/d/1570YEXaOrqE1QR0R4-E6RmV733LKWoLk-oL7BzVryTw/edit?usp=sharing\n\n🔗 This video is sponsored"
+            }
+          ],
+          "error": null
         }
       ]
     },
     "newsletters": {
       "power_platform_weekly": {
         "name": "Power Platform Weekly",
-        "issue_number": 263,
-        "issue_date": "2026-05-11",
-        "url": "https://www.ppweekly.com/p/power-platform-weekly-issue-263",
-        "is_new": false,
+        "issue_number": 264,
+        "issue_date": "2026-05-18",
+        "url": "https://www.ppweekly.com/p/power-platform-weekly-issue-264",
+        "is_new": true,
         "sections": {
           "📰 Articles": [
             {
-              "title": "Work Trend Index 2026: the Agency Gap is real, and HR owns the fix",
-              "url": "https://www.anainesurrutia.com/post/work-trend-index-2026-the-agency-gap-is-real-and-hr-owns-the-fix"
+              "title": "Vibe coded Power Pages SPA: unfiltered",
+              "url": "https://dev.to/_neronotte/vibe-coded-power-pages-spa-unfiltered-11a6"
             },
             {
-              "title": "Why Computer Use in Copilot Studio is finally interesting for the enterprise",
-              "url": "http://sharepoint247.com/ai/why-computer-use-in-copilot-studio-is-finally-interesting-for-the-enterprise/"
+              "title": "Turning Maintainability Guidelines Into an Agent Skill",
+              "url": "https://www.cloudappie.nl/turning-maintainability-guidelines-agent-skill/"
             },
             {
-              "title": "Power Apps Vibe Coded Experience [Preview]",
-              "url": "https://d365demystified.com/2026/05/07/power-apps-vibe-coded-experience-preview/"
+              "title": "Important M365 Sales Agent features coming in 2026 Wave 1 you need to know!",
+              "url": "https://d365goddess.com/m365salesagent-2026wave1/"
             },
             {
-              "title": "Create Add To Google Link For Session Or Event Registrations",
-              "url": "https://meganvwalker.com/add-to-google-link-session-or-event-registrations/"
+              "title": "Everyone’s building agents. Who’s testing them?",
+              "url": "https://vivian.tiiman.com/everyones-building-agents-whos-testing-them/"
             },
             {
-              "title": "Lead Scoring in Dynamics 365 Customer Insights: The 5Ws and How to Start",
-              "url": "https://martinplopez.com/posts/customer-insights-lead-scoring/"
+              "title": "The different agent types in Copilot Studio and what breaks them",
+              "url": "https://vivian.tiiman.com/the-different-agent-types-in-copilot-studio-and-what-breaks-them/"
+            },
+            {
+              "title": "Dynamics 365 App for Outlook vs the Sales Agent – What’s the Difference?",
+              "url": "https://jscheper.com/dynamics-365-app-for-outlook-vs-the-sales-agent/"
+            },
+            {
+              "title": "Context + Expectations => Better Relationship",
+              "url": "https://jonasr.app/better-relationship/"
+            },
+            {
+              "title": "Context/Instructions/Expectations - FXB Release 1.2026.5.1",
+              "url": "https://fetchxmlbuilder.com/releases/1-2026-5/"
+            },
+            {
+              "title": "What is Power Fx and what is it used for?",
+              "url": "https://malinmartnes.no/2026/05/13/what-is-power-fx-and-what-is-it-used-for/"
+            },
+            {
+              "title": "How To View Conversation Transcripts In Copilot Studio",
+              "url": "https://www.matthewdevaney.com/how-to-view-conversation-transcripts-in-copilot-studio/"
             }
           ],
           "🎙️ Podcasts": [
             {
-              "title": "Ctrl+Alt+Azure Podcast",
-              "url": "https://share.transistor.fm/s/5fbf2946"
+              "title": "Microsoft Mechanics Podcast",
+              "url": "https://microsoftmechanics.libsyn.com/work-iq-data-context-skills-tools-for-copilot-and-your-agents"
             },
             {
-              "title": "Code. Deploy. Go Live. Podcast",
-              "url": "https://codedeploygo.live/episodes/031-microsoft-365-copilot-extensibility-declarative-agents-custom-engines-and-work-iq-with-microsofts-paolo-pialorsi"
+              "title": "Ragnar 365 Nuggets Podcast",
+              "url": "https://creators.spotify.com/pod/profile/ragnarheil/episodes/Inside-the-Souls-of-an-Autonomous-AI-Crew--OpenClaw--Hermes-with-Michael-Gannotti-Microsoft-e3jafgj/a-aclc526"
             },
             {
-              "title": "Power Platform Boost Podcast",
-              "url": "https://powerplatformboost.buzzsprout.com/2147912/episodes/19130741-10-coffees-and-a-redbull-85"
+              "title": "Run As Radio Podcast",
+              "url": "https://runasradio.com/Shows/Show/1036"
             }
           ],
           "📅 Events & Webinars": [
-            {
-              "title": "Agent Academy Live",
-              "url": "https://developer.microsoft.com/en-us/reactor/events/27042/"
-            },
-            {
-              "title": "DynamicsCon",
-              "url": "https://dynamicscon.com/"
-            },
             {
               "title": "DynamicsMinds",
               "url": "https://www.dynamicsminds.com/"
             },
             {
               "title": "Build",
-              "url": "https://build.microsoft.com/home"
+              "url": "https://build.microsoft.com/"
             },
             {
               "title": "European Power Platform Conference",
-              "url": "https://www.sharepointeurope.com/european-power-platform-conference/"
+              "url": "https://espc.tech/conference/eppc-2026/"
+            },
+            {
+              "title": "Nordic Summit",
+              "url": "https://nordicsummit.info/"
+            },
+            {
+              "title": "Directions for Enterprise",
+              "url": "https://www.directionsforpartners.com/enterprise2026"
+            },
+            {
+              "title": "Scottish Summit",
+              "url": "https://scottishsummit.com/"
+            },
+            {
+              "title": "Community Summit North America",
+              "url": "https://www.summitna.com/"
+            },
+            {
+              "title": "Directions EMEA",
+              "url": "https://www.directionsforpartners.com/emea2026"
+            },
+            {
+              "title": "Power Platform Community Conference",
+              "url": "https://powerplatformconf.com/"
             }
           ],
           "💙 Out of the Blue": [
             {
-              "title": "Dataverse is your agent data platform: here’s what’s new",
-              "url": "https://www.microsoft.com/power-platform/blog/2026/05/05/dataverse-agent-data-platform/"
+              "title": "Power Fx: User defined types generally available",
+              "url": "https://www.microsoft.com/power-platform/blog/power-apps/power-fx-user-defined-types-generally-available/"
             },
             {
-              "title": "Semantic model settings pane (Preview)",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Semantic-model-settings-pane-Preview/ba-p/5177694"
+              "title": "Agentic administration: Dataverse Admin Skills now available in public preview",
+              "url": "https://www.microsoft.com/power-platform/blog/2026/05/12/dataverse-agentic-administration/"
             },
             {
-              "title": "Execute DAX Queries REST API (Preview)",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Execute-DAX-Queries-REST-API-Preview/ba-p/5177697"
+              "title": "Power Apps MCP server introduces closed-loop learning for enterprise agents",
+              "url": "https://www.microsoft.com/power-platform/blog/power-apps/power-apps-mcp-server-introduces-closed-loop-learning-for-enterprise-agents/"
+            },
+            {
+              "title": "New and improved: Agent governance, intelligent workflows, and connected app experiences",
+              "url": "https://www.microsoft.com/microsoft-copilot/blog/copilot-studio/new-and-improved-agent-governance-intelligent-workflows-and-connected-app-experiences/"
+            },
+            {
+              "title": "Herding clouds: Taming pay-as-you-go billing policies in Power Platform at scale",
+              "url": "https://microsoft.github.io/mcscatblog/posts/managing-spend-pay-as-you-go/"
             }
           ],
           "📺 Videos": [
             {
-              "title": "Build a Multi-Stage Approval Process in Power Automate",
-              "url": "https://www.youtube.com/watch?v=HXUvBD_IBIQ"
+              "title": "Stop Sending Generic Emails — Use Dynamic Content in Power Automate",
+              "url": "https://www.youtube.com/watch?v=oFB85jwj020"
             },
             {
-              "title": "Anyone can create workflows with SharePoint's new button!",
-              "url": "https://www.youtube.com/watch?v=aN2t2FH_1TI"
+              "title": "NEW Workflows Feature In Copilot Studio (20-Min Full Demo)",
+              "url": "https://www.youtube.com/watch?v=o532hBhzSoQ"
             },
             {
-              "title": "Using Claude Code or GitHub Copilot CLI with Copilot Studio Plugin",
-              "url": "https://www.youtube.com/watch?v=G8KocZvVAhk"
+              "title": "Calling Power Automate Flow from Code Apps | Step-by-Step Beginner Guide",
+              "url": "https://www.youtube.com/watch?v=LeNVcfpiMHk"
             }
           ]
         },
