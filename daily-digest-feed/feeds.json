@@ -1,9 +1,16 @@
 {
-  "generated_at": "2026-05-18T12:10:25.744351Z",
+  "generated_at": "2026-05-19T12:02:42.830139Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
+        {
+          "creator": "TrailRecon",
+          "handle": "@TrailRecon",
+          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
+          "videos": [],
+          "error": null
+        },
         {
           "creator": "Life Style Overland",
           "handle": "@LifeStyleOverland",
@@ -12,59 +19,16 @@
           "error": null
         },
         {
-          "creator": "TrailRecon",
-          "handle": "@TrailRecon",
-          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
-          "videos": [
-            {
-              "title": "My New Ultimate Off-Road Tow Rig",
-              "url": "https://www.youtube.com/watch?v=Cq6HfKsbD_8",
-              "published": "2026-05-16T14:00:15Z",
-              "description": "I bought another one. In this Coffee One Take, I sit down and talk about why I just picked up aa new vehicle, what role it fills in the fleet, and what the build plan looks like going forward.\n\n⭐️ TrailRecon Summit 5: https://bit.ly/TrailReconSummit5\n⛑️TrailRecon First Aid Kit: https://bit.ly/TrailReconFirstAidKit\n🌎 TrailRecon Shop: https://bit.ly/trailreconstore\n\nFollow me on:\n🛻 Facebook: https://www.facebook.com/trailrecon/\n📸 Instagram: https://www.instagram.com/trailrecon/"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "LetsGetLost",
-          "handle": "@LetsGetLost",
-          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Epic Adventure Outfitters",
-          "handle": "@EpicAdventureOutfitters",
-          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Casey 250",
-          "handle": "@Casey250",
-          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "VentureToRoam",
-          "handle": "@VentureToRoam",
-          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
-          "videos": [
-            {
-              "title": "I Explore an ABANDONED NUCLEAR MISSILE Silo in Idaho",
-              "url": "https://www.youtube.com/watch?v=pMkhAfpbQYU",
-              "published": "2026-05-17T16:01:10Z",
-              "description": "Support my Partners:\nK-Suspension: https://geni.us/Ksuspension\nSave 20% on OnX Offroad: https://geni.us/OnXOffroad V2R20\nBook at Stay at the Titan Ranch: https://geni.us/TitanRanch\nVisit the Titan Museum: https://geni.us/TitanMuseum\n\nI discovered there is an Abandoned Nuclear Missile Silo in Idaho. This leftover relic from the Cold War had 100 foot tall missiles with spaceship propulsion and 4 megaton warheads pointed at our biggest enemy of time, RUSSIA. Once I found it, I had to go see what wa"
-            }
-          ],
-          "error": null
-        },
-        {
           "creator": "This Story Till Now",
           "handle": "@ThisStoryTillNow",
           "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
           "videos": [
+            {
+              "title": "We Tried Reaching a Remote Alpine Lake Too Early",
+              "url": "https://www.youtube.com/watch?v=yodmD_fAqVM",
+              "published": "2026-05-18T16:00:06Z",
+              "description": "Sign up with my link and save 20% on OnX Off-Road: https://bit.ly/onxoffroadtstn\n\nMERCH: http://www.tstn.shop\n\nWant to support our adventures? Join our Patreon group here:\nhttp://www.patreon.com/thestorytillnow\n\n--------------------------------\nSave 20% on XLANDR Sunglasses CODE: TSTN20 at checkout: https://bit.ly/42ThhBt\n---------------------------------\n\nMORE OF MY GEAR:\nEPIC C.R.O.W. MOLLE System : https://bit.ly/epiccrow\nKRAKEN TIRE INFLATION SYSTEM: https://bit.ly/epickraken\nTitan Fuel Tank"
+            },
             {
               "title": "It doesn’t matter 🤷‍♂️🏝️",
               "url": "https://www.youtube.com/shorts/hCo8fKB_qWQ",
@@ -78,22 +42,71 @@
           "creator": "Ozark Overland Adventure",
           "handle": "@OzarkOverlandAdventures",
           "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
+          "videos": [
+            {
+              "title": "Gladiator Owners MUST WATCH! Important Upgrades",
+              "url": "https://www.youtube.com/watch?v=TgucWoAeB1s",
+              "published": "2026-05-18T15:00:44Z",
+              "description": "I finally take care of a few important upgrades on my Gladiator that have been an issue for a while - Replacing my rear tail lights with something that might actually last and installing the Wolfbox G900Pro so I can have a rear view mirror again.\n\nGrab your WOLFBOX Dash cam here with a fan-exclusive discount: \nAmazon ---20%OFF\n*G900Pro(2-IN-1 Vision System) | Code: WBPROCAM25---https://www.amazon.com/WOLFBOX-G900-PRO-Included-Recording/dp/B0DD78Y3L5?maas=maas_adg_F8502BBC66B088859828391635972DFD"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "VentureToRoam",
+          "handle": "@VentureToRoam",
+          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
+          "videos": [
+            {
+              "title": "I Explored an ABANDONED NUCLEAR MISSILE Silo in Idaho",
+              "url": "https://www.youtube.com/watch?v=pMkhAfpbQYU",
+              "published": "2026-05-17T16:01:10Z",
+              "description": "Support my Partners:\nK-Suspension: https://geni.us/Ksuspension\nSave 20% on OnX Offroad: https://geni.us/OnXOffroad V2R20\nBook at Stay at the Titan Ranch: https://geni.us/TitanRanch\nVisit the Titan Museum: https://geni.us/TitanMuseum\n\nI discovered there is an Abandoned Nuclear Missile Silo in Idaho. This leftover relic from the Cold War had 100 foot tall missiles with spaceship propulsion and 4 megaton warheads pointed at our biggest enemy of time, RUSSIA. Once I found it, I had to go see what wa"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Epic Adventure Outfitters",
+          "handle": "@EpicAdventureOutfitters",
+          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
+          "videos": [
+            {
+              "title": "The Hotline Got Flooded  We Answered the Best Ones",
+              "url": "https://www.youtube.com/watch?v=KoebUq-rYbk",
+              "published": "2026-05-18T22:00:16Z",
+              "description": "First things first... thank you. Genuinely. You flooded The Hotline with questions and we mean flooded. The response was so overwhelming we had to sit down, go through a lot of them, and pick just a few of the best ones. Which was both flattering and mildly terrifying. You people are not messing around.This one is for every single person who took the time to send in a question. You made this episode happen. We just showed up and answered things.\n\n#TheHotline #JeepLife \n\nWelcome to The Hotline! W"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "LetsGetLost",
+          "handle": "@LetsGetLost",
+          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Casey 250",
+          "handle": "@Casey250",
+          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
           "videos": [],
           "error": null
         }
       ],
       "power_platform": [
         {
-          "creator": "Matthew Devaney",
-          "handle": "@MatthewDevaney",
-          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
+          "creator": "Shane Young",
+          "handle": "@ShanesCows",
+          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
           "videos": [],
           "error": null
         },
         {
-          "creator": "Shane Young",
-          "handle": "@ShanesCows",
-          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
+          "creator": "Matthew Devaney",
+          "handle": "@MatthewDevaney",
+          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
           "videos": [],
           "error": null
         },
@@ -117,7 +130,7 @@
           "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
           "videos": [
             {
-              "title": "Trigger Power Automate Flows from Power Apps Code Apps (Full Tutorial)",
+              "title": "Power Apps Code Apps + Power Automate Flows 🚀  (NEW feature)",
               "url": "https://www.youtube.com/watch?v=1wvJbhp3_oE",
               "published": "2026-05-18T12:00:04Z",
               "description": "Power Apps Code Apps just unlocked one of the most-requested capabilities: calling Power Automate cloud flows directly from your React code — with typed inputs, typed responses, and full IntelliSense. \n\nIn this full tutorial I walk through the entire workflow end-to-end, from the npm CLI commands to writing the React code that triggers the flow, passes parameters, and handles the response.\n\nThen I take it further and showcase a full-fledged Help Desk code app that triggers a real approval workfl"
@@ -128,16 +141,16 @@
       ],
       "fabric_powerbi": [
         {
-          "creator": "Dewain Robinson",
-          "handle": "@DewainRobinson",
-          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
+          "creator": "Guy in a Cube",
+          "handle": "@GuyInACube",
+          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
           "videos": [],
           "error": null
         },
         {
-          "creator": "Guy in a Cube",
-          "handle": "@GuyInACube",
-          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
+          "creator": "Dewain Robinson",
+          "handle": "@DewainRobinson",
+          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
           "videos": [],
           "error": null
         }
@@ -149,34 +162,89 @@
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
             {
+              "title": "40% growth nobody saw coming #expansion #tech",
+              "url": "https://www.youtube.com/shorts/hYDJnwgJr4Y",
+              "published": "2026-05-19T03:00:36Z",
+              "description": "What's really happening within a rapidly growing tech company? This podcast episode shares the inside scoop on how a private company can achieve significant startup growth.\n\nWe discuss the factors contributing to this impressive business news, including reaching 4 million users and the accelerating growth of general-purpose work over coding.\n\nFor those interested in social media trends and growth stocks, this offers a compelling look at what success looks like in the current market.\n\nWatch the f"
+            },
+            {
+              "title": "To schedule   Surface of Bubble Grows",
+              "url": "https://www.youtube.com/shorts/_rLgj8VcaVU",
+              "published": "2026-05-19T00:00:33Z",
+              "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/executive-briefing-90-of-companies?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when every other workforce skill in history had a finish line but AI doesn't? The common story is that humans need to learn new tools—but the reality is more interesting when you picture capability as an expanding bubble where the surface area keeps growing, not shrinking.\n\nIn thi"
+            },
+            {
+              "title": "The Prove-It Economy is Here | And Most Marketers Aren't Ready",
+              "url": "https://www.youtube.com/watch?v=725QE_LNXT4",
+              "published": "2026-05-18T14:00:17Z",
+              "description": "Full Post w/ Agent Truth Layer Skill Pack: https://natesnewsletter.substack.com/p/marketing-humans-and-agents-2026?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n__________________________________\nWhat's really happening inside the AI-driven shift in marketing?\n\nThe common story is that AI makes marketing faster — but the reality is that the entire internet economy is moving from attention to interpretation, and most marketers are still optimizing for the wrong one"
+            },
+            {
               "title": "How teams accidentally sabotage AI adoption #ai #aitools",
               "url": "https://www.youtube.com/shorts/WwpDswEjTXg",
               "published": "2026-05-18T03:00:24Z",
               "description": "What's really happening with AI agents inside the enterprise stack? The common story is that AI agents are still just chatbots — but the reality is they're already recovering lost Bitcoin, driving desktop apps, and rewriting how Notion, Claude, and AWS get used.\n\nThis video offers the inside scoop on how a rigid, \"top down\" approach to implementing coding \"ai agents\" often fails. We explore how different teams within a company need to discover what \"agentic ai\" applications work best for their s"
             },
             {
-              "title": "5 Levers That Separate Winning AI Investments from Disasters",
+              "title": "When to Automate, Build, Buy, Hire, or Wait on AI",
               "url": "https://www.youtube.com/watch?v=LIkYVsxMpS8",
               "published": "2026-05-17T18:00:14Z",
               "description": "Full Briefing w/ Matrix: https://natesnewsletter.substack.com/p/build-buy-hire-wait-ai-matrix?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n__________________________________\n\nWhat's really happening inside AI investment decisions at most companies? The common story is that you need an AI strategy — but the reality is more complicated.\n\nIn this video, I share the inside scoop on how to allocate capital across build, buy, hire, and wait for AI agents and workflows:"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Nate Herk",
+          "handle": "@NateHerk",
+          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+          "videos": [
+            {
+              "title": "How to Use Your Claude Code Projects in Codex in 5 Mins",
+              "url": "https://www.youtube.com/watch?v=kB9iMD0EjT8",
+              "published": "2026-05-18T19:09:24Z",
+              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=claude-code-to-codex\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=claude-code-to-codex\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nBoth Claude Code and Codex can run"
             },
             {
-              "title": "Agents vs Chatbots: Codex Changes Everything #aiagents #codex #automation",
-              "url": "https://www.youtube.com/shorts/D0Lc4HF5pzE",
-              "published": "2026-05-17T03:00:22Z",
-              "description": "Watch the full conversation with Tibo, who leads Codex at OpenAI, live on Substack now. Link in bio.\n\nWhat's the real difference between a chatbot that answers questions and an AI agent that can perform actions? This video shares the inside scoop on why powerful artificial intelligence, like Codex, meets the bar for an agent. We explore how these ai tools are changing the landscape of automation, moving beyond simple Q&amp;A to executing complex tasks."
-            },
+              "title": "The AI Career Opportunity Nobody is Talking About in 2026",
+              "url": "https://www.youtube.com/watch?v=iIfOprq2kCM",
+              "published": "2026-05-17T16:24:10Z",
+              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=ibm-ceo-study\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=ibm-ceo-study\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nIBM Survey Data: https://newsroom.ibm.com/2026-0"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "AI Daily Brief",
+          "handle": "@AIDailyBrief",
+          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
+          "videos": [
             {
-              "title": "GPT-5.5 vs 1000 Piece Lego Set #ai #challenge",
-              "url": "https://www.youtube.com/shorts/tpmCddboe74",
-              "published": "2026-05-17T00:00:51Z",
-              "description": "Watch the full conversation with Tibo, who leads Codex at OpenAI, exclusively on Substack. Link in bio.\n\nWhat's really happening when AI models like GPT-5.5 attempt complex creative tasks? \n\nThis video explores the current ai limits of artificial intelligence in designing custom set Lego sets. We discuss how these ai models perform, revealing an interesting ai evaluation of their capabilities in handling intricate designs."
-            },
+              "title": "What Google Needs to Do at I/O This Week",
+              "url": "https://www.youtube.com/watch?v=8uCkUyRFUqY",
+              "published": "2026-05-18T17:50:21Z",
+              "description": "Codex integration into ChatGPT Mobile ushers in persistent agent workflows and shifts knowledge work toward human review and approval instead of direct execution. Google I/O expectations include a Gemini Spark personal agent and cost-optimized Gemini Flash models pursuing both consumer and enterprise AI. Additional coverage highlights the frenzied Cerebras IPO, Anthropic financing rumors, OpenAI–Apple contract tensions, and Mythos-driven security discoveries.\n\nThe AI Daily Brief helps you unders"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Simon Scrapes",
+          "handle": "@SimonScrapes",
+          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Paul J Lipsky",
+          "handle": "@PaulJLipsky",
+          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
+          "videos": [
             {
-              "title": "Anthropic's Mythos Just Beat OpenAI's GPT-5.5 At Real Hacking",
-              "url": "https://www.youtube.com/watch?v=dm3_Z-5PYnQ",
-              "published": "2026-05-16T15:01:03Z",
-              "description": "Exclusive Interview w/ Tibo, lead of Codex at OpenAI on Substack Now: https://natesnewsletter.substack.com/p/codex-five-leadership-chairs-tibo-interview?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n__________________________________\nWhat's really happening with AI agents inside the enterprise stack? The common story is that AI agents are still just chatbots — but the reality is they're already recovering lost Bitcoin, driving desktop apps, and rewriting how Notio"
+              "title": "12 Hidden Tricks To Level Up Claude Cowork",
+              "url": "https://www.youtube.com/watch?v=76aUqqi-Gak",
+              "published": "2026-05-17T13:00:20Z",
+              "description": "Join The Waitlist for my Skool Community: https://join.pauljlipsky.com/waitlist\n(There’s no obligation to join the actual community. Join even if you’re interested to learn more)\n\nTwelve simple tricks that will help you unlock the full potential of Claude Cowork — including the one project setup mistake almost everyone is making.\n\n0:00 Intro\n0:19 Projects\n2:25 Claude.md\n4:07 Folder Tips\n5:15 Dispatch\n6:06 Dictation\n7:17 Scheduling\n8:15 Skills\n9:47 Connectors\n10:11 Claude Design\n10:47 Obsidian\n12"
             }
           ],
           "error": null
@@ -185,32 +253,7 @@
           "creator": "Chase AI",
           "handle": "@ChaseAI",
           "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
-          "videos": [
-            {
-              "title": "Top 3 Underrated Open Source Repos Nobody Talks About",
-              "url": "https://www.youtube.com/shorts/_Wn7b5TLUGU",
-              "published": "2026-05-17T01:30:21Z",
-              "description": ""
-            },
-            {
-              "title": "Is It Time To Switch to Codex?",
-              "url": "https://www.youtube.com/shorts/RqbyKfSNo4c",
-              "published": "2026-05-16T21:58:21Z",
-              "description": ""
-            },
-            {
-              "title": "Every Claude Code User NEEDS To Watch This",
-              "url": "https://www.youtube.com/watch?v=8kWONfT_-H8",
-              "published": "2026-05-16T19:06:25Z",
-              "description": "⚡Master Claude Code + Codex⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nLet's solve Claude Code Agentic OS.\n\nWhile the command center gets all the attention, the true power of an agentic OS is the skill architecture that acts as its backbone. In this video, I break down why that is, how to create it, and where we get the most value out of these complex systems.\n\n⏰TIMESTAMPS:\n\n0:00 - Intro\n1:"
-            },
-            {
-              "title": "Why Anthropic's $200 Credit Actually Screws You",
-              "url": "https://www.youtube.com/shorts/-jIMJ1cNXaM",
-              "published": "2026-05-16T14:00:00Z",
-              "description": ""
-            }
-          ],
+          "videos": [],
           "error": null
         },
         {
@@ -226,65 +269,94 @@
             }
           ],
           "error": null
-        },
-        {
-          "creator": "Nate Herk",
-          "handle": "@NateHerk",
-          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-          "videos": [
-            {
-              "title": "The AI Career Opportunity Nobody is Talking About in 2026",
-              "url": "https://www.youtube.com/watch?v=iIfOprq2kCM",
-              "published": "2026-05-17T16:24:10Z",
-              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=ibm-ceo-study\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=ibm-ceo-study\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nIBM Survey Data: https://newsroom.ibm.com/2026-0"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Simon Scrapes",
-          "handle": "@SimonScrapes",
-          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
-          "videos": [
-            {
-              "title": "Master Claude Memory to Get Ahead of 99% of People",
-              "url": "https://www.youtube.com/watch?v=rFWxRZ5D-lM",
-              "published": "2026-05-16T16:08:14Z",
-              "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes \nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\nGrab the implementation plan: https://scrapeshq.notion.site/claude-memory-systems \n\nClaude Code's default memory systems are underperforming, and it's far behind advanced open-source systems like Hermes and MemSearch. In this video, we break down how all agentic memory systems work by looking at three core functions: Store, Inject, and Re"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "AI Daily Brief",
-          "handle": "@AIDailyBrief",
-          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Paul J Lipsky",
-          "handle": "@PaulJLipsky",
-          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
-          "videos": [
-            {
-              "title": "12 Hidden Tricks To Level Up Claude Cowork",
-              "url": "https://www.youtube.com/watch?v=76aUqqi-Gak",
-              "published": "2026-05-17T13:00:20Z",
-              "description": "Join The Waitlist for my Skool Community: https://join.pauljlipsky.com/waitlist\n(There’s no obligation to join the actual community. Join even if you’re interested to learn more)\n\nTwelve simple tricks that will help you unlock the full potential of Claude Cowork — including the one project setup mistake almost everyone is making.\n\n0:00 Intro\n0:19 Projects\n2:25 Claude.md\n4:07 Folder Tips\n5:15 Dispatch\n6:06 Dictation\n7:17 Scheduling\n8:15 Skills\n9:47 Connectors\n10:11 Claude Design\n10:47 Obsidian\n12"
-            },
-            {
-              "title": "AI News: AI Hysteria, Android AI is Insane, Codex Mobile + More",
-              "url": "https://www.youtube.com/watch?v=S5VcqCD9zI4",
-              "published": "2026-05-16T13:00:42Z",
-              "description": "Try DoMyWork: https://domywork.ai/r/paul\n\nJoin the waitlist for my upcoming AI community: https://join.pauljlipsky.com/waitlist\n\nAI hysteria is going wild, Google's Android AI updates have me thinking about switching from iPhone for the first time in 15 years, OpenAI brought Codex to mobile, and there's a whole lot more to unpack in this week's AI news.\n\nPrompt of The Week: https://docs.google.com/document/d/1570YEXaOrqE1QR0R4-E6RmV733LKWoLk-oL7BzVryTw/edit?usp=sharing\n\n🔗 This video is sponsored"
-            }
-          ],
-          "error": null
         }
       ]
     },
     "newsletters": {
+      "power_platform_dev_weekly": {
+        "name": "Power Platform Dev Weekly",
+        "issue_number": 293,
+        "issue_date": "2026-05-13",
+        "url": "https://www.ppdevweekly.com/p/293",
+        "is_new": false,
+        "sections": {
+          "🥇 Cover Story": [
+            {
+              "title": "Vibe coded Power Pages SPA: unfiltered",
+              "url": "https://dev.to/_neronotte/vibe-coded-power-pages-spa-unfiltered-11a6"
+            }
+          ],
+          "🖼️Canvas Apps": [
+            {
+              "title": "Filter And Display Contacts Based On Account In Custom Page",
+              "url": "https://meganvwalker.com/filter-and-display-contacts-based-on-account-in-custom-page/"
+            }
+          ],
+          "💎 Model Driven Apps & Dataverse": [
+            {
+              "title": "Pass Parameters to HTML Web Resources in Model Driven Apps",
+              "url": "https://rajeevpentyala.com/2026/05/06/pass-parameters-to-html-web-resources-in-model-driven-apps/"
+            }
+          ],
+          "🤖 Copilot & Code Apps": [
+            {
+              "title": "How To View Conversation Transcripts In Copilot Studio",
+              "url": "https://www.matthewdevaney.com/how-to-view-conversation-transcripts-in-copilot-studio/"
+            },
+            {
+              "title": "Power Apps Vibe Coded Experience [Preview]",
+              "url": "https://d365demystified.com/2026/05/07/power-apps-vibe-coded-experience-preview/"
+            },
+            {
+              "title": "I don't want AI to write my code",
+              "url": "https://automatevalue.com/blog/i-dont-want-ai-to-write-my-code/"
+            }
+          ],
+          "🚀Power Automate": [
+            {
+              "title": "Stop Copying Logic Across Flows. Use Child Flows",
+              "url": "https://mytrial365.com/2026/05/07/stop-copying-logic-across-flows-use-child-flows/"
+            },
+            {
+              "title": "Power Apps Code Apps – Trigger a Power Automate Flow",
+              "url": "https://rajeevpentyala.com/2026/05/05/power-apps-code-apps-trigger-a-power-automate-flow/"
+            }
+          ],
+          "🎮 Other Interesting Articles": [
+            {
+              "title": "Exam AB-620: Design and build integrated AI agent solutions in Copilot Studio",
+              "url": "https://thecrm.ninja/exam-ab-620-design-and-build-integrated-ai-agent-solutions-in-copilot-studio/"
+            },
+            {
+              "title": "Why Computer Use in Copilot Studio is finally interesting for the enterprise",
+              "url": "https://sharepoint247.com/ai/why-computer-use-in-copilot-studio-is-finally-interesting-for-the-enterprise/"
+            },
+            {
+              "title": "Power Platform & Tenant Level Analytics",
+              "url": "https://sharepains.com/2026/05/06/power-platform-tenant-level-analytics/"
+            },
+            {
+              "title": "ALM on Power Platform: ADO + GitHub, the best of both worlds",
+              "url": "https://dev.to/_neronotte/alm-on-power-platform-ado-github-the-best-of-both-worlds-5dbh"
+            },
+            {
+              "title": "The death of BizApps and the rise of the agentic Power Platform",
+              "url": "https://nullpointer.se/agentification-power-platform.html"
+            }
+          ],
+          "📺 Videos": [
+            {
+              "title": "NEW Workflows Feature In Copilot Studio (20-Min Full Demo)",
+              "url": "https://www.youtube.com/watch?v=o532hBhzSoQ"
+            },
+            {
+              "title": "#5 MCT, MVP, E7 and WTF?! 😳",
+              "url": "https://www.youtube.com/watch?v=PPZTpgB9Zus"
+            }
+          ]
+        },
+        "error": null
+      },
       "power_platform_weekly": {
         "name": "Power Platform Weekly",
         "issue_number": 264,
@@ -420,90 +492,6 @@
             {
               "title": "Calling Power Automate Flow from Code Apps | Step-by-Step Beginner Guide",
               "url": "https://www.youtube.com/watch?v=LeNVcfpiMHk"
-            }
-          ]
-        },
-        "error": null
-      },
-      "power_platform_dev_weekly": {
-        "name": "Power Platform Dev Weekly",
-        "issue_number": 293,
-        "issue_date": "2026-05-13",
-        "url": "https://www.ppdevweekly.com/p/293",
-        "is_new": false,
-        "sections": {
-          "🥇 Cover Story": [
-            {
-              "title": "Vibe coded Power Pages SPA: unfiltered",
-              "url": "https://dev.to/_neronotte/vibe-coded-power-pages-spa-unfiltered-11a6"
-            }
-          ],
-          "🖼️Canvas Apps": [
-            {
-              "title": "Filter And Display Contacts Based On Account In Custom Page",
-              "url": "https://meganvwalker.com/filter-and-display-contacts-based-on-account-in-custom-page/"
-            }
-          ],
-          "💎 Model Driven Apps & Dataverse": [
-            {
-              "title": "Pass Parameters to HTML Web Resources in Model Driven Apps",
-              "url": "https://rajeevpentyala.com/2026/05/06/pass-parameters-to-html-web-resources-in-model-driven-apps/"
-            }
-          ],
-          "🤖 Copilot & Code Apps": [
-            {
-              "title": "How To View Conversation Transcripts In Copilot Studio",
-              "url": "https://www.matthewdevaney.com/how-to-view-conversation-transcripts-in-copilot-studio/"
-            },
-            {
-              "title": "Power Apps Vibe Coded Experience [Preview]",
-              "url": "https://d365demystified.com/2026/05/07/power-apps-vibe-coded-experience-preview/"
-            },
-            {
-              "title": "I don't want AI to write my code",
-              "url": "https://automatevalue.com/blog/i-dont-want-ai-to-write-my-code/"
-            }
-          ],
-          "🚀Power Automate": [
-            {
-              "title": "Stop Copying Logic Across Flows. Use Child Flows",
-              "url": "https://mytrial365.com/2026/05/07/stop-copying-logic-across-flows-use-child-flows/"
-            },
-            {
-              "title": "Power Apps Code Apps – Trigger a Power Automate Flow",
-              "url": "https://rajeevpentyala.com/2026/05/05/power-apps-code-apps-trigger-a-power-automate-flow/"
-            }
-          ],
-          "🎮 Other Interesting Articles": [
-            {
-              "title": "Exam AB-620: Design and build integrated AI agent solutions in Copilot Studio",
-              "url": "https://thecrm.ninja/exam-ab-620-design-and-build-integrated-ai-agent-solutions-in-copilot-studio/"
-            },
-            {
-              "title": "Why Computer Use in Copilot Studio is finally interesting for the enterprise",
-              "url": "https://sharepoint247.com/ai/why-computer-use-in-copilot-studio-is-finally-interesting-for-the-enterprise/"
-            },
-            {
-              "title": "Power Platform & Tenant Level Analytics",
-              "url": "https://sharepains.com/2026/05/06/power-platform-tenant-level-analytics/"
-            },
-            {
-              "title": "ALM on Power Platform: ADO + GitHub, the best of both worlds",
-              "url": "https://dev.to/_neronotte/alm-on-power-platform-ado-github-the-best-of-both-worlds-5dbh"
-            },
-            {
-              "title": "The death of BizApps and the rise of the agentic Power Platform",
-              "url": "https://nullpointer.se/agentification-power-platform.html"
-            }
-          ],
-          "📺 Videos": [
-            {
-              "title": "NEW Workflows Feature In Copilot Studio (20-Min Full Demo)",
-              "url": "https://www.youtube.com/watch?v=o532hBhzSoQ"
-            },
-            {
-              "title": "#5 MCT, MVP, E7 and WTF?! 😳",
-              "url": "https://www.youtube.com/watch?v=PPZTpgB9Zus"
             }
           ]
         },
