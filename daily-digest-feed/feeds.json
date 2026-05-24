@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T11:27:18.993608Z",
+  "generated_at": "2026-05-24T11:29:41.834053Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
@@ -8,42 +8,21 @@
           "creator": "Life Style Overland",
           "handle": "@LifeStyleOverland",
           "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
-          "videos": [
-            {
-              "title": "The Great 4Runner Reset: Why I Replaced My 210K Mile 4Runner With a 6th Gen",
-              "url": "https://www.youtube.com/watch?v=6QdAPx6UYPE",
-              "published": "2026-05-22T00:00:26Z",
-              "description": "After 210,000 miles in our 2014 Toyota 4Runner Trail Edition, we picked up a brand new 2026 Toyota 4Runner TRD Off-Road Premium in Las Vegas and drove it 2,000 miles home to Tennessee. This is The Great 4Runner Reset — our honest first look at the 6th gen 4Runner.\nIn this video we walk through why we chose the 2026 4Runner TRD Off-Road Premium over the Toyota Land Cruiser, Lexus GX 550, Lexus LX 700h, and Toyota Tacoma after test-driving all of them at Toyota off-road events. We get into why we "
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "VentureToRoam",
-          "handle": "@VentureToRoam",
-          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
           "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Casey 250",
-          "handle": "@Casey250",
-          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
-          "videos": [
-            {
-              "title": "Is High Tech Camping Ruining The Adventure? Secret River Trip",
-              "url": "https://www.youtube.com/watch?v=ihAy-P7EFYM",
-              "published": "2026-05-21T22:00:44Z",
-              "description": "🧊 Check out my favourite overland fridges from IceCo🧊 https://bit.ly/4ac2g03\n\n📍 Download onX Offroad to try for FREE 📍 https://bit.ly/4h0stAr \n🔥 Use Code: CASEY250 for a discount\n\n\nWe set out on our first spring camping trip with a strict 5-part mission: scout a closed route, find two new campsites, test out fresh gear, cook epic meals, and avoid the local bears.\n\nNothing went to plan.\n\nWithin the first hour, a locked gate and a security guard completely derailed our route. Forced to pivot, we l"
-            }
-          ],
           "error": null
         },
         {
           "creator": "TrailRecon",
           "handle": "@TrailRecon",
           "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
-          "videos": [],
+          "videos": [
+            {
+              "title": "These Jeep Parts Will Fail",
+              "url": "https://www.youtube.com/watch?v=mVu8_wLEjsM",
+              "published": "2026-05-23T16:32:12Z",
+              "description": "Your Jeep is past 100,000 miles, now what?\n\nJerry and I go through the parts and systems that are most likely to fail on your Jeep Wrangler JL or Gladiator JT once you hit the 100K mark. These aren't guesses, they're the issues we see over and over again on the 3.6 Pentastar and 2.0 turbo platforms.\n\n⚙️Shift Autowerx: https://shiftautoandoffroad.com\n⛑️TrailRecon First Aid Kit: https://bit.ly/TrailReconFirstAidKit\n🌎 TrailRecon Shop: https://bit.ly/trailreconstore\n\nFollow me on:\n🛻 Facebook: https:"
+            }
+          ],
           "error": null
         },
         {
@@ -68,20 +47,6 @@
           "error": null
         },
         {
-          "creator": "This Story Till Now",
-          "handle": "@ThisStoryTillNow",
-          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
-          "videos": [
-            {
-              "title": "Stranded on a remote beach with a broken sherp! 😱",
-              "url": "https://www.youtube.com/shorts/IXFiARX-wc0",
-              "published": "2026-05-21T18:19:52Z",
-              "description": ""
-            }
-          ],
-          "error": null
-        },
-        {
           "creator": "Epic Adventure Outfitters",
           "handle": "@EpicAdventureOutfitters",
           "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
@@ -94,9 +59,37 @@
             }
           ],
           "error": null
+        },
+        {
+          "creator": "VentureToRoam",
+          "handle": "@VentureToRoam",
+          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "This Story Till Now",
+          "handle": "@ThisStoryTillNow",
+          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Casey 250",
+          "handle": "@Casey250",
+          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
+          "videos": [],
+          "error": null
         }
       ],
       "power_platform": [
+        {
+          "creator": "Shane Young",
+          "handle": "@ShanesCows",
+          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
+          "videos": [],
+          "error": null
+        },
         {
           "creator": "Matthew Devaney",
           "handle": "@MatthewDevaney",
@@ -105,9 +98,9 @@
           "error": null
         },
         {
-          "creator": "Shane Young",
-          "handle": "@ShanesCows",
-          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
+          "creator": "April Dunnam",
+          "handle": "@AprilDunnam",
+          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
           "videos": [],
           "error": null
         },
@@ -124,46 +117,32 @@
           "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
           "videos": [],
           "error": null
-        },
-        {
-          "creator": "April Dunnam",
-          "handle": "@AprilDunnam",
-          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
-          "videos": [],
-          "error": null
         }
       ],
       "fabric_powerbi": [
+        {
+          "creator": "Guy in a Cube",
+          "handle": "@GuyInACube",
+          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
+          "videos": [],
+          "error": null
+        },
         {
           "creator": "Dewain Robinson",
           "handle": "@DewainRobinson",
           "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
           "videos": [
             {
+              "title": "AI: Solving Unimaginable Problems",
+              "url": "https://www.youtube.com/shorts/IgSNio3i6r8",
+              "published": "2026-05-23T15:00:27Z",
+              "description": "What impossible problems can we solve with AI in the next 5 years?\n\nAs AI evolves, we need to shift our mindset. Instead of fearing job loss, let’s focus on creative solutions for long-standing issues in our industry. What challenges have we overlooked that AI can help us tackle?\n\nLet’s rethink the future together!\n\n#AI #Innovation #Future"
+            },
+            {
               "title": "AI: Keep Your Brand's Human Touch",
               "url": "https://www.youtube.com/shorts/EGGgYk7D0wA",
               "published": "2026-05-22T15:00:29Z",
               "description": "Is AI making brands generic?\n\nDon't let AI replace your unique voice! Embrace what makes your brand special. People crave human connection, not bland content. Lean into your quirks and opinions to stand out. Remember, your authenticity is your greatest asset!\n\n#Branding #Authenticity #AI"
-            },
-            {
-              "title": "The Agent Dudecast EP7 Dona Sarkar",
-              "url": "https://www.youtube.com/watch?v=wcWvozSHdnk",
-              "published": "2026-05-21T15:00:06Z",
-              "description": "The conversation covers a wide range of topics related to AI, agents, and the evolving landscape of technology. It delves into the impact of AI on various industries, the importance of reinvention, and the role of AI in amplifying human capabilities. The discussion also emphasizes the need for thought leadership and innovation in the context of AI and technology. The conversation covers a range of topics, including the impact of AI on business, the concept of human context protocol (HCP), the im"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Guy in a Cube",
-          "handle": "@GuyInACube",
-          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
-          "videos": [
-            {
-              "title": "Governance made 100x easier with the Fabric Core MCP Server (Installation guide)",
-              "url": "https://www.youtube.com/watch?v=ea6xGJv0b-w",
-              "published": "2026-05-21T14:30:02Z",
-              "description": "If your Fabric governance still runs on manual checks, drift is already winning.\n\nIn this video, Marthe show you how to use the Fabric Core MCP Server to automate the governance checks you hate doing manually: \n- naming standards \n- duplicate items\n- ownership coverage\n\nYou will see how to install the MCP server in VS Code, run real governance checks against your Fabric tenant, and turn those results into owner follow-up actions!\n\n\nThis video covers:\n- How to install the Fabric Core MCP Server i"
             }
           ],
           "error": null
@@ -175,6 +154,18 @@
           "handle": "@NateBJones",
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
+            {
+              "title": "Why switching AI models is now impossible 😳 #chatgpt #ai #tech",
+              "url": "https://www.youtube.com/shorts/xkC_WDLmfS8",
+              "published": "2026-05-24T03:00:38Z",
+              "description": "Full Story w/ OpenBrain Guide: https://natesnewsletter.substack.com/p/every-ai-you-use-forgets-you-heres?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when Claude's memory doesn't know what you told ChatGPT and your phone app doesn't share context with your coding agent? The common story is that AI memory is getting better—but the reality is more interesting when every platform has built a walled garden designed to creat"
+            },
+            {
+              "title": "Claude's AI Town Voted Yes On Everything. That's Not A Good Sign.",
+              "url": "https://www.youtube.com/watch?v=RHV8DWAmjAs",
+              "published": "2026-05-23T14:00:33Z",
+              "description": "What's really happening inside those viral AI agent town experiments? The common story is that AI agents went rogue, fell in love, and burned down a virtual city. The reality is more complicated, and far more useful if you actually build with agents.\n\nIn this video, I share the inside scoop on what Emergence AI's 15-day experiment really teaches us about deploying AI agents:\n\n • Why long-running behavior, not single answers, is the real test\n • How five identical towns ran by different LLMs dive"
+            },
             {
               "title": "The massive mistake in AI memory #ai #tech #programming",
               "url": "https://www.youtube.com/shorts/5RCsb9XMuIU",
@@ -192,12 +183,6 @@
               "url": "https://www.youtube.com/watch?v=ltbzgzZZmgI",
               "published": "2026-05-22T14:00:54Z",
               "description": "Full Post w/ Prompt Pack: https://natesnewsletter.substack.com/p/ai-organize-files-before-writing?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n__________________________________\nWhat's really happening when prestigious law firms file motions full of AI hallucinations? The common story is that better prompts prevent hallucinations — but the reality is more complicated.\n\nIn this video, I share the inside scoop on the project room workflow that makes hallucinations "
-            },
-            {
-              "title": "Opus 4.7 and OpenAI 5.5 Made Your Prompting Style Obsolete.",
-              "url": "https://www.youtube.com/watch?v=ogTLWGBc3cE",
-              "published": "2026-05-21T14:01:12Z",
-              "description": "Full Post w/ Prompt Pack: https://natesnewsletter.substack.com/p/ai-agents-better-communicator?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n__________________________________\nWhat's really happening with prompt engineering now that AI agents are 100x more powerful than they were six months ago?\n\nThe common story is that prompt engineering is dead and you can just ask AI for what you want — but the reality is more complicated.\n\nIn this video, I share the inside sc"
             }
           ],
           "error": null
@@ -237,43 +222,15 @@
           "error": null
         },
         {
-          "creator": "Paul J Lipsky",
-          "handle": "@PaulJLipsky",
-          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
-          "videos": [
-            {
-              "title": "The Gemini Updates From IO Were Insane! (Here’s What’s New)",
-              "url": "https://www.youtube.com/watch?v=VJUvn4i5Fbc",
-              "published": "2026-05-21T13:00:45Z",
-              "description": "Google released some incredible update to Gemini at IO this year. I'll cover all of them in this video! \n\nThank you Google for inviting me to Google IO!\n🔗 This video is not sponsored."
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Simon Scrapes",
-          "handle": "@SimonScrapes",
-          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
-          "videos": [
-            {
-              "title": "Create Your Own Personal Claude AI System (That Makes Your Work EASY)",
-              "url": "https://www.youtube.com/watch?v=IevmGCVo9Pw",
-              "published": "2026-05-21T15:53:10Z",
-              "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes \nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\nFull video resources: https://scrapeshq.notion.site/create-your-own-personal-claude-ai-system \n\nFor years, people have wanted an AI system that actually helps them execute on projects. In this video, we'll build a complete Personal Operating System from scratch using Claude Code. Learn how to create a system that knows your projects, your"
-            }
-          ],
-          "error": null
-        },
-        {
           "creator": "AI Daily Brief",
           "handle": "@AIDailyBrief",
           "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
           "videos": [
             {
-              "title": "Anthropic Just Reset AI Expectations",
-              "url": "https://www.youtube.com/watch?v=9N3jEavj5Ps",
-              "published": "2026-05-21T23:57:41Z",
-              "description": "Anthropic delivered one of the most consequential weeks any AI lab has had yet: Andrej Karpathy joined to work on AI-accelerated pre-training research, new financials suggested the company is already profitable, and its deepening SpaceX compute partnership added fuel to the acceleration story. NLW breaks down why this is bigger than a lab horse race, why recursive research and compute constraints matter, and how Anthropic’s momentum is forcing a reset in how markets understand the AI boom. In th"
+              "title": "AI’s New Acceleration Phase",
+              "url": "https://www.youtube.com/watch?v=q9t1XCnHcM0",
+              "published": "2026-05-24T11:12:41Z",
+              "description": "A week of AI news added up to something bigger than any single story: Anthropic’s path to profitability, OpenAI’s math breakthrough, Google pushing AI deeper into Search and Docs, Cursor’s cheaper coding model, SpaceX becoming an AI compute player, Andrej Karpathy joining Anthropic, and the political fight over AI policy all pointed in the same direction. AI acceleration is showing up across business models, model capabilities, consumer products, compute infrastructure, and regulation at the sam"
             }
           ],
           "error": null
@@ -288,14 +245,29 @@
               "url": "https://www.youtube.com/watch?v=Pi-m8R068r4",
               "published": "2026-05-22T16:37:49Z",
               "description": "Get free #Genspark credits here: https://www.genspark.ai/?utm_source=yt&amp;utm_campaign=nateherk\nFull courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=selling-setup-hours\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=selling-setup-hours\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (ann"
-            },
-            {
-              "title": "Give Me 10 Mins and I'll Save You Millions of Claude Tokens",
-              "url": "https://www.youtube.com/watch?v=6cEQEba0i2A",
-              "published": "2026-05-21T12:58:00Z",
-              "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=claude-prompt-caching\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=claude-prompt-caching\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nThariq's article: https://x.com/"
             }
           ],
+          "error": null
+        },
+        {
+          "creator": "Simon Scrapes",
+          "handle": "@SimonScrapes",
+          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
+          "videos": [
+            {
+              "title": "I Rebuilt Hermes in Claude Code (It’s Ridiculously Good)",
+              "url": "https://www.youtube.com/watch?v=wdc1OFWDxlU",
+              "published": "2026-05-23T16:54:38Z",
+              "description": "🚀Get the Agentic Operating System: https://skool.com/scrapes \nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\nAgentic AI systems like Hermes and OpenClaw are exploding in popularity, but what are the hidden costs of using them off-the-shelf? Instead of blindly installing them, I rebuilt the best features inside n8n to create a modular, scalable system that I actually understand. In this video, I'll show you the exact features I rebuilt (and the ones I skippe"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Paul J Lipsky",
+          "handle": "@PaulJLipsky",
+          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
+          "videos": [],
           "error": null
         }
       ]
