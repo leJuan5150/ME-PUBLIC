@@ -1,16 +1,9 @@
 {
-  "generated_at": "2026-05-24T11:29:41.834053Z",
+  "generated_at": "2026-05-25T12:09:40.521228Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
-        {
-          "creator": "Life Style Overland",
-          "handle": "@LifeStyleOverland",
-          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
-          "videos": [],
-          "error": null
-        },
         {
           "creator": "TrailRecon",
           "handle": "@TrailRecon",
@@ -26,44 +19,9 @@
           "error": null
         },
         {
-          "creator": "Ozark Overland Adventure",
-          "handle": "@OzarkOverlandAdventures",
-          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
-          "videos": [
-            {
-              "title": "Overlander Daily Vlog - Preparing for Our Longest Adventure Yet",
-              "url": "https://www.youtube.com/watch?v=DD0jBsnBKZ0",
-              "published": "2026-05-22T15:00:17Z",
-              "description": "It time to embark on our longest adventure yet but there's a lot of things to figure out before we head out.\n\nAre custom-fit floor mats worth it? Here’s a breakdown using 3W all-weather floor mats on a Jeep Gladiator to see if they’re actually worth choosing over OEM mats.\nOfficial Website: Up to $100 OFF \nhttps://3wliners.com/?ref=OZARKOZARK&... \nCode: OZARKOZARK\nAmazon: Up to 15% OFF \nGladiator floor liners: https://amzn.to/4tlmlt8 \nJeep floor liners:https://amzn.to/48ZYU0B\n Code: 3WJEEPMATS\n#"
-            }
-          ],
-          "error": null
-        },
-        {
           "creator": "LetsGetLost",
           "handle": "@LetsGetLost",
           "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Epic Adventure Outfitters",
-          "handle": "@EpicAdventureOutfitters",
-          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
-          "videos": [
-            {
-              "title": "Lifetime Jeep Owner Drives the 4th Gen Toyota Tacoma TRD Pro",
-              "url": "https://www.youtube.com/watch?v=IvKJzPEosrk",
-              "published": "2026-05-22T23:35:01Z",
-              "description": "He survived the Ford. Drove the GMC... Now he's in a Toyota. \nThe Ginger's Jeep is starting to ask questions.\n\n#toyotatacoma #jeeplife #truckreview \n\nWelcome to the video where a lifetime Jeep owner climbs behind the wheel of the brand new 4th Gen Toyota Tacoma TRD Pro and gives you the most unfiltered, unsponsored, unapologetically honest review you are going to find on the internet.\n\nLook, we are a Jeep channel. That is not changing. But when a truck this capable shows up and asks to be review"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "VentureToRoam",
-          "handle": "@VentureToRoam",
-          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
           "videos": [],
           "error": null
         },
@@ -75,25 +33,74 @@
           "error": null
         },
         {
+          "creator": "Ozark Overland Adventure",
+          "handle": "@OzarkOverlandAdventures",
+          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "VentureToRoam",
+          "handle": "@VentureToRoam",
+          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Life Style Overland",
+          "handle": "@LifeStyleOverland",
+          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
+          "videos": [],
+          "error": null
+        },
+        {
           "creator": "Casey 250",
           "handle": "@Casey250",
           "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Epic Adventure Outfitters",
+          "handle": "@EpicAdventureOutfitters",
+          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
           "videos": [],
           "error": null
         }
       ],
       "power_platform": [
         {
-          "creator": "Shane Young",
-          "handle": "@ShanesCows",
-          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "Matthew Devaney",
           "handle": "@MatthewDevaney",
           "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
+          "videos": [
+            {
+              "title": "Transform Copilot With CUSTOM UI Widgets From Power Apps",
+              "url": "https://www.youtube.com/watch?v=JH0Zy1EOJGE",
+              "published": "2026-05-24T17:00:38Z",
+              "description": "What you’re looking at here in #Copilot is an interactive widget that I built with #PowerApps.\n\nThat’s right, Copilot is no longer limited to text based responses. You can build your own custom widgets and put them right there in the chat window. My mind is absolutely blown.\n\nThis is all possible thanks to a brand new concept in Copilot called #MCPApps. MCP Apps provide the data and actions, and widgets provide the visual interface.\n\nIn this video we are going to build the whole calendar compone"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Lisa Crosbie",
+          "handle": "@LisaCrosbie",
+          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
+          "videos": [
+            {
+              "title": "Copilot's New Edit Mode Does the Work For You in Word, Excel & PowerPoint",
+              "url": "https://www.youtube.com/watch?v=FJmkuyiJEs4",
+              "published": "2026-05-25T11:05:05Z",
+              "description": "Copilot in Word, Excel, and PowerPoint has a new mode that goes way beyond answering questions and summarising documents. In this video I show you exactly how I'm using it to do real work — filling forms from unstructured emails, editing complex documents in natural language, building analysis in Excel, reformatting PowerPoint slides, and more.\nIf you've had Copilot and not been getting much out of it in these apps, this is the video to watch. And stick around to the end for the one hack that wi"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Shane Young",
+          "handle": "@ShanesCows",
+          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
           "videos": [],
           "error": null
         },
@@ -108,13 +115,6 @@
           "creator": "Reza Dorrani",
           "handle": "@RezaDorrani",
           "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Lisa Crosbie",
-          "handle": "@LisaCrosbie",
-          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
           "videos": [],
           "error": null
         }
@@ -133,16 +133,16 @@
           "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
           "videos": [
             {
+              "title": "Discover Your Human Superpowers",
+              "url": "https://www.youtube.com/shorts/TpFLqacka8g",
+              "published": "2026-05-24T15:00:43Z",
+              "description": "What makes you a full stack human?\n\nIn the age of AI, we need to discover our unique superpowers.\n\nDona Sarkar breaks down the three essential components:\n\n1. Heart Superpower\n2. Cognition Superpower\n3. Presence Superpower\n\nThese are the traits that set us apart from AI. Are you ready to embrace your full stack human potential?\n\n#AI #Superpowers #HumanPotential"
+            },
+            {
               "title": "AI: Solving Unimaginable Problems",
               "url": "https://www.youtube.com/shorts/IgSNio3i6r8",
               "published": "2026-05-23T15:00:27Z",
               "description": "What impossible problems can we solve with AI in the next 5 years?\n\nAs AI evolves, we need to shift our mindset. Instead of fearing job loss, let’s focus on creative solutions for long-standing issues in our industry. What challenges have we overlooked that AI can help us tackle?\n\nLet’s rethink the future together!\n\n#AI #Innovation #Future"
-            },
-            {
-              "title": "AI: Keep Your Brand's Human Touch",
-              "url": "https://www.youtube.com/shorts/EGGgYk7D0wA",
-              "published": "2026-05-22T15:00:29Z",
-              "description": "Is AI making brands generic?\n\nDon't let AI replace your unique voice! Embrace what makes your brand special. People crave human connection, not bland content. Lean into your quirks and opinions to stand out. Remember, your authenticity is your greatest asset!\n\n#Branding #Authenticity #AI"
             }
           ],
           "error": null
@@ -150,10 +150,29 @@
       ],
       "ai": [
         {
+          "creator": "Alex Finn",
+          "handle": "@AlexFinn",
+          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
+          "videos": [],
+          "error": null
+        },
+        {
           "creator": "NateBJones",
           "handle": "@NateBJones",
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
+            {
+              "title": "How to build a 10-cent AI brain #ai #programming #tech",
+              "url": "https://www.youtube.com/shorts/DVS-cTSVKv4",
+              "published": "2026-05-25T03:00:14Z",
+              "description": "Full Story w/ OpenBrain Guide: https://natesnewsletter.substack.com/p/every-ai-you-use-forgets-you-heres?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when Claude's memory doesn't know what you told ChatGPT and your phone app doesn't share context with your coding agent? The common story is that AI memory is getting better—but the reality is more interesting when every platform has built a walled garden designed to creat"
+            },
+            {
+              "title": "Why the AI boom is about to hit a wall",
+              "url": "https://www.youtube.com/watch?v=Poyi6X7rOwY",
+              "published": "2026-05-24T17:00:23Z",
+              "description": "Full Post w/ Prompt Pack: https://natesnewsletter.substack.com/p/ai-big-tech-industrial-business?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n__________________________________\nWhat's really happening inside the AI supply chain that powers every model you use?\n\nThe common story is that AI is a software business with a fancy backend. The reality is more complicated, and it changes how you should buy, budget, and contract for AI.\n\nIn this video, I share the inside "
+            },
             {
               "title": "Why switching AI models is now impossible 😳 #chatgpt #ai #tech",
               "url": "https://www.youtube.com/shorts/xkC_WDLmfS8",
@@ -165,58 +184,27 @@
               "url": "https://www.youtube.com/watch?v=RHV8DWAmjAs",
               "published": "2026-05-23T14:00:33Z",
               "description": "What's really happening inside those viral AI agent town experiments? The common story is that AI agents went rogue, fell in love, and burned down a virtual city. The reality is more complicated, and far more useful if you actually build with agents.\n\nIn this video, I share the inside scoop on what Emergence AI's 15-day experiment really teaches us about deploying AI agents:\n\n • Why long-running behavior, not single answers, is the real test\n • How five identical towns ran by different LLMs dive"
-            },
-            {
-              "title": "The massive mistake in AI memory #ai #tech #programming",
-              "url": "https://www.youtube.com/shorts/5RCsb9XMuIU",
-              "published": "2026-05-23T03:00:02Z",
-              "description": "Full Story w/ OpenBrain Guide: https://natesnewsletter.substack.com/p/every-ai-you-use-forgets-you-heres?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when Claude's memory doesn't know what you told ChatGPT and your phone app doesn't share context with your coding agent? The common story is that AI memory is getting better—but the reality is more interesting when every platform has built a walled garden designed to creat"
-            },
-            {
-              "title": "This 30-cent database gives your AI infinite memory #ai #tech #coding",
-              "url": "https://www.youtube.com/shorts/eszYRrsIdHg",
-              "published": "2026-05-23T00:00:25Z",
-              "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/every-ai-you-use-forgets-you-heres?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when Claude's memory doesn't know what you told ChatGPT and your phone app doesn't share context with your coding agent? The common story is that AI memory is getting better—but the reality is more interesting when every platform has built a walled garden designed to create lock-i"
-            },
-            {
-              "title": "The One AI Writing Hack Nobody Talks About.",
-              "url": "https://www.youtube.com/watch?v=ltbzgzZZmgI",
-              "published": "2026-05-22T14:00:54Z",
-              "description": "Full Post w/ Prompt Pack: https://natesnewsletter.substack.com/p/ai-organize-files-before-writing?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n__________________________________\nWhat's really happening when prestigious law firms file motions full of AI hallucinations? The common story is that better prompts prevent hallucinations — but the reality is more complicated.\n\nIn this video, I share the inside scoop on the project room workflow that makes hallucinations "
             }
           ],
           "error": null
         },
         {
-          "creator": "Alex Finn",
-          "handle": "@AlexFinn",
-          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
-          "videos": [
-            {
-              "title": "6 Hermes Agent use cases I promise will change your life",
-              "url": "https://www.youtube.com/watch?v=AQHlyGA2cZM",
-              "published": "2026-05-22T19:34:16Z",
-              "description": "Download the AI Agents Cheat Sheet! https://clickhubspot.com/9b67c7\n\nHere are 6 new Hermes Agent use cases that makes it SO much more powerful\n\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nFULL Hermes Agent bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI ap"
-            }
-          ],
+          "creator": "Nate Herk",
+          "handle": "@NateHerk",
+          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+          "videos": [],
           "error": null
         },
         {
-          "creator": "Chase AI",
-          "handle": "@ChaseAI",
-          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+          "creator": "Simon Scrapes",
+          "handle": "@SimonScrapes",
+          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
           "videos": [
             {
-              "title": "STOP Using Claude Code For This",
-              "url": "https://www.youtube.com/shorts/MvIQJ8DWB8k",
-              "published": "2026-05-22T23:10:42Z",
-              "description": ""
-            },
-            {
-              "title": "Codex Remote is a GAME CHANGER",
-              "url": "https://www.youtube.com/shorts/UZ62vhjtY2M",
-              "published": "2026-05-22T20:38:02Z",
-              "description": "#ChatGPT_Partner\n@openai"
+              "title": "I Rebuilt Hermes in Claude Code (It’s Ridiculously Good)",
+              "url": "https://www.youtube.com/watch?v=wdc1OFWDxlU",
+              "published": "2026-05-23T16:54:38Z",
+              "description": "🚀Get the Agentic Operating System: https://skool.com/scrapes \nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\nAgentic AI systems like Hermes and OpenClaw are exploding in popularity, but what are the hidden costs of using them off-the-shelf? Instead of blindly installing them, I rebuilt the best features inside n8n to create a modular, scalable system that I actually understand. In this video, I'll show you the exact features I rebuilt (and the ones I skippe"
             }
           ],
           "error": null
@@ -236,38 +224,24 @@
           "error": null
         },
         {
-          "creator": "Nate Herk",
-          "handle": "@NateHerk",
-          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-          "videos": [
-            {
-              "title": "The AI Offer You Can Sell Tomorrow Morning",
-              "url": "https://www.youtube.com/watch?v=Pi-m8R068r4",
-              "published": "2026-05-22T16:37:49Z",
-              "description": "Get free #Genspark credits here: https://www.genspark.ai/?utm_source=yt&amp;utm_campaign=nateherk\nFull courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=selling-setup-hours\nAll my FREE resources: https://www.skool.com/ai-automation-society/about?el=selling-setup-hours\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (ann"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Simon Scrapes",
-          "handle": "@SimonScrapes",
-          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
-          "videos": [
-            {
-              "title": "I Rebuilt Hermes in Claude Code (It’s Ridiculously Good)",
-              "url": "https://www.youtube.com/watch?v=wdc1OFWDxlU",
-              "published": "2026-05-23T16:54:38Z",
-              "description": "🚀Get the Agentic Operating System: https://skool.com/scrapes \nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\nAgentic AI systems like Hermes and OpenClaw are exploding in popularity, but what are the hidden costs of using them off-the-shelf? Instead of blindly installing them, I rebuilt the best features inside n8n to create a modular, scalable system that I actually understand. In this video, I'll show you the exact features I rebuilt (and the ones I skippe"
-            }
-          ],
+          "creator": "Chase AI",
+          "handle": "@ChaseAI",
+          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+          "videos": [],
           "error": null
         },
         {
           "creator": "Paul J Lipsky",
           "handle": "@PaulJLipsky",
           "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
-          "videos": [],
+          "videos": [
+            {
+              "title": "Gemini Usage Limits Explained : Never Run Out Again",
+              "url": "https://www.youtube.com/watch?v=MWgYzT5V0pc",
+              "published": "2026-05-24T13:00:23Z",
+              "description": "Gemini keeps cutting you off at the worst time — here's exactly what's eating your usage limits and the workarounds Google won't tell you about.\n\n0:00 Intro\n0:39 Where To Find Your Limits\n1:41 The Settings That Burn Usage\n2:28 The Spreadsheet\n3:13 Text Prompts\n4:42 Music Generation\n6:14 Coding\n9:18 Images\n10:20 Videos\n13:42 Two Final Tips\n14:41 Outro"
+            }
+          ],
           "error": null
         }
       ]
