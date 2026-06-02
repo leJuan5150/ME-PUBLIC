@@ -1,51 +1,9 @@
 {
-  "generated_at": "2026-06-01T12:53:28.637170Z",
+  "generated_at": "2026-06-02T12:20:03.868669Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
-        {
-          "creator": "Life Style Overland",
-          "handle": "@LifeStyleOverland",
-          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
-          "videos": [
-            {
-              "title": "Are these tires big enough?! - Crazy find for the Deuce",
-              "url": "https://www.youtube.com/watch?v=K7ozYE1zd2Y",
-              "published": "2026-05-30T22:36:32Z",
-              "description": "Welcome back to the family farm in Tennessee! In this farm update, we process our organic beef, check in on the meat chickens, install a drive-through electric gate, and perform a massive military truck upgrade that's already proving its worth around the property. We also take down the old orchard and clean up dead cedar trees using the handy Woodland Mills TF810 Pro Wood Chipper, turning the debris into useful wood chips. We also enjoy the fruits of our labor over the holidays with family as ou"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Ozark Overland Adventure",
-          "handle": "@OzarkOverlandAdventures",
-          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
-          "videos": [
-            {
-              "title": "Overlander Daily Vlog - Way More Fun than Expected!",
-              "url": "https://www.youtube.com/watch?v=gqxeJ-ecC3Q",
-              "published": "2026-05-31T15:00:02Z",
-              "description": "We wake up in Iowa on the Mississippi River traveling to Wisconsin and have way more fun than expected!\n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHNYyUa\nAll Roads Taken - https://www.allroadstaken.com\nMOORE E"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "This Story Till Now",
-          "handle": "@ThisStoryTillNow",
-          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Casey 250",
-          "handle": "@Casey250",
-          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
-          "videos": [],
-          "error": null
-        },
         {
           "creator": "LetsGetLost",
           "handle": "@LetsGetLost",
@@ -54,17 +12,10 @@
           "error": null
         },
         {
-          "creator": "TrailRecon",
-          "handle": "@TrailRecon",
-          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
-          "videos": [
-            {
-              "title": "I Drove America's Most Brutal Pioneer Trail",
-              "url": "https://www.youtube.com/watch?v=dTZSe9_HTM0",
-              "published": "2026-05-30T14:00:39Z",
-              "description": "In 1879, more than 250 pioneers were asked to do something close to impossible: leave everything behind and build a wagon road through a thousand-mile cliff. They said yes.\nNearly 150 years later, I took the Jeep and trailer down the Hole in the Rock trail outside Escalante, Utah, to retrace part of that route myself. What starts as graded gravel turns into washboard, slickrock, and shelf roads the deeper you go and that was the easy version. The pioneers had no road at all. They built it as the"
-            }
-          ],
+          "creator": "This Story Till Now",
+          "handle": "@ThisStoryTillNow",
+          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "videos": [],
           "error": null
         },
         {
@@ -82,25 +33,60 @@
           "error": null
         },
         {
+          "creator": "Life Style Overland",
+          "handle": "@LifeStyleOverland",
+          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Ozark Overland Adventure",
+          "handle": "@OzarkOverlandAdventures",
+          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
+          "videos": [
+            {
+              "title": "Overlander Daily Vlog - Way More Fun than Expected!",
+              "url": "https://www.youtube.com/watch?v=gqxeJ-ecC3Q",
+              "published": "2026-05-31T15:00:02Z",
+              "description": "We wake up in Iowa on the Mississippi River traveling to Wisconsin and have way more fun than expected!\n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHNYyUa\nAll Roads Taken - https://www.allroadstaken.com\nMOORE E"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "TrailRecon",
+          "handle": "@TrailRecon",
+          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Casey 250",
+          "handle": "@Casey250",
+          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
+          "videos": [],
+          "error": null
+        },
+        {
           "creator": "Epic Adventure Outfitters",
           "handle": "@EpicAdventureOutfitters",
           "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
-          "videos": [],
+          "videos": [
+            {
+              "title": "Ranger Raptor. Canyon AT4X AEV. Tacoma TRD Pro. One Honest Verdict.",
+              "url": "https://www.youtube.com/watch?v=gzC1LwIhfXY",
+              "published": "2026-06-01T21:00:15Z",
+              "description": "The Ginger has driven them all. Paul has opinions about all of them. \nAnd neither of them have any intention of being diplomatic about any of it.\n\n#FordRaptor #ToyotaTacoma #CanyonAT4X\n\nIn this episode two lifetime Jeep guys sit down and give you the most unfiltered, unsponsored, unapologetically honest verdict on the three biggest off road truck competitors on the market right now.\n\nThe Ford Ranger Raptor. \nThe GMC Canyon AT4X. \nThe Toyota Tacoma TRD Pro. \n\nThree trucks that have been making a "
+            }
+          ],
           "error": null
         }
       ],
       "power_platform": [
         {
-          "creator": "April Dunnam",
-          "handle": "@AprilDunnam",
-          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Lisa Crosbie",
-          "handle": "@LisaCrosbie",
-          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
+          "creator": "Matthew Devaney",
+          "handle": "@MatthewDevaney",
+          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
           "videos": [],
           "error": null
         },
@@ -110,7 +96,7 @@
           "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
           "videos": [
             {
-              "title": "Auto-Sort Email Attachments with Power Automate + AI (Two Ways!)",
+              "title": "Control Email File Chaos - Use Power Automate, with AI and SharePoint",
               "url": "https://www.youtube.com/watch?v=BgEeOe5NMSI",
               "published": "2026-06-01T12:30:07Z",
               "description": "Learn how to automatically sort and route email attachments using Power Automate and AI. When an email comes in with a bunch of attachments, this flow loops through each one, uses an AI prompt to figure out what it is (invoice, purchase order, resume, or other), saves it to the right SharePoint folder, and extracts the key data into the file properties. Then I show a second way to do the same thing using Copilot in SharePoint with autofill columns. The whole idea is sprinkling a little AI into t"
@@ -133,9 +119,16 @@
           "error": null
         },
         {
-          "creator": "Matthew Devaney",
-          "handle": "@MatthewDevaney",
-          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
+          "creator": "Lisa Crosbie",
+          "handle": "@LisaCrosbie",
+          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "April Dunnam",
+          "handle": "@AprilDunnam",
+          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
           "videos": [],
           "error": null
         }
@@ -154,60 +147,22 @@
           "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
           "videos": [
             {
+              "title": "Dynamics Minds: Human-Centric Tech Event",
+              "url": "https://www.youtube.com/shorts/HFakkQ_xy8c",
+              "published": "2026-06-01T15:01:22Z",
+              "description": "Is tech really about humans? 🤔\n\nDynamics Minds dives deep into the human side of technology. This event challenges us to think about how tech serves customers, not just features. It's not just about new settings; it's about understanding the people behind the tech.\n\nJoin the conversation and discover what makes this event a must-attend!\n\n#DynamicsMinds #TechForHumans #PowerPlatform"
+            },
+            {
               "title": "Overcoming Public Speaking Fear",
               "url": "https://www.youtube.com/shorts/qeJUfN0iw08",
               "published": "2026-05-31T15:00:29Z",
               "description": "From shy to speaking in front of thousands! 🎤\n\nEver felt terrified of public speaking? Dewain shares his journey from being extremely shy to confidently addressing large crowds. It all started with a job at Six Flags, where he had to tell corny jokes on a train! Discover how he overcame his fear and learned to communicate effectively.\n\nWhat’s your biggest fear in public speaking?\n\n#PublicSpeaking #OvercomingFear #Confidence"
-            },
-            {
-              "title": "AI: Build Cars, Not Faster Horses",
-              "url": "https://www.youtube.com/shorts/3iadALj8DFo",
-              "published": "2026-05-30T15:00:30Z",
-              "description": "Stop building faster horses! 🐎\n\nExecutives often think AI is just about speeding up old processes. But what if you could innovate instead?\n\nDona Sarkar challenges the mindset of merely cutting costs. Embrace AI to solve new problems and lead your industry!\n\nAre you ready to reinvent your business?\n\n#AI #Innovation #Leadership"
             }
           ],
           "error": null
         }
       ],
       "ai": [
-        {
-          "creator": "NateBJones",
-          "handle": "@NateBJones",
-          "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
-          "videos": [
-            {
-              "title": "This is how AI agents actually take over enterprises #ai #business #tech",
-              "url": "https://www.youtube.com/shorts/KWCZWFDOapk",
-              "published": "2026-06-01T03:00:03Z",
-              "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/your-engineers-are-building-your?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when OpenAI engineers accidentally leak ChatGPT 5.4's existence but the model isn't even the interesting part? The common story is about the next capability jump—but the reality is more interesting when the company that first makes trillion-token organizational context genuinely usa"
-            },
-            {
-              "title": "Microsoft Says 86% Treat AI Output as a Starting Point. Your Resume Just Stopped Working.",
-              "url": "https://www.youtube.com/watch?v=UsCgEuIAclE",
-              "published": "2026-05-31T17:00:39Z",
-              "description": "Full Post w/ Prompts and TalentBoard link: https://natesnewsletter.substack.com/p/prove-value-work-ai-era?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n________________________________\nWhat's really happening with how we prove our value at work now that AI strategy has changed the game?\n\nThe common story is that AI makes us more productive — but the reality is that AI makes everyone look productive, and the old career evidence is losing signal.\n\nIn this video, I s"
-            },
-            {
-              "title": "The Compound Risk of AI Agents ⚠️ #ai #risk #software",
-              "url": "https://www.youtube.com/shorts/oTTVQt4IjPI",
-              "published": "2026-05-31T03:00:06Z",
-              "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/your-engineers-are-building-your?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when OpenAI engineers accidentally leak ChatGPT 5.4's existence but the model isn't even the interesting part? The common story is about the next capability jump—but the reality is more interesting when the company that first makes trillion-token organizational context genuinely usa"
-            },
-            {
-              "title": "OpenAI's Compound Bet: A Risk Worth Taking? #OpenAIstory #ainews",
-              "url": "https://www.youtube.com/shorts/Kb7FxKgUWvo",
-              "published": "2026-05-31T00:00:03Z",
-              "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/your-engineers-are-building-your?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when OpenAI engineers accidentally leak ChatGPT 5.4's existence but the model isn't even the interesting part? The common story is about the next capability jump—but the reality is more interesting when the company that first makes trillion-token organizational context genuinely usa"
-            },
-            {
-              "title": "My AI Workflow Has Changed (Here is What I Learned)",
-              "url": "https://www.youtube.com/watch?v=rqVzTX8w_w0",
-              "published": "2026-05-30T15:00:04Z",
-              "description": "What's really happening with how AI power users actually structure their daily workflows?\n\nThe common story is that prompt engineering is still the skill that separates beginners from experts — but the reality in mid-2026 is more nuanced, and the way serious AI users work has shifted dramatically in just the last few weeks.\n\nIn this video, I share the inside scoop on how my AI workflow has evolved and what I've learned pushing Codex and Claude to their limits:\n\n • Why I build local file folders "
-            }
-          ],
-          "error": null
-        },
         {
           "creator": "Alex Finn",
           "handle": "@AlexFinn",
@@ -216,24 +171,10 @@
           "error": null
         },
         {
-          "creator": "Chase AI",
-          "handle": "@ChaseAI",
-          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+          "creator": "Simon Scrapes",
+          "handle": "@SimonScrapes",
+          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
           "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Nate Herk",
-          "handle": "@NateHerk",
-          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-          "videos": [
-            {
-              "title": "Claude Code Dynamic Workflows Clearly Explained",
-              "url": "https://www.youtube.com/watch?v=jZgcWCzxh1I",
-              "published": "2026-05-30T17:34:30Z",
-              "description": "Get started with Lovable for FREE: https://lovable.link/FZfjuMb\nMy FREE AI OS Course: https://www.skool.com/ai-automation-society/about?el=claude-dynamic-workflows-release\nFull courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=claude-dynamic-workflows-release\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan)"
-            }
-          ],
           "error": null
         },
         {
@@ -241,6 +182,12 @@
           "handle": "@PaulJLipsky",
           "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
           "videos": [
+            {
+              "title": "The Ultimate Google Omni Prompting Guide (Full Tutorial)",
+              "url": "https://www.youtube.com/watch?v=2bw1QLYME_k",
+              "published": "2026-06-02T12:00:16Z",
+              "description": "Gemini Omni is one of the most incredible video models out there, but most people only use it for AI avatars. Here are five specific strengths and the prompts I use to unlock the other 90% of what Omni can actually do.\n\nHeads up, some Omni features may not be available in your region or on your plan yet.\n\n🔗 This video is not sponsored.\n\n0:00 Intro\n0:30 Editing Real Videos\n5:54 Camera Movements\n8:03 Translations\n9:28 Real World Understanding\n12:11 Text Rendering\n12:57 Outro"
+            },
             {
               "title": "Google AI Just Released a Free Marketing Agent (Pomelli Update)",
               "url": "https://www.youtube.com/watch?v=DvsKFckdfE0",
@@ -254,13 +201,65 @@
           "creator": "AI Daily Brief",
           "handle": "@AIDailyBrief",
           "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
+          "videos": [
+            {
+              "title": "The AI Token Shortage Begins",
+              "url": "https://www.youtube.com/watch?v=ex6abzvzaIo",
+              "published": "2026-06-01T18:02:16Z",
+              "description": "Recap of May's major AI shift from subsidized seat pricing to a token-based economy driven by agentic usage and runaway API consumption. Coverage of business-model pivots to usage-based billing, enterprise deployment and consulting plays, and market responses including cheaper specialized models. Analysis of compute and infrastructure competition highlighted by SpaceX/Colossus partnerships, corporate AI sticker shock, and emerging policy debates over token taxes and data-center moratoriums.\n\nThe"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "NateBJones",
+          "handle": "@NateBJones",
+          "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
+          "videos": [
+            {
+              "title": "Why your meetings are actually destroying your output #productivity #work",
+              "url": "https://www.youtube.com/shorts/hlGWME2hsl4",
+              "published": "2026-06-02T03:00:10Z",
+              "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/executive-briefing-ai-raised-output?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening with AI and team size in your organization? The common story is that AI makes teams more productive so you can cut headcount — but the reality is more complicated.\n\nIn this video, I share the inside scoop on why the five-person strike team is the s"
+            },
+            {
+              "title": "Is your AI team actually efficient? #ai #tech #programming",
+              "url": "https://www.youtube.com/shorts/8Y9IkxyZpHo",
+              "published": "2026-06-02T00:00:13Z",
+              "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/executive-briefing-ai-raised-output?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening with AI and team size in your organization? The common story is that AI makes teams more productive so you can cut headcount — but the reality is more complicated.\n\nIn this video, I share the inside scoop on why the five-person strike team is the s"
+            },
+            {
+              "title": "The death of traditional databases #ai #tech #saas",
+              "url": "https://www.youtube.com/shorts/UAanebcmBFI",
+              "published": "2026-06-01T18:00:24Z",
+              "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/your-engineers-are-building-your?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when OpenAI engineers accidentally leak ChatGPT 5.4's existence but the model isn't even the interesting part? The common story is about the next capability jump—but the reality is more interesting when the company that first makes trillion-token organizational context genuinely usa"
+            },
+            {
+              "title": "This is how AI agents actually take over enterprises #ai #business #tech",
+              "url": "https://www.youtube.com/shorts/KWCZWFDOapk",
+              "published": "2026-06-01T03:00:03Z",
+              "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/your-engineers-are-building-your?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when OpenAI engineers accidentally leak ChatGPT 5.4's existence but the model isn't even the interesting part? The common story is about the next capability jump—but the reality is more interesting when the company that first makes trillion-token organizational context genuinely usa"
+            },
+            {
+              "title": "Microsoft Says 86% Treat AI Output as a Starting Point. Your Resume Just Stopped Working.",
+              "url": "https://www.youtube.com/watch?v=UsCgEuIAclE",
+              "published": "2026-05-31T17:00:39Z",
+              "description": "Full Post w/ Prompts and TalentBoard link: https://natesnewsletter.substack.com/p/prove-value-work-ai-era?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n________________________________\nWhat's really happening with how we prove our value at work now that AI strategy has changed the game?\n\nThe common story is that AI makes us more productive — but the reality is that AI makes everyone look productive, and the old career evidence is losing signal.\n\nIn this video, I s"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Nate Herk",
+          "handle": "@NateHerk",
+          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
           "videos": [],
           "error": null
         },
         {
-          "creator": "Simon Scrapes",
-          "handle": "@SimonScrapes",
-          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
+          "creator": "Chase AI",
+          "handle": "@ChaseAI",
+          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
           "videos": [],
           "error": null
         }
