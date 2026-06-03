@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T12:20:03.868669Z",
+  "generated_at": "2026-06-03T12:33:28.501553Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
@@ -8,6 +8,20 @@
           "creator": "LetsGetLost",
           "handle": "@LetsGetLost",
           "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "TrailRecon",
+          "handle": "@TrailRecon",
+          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Life Style Overland",
+          "handle": "@LifeStyleOverland",
+          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
           "videos": [],
           "error": null
         },
@@ -22,20 +36,6 @@
           "creator": "VentureToRoam",
           "handle": "@VentureToRoam",
           "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
-          "videos": [
-            {
-              "title": "The SEARCH For an UNSEEN Owyhee Waterfall",
-              "url": "https://www.youtube.com/watch?v=Nl1bf5kwPkY",
-              "published": "2026-05-31T16:00:23Z",
-              "description": "Support my Partners:\nK-Suspension: https://geni.us/Ksuspension\nJoin our Patreon! https://www.patreon.com/c/venture2roam\nSave 20% on OnX Offroad: https://geni.us/OnXOffroad V2R20\n\nWe go in search of a hard to find, hard to get to waterfall in the middle of the Owyhee Wilderness. This epic overland outdoor camping adventure requires me to drive, hike, and even bike in order to find an absolutely beautiful treasure in the Owhyee outback.\n___________________\nMy Favorite Gear\nKraken Air Inflation Sys"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Life Style Overland",
-          "handle": "@LifeStyleOverland",
-          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
           "videos": [],
           "error": null
         },
@@ -45,26 +45,12 @@
           "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
           "videos": [
             {
-              "title": "Overlander Daily Vlog - Way More Fun than Expected!",
-              "url": "https://www.youtube.com/watch?v=gqxeJ-ecC3Q",
-              "published": "2026-05-31T15:00:02Z",
-              "description": "We wake up in Iowa on the Mississippi River traveling to Wisconsin and have way more fun than expected!\n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHNYyUa\nAll Roads Taken - https://www.allroadstaken.com\nMOORE E"
+              "title": "The Best Offline Navigation App Just Got Better - Gaia GPS New Interface",
+              "url": "https://www.youtube.com/watch?v=OYd89EMcwXc",
+              "published": "2026-06-02T15:00:31Z",
+              "description": "Gaia GPS got a significant facelift making the best offline GPS app even better!\nGet 10% off Gaia GPS Premium - https://alnk.to/cHNYyUa\n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHNYyUa\nAll Roads Taken - https"
             }
           ],
-          "error": null
-        },
-        {
-          "creator": "TrailRecon",
-          "handle": "@TrailRecon",
-          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Casey 250",
-          "handle": "@Casey250",
-          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
-          "videos": [],
           "error": null
         },
         {
@@ -80,6 +66,13 @@
             }
           ],
           "error": null
+        },
+        {
+          "creator": "Casey 250",
+          "handle": "@Casey250",
+          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
+          "videos": [],
+          "error": null
         }
       ],
       "power_platform": [
@@ -94,12 +87,19 @@
           "creator": "Shane Young",
           "handle": "@ShanesCows",
           "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Lisa Crosbie",
+          "handle": "@LisaCrosbie",
+          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
           "videos": [
             {
-              "title": "Control Email File Chaos - Use Power Automate, with AI and SharePoint",
-              "url": "https://www.youtube.com/watch?v=BgEeOe5NMSI",
-              "published": "2026-06-01T12:30:07Z",
-              "description": "Learn how to automatically sort and route email attachments using Power Automate and AI. When an email comes in with a bunch of attachments, this flow loops through each one, uses an AI prompt to figure out what it is (invoice, purchase order, resume, or other), saves it to the right SharePoint folder, and extracts the key data into the file properties. Then I show a second way to do the same thing using Copilot in SharePoint with autofill columns. The whole idea is sprinkling a little AI into t"
+              "title": "Microsoft Build 2026 - Top Announcements",
+              "url": "https://www.youtube.com/watch?v=X5IvkUxfqms",
+              "published": "2026-06-03T00:38:58Z",
+              "description": "Microsoft Build 2026 was all about one idea: agent-first — a shift from software you operate to agents that do the work for you. I've cut through the 100+ announcements to the key announcements that actually matter for business users and decision-makers, with a plain-English \"what it is and why it matters\" for each.\n\n------------------------------\nThank you for supporting my channel:\n☕ Buy me a coffee: https://www.buymeacoffee.com/lisacrosbie\n📘 Get my book - Copilot Studio Step by Step: https://"
             }
           ],
           "error": null
@@ -108,20 +108,6 @@
           "creator": "Reza Dorrani",
           "handle": "@RezaDorrani",
           "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
-          "videos": [
-            {
-              "title": "Stay Ahead of Power Platform, Dynamics 365 & Copilot Releases 🚀 | Microsoft Release Planner App",
-              "url": "https://www.youtube.com/watch?v=eJplUNEGy54",
-              "published": "2026-06-01T12:00:39Z",
-              "description": "Keeping up with Microsoft's release plans can be challenging. New features are constantly being announced across Power Platform, Dynamics 365, and Microsoft Copilot, with varying release dates, statuses, and cloud availability.\n\nKnowing what's coming, when a feature is releasing, whether it's in Preview or General Availability (GA), and whether it's available in Commercial & GCC environments can quickly become overwhelming.\n\nIn this video, I showcase the Microsoft Power CAT team's Release Planne"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Lisa Crosbie",
-          "handle": "@LisaCrosbie",
-          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
           "videos": [],
           "error": null
         },
@@ -151,12 +137,6 @@
               "url": "https://www.youtube.com/shorts/HFakkQ_xy8c",
               "published": "2026-06-01T15:01:22Z",
               "description": "Is tech really about humans? 🤔\n\nDynamics Minds dives deep into the human side of technology. This event challenges us to think about how tech serves customers, not just features. It's not just about new settings; it's about understanding the people behind the tech.\n\nJoin the conversation and discover what makes this event a must-attend!\n\n#DynamicsMinds #TechForHumans #PowerPlatform"
-            },
-            {
-              "title": "Overcoming Public Speaking Fear",
-              "url": "https://www.youtube.com/shorts/qeJUfN0iw08",
-              "published": "2026-05-31T15:00:29Z",
-              "description": "From shy to speaking in front of thousands! 🎤\n\nEver felt terrified of public speaking? Dewain shares his journey from being extremely shy to confidently addressing large crowds. It all started with a job at Six Flags, where he had to tell corny jokes on a train! Discover how he overcame his fear and learned to communicate effectively.\n\nWhat’s your biggest fear in public speaking?\n\n#PublicSpeaking #OvercomingFear #Confidence"
             }
           ],
           "error": null
@@ -164,58 +144,28 @@
       ],
       "ai": [
         {
-          "creator": "Alex Finn",
-          "handle": "@AlexFinn",
-          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Simon Scrapes",
-          "handle": "@SimonScrapes",
-          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Paul J Lipsky",
-          "handle": "@PaulJLipsky",
-          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
-          "videos": [
-            {
-              "title": "The Ultimate Google Omni Prompting Guide (Full Tutorial)",
-              "url": "https://www.youtube.com/watch?v=2bw1QLYME_k",
-              "published": "2026-06-02T12:00:16Z",
-              "description": "Gemini Omni is one of the most incredible video models out there, but most people only use it for AI avatars. Here are five specific strengths and the prompts I use to unlock the other 90% of what Omni can actually do.\n\nHeads up, some Omni features may not be available in your region or on your plan yet.\n\n🔗 This video is not sponsored.\n\n0:00 Intro\n0:30 Editing Real Videos\n5:54 Camera Movements\n8:03 Translations\n9:28 Real World Understanding\n12:11 Text Rendering\n12:57 Outro"
-            },
-            {
-              "title": "Google AI Just Released a Free Marketing Agent (Pomelli Update)",
-              "url": "https://www.youtube.com/watch?v=DvsKFckdfE0",
-              "published": "2026-05-31T13:00:01Z",
-              "description": "Pomelli is Google's free AI marketing agent that builds your brand kit, product photos, ad campaigns, and even a full website in a few clicks — here's how to use every feature.\n\n🔗 This video is not sponsored. \n\n0:00 Intro\n0:22 Business DNA Setup\n4:01 Catalog & Product Photoshoot\n6:47 Building Your Website\n7:50 Social Media Campaigns\n10:17 Assets & Brand Book\n12:48 Outro"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "AI Daily Brief",
-          "handle": "@AIDailyBrief",
-          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
-          "videos": [
-            {
-              "title": "The AI Token Shortage Begins",
-              "url": "https://www.youtube.com/watch?v=ex6abzvzaIo",
-              "published": "2026-06-01T18:02:16Z",
-              "description": "Recap of May's major AI shift from subsidized seat pricing to a token-based economy driven by agentic usage and runaway API consumption. Coverage of business-model pivots to usage-based billing, enterprise deployment and consulting plays, and market responses including cheaper specialized models. Analysis of compute and infrastructure competition highlighted by SpaceX/Colossus partnerships, corporate AI sticker shock, and emerging policy debates over token taxes and data-center moratoriums.\n\nThe"
-            }
-          ],
-          "error": null
-        },
-        {
           "creator": "NateBJones",
           "handle": "@NateBJones",
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
+            {
+              "title": "AI didn't fix your meetings, it broke your team size #productivity",
+              "url": "https://www.youtube.com/shorts/IZjbq7cGqqs",
+              "published": "2026-06-03T03:00:11Z",
+              "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/executive-briefing-ai-raised-output?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening with AI and team size in your organization? The common story is that AI makes teams more productive so you can cut headcount — but the reality is more complicated.\n\nIn this video, I share the inside scoop on why the five-person strike team is the s"
+            },
+            {
+              "title": "AI didn't fix your meetings, it broke them #management #ai",
+              "url": "https://www.youtube.com/shorts/rdYgKhgnWrg",
+              "published": "2026-06-03T00:00:28Z",
+              "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/executive-briefing-ai-raised-output?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening with AI and team size in your organization? The common story is that AI makes teams more productive so you can cut headcount — but the reality is more complicated.\n\nIn this video, I share the inside scoop on why the five-person strike team is the s"
+            },
+            {
+              "title": "Why you only have 150 friends #psychology #science",
+              "url": "https://www.youtube.com/shorts/LVmijkrVti0",
+              "published": "2026-06-02T18:00:09Z",
+              "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/executive-briefing-ai-raised-output?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening with AI and team size in your organization? The common story is that AI makes teams more productive so you can cut headcount — but the reality is more complicated.\n\nIn this video, I share the inside scoop on why the five-person strike team is the s"
+            },
             {
               "title": "Why your meetings are actually destroying your output #productivity #work",
               "url": "https://www.youtube.com/shorts/hlGWME2hsl4",
@@ -233,34 +183,85 @@
               "url": "https://www.youtube.com/shorts/UAanebcmBFI",
               "published": "2026-06-01T18:00:24Z",
               "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/your-engineers-are-building-your?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when OpenAI engineers accidentally leak ChatGPT 5.4's existence but the model isn't even the interesting part? The common story is about the next capability jump—but the reality is more interesting when the company that first makes trillion-token organizational context genuinely usa"
-            },
-            {
-              "title": "This is how AI agents actually take over enterprises #ai #business #tech",
-              "url": "https://www.youtube.com/shorts/KWCZWFDOapk",
-              "published": "2026-06-01T03:00:03Z",
-              "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/your-engineers-are-building-your?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when OpenAI engineers accidentally leak ChatGPT 5.4's existence but the model isn't even the interesting part? The common story is about the next capability jump—but the reality is more interesting when the company that first makes trillion-token organizational context genuinely usa"
-            },
-            {
-              "title": "Microsoft Says 86% Treat AI Output as a Starting Point. Your Resume Just Stopped Working.",
-              "url": "https://www.youtube.com/watch?v=UsCgEuIAclE",
-              "published": "2026-05-31T17:00:39Z",
-              "description": "Full Post w/ Prompts and TalentBoard link: https://natesnewsletter.substack.com/p/prove-value-work-ai-era?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n________________________________\nWhat's really happening with how we prove our value at work now that AI strategy has changed the game?\n\nThe common story is that AI makes us more productive — but the reality is that AI makes everyone look productive, and the old career evidence is losing signal.\n\nIn this video, I s"
             }
           ],
-          "error": null
-        },
-        {
-          "creator": "Nate Herk",
-          "handle": "@NateHerk",
-          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-          "videos": [],
           "error": null
         },
         {
           "creator": "Chase AI",
           "handle": "@ChaseAI",
           "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+          "videos": [
+            {
+              "title": "Your Claude Code Carousels Suck (Here's The Fix)",
+              "url": "https://www.youtube.com/watch?v=7taGazHQkMg",
+              "published": "2026-06-02T23:47:56Z",
+              "description": "⚡Master Claude Code: https://www.skool.com/chase-ai\n🟡 Higgsfield: https://higgsfield.ai/s/cli-chase-h-ai-ZgnrJJ\n\n🔥FREE community🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nMost social media carousels created by Claude Code suck, but we can do better.\n\nInstead of relying PURELY on Claude's HTML asset generation, we can bring AI image generators into the fray using Higgsfield's CLI. \n\nI show you how to use this hybrid image generation + HTM"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Alex Finn",
+          "handle": "@AlexFinn",
+          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
           "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Nate Herk",
+          "handle": "@NateHerk",
+          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+          "videos": [
+            {
+              "title": "100 Years of Artificial Intelligence Explained",
+              "url": "https://www.youtube.com/watch?v=NHFbAg2b54U",
+              "published": "2026-06-02T12:57:25Z",
+              "description": "My FREE AI OS Course: https://www.skool.com/ai-automation-society/about?el=100-years-of-AI\nFull courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=100-years-of-AI\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\n100 Years of Artificial Intelligence Explaine"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Simon Scrapes",
+          "handle": "@SimonScrapes",
+          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
+          "videos": [
+            {
+              "title": "I Built a Claude OS For Teams",
+              "url": "https://www.youtube.com/watch?v=TE6zNesGcvY",
+              "published": "2026-06-02T16:36:20Z",
+              "description": "🚀 Get the Agentic Operating System: https://skool.com/scrapes​ \nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\nBuilding an Agentic OS for yourself is one thing, but scaling it for a team introduces new challenges with memory, security, and usability. In this video, we provide the blueprint for a Team Agentic Operating System built inside Claude. We'll walk through the three core considerations for building a system that allows shared knowledge, respects pri"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Paul J Lipsky",
+          "handle": "@PaulJLipsky",
+          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
+          "videos": [
+            {
+              "title": "5 Mind Blowing Omni Uses Cases",
+              "url": "https://www.youtube.com/watch?v=2bw1QLYME_k",
+              "published": "2026-06-02T12:00:16Z",
+              "description": "Gemini Omni is one of the most incredible video models out there, but most people only use it for AI avatars. Here are five specific strengths and the prompts I use to unlock the other 90% of what Omni can actually do.\n\nHeads up, some Omni features may not be available in your region or on your plan yet.\n\n🔗 This video is not sponsored.\n\n0:00 Intro\n0:30 Editing Real Videos\n5:54 Camera Movements\n8:03 Translations\n9:28 Real World Understanding\n12:11 Text Rendering\n12:57 Outro"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "AI Daily Brief",
+          "handle": "@AIDailyBrief",
+          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
+          "videos": [
+            {
+              "title": "The AI Token Shortage Begins",
+              "url": "https://www.youtube.com/watch?v=ex6abzvzaIo",
+              "published": "2026-06-01T18:02:16Z",
+              "description": "Recap of May's major AI shift from subsidized seat pricing to a token-based economy driven by agentic usage and runaway API consumption. Coverage of business-model pivots to usage-based billing, enterprise deployment and consulting plays, and market responses including cheaper specialized models. Analysis of compute and infrastructure competition highlighted by SpaceX/Colossus partnerships, corporate AI sticker shock, and emerging policy debates over token taxes and data-center moratoriums.\n\nThe"
+            }
+          ],
           "error": null
         }
       ]
@@ -271,7 +272,7 @@
         "issue_number": 266,
         "issue_date": "2026-06-01",
         "url": "https://www.ppweekly.com/p/power-platform-weekly-issue-266",
-        "is_new": true,
+        "is_new": false,
         "sections": {
           "📰 Articles": [
             {
