@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T12:00:51.293651Z",
+  "generated_at": "2026-06-05T12:02:17.253518Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
@@ -12,10 +12,17 @@
           "error": null
         },
         {
-          "creator": "Epic Adventure Outfitters",
-          "handle": "@EpicAdventureOutfitters",
-          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
-          "videos": [],
+          "creator": "Ozark Overland Adventure",
+          "handle": "@OzarkOverlandAdventures",
+          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
+          "videos": [
+            {
+              "title": "What's in my EDC as a Full Time Overlander",
+              "url": "https://www.youtube.com/watch?v=tYyeZXMnpss",
+              "published": "2026-06-04T15:00:32Z",
+              "description": "What EDC gear do we carry on our ourselves and our vehicles to stay protected during full time overland travel?\n\nSniper Bladeworks - https://sniperbladeworks.com/ Use Code Ozark for 10% off\n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% disco"
+            }
+          ],
           "error": null
         },
         {
@@ -26,30 +33,9 @@
           "error": null
         },
         {
-          "creator": "Life Style Overland",
-          "handle": "@LifeStyleOverland",
-          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Ozark Overland Adventure",
-          "handle": "@OzarkOverlandAdventures",
-          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
-          "videos": [
-            {
-              "title": "The Best Offline Navigation App Just Got Better - Gaia GPS New Interface",
-              "url": "https://www.youtube.com/watch?v=OYd89EMcwXc",
-              "published": "2026-06-02T15:00:31Z",
-              "description": "Gaia GPS got a significant facelift making the best offline GPS app even better!\nGet 10% off Gaia GPS Premium - https://alnk.to/cHNYyUa\n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHNYyUa\nAll Roads Taken - https"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "This Story Till Now",
-          "handle": "@ThisStoryTillNow",
-          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "creator": "Casey 250",
+          "handle": "@Casey250",
+          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
           "videos": [],
           "error": null
         },
@@ -61,25 +47,53 @@
           "error": null
         },
         {
-          "creator": "Casey 250",
-          "handle": "@Casey250",
-          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
+          "creator": "This Story Till Now",
+          "handle": "@ThisStoryTillNow",
+          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Life Style Overland",
+          "handle": "@LifeStyleOverland",
+          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Epic Adventure Outfitters",
+          "handle": "@EpicAdventureOutfitters",
+          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
           "videos": [],
           "error": null
         }
       ],
       "power_platform": [
         {
-          "creator": "Matthew Devaney",
-          "handle": "@MatthewDevaney",
-          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
+          "creator": "Shane Young",
+          "handle": "@ShanesCows",
+          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
+          "videos": [
+            {
+              "title": "Hands-on with Microsoft Scout - New from Microsoft Build",
+              "url": "https://www.youtube.com/watch?v=PoSWJl3xWrI",
+              "published": "2026-06-04T12:30:12Z",
+              "description": "Microsoft Scout is Microsoft's newest AI agent, and after spending hours getting it configured, I finally got hands-on access.\n\nIn this video you'll learn:\n• What Microsoft Scout is\n• How it fits into the Microsoft AI ecosystem\n• How Scout compares to Copilot Cowork\n• Why Scout feels different from traditional AI chat tools\n• How Scout can access local files, run code, and interact with your PC\n• What Automations, Heartbeats, Skills, and MCP servers are\n• The licensing and setup requirements you"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Reza Dorrani",
+          "handle": "@RezaDorrani",
+          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
           "videos": [],
           "error": null
         },
         {
-          "creator": "Shane Young",
-          "handle": "@ShanesCows",
-          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
+          "creator": "Matthew Devaney",
+          "handle": "@MatthewDevaney",
+          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
           "videos": [],
           "error": null
         },
@@ -101,37 +115,22 @@
           "creator": "Lisa Crosbie",
           "handle": "@LisaCrosbie",
           "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
-          "videos": [
-            {
-              "title": "Microsoft Build 2026 - Top Announcements",
-              "url": "https://www.youtube.com/watch?v=X5IvkUxfqms",
-              "published": "2026-06-03T00:38:58Z",
-              "description": "Microsoft Build 2026 was all about one idea: agent-first — a shift from software you operate to agents that do the work for you. I've cut through the 100+ announcements to the key announcements that actually matter for business users and decision-makers, with a plain-English \"what it is and why it matters\" for each.\n\n------------------------------\nThank you for supporting my channel:\n☕ Buy me a coffee: https://www.buymeacoffee.com/lisacrosbie\n📘 Get my book - Copilot Studio Step by Step: https://"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Reza Dorrani",
-          "handle": "@RezaDorrani",
-          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
           "videos": [],
           "error": null
         }
       ],
       "fabric_powerbi": [
         {
-          "creator": "Dewain Robinson",
-          "handle": "@DewainRobinson",
-          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "Guy in a Cube",
           "handle": "@GuyInACube",
           "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
           "videos": [
+            {
+              "title": "Do You Still Need Surrogate Keys? (Modern Data Warehouse Design Explained)",
+              "url": "https://www.youtube.com/watch?v=51He_8RBcyk",
+              "published": "2026-06-04T14:30:00Z",
+              "description": "Are surrogate keys still necessary in modern data warehouses and semantic models?\n\nIn this video, we want to walk through one of the most debated topics in data modeling: Natural Keys vs Surrogate Keys.\n\nPatrick is going to show you exactly where natural keys work perfectly fine, where they start to break down, and why surrogate keys still matter in modern analytics solutions built with Microsoft Fabric and Power BI.\n\nUsing a hotel warehouse demo, this video walks through:\n\n* Natural keys vs sur"
+            },
             {
               "title": "Power BI Version History vs Version Control Explained - When Should You Use What? [Complete Guide]",
               "url": "https://www.youtube.com/watch?v=vo80YOx0fi0",
@@ -140,41 +139,16 @@
             }
           ],
           "error": null
+        },
+        {
+          "creator": "Dewain Robinson",
+          "handle": "@DewainRobinson",
+          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
+          "videos": [],
+          "error": null
         }
       ],
       "ai": [
-        {
-          "creator": "NateBJones",
-          "handle": "@NateBJones",
-          "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
-          "videos": [
-            {
-              "title": "Opus 4.8 Scored 81. Your Workflow Doesn't Care.",
-              "url": "https://www.youtube.com/watch?v=z73yuF14udI",
-              "published": "2026-06-03T14:00:38Z",
-              "description": "Full post here: https://natesnewsletter.substack.com/p/opus-48-benchmark-model-selection?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nMy Substack covers:\n✅ Every test, scored and picked apart. Where Opus 4.8 won, where GPT-5.5 beat it, and where the score hides real caveats.\n✅ The effort-level trap. The Vending-Bench data on why max can make long-running work worse, and how I configure each mode for real work.\n✅ How I actually choose my daily tools. Why I still "
-            },
-            {
-              "title": "AI didn't fix your meetings, it broke your team size #productivity",
-              "url": "https://www.youtube.com/shorts/IZjbq7cGqqs",
-              "published": "2026-06-03T03:00:11Z",
-              "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/executive-briefing-ai-raised-output?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening with AI and team size in your organization? The common story is that AI makes teams more productive so you can cut headcount — but the reality is more complicated.\n\nIn this video, I share the inside scoop on why the five-person strike team is the s"
-            },
-            {
-              "title": "AI didn't fix your meetings, it broke them #management #ai",
-              "url": "https://www.youtube.com/shorts/rdYgKhgnWrg",
-              "published": "2026-06-03T00:00:28Z",
-              "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/executive-briefing-ai-raised-output?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening with AI and team size in your organization? The common story is that AI makes teams more productive so you can cut headcount — but the reality is more complicated.\n\nIn this video, I share the inside scoop on why the five-person strike team is the s"
-            },
-            {
-              "title": "Why you only have 150 friends #psychology #science",
-              "url": "https://www.youtube.com/shorts/LVmijkrVti0",
-              "published": "2026-06-02T18:00:09Z",
-              "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/executive-briefing-ai-raised-output?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening with AI and team size in your organization? The common story is that AI makes teams more productive so you can cut headcount — but the reality is more complicated.\n\nIn this video, I share the inside scoop on why the five-person strike team is the s"
-            }
-          ],
-          "error": null
-        },
         {
           "creator": "Alex Finn",
           "handle": "@AlexFinn",
@@ -190,10 +164,80 @@
           "error": null
         },
         {
+          "creator": "Nate Herk",
+          "handle": "@NateHerk",
+          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+          "videos": [
+            {
+              "title": "The Skill That 10x’d My Claude Code Projects",
+              "url": "https://www.youtube.com/watch?v=c0kaKxM2pHg",
+              "published": "2026-06-04T17:55:54Z",
+              "description": "My FREE AI OS Course: https://www.skool.com/ai-automation-society/about?el=grill-me-skill&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\nFull courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=grill-me-skill&amp;hcategory=youtube-videos&amp;utm_campaign=ais-plus\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS ("
+            },
+            {
+              "title": "I Tested Every Claude Code Feature, These 12 Are the Best",
+              "url": "https://www.youtube.com/watch?v=vfWTyEreOEc",
+              "published": "2026-06-03T16:16:11Z",
+              "description": "My FREE AI OS Course: https://www.skool.com/ai-automation-society/about?el=claude-features-ranked-may-26\nFull courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=claude-features-ranked-may-26\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nI've spent over 5"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "NateBJones",
+          "handle": "@NateBJones",
+          "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
+          "videos": [
+            {
+              "title": "The most expensive AI mistake isn't prompting #ai #business",
+              "url": "https://www.youtube.com/shorts/pO4qoLEMMog",
+              "published": "2026-06-05T01:00:00Z",
+              "description": "My site: https://natebjones.com\nFull Story w/ Prompts + Guide: https://natesnewsletter.substack.com/p/the-most-expensive-ai-mistake-isnt?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when frontier models beat professionals with 14 years of experience 70% of the time but the output still doesn't survive contact with anyone who actually understands the domain? The common story is about prompting and workflow design—but the"
+            },
+            {
+              "title": "The most expensive AI mistake you’re making right now #ai #strategy",
+              "url": "https://www.youtube.com/shorts/4KU1CiiAsMI",
+              "published": "2026-06-04T21:00:37Z",
+              "description": "My site: https://natebjones.com\nFull Story w/ Prompts + Guide: https://natesnewsletter.substack.com/p/the-most-expensive-ai-mistake-isnt?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when frontier models beat professionals with 14 years of experience 70% of the time but the output still doesn't survive contact with anyone who actually understands the domain? The common story is about prompting and workflow design—but the"
+            },
+            {
+              "title": "Don't let your AI output go to waste #strategy #ai",
+              "url": "https://www.youtube.com/shorts/wKWt8Cq4oDs",
+              "published": "2026-06-04T16:00:16Z",
+              "description": "My site: https://natebjones.com\nFull Story w/ Prompts + Guide: https://natesnewsletter.substack.com/p/the-most-expensive-ai-mistake-isnt?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when frontier models beat professionals with 14 years of experience 70% of the time but the output still doesn't survive contact with anyone who actually understands the domain? The common story is about prompting and workflow design—but the"
+            },
+            {
+              "title": "Opus 4.8 Scored 81. Your Workflow Doesn't Care.",
+              "url": "https://www.youtube.com/watch?v=z73yuF14udI",
+              "published": "2026-06-03T14:00:38Z",
+              "description": "Full post here: https://natesnewsletter.substack.com/p/opus-48-benchmark-model-selection?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nMy Substack covers:\n✅ Every test, scored and picked apart. Where Opus 4.8 won, where GPT-5.5 beat it, and where the score hides real caveats.\n✅ The effort-level trap. The Vending-Bench data on why max can make long-running work worse, and how I configure each mode for real work.\n✅ How I actually choose my daily tools. Why I still "
+            }
+          ],
+          "error": null
+        },
+        {
           "creator": "Chase AI",
           "handle": "@ChaseAI",
           "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
           "videos": [
+            {
+              "title": "/grill-me and plan mode aren't enough",
+              "url": "https://www.youtube.com/shorts/I3CzdD9BK78",
+              "published": "2026-06-05T02:09:34Z",
+              "description": ""
+            },
+            {
+              "title": "I Updated /grill-me And Solved Claude Code",
+              "url": "https://www.youtube.com/watch?v=ENCRw5-uJBA",
+              "published": "2026-06-05T01:59:07Z",
+              "description": "⚡Master Claude Code: https://www.skool.com/chase-ai\n\n🔥FREE community with Skills🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\n/grill-me only solves half the problem.\n\nIts not enough to plan well with Claude Code, we need a way to verify that its outputs make sense. In this video, I show you how we do that with that with the grill-me-codex skill which builds upon the grill-me foundation\n\n⏰TIMESTAMPS:\n\n0:00 - Intro\n1:21 -  How it Works\n6:28 -"
+            },
+            {
+              "title": "The Missing Piece of Every AI Workflow",
+              "url": "https://www.youtube.com/shorts/xHvYn-6JSpc",
+              "published": "2026-06-04T14:54:47Z",
+              "description": "The CodeRabbit CLI is the easiest way to get a second pair of eyes on your AI generated code and break the cycle of having the same AI agent that broke the code be in charge of fixing the code.\n\nhttps://coderabbit.link/chaseai"
+            },
             {
               "title": "Top 5 Claude Code Plugins for June 2026",
               "url": "https://www.youtube.com/shorts/KUpVwPP-60w",
@@ -205,32 +249,20 @@
               "url": "https://www.youtube.com/shorts/GRgapCfhjvE",
               "published": "2026-06-04T04:33:13Z",
               "description": ""
-            },
-            {
-              "title": "Your Claude Code Carousels Suck (Here's The Fix)",
-              "url": "https://www.youtube.com/watch?v=7taGazHQkMg",
-              "published": "2026-06-02T23:47:56Z",
-              "description": "⚡Master Claude Code: https://www.skool.com/chase-ai\n🟡 Higgsfield: https://higgsfield.ai/s/cli-chase-h-ai-ZgnrJJ\n\n🔥FREE community🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nMost social media carousels created by Claude Code suck, but we can do better.\n\nInstead of relying PURELY on Claude's HTML asset generation, we can bring AI image generators into the fray using Higgsfield's CLI. \n\nI show you how to use this hybrid image generation + HTM"
             }
           ],
           "error": null
         },
         {
-          "creator": "Nate Herk",
-          "handle": "@NateHerk",
-          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+          "creator": "Paul J Lipsky",
+          "handle": "@PaulJLipsky",
+          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
           "videos": [
             {
-              "title": "I Tested Every Claude Code Feature, These 12 Are the Best",
-              "url": "https://www.youtube.com/watch?v=vfWTyEreOEc",
-              "published": "2026-06-03T16:16:11Z",
-              "description": "My FREE AI OS Course: https://www.skool.com/ai-automation-society/about?el=claude-features-ranked-may-26\nFull courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=claude-features-ranked-may-26\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nI've spent over 5"
-            },
-            {
-              "title": "100 Years of Artificial Intelligence Explained",
-              "url": "https://www.youtube.com/watch?v=NHFbAg2b54U",
-              "published": "2026-06-02T12:57:25Z",
-              "description": "My FREE AI OS Course: https://www.skool.com/ai-automation-society/about?el=100-years-of-AI&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\nFull courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=100-years-of-AI&amp;hcategory=youtube-videos&amp;utm_campaign=ais-plus\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS"
+              "title": "How To Use Google Flow For Beginners (Step-By-Step Guide)",
+              "url": "https://www.youtube.com/watch?v=bAUHPkjRmAE",
+              "published": "2026-06-05T12:00:39Z",
+              "description": "Try i10x: https://i10x.ai/?fpr=paul53\nSave 15% with code \"PJL15\"\n\nGoogle Flow: https://labs.google/fx/tools/flow\n\nA beginner-friendly step-by-step guide to Google Flow. How to generate images, turn them into videos, stitch clips into scenes, drop yourself in with avatars, use Agent mode, and manage your credits.\n\n🔗 This video is sponsored. Some product links are affiliate links which means if you buy something we'll receive a small commission.\n\n0:00 Intro\n0:29 Starting a Project\n0:50 Generating "
             }
           ],
           "error": null
@@ -241,16 +273,16 @@
           "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
           "videos": [
             {
+              "title": "The Next Wave of Enterprise AI",
+              "url": "https://www.youtube.com/watch?v=yTPGY13ym5s",
+              "published": "2026-06-04T12:30:06Z",
+              "description": "The White House AI executive order provoked intense debate over voluntary pre-release testing, a 30-day sharing window, and the risk of a de facto licensing regime. Anthropic’s Mythos and Project Glasswing expanded to critical infrastructure partners while exposing extreme token costs and unresolved cybersecurity safeguards. OpenAI’s Codex updates (annotations, role-specific plugins, Sites) and Microsoft’s MAI models signal a shift toward knowledge-work interfaces and cost-efficient enterprise A"
+            },
+            {
               "title": "With AI IPOs On the Way, Should the Public Own AI Companies",
               "url": "https://www.youtube.com/watch?v=L2ZJ5HITV48",
               "published": "2026-06-04T00:30:02Z",
               "description": "NVIDIA unveiled the RTX Spark and Vera Rubin platform, pushing CPUs into AI inference and accelerating agent-based workloads. Anthropic and OpenAI entered an IPO race as Google plans an $80 billion equity raise and semiconductors drive a market rally. Policy debates intensified over public stakes in AI after Bernie Sanders proposed a 50% sovereign-stock fund alongside concerns about security failures, weak ROI, and corporate incentives. \n\nThe AI Daily Brief helps you understand the most importan"
-            },
-            {
-              "title": "The Next Wave of Enterprise AI",
-              "url": "https://www.youtube.com/watch?v=yTPGY13ym5s",
-              "published": "2026-06-03T20:50:41Z",
-              "description": "The White House AI executive order provoked intense debate over voluntary pre-release testing, a 30-day sharing window, and the risk of a de facto licensing regime. Anthropic’s Mythos and Project Glasswing expanded to critical infrastructure partners while exposing extreme token costs and unresolved cybersecurity safeguards. OpenAI’s Codex updates (annotations, role-specific plugins, Sites) and Microsoft’s MAI models signal a shift toward knowledge-work interfaces and cost-efficient enterprise A"
             }
           ],
           "error": null
@@ -265,21 +297,8 @@
               "url": "https://www.youtube.com/shorts/H6Ufryip5Kk",
               "published": "2026-06-04T07:50:49Z",
               "description": "Building an Agentic OS for yourself is one thing, but scaling it for a team introduces new challenges with memory, security, and usability. In this video, we provide the blueprint for a Team Agentic Operating System built inside Claude. We'll walk through the three core considerations for building a system that allows shared knowledge, respects privacy, and is built to last.\n\nFull video: https://youtu.be/TE6zNesGcvY"
-            },
-            {
-              "title": "I Made Claude Code FOR TEAMS (It’s Incredible)",
-              "url": "https://www.youtube.com/watch?v=TE6zNesGcvY",
-              "published": "2026-06-02T16:36:20Z",
-              "description": "🚀 Get the Agentic Operating System: https://skool.com/scrapes​ \nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\nBuilding an Agentic OS for yourself is one thing, but scaling it for a team introduces new challenges with memory, security, and usability. In this video, we provide the blueprint for a Team Agentic Operating System built inside Claude. We'll walk through the three core considerations for building a system that allows shared knowledge, respects pri"
             }
           ],
-          "error": null
-        },
-        {
-          "creator": "Paul J Lipsky",
-          "handle": "@PaulJLipsky",
-          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
-          "videos": [],
           "error": null
         }
       ]
