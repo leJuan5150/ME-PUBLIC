@@ -1,21 +1,20 @@
 {
-  "generated_at": "2026-06-05T12:02:17.253518Z",
+  "generated_at": "2026-06-06T11:32:04.183117Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
         {
-          "creator": "TrailRecon",
-          "handle": "@TrailRecon",
-          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "Ozark Overland Adventure",
           "handle": "@OzarkOverlandAdventures",
           "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
           "videos": [
+            {
+              "title": "Frustrated Exploring Wisconsin National Forests",
+              "url": "https://www.youtube.com/watch?v=1u6TBsZlI-0",
+              "published": "2026-06-05T22:00:03Z",
+              "description": "Major frustration exploring the Nicolette National Forest in Wisconsin finding epic campsites.\n\nSniper Bladeworks - https://sniperbladeworks.com/ Use Code Ozark for 10% off\n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://al"
+            },
             {
               "title": "What's in my EDC as a Full Time Overlander",
               "url": "https://www.youtube.com/watch?v=tYyeZXMnpss",
@@ -40,16 +39,16 @@
           "error": null
         },
         {
-          "creator": "LetsGetLost",
-          "handle": "@LetsGetLost",
-          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
+          "creator": "This Story Till Now",
+          "handle": "@ThisStoryTillNow",
+          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
           "videos": [],
           "error": null
         },
         {
-          "creator": "This Story Till Now",
-          "handle": "@ThisStoryTillNow",
-          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "creator": "Epic Adventure Outfitters",
+          "handle": "@EpicAdventureOutfitters",
+          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
           "videos": [],
           "error": null
         },
@@ -61,14 +60,28 @@
           "error": null
         },
         {
-          "creator": "Epic Adventure Outfitters",
-          "handle": "@EpicAdventureOutfitters",
-          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
+          "creator": "LetsGetLost",
+          "handle": "@LetsGetLost",
+          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "TrailRecon",
+          "handle": "@TrailRecon",
+          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
           "videos": [],
           "error": null
         }
       ],
       "power_platform": [
+        {
+          "creator": "Lisa Crosbie",
+          "handle": "@LisaCrosbie",
+          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
+          "videos": [],
+          "error": null
+        },
         {
           "creator": "Shane Young",
           "handle": "@ShanesCows",
@@ -84,13 +97,6 @@
           "error": null
         },
         {
-          "creator": "Reza Dorrani",
-          "handle": "@RezaDorrani",
-          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "Matthew Devaney",
           "handle": "@MatthewDevaney",
           "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
@@ -98,23 +104,16 @@
           "error": null
         },
         {
-          "creator": "April Dunnam",
-          "handle": "@AprilDunnam",
-          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
-          "videos": [
-            {
-              "title": "Can Copilot Cowork Turn a Meeting Into a Full Project Packet? (with Miro!) | Can It Cowork? Ep. 2",
-              "url": "https://www.youtube.com/watch?v=5f540rEt_rE",
-              "published": "2026-06-03T13:55:06Z",
-              "description": "What if you could skip the painful post-meeting grind of reviewing notes, watching recordings, \ncreating project plans, drawing process flows and just hand your transcript to Copilot Cowork instead?\n\nThat's exactly what I tested in Episode 2 of Can It Cowork.\n\nI dropped a full project kickoff meeting transcript into Copilot Cowork and asked it to build \nthe whole project packet: project plan, requirements summary, process flows, brainstorming \ndiagrams, the works. And yes, we're talking the NEW "
-            }
-          ],
+          "creator": "Reza Dorrani",
+          "handle": "@RezaDorrani",
+          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
+          "videos": [],
           "error": null
         },
         {
-          "creator": "Lisa Crosbie",
-          "handle": "@LisaCrosbie",
-          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
+          "creator": "April Dunnam",
+          "handle": "@AprilDunnam",
+          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
           "videos": [],
           "error": null
         }
@@ -130,12 +129,6 @@
               "url": "https://www.youtube.com/watch?v=51He_8RBcyk",
               "published": "2026-06-04T14:30:00Z",
               "description": "Are surrogate keys still necessary in modern data warehouses and semantic models?\n\nIn this video, we want to walk through one of the most debated topics in data modeling: Natural Keys vs Surrogate Keys.\n\nPatrick is going to show you exactly where natural keys work perfectly fine, where they start to break down, and why surrogate keys still matter in modern analytics solutions built with Microsoft Fabric and Power BI.\n\nUsing a hotel warehouse demo, this video walks through:\n\n* Natural keys vs sur"
-            },
-            {
-              "title": "Power BI Version History vs Version Control Explained - When Should You Use What? [Complete Guide]",
-              "url": "https://www.youtube.com/watch?v=vo80YOx0fi0",
-              "published": "2026-06-03T14:30:14Z",
-              "description": "Your PBIX file broke.\n\nSomeone overwrote your report.\n\nAnd now you’re staring at:\nFinal_v2_REALFINAL.pbix 😭\n\nIn this video, Marthe breaks down the REAL difference between:\n- Version History\n- Version Control\n\nand why understanding the distinction becomes increasingly important as organizations adopt Power BI Project Files (PBIP), TMDL, Git integration, and Microsoft Fabric.\n\nBecause saving PBIX files in SharePoint or OneDrive is NOT the same as proper version control.\n\nWe’ll cover:\n✅ Power BI De"
             }
           ],
           "error": null
@@ -153,34 +146,7 @@
           "creator": "Alex Finn",
           "handle": "@AlexFinn",
           "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
-          "videos": [
-            {
-              "title": "Hermes Agent just WON (Hermes desktop app)",
-              "url": "https://www.youtube.com/watch?v=tiFJmVhkF_s",
-              "published": "2026-06-03T21:47:44Z",
-              "description": "Hermes agent desktop app is incredible. Here's a full walkthrough\n\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nFULL Hermes Agent bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nDesktop app: https://hermes-agent.nousresear"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Nate Herk",
-          "handle": "@NateHerk",
-          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-          "videos": [
-            {
-              "title": "The Skill That 10x’d My Claude Code Projects",
-              "url": "https://www.youtube.com/watch?v=c0kaKxM2pHg",
-              "published": "2026-06-04T17:55:54Z",
-              "description": "My FREE AI OS Course: https://www.skool.com/ai-automation-society/about?el=grill-me-skill&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\nFull courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=grill-me-skill&amp;hcategory=youtube-videos&amp;utm_campaign=ais-plus\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS ("
-            },
-            {
-              "title": "I Tested Every Claude Code Feature, These 12 Are the Best",
-              "url": "https://www.youtube.com/watch?v=vfWTyEreOEc",
-              "published": "2026-06-03T16:16:11Z",
-              "description": "My FREE AI OS Course: https://www.skool.com/ai-automation-society/about?el=claude-features-ranked-may-26\nFull courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=claude-features-ranked-may-26\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nI've spent over 5"
-            }
-          ],
+          "videos": [],
           "error": null
         },
         {
@@ -188,6 +154,12 @@
           "handle": "@NateBJones",
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
+            {
+              "title": "My Codex Ran 800 Million Tokens in A Day. The Real Story Isn't Cost.",
+              "url": "https://www.youtube.com/watch?v=l8BloTSLK6M",
+              "published": "2026-06-05T14:00:07Z",
+              "description": "Token Burn Dashboard Guide: https://natesnewsletter.substack.com/p/token-burn-dashboard?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nMy Substack covers:\n✅ A step-by-step guide to build your own token dashboard from scratch, with the prompt I used, and an instructional video.\n✅ A ready-made kit for your stack instead of a blank page, whether you live in Codex, Claude, ChatGPT, or all of them at once.\n✅ The line between assistant work and computer work, and why be"
+            },
             {
               "title": "The most expensive AI mistake isn't prompting #ai #business",
               "url": "https://www.youtube.com/shorts/pO4qoLEMMog",
@@ -205,12 +177,40 @@
               "url": "https://www.youtube.com/shorts/wKWt8Cq4oDs",
               "published": "2026-06-04T16:00:16Z",
               "description": "My site: https://natebjones.com\nFull Story w/ Prompts + Guide: https://natesnewsletter.substack.com/p/the-most-expensive-ai-mistake-isnt?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when frontier models beat professionals with 14 years of experience 70% of the time but the output still doesn't survive contact with anyone who actually understands the domain? The common story is about prompting and workflow design—but the"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Simon Scrapes",
+          "handle": "@SimonScrapes",
+          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
+          "videos": [
+            {
+              "title": "How Anthropic Teams ACTUALLY use Claude Code day to day (for non-engineers)",
+              "url": "https://www.youtube.com/watch?v=l4mSSN6exGg",
+              "published": "2026-06-05T15:11:55Z",
+              "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes \nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\nAnthropic’s guide on how teams use Claude Code: https://www-cdn.anthropic.com/58284b19e702b49db9302d5b6f135ad8871e7658.pdf \n\nAnthropic recently revealed how their own non-engineering teams use Claude Code, and it's not what you'd expect. In this tutorial, we break down the four key patterns used by their legal, marketing, and finance team"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Nate Herk",
+          "handle": "@NateHerk",
+          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+          "videos": [
+            {
+              "title": "AGI is Here. Anthropic Just Proved It.",
+              "url": "https://www.youtube.com/watch?v=NDeyhGnNECc",
+              "published": "2026-06-05T20:42:32Z",
+              "description": "My FREE AI OS Course: https://www.skool.com/ai-automation-society/about?el=anthropic-calls-for-pause&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\nFull courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=anthropic-calls-for-pause&amp;hcategory=youtube-videos&amp;utm_campaign=ais-plus\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATE"
             },
             {
-              "title": "Opus 4.8 Scored 81. Your Workflow Doesn't Care.",
-              "url": "https://www.youtube.com/watch?v=z73yuF14udI",
-              "published": "2026-06-03T14:00:38Z",
-              "description": "Full post here: https://natesnewsletter.substack.com/p/opus-48-benchmark-model-selection?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nMy Substack covers:\n✅ Every test, scored and picked apart. Where Opus 4.8 won, where GPT-5.5 beat it, and where the score hides real caveats.\n✅ The effort-level trap. The Vending-Bench data on why max can make long-running work worse, and how I configure each mode for real work.\n✅ How I actually choose my daily tools. Why I still "
+              "title": "The Skill That 10x’d My Claude Code Projects",
+              "url": "https://www.youtube.com/watch?v=c0kaKxM2pHg",
+              "published": "2026-06-04T17:55:54Z",
+              "description": "My FREE AI OS Course: https://www.skool.com/ai-automation-society/about?el=grill-me-skill&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\nFull courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=grill-me-skill&amp;hcategory=youtube-videos&amp;utm_campaign=ais-plus\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS ("
             }
           ],
           "error": null
@@ -220,6 +220,18 @@
           "handle": "@ChaseAI",
           "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
           "videos": [
+            {
+              "title": "This Open Source Repo Solves Claude Code's #1 Problem",
+              "url": "https://www.youtube.com/shorts/nLT_I5ZTwog",
+              "published": "2026-06-06T03:52:29Z",
+              "description": ""
+            },
+            {
+              "title": "This Open Source Repo Just Solved Claude Code's #1 Problem",
+              "url": "https://www.youtube.com/watch?v=ChskqGovoHg",
+              "published": "2026-06-05T22:30:59Z",
+              "description": "⚡Master Claude Code: https://www.skool.com/chase-ai\n\n🔥FREE community with Skills🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nLet's solve Claude Code's memory problem.\n\nIn this video, I break down Graphify, the latest non-RAG answer to tearing down large code bases and storing the information collected. With Graphify, we can create knowledge graphs from seemingly thin air and generate more accurate, less token heavy responses because of it."
+            },
             {
               "title": "/grill-me and plan mode aren't enough",
               "url": "https://www.youtube.com/shorts/I3CzdD9BK78",
@@ -237,18 +249,6 @@
               "url": "https://www.youtube.com/shorts/xHvYn-6JSpc",
               "published": "2026-06-04T14:54:47Z",
               "description": "The CodeRabbit CLI is the easiest way to get a second pair of eyes on your AI generated code and break the cycle of having the same AI agent that broke the code be in charge of fixing the code.\n\nhttps://coderabbit.link/chaseai"
-            },
-            {
-              "title": "Top 5 Claude Code Plugins for June 2026",
-              "url": "https://www.youtube.com/shorts/KUpVwPP-60w",
-              "published": "2026-06-04T05:09:42Z",
-              "description": ""
-            },
-            {
-              "title": "Claude Drops In The June 2026 AI Tier List",
-              "url": "https://www.youtube.com/shorts/GRgapCfhjvE",
-              "published": "2026-06-04T04:33:13Z",
-              "description": ""
             }
           ],
           "error": null
@@ -277,26 +277,6 @@
               "url": "https://www.youtube.com/watch?v=yTPGY13ym5s",
               "published": "2026-06-04T12:30:06Z",
               "description": "The White House AI executive order provoked intense debate over voluntary pre-release testing, a 30-day sharing window, and the risk of a de facto licensing regime. Anthropic’s Mythos and Project Glasswing expanded to critical infrastructure partners while exposing extreme token costs and unresolved cybersecurity safeguards. OpenAI’s Codex updates (annotations, role-specific plugins, Sites) and Microsoft’s MAI models signal a shift toward knowledge-work interfaces and cost-efficient enterprise A"
-            },
-            {
-              "title": "With AI IPOs On the Way, Should the Public Own AI Companies",
-              "url": "https://www.youtube.com/watch?v=L2ZJ5HITV48",
-              "published": "2026-06-04T00:30:02Z",
-              "description": "NVIDIA unveiled the RTX Spark and Vera Rubin platform, pushing CPUs into AI inference and accelerating agent-based workloads. Anthropic and OpenAI entered an IPO race as Google plans an $80 billion equity raise and semiconductors drive a market rally. Policy debates intensified over public stakes in AI after Bernie Sanders proposed a 50% sovereign-stock fund alongside concerns about security failures, weak ROI, and corporate incentives. \n\nThe AI Daily Brief helps you understand the most importan"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Simon Scrapes",
-          "handle": "@SimonScrapes",
-          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
-          "videos": [
-            {
-              "title": "How to Build an Agentic OS Your Whole Team Can Actually Use",
-              "url": "https://www.youtube.com/shorts/H6Ufryip5Kk",
-              "published": "2026-06-04T07:50:49Z",
-              "description": "Building an Agentic OS for yourself is one thing, but scaling it for a team introduces new challenges with memory, security, and usability. In this video, we provide the blueprint for a Team Agentic Operating System built inside Claude. We'll walk through the three core considerations for building a system that allows shared knowledge, respects privacy, and is built to last.\n\nFull video: https://youtu.be/TE6zNesGcvY"
             }
           ],
           "error": null
@@ -304,92 +284,6 @@
       ]
     },
     "newsletters": {
-      "power_platform_dev_weekly": {
-        "name": "Power Platform Dev Weekly",
-        "issue_number": 294,
-        "issue_date": "2026-05-27",
-        "url": "https://www.ppdevweekly.com/p/294",
-        "is_new": false,
-        "sections": {
-          "🥇 Cover Story": [
-            {
-              "title": "10 Things I Love About Copilot Studio Workflows",
-              "url": "https://www.matthewdevaney.com/10-things-i-love-about-copilot-studio-workflows/"
-            }
-          ],
-          "🖼️Canvas Apps": [
-            {
-              "title": "Filter And Display Contacts Based On Account In Custom Page",
-              "url": "https://meganvwalker.com/filter-and-display-contacts-based-on-account-in-custom-page/"
-            }
-          ],
-          "🌎 Power Pages": [
-            {
-              "title": "Accelerate Power Pages Development Using Server Logic: Part 2",
-              "url": "https://www.inogic.com/blog/2026/05/accelerate-power-pages-development-using-server-logic-part-2/"
-            },
-            {
-              "title": "Enhancing Power Pages Security Using Security Agent",
-              "url": "https://www.inogic.com/blog/2026/05/enhancing-power-pages-security-using-security-agent/"
-            }
-          ],
-          "💎 Model Driven Apps & Dataverse": [
-            {
-              "title": "Open Different Custom Pages In Model-driven Apps With A Reusable Script",
-              "url": "https://meganvwalker.com/open-different-custom-pages-in-apps-with-script/"
-            }
-          ],
-          "🤖 Copilot & Code Apps": [
-            {
-              "title": "Understanding the Dynamics 365 Quality Evaluation Agent: A Complete Breakdown",
-              "url": "https://d365goddess.com/understanding_qea/?utm_source=feedly&utm_medium=rss&utm_campaign=understanding_qea"
-            },
-            {
-              "title": "Step by Step | Copilot Studio Agent – Integrate Application Insights",
-              "url": "https://rajeevpentyala.com/2026/05/12/step-by-step-copilot-studio-agent-integrate-application-insights/"
-            }
-          ],
-          "🚀Power Automate": [
-            {
-              "title": "Power Automate Data Operations What They Actually Do and When to Use Each One",
-              "url": "https://mytrial365.com/2026/05/14/power-automate-data-operations-what-they-actually-do-and-when-to-use-each-one/"
-            },
-            {
-              "title": "Understanding Power Automate flow performance",
-              "url": "https://sharepains.com/2026/05/22/power-automate-flow-performance/"
-            }
-          ],
-          "🎮 Other Interesting Articles": [
-            {
-              "title": "Using RetrieveDependenciesForDeleteRequest to find and delete hidden dependencies (Dataverse/ Dynamics 365)",
-              "url": "https://nishantrana.me/2026/05/27/using-retrievedependenciesfordeleterequest-to-find-and-delete-hidden-dependencies-dataverse-dynamics-365/"
-            },
-            {
-              "title": "Create Your First Azure Function and Deploy to Azure—1",
-              "url": "https://srinathpega.com/2026/05/25/create-your-first-azure-function-and-deploy-to-azure-1/"
-            },
-            {
-              "title": "New Designer Run After Settings in Power Automate",
-              "url": "https://sharepains.com/2026/05/20/new-designer-run-after-settings/"
-            }
-          ],
-          "📺 Videos": [
-            {
-              "title": "Open Code Apps Straight to the Record (Deep-linking in Power Apps)",
-              "url": "https://www.youtube.com/watch?v=8JU9fIbxLXY"
-            },
-            {
-              "title": "Power Apps Code Apps + Power Automate Flows 🚀  (NEW feature)",
-              "url": "https://www.youtube.com/watch?v=1wvJbhp3_oE"
-            },
-            {
-              "title": "How To Deploy Copilot Studio Agents to Public Websites",
-              "url": "https://www.youtube.com/watch?v=b6HrwR5Ikzk"
-            }
-          ]
-        },
-        "error": null
-      },
       "power_platform_weekly": {
         "name": "Power Platform Weekly",
         "issue_number": 266,
@@ -534,147 +428,257 @@
         },
         "error": null
       },
-      "power_bi_weekly": {
-        "name": "Power BI Weekly",
-        "issue_number": 359,
-        "issue_date": null,
-        "url": "https://powerbiweekly.info/issue-359.html",
+      "power_platform_dev_weekly": {
+        "name": "Power Platform Dev Weekly",
+        "issue_number": 294,
+        "issue_date": "2026-05-27",
+        "url": "https://www.ppdevweekly.com/p/294",
         "is_new": false,
         "sections": {
-          "Issue #359 - 26th May 2026": [
+          "🥇 Cover Story": [
             {
-              "title": "TOMPo MCP: AI-Powered Lineage Intelligence for Power BI & Microsoft Fabric",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Community-Blog/TOMPo-MCP-AI-Powered-Lineage-Intelligence-for-Power-BI-amp/ba-p/5188201"
+              "title": "10 Things I Love About Copilot Studio Workflows",
+              "url": "https://www.matthewdevaney.com/10-things-i-love-about-copilot-studio-workflows/"
+            }
+          ],
+          "🖼️Canvas Apps": [
+            {
+              "title": "Filter And Display Contacts Based On Account In Custom Page",
+              "url": "https://meganvwalker.com/filter-and-display-contacts-based-on-account-in-custom-page/"
+            }
+          ],
+          "🌎 Power Pages": [
+            {
+              "title": "Accelerate Power Pages Development Using Server Logic: Part 2",
+              "url": "https://www.inogic.com/blog/2026/05/accelerate-power-pages-development-using-server-logic-part-2/"
             },
             {
-              "title": "Úpravy dat v BI modelech: od SSAS přes Power Apps až po Fabric Planning",
-              "url": "https://www.neoral.cz/2026/05/upravy-dat-v-bi-modelech-od-ssas-pres.html"
+              "title": "Enhancing Power Pages Security Using Security Agent",
+              "url": "https://www.inogic.com/blog/2026/05/enhancing-power-pages-security-using-security-agent/"
+            }
+          ],
+          "💎 Model Driven Apps & Dataverse": [
+            {
+              "title": "Open Different Custom Pages In Model-driven Apps With A Reusable Script",
+              "url": "https://meganvwalker.com/open-different-custom-pages-in-apps-with-script/"
+            }
+          ],
+          "🤖 Copilot & Code Apps": [
+            {
+              "title": "Understanding the Dynamics 365 Quality Evaluation Agent: A Complete Breakdown",
+              "url": "https://d365goddess.com/understanding_qea/?utm_source=feedly&utm_medium=rss&utm_campaign=understanding_qea"
             },
             {
-              "title": "Agentic Power Query Development",
-              "url": "https://daxnoob.blog/agentic-power-query-development/"
+              "title": "Step by Step | Copilot Studio Agent – Integrate Application Insights",
+              "url": "https://rajeevpentyala.com/2026/05/12/step-by-step-copilot-studio-agent-integrate-application-insights/"
+            }
+          ],
+          "🚀Power Automate": [
+            {
+              "title": "Power Automate Data Operations What They Actually Do and When to Use Each One",
+              "url": "https://mytrial365.com/2026/05/14/power-automate-data-operations-what-they-actually-do-and-when-to-use-each-one/"
+            },
+            {
+              "title": "Understanding Power Automate flow performance",
+              "url": "https://sharepains.com/2026/05/22/power-automate-flow-performance/"
+            }
+          ],
+          "🎮 Other Interesting Articles": [
+            {
+              "title": "Using RetrieveDependenciesForDeleteRequest to find and delete hidden dependencies (Dataverse/ Dynamics 365)",
+              "url": "https://nishantrana.me/2026/05/27/using-retrievedependenciesfordeleterequest-to-find-and-delete-hidden-dependencies-dataverse-dynamics-365/"
+            },
+            {
+              "title": "Create Your First Azure Function and Deploy to Azure—1",
+              "url": "https://srinathpega.com/2026/05/25/create-your-first-azure-function-and-deploy-to-azure-1/"
+            },
+            {
+              "title": "New Designer Run After Settings in Power Automate",
+              "url": "https://sharepains.com/2026/05/20/new-designer-run-after-settings/"
+            }
+          ],
+          "📺 Videos": [
+            {
+              "title": "Open Code Apps Straight to the Record (Deep-linking in Power Apps)",
+              "url": "https://www.youtube.com/watch?v=8JU9fIbxLXY"
+            },
+            {
+              "title": "Power Apps Code Apps + Power Automate Flows 🚀  (NEW feature)",
+              "url": "https://www.youtube.com/watch?v=1wvJbhp3_oE"
+            },
+            {
+              "title": "How To Deploy Copilot Studio Agents to Public Websites",
+              "url": "https://www.youtube.com/watch?v=b6HrwR5Ikzk"
+            }
+          ]
+        },
+        "error": null
+      },
+      "power_bi_weekly": {
+        "name": "Power BI Weekly",
+        "issue_number": 360,
+        "issue_date": null,
+        "url": "https://powerbiweekly.info/issue-360.html",
+        "is_new": false,
+        "sections": {
+          "Issue #360 - 2nd June 2026": [
+            {
+              "title": "Building in the Agentic Era with Power BI and Fabric",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Building-in-the-Agentic-Era-with-Power-BI-and-Fabric/ba-p/5190754"
+            },
+            {
+              "title": "Power BI at Microsoft Build 2026: The Agentic Era of analytics",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-at-Microsoft-Build-2026-The-Agentic-Era-of-analytics/ba-p/5191671"
+            },
+            {
+              "title": "DAX User-Defined Functions are now generally available",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/DAX-User-Defined-Functions-Generally-Available/ba-p/5185738"
+            },
+            {
+              "title": "on-premises data gateway May 2026 release",
+              "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/On-premises-data-gateway-May-2026-release/ba-p/5190820"
+            },
+            {
+              "title": "Optimising DAX: A Series Introduction",
+              "url": "https://endjin.com/blog/optimising-dax-series-introduction"
+            },
+            {
+              "title": "Optimising DAX: How VertiPaq Stores Your Data",
+              "url": "https://endjin.com/blog/optimising-dax-how-vertipaq-stores-your-data"
+            },
+            {
+              "title": "video on setting up custom Power BI deployment workflows",
+              "url": "https://www.youtube.com/watch?v=PVxgC_dcwXc"
             }
           ],
           "🛠️ Data Prep": [
             {
-              "title": "@dax_noob_justin",
-              "url": "https://twitter.com/dax_noob_justin"
-            },
-            {
-              "title": "Agentic Power Query Development",
-              "url": "https://daxnoob.blog/agentic-power-query-development/?utm_source=rss-feed&utm_medium=RSS&utm_campaign=blog-syndication"
-            },
-            {
-              "title": "Distinct is not the same for Power Query and DAX – but that's not the whole story.",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Community-Blog/Distinct-is-not-the-same-for-Power-Query-and-DAX-but-that-s-not/ba-p/5186287"
-            },
-            {
-              "title": "@JasonCockington",
-              "url": "https://twitter.com/JasonCockington"
-            },
-            {
-              "title": "The Optimal Shape for Power BI Data",
-              "url": "https://exceleratorbi.com.au/the-optimal-shape-for-power-bi-data/"
-            },
-            {
-              "title": "Power BI Tips - Create Parameters",
-              "url": "https://www.youtube.com/watch?v=bGNi9oeHwfE"
-            },
-            {
-              "title": "Create GROUPS in Power Query Editor to organise your queries",
-              "url": "https://www.youtube.com/watch?v=hRmDDrDcCdc"
+              "title": "Power BI Tips - Column Profiling to better understand your data",
+              "url": "https://www.youtube.com/watch?v=vc4Lv7YjNNo"
             }
           ],
           "🧩 Data Modeling": [
             {
-              "title": "@AgulloBernat",
-              "url": "https://twitter.com/AgulloBernat"
+              "title": "@MSPowerBI",
+              "url": "https://twitter.com/MSPowerBI"
             },
             {
-              "title": "When DAX UDF measures beat calculation groups for time intelligence",
-              "url": "https://tabulareditor.com/blog/when-dax-udf-measures-beat-calculation-groups-for-time-intelligence"
+              "title": "DAX User-Defined Functions (Generally Available)",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/DAX-User-Defined-Functions-Generally-Available/ba-p/5185738"
             },
             {
-              "title": "Understanding DAX Queries (Before You Let AI Write Them)",
-              "url": "https://www.youtube.com/watch?v=VVxOIbyjDrA"
+              "title": "@carmel_eve",
+              "url": "https://twitter.com/carmel_eve"
             },
             {
-              "title": "Using VARIABLES and COMMENTS in measures and calculated columns",
-              "url": "https://www.youtube.com/watch?v=Djyj4yCjwhQ"
+              "title": "Optimising DAX: A Series Introduction",
+              "url": "https://endjin.com/blog/optimising-dax-series-introduction"
             },
             {
-              "title": "How to Distribute Monthly Values by Week in Power BI",
-              "url": "https://www.youtube.com/watch?v=-sXDlea1hDs"
+              "title": "Optimising DAX: How VertiPaq Stores Your Data",
+              "url": "https://endjin.com/blog/optimising-dax-how-vertipaq-stores-your-data"
             },
             {
-              "title": "DAX User-Defined Functions: Reusable Logic, Typed Parameters, and Smarter Evaluation",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Community-Blog/DAX-User-Defined-Functions-Reusable-Logic-Typed-Parameters-and/ba-p/5188728"
+              "title": "@FerrariAlberto",
+              "url": "https://twitter.com/FerrariAlberto"
             },
             {
-              "title": "@chandeep2786",
-              "url": "https://twitter.com/chandeep2786"
+              "title": "ALL vs ALLSELECTED vs ALLEXCEPT vs REMOVEFILTERS",
+              "url": "https://www.sqlbi.com/articles/all-vs-allselected-vs-allexcept-vs-removefilters/"
             },
             {
-              "title": "The Simplest Way to Connect Claude and Power BI",
-              "url": "https://www.youtube.com/watch?v=R5fN5s5DyOM"
+              "title": "Advanced KPI in Power BI Using Claude",
+              "url": "https://www.youtube.com/watch?v=2dFbFI3yKuM"
+            },
+            {
+              "title": "Master Visual Calculations in Power BI ft. Microsoft MVP Erik Svensen Power BI End-To-End",
+              "url": "https://www.youtube.com/watch?v=1v0qySRaJ9Y"
             },
             {
               "title": "@RADACAD_COM",
               "url": "https://twitter.com/RADACAD_COM"
             },
             {
-              "title": "No Code Power BI - Claude and Power BI Modeling MCP Server",
-              "url": "https://www.youtube.com/watch?v=L30OFUrfah8"
+              "title": "Power BI Multilingual made simple using user-context-aware calculated column",
+              "url": "https://www.youtube.com/watch?v=attOboV4ZO8"
+            },
+            {
+              "title": "🎙️ Fabric Insider Ep. 5 — What's Hot and New for Power BI Semantic Models in 2026 | Christian Wade",
+              "url": "https://www.youtube.com/watch?v=zndWuBB1JTo"
+            },
+            {
+              "title": "DAX User-Defined Functions: Reusable Logic, Typed Parameters, and Smarter Evaluation",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Community-Blog/DAX-User-Defined-Functions-Reusable-Logic-Typed-Parameters-and/ba-p/5188728"
             }
           ],
           "📊 Report Authoring and Interactivity": [
             {
-              "title": "TOMPo MCP: AI-Powered Lineage Intelligence for Power BI & Microsoft Fabric",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Community-Blog/TOMPo-MCP-AI-Powered-Lineage-Intelligence-for-Power-BI-amp/ba-p/5188201"
+              "title": "Solving Power BI in-report alerts with translytical task flows",
+              "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Solving-Power-BI-in-report-alerts-with-translytical-task-flows/ba-p/5190667"
             },
             {
-              "title": "@HowToPowerBI",
-              "url": "https://twitter.com/HowToPowerBI"
+              "title": "Show Last X Months And Keep the Filters to Other Visuals",
+              "url": "https://www.youtube.com/watch?v=LtbIBldyEWE"
             },
             {
-              "title": "AI Can Now Build ANY Power BI Chart You Want",
-              "url": "https://www.youtube.com/watch?v=mBdStGiyT9c"
+              "title": "Build a Power BI Dashboard with Claude AI in 15 Minutes",
+              "url": "https://www.youtube.com/watch?v=n-8GY_4o0NY"
+            },
+            {
+              "title": "@porcubi",
+              "url": "https://twitter.com/porcubi"
+            },
+            {
+              "title": "How to Set a Landing Page in Power BI",
+              "url": "https://www.youtube.com/watch?v=Fyb_LDTToB0"
+            },
+            {
+              "title": "PBIX A11y Bytes - Improving Legibility and Colour Contrast in Power BI",
+              "url": "https://www.youtube.com/watch?v=AvlYk6FQN1g"
+            }
+          ],
+          "🚀 Deployment, Security and Operations": [
+            {
+              "title": "How to Setup a Power BI Deployment Pipeline (The Right Way)",
+              "url": "https://www.youtube.com/watch?v=PVxgC_dcwXc"
+            },
+            {
+              "title": "the Tabular Editor CLI (Limited Public Preview)",
+              "url": "https://tabulareditor.com/blog/introducing-the-tabular-editor-cli-limited-public-preview"
+            },
+            {
+              "title": "On-premises data gateway May 2026 release",
+              "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/On-premises-data-gateway-May-2026-release/ba-p/5190820"
+            }
+          ],
+          "🌐 General": [
+            {
+              "title": "@mohaali45",
+              "url": "https://twitter.com/mohaali45"
+            },
+            {
+              "title": "Power BI at Microsoft Build 2026: The Agentic Era of analytics",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-at-Microsoft-Build-2026-The-Agentic-Era-of-analytics/ba-p/5191671"
+            },
+            {
+              "title": "Building in the Agentic Era with Power BI and Fabric",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Building-in-the-Agentic-Era-with-Power-BI-and-Fabric/ba-p/5190754"
+            },
+            {
+              "title": "@chandeep2786",
+              "url": "https://twitter.com/chandeep2786"
+            },
+            {
+              "title": "How to Create an Automated P&L in Power BI",
+              "url": "https://www.youtube.com/watch?v=tEe727ar8SY"
             },
             {
               "title": "@PowerBITips",
               "url": "https://twitter.com/PowerBITips"
             },
             {
-              "title": "Agentic Skill & Report Design - Ep.530 - Power BI tips",
-              "url": "https://www.youtube.com/watch?v=UR5eu50KLrw"
-            },
-            {
-              "title": "@JiriNeoral",
-              "url": "https://twitter.com/JiriNeoral"
-            },
-            {
-              "title": "Úpravy dat v BI modelech: od SSAS přes Power Apps až po Fabric Planning [Czech]",
-              "url": "https://www.neoral.cz/2026/05/upravy-dat-v-bi-modelech-od-ssas-pres.html"
-            },
-            {
-              "title": "Deneb for Power BI Custom Visuals, Guided Design & Reusable Templates with Harsh Joshi",
-              "url": "https://www.youtube.com/watch?v=-bhmkxdqMKM"
-            },
-            {
-              "title": "@amitchandak78",
-              "url": "https://twitter.com/amitchandak78"
-            },
-            {
-              "title": "Power BI Matrix Trick: Show Budget Only in Grand Total Using Calculation Groups",
-              "url": "https://www.youtube.com/watch?v=U1iL6Jqdwxc"
-            },
-            {
-              "title": "How To: Display All Selected Filters at Once",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Community-Blog/How-To-Display-All-Selected-Filters-at-Once/ba-p/5187629"
-            },
-            {
-              "title": "Slicers are not self-aware",
-              "url": "https://www.michaelsteedle.com/2026/05/slicers-are-not-self-aware.html"
+              "title": "Move Faster in Power BI - Ep.532 - Power BI tips",
+              "url": "https://www.youtube.com/watch?v=jSUm-9TDOKY"
             }
           ]
         },
