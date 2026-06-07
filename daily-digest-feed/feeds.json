@@ -1,27 +1,14 @@
 {
-  "generated_at": "2026-06-06T11:32:04.183117Z",
+  "generated_at": "2026-06-07T11:34:42.659323Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
         {
-          "creator": "Ozark Overland Adventure",
-          "handle": "@OzarkOverlandAdventures",
-          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
-          "videos": [
-            {
-              "title": "Frustrated Exploring Wisconsin National Forests",
-              "url": "https://www.youtube.com/watch?v=1u6TBsZlI-0",
-              "published": "2026-06-05T22:00:03Z",
-              "description": "Major frustration exploring the Nicolette National Forest in Wisconsin finding epic campsites.\n\nSniper Bladeworks - https://sniperbladeworks.com/ Use Code Ozark for 10% off\n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://al"
-            },
-            {
-              "title": "What's in my EDC as a Full Time Overlander",
-              "url": "https://www.youtube.com/watch?v=tYyeZXMnpss",
-              "published": "2026-06-04T15:00:32Z",
-              "description": "What EDC gear do we carry on our ourselves and our vehicles to stay protected during full time overland travel?\n\nSniper Bladeworks - https://sniperbladeworks.com/ Use Code Ozark for 10% off\n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% disco"
-            }
-          ],
+          "creator": "LetsGetLost",
+          "handle": "@LetsGetLost",
+          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
+          "videos": [],
           "error": null
         },
         {
@@ -39,10 +26,31 @@
           "error": null
         },
         {
-          "creator": "This Story Till Now",
-          "handle": "@ThisStoryTillNow",
-          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
-          "videos": [],
+          "creator": "Ozark Overland Adventure",
+          "handle": "@OzarkOverlandAdventures",
+          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
+          "videos": [
+            {
+              "title": "Frustrated Exploring Wisconsin National Forests",
+              "url": "https://www.youtube.com/watch?v=1u6TBsZlI-0",
+              "published": "2026-06-05T22:00:03Z",
+              "description": "Major frustration exploring the Nicolette National Forest in Wisconsin finding epic campsites.\n\nSniper Bladeworks - https://sniperbladeworks.com/ Use Code Ozark for 10% off\n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://al"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "TrailRecon",
+          "handle": "@TrailRecon",
+          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
+          "videos": [
+            {
+              "title": "Utah's Strangest Valley Hides a Forgotten Story",
+              "url": "https://www.youtube.com/watch?v=v1nDGsQg5Q4",
+              "published": "2026-06-06T14:00:08Z",
+              "description": "Valley of the Gods is what you get when you take Monument Valley and strip away the crowds, the entrance booth, and the parking lots 17 miles of dirt winding through towering sandstone buttes with names like Seven Sailors and Setting Hen. It's one of the most underrated drives in southern Utah. But I didn't come all the way out here for the scenery.\n\nI came to finish a story. In my last video I followed the Hole in the Rock pioneers down one of the most brutal wagon routes in American history. T"
+            }
+          ],
           "error": null
         },
         {
@@ -53,32 +61,25 @@
           "error": null
         },
         {
+          "creator": "This Story Till Now",
+          "handle": "@ThisStoryTillNow",
+          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "videos": [],
+          "error": null
+        },
+        {
           "creator": "Life Style Overland",
           "handle": "@LifeStyleOverland",
           "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "LetsGetLost",
-          "handle": "@LetsGetLost",
-          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "TrailRecon",
-          "handle": "@TrailRecon",
-          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
           "videos": [],
           "error": null
         }
       ],
       "power_platform": [
         {
-          "creator": "Lisa Crosbie",
-          "handle": "@LisaCrosbie",
-          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
+          "creator": "Reza Dorrani",
+          "handle": "@RezaDorrani",
+          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
           "videos": [],
           "error": null
         },
@@ -86,14 +87,7 @@
           "creator": "Shane Young",
           "handle": "@ShanesCows",
           "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
-          "videos": [
-            {
-              "title": "Hands-on with Microsoft Scout - New from Microsoft Build",
-              "url": "https://www.youtube.com/watch?v=PoSWJl3xWrI",
-              "published": "2026-06-04T12:30:12Z",
-              "description": "Microsoft Scout is Microsoft's newest AI agent, and after spending hours getting it configured, I finally got hands-on access.\n\nIn this video you'll learn:\n• What Microsoft Scout is\n• How it fits into the Microsoft AI ecosystem\n• How Scout compares to Copilot Cowork\n• Why Scout feels different from traditional AI chat tools\n• How Scout can access local files, run code, and interact with your PC\n• What Automations, Heartbeats, Skills, and MCP servers are\n• The licensing and setup requirements you"
-            }
-          ],
+          "videos": [],
           "error": null
         },
         {
@@ -104,16 +98,16 @@
           "error": null
         },
         {
-          "creator": "Reza Dorrani",
-          "handle": "@RezaDorrani",
-          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
+          "creator": "April Dunnam",
+          "handle": "@AprilDunnam",
+          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
           "videos": [],
           "error": null
         },
         {
-          "creator": "April Dunnam",
-          "handle": "@AprilDunnam",
-          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
+          "creator": "Lisa Crosbie",
+          "handle": "@LisaCrosbie",
+          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
           "videos": [],
           "error": null
         }
@@ -123,14 +117,7 @@
           "creator": "Guy in a Cube",
           "handle": "@GuyInACube",
           "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
-          "videos": [
-            {
-              "title": "Do You Still Need Surrogate Keys? (Modern Data Warehouse Design Explained)",
-              "url": "https://www.youtube.com/watch?v=51He_8RBcyk",
-              "published": "2026-06-04T14:30:00Z",
-              "description": "Are surrogate keys still necessary in modern data warehouses and semantic models?\n\nIn this video, we want to walk through one of the most debated topics in data modeling: Natural Keys vs Surrogate Keys.\n\nPatrick is going to show you exactly where natural keys work perfectly fine, where they start to break down, and why surrogate keys still matter in modern analytics solutions built with Microsoft Fabric and Power BI.\n\nUsing a hotel warehouse demo, this video walks through:\n\n* Natural keys vs sur"
-            }
-          ],
+          "videos": [],
           "error": null
         },
         {
@@ -143,74 +130,33 @@
       ],
       "ai": [
         {
-          "creator": "Alex Finn",
-          "handle": "@AlexFinn",
-          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "NateBJones",
           "handle": "@NateBJones",
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
             {
+              "title": "Where AI hits a wall #ai #tech #learning",
+              "url": "https://www.youtube.com/shorts/yOGLr2IwAWk",
+              "published": "2026-06-07T01:00:29Z",
+              "description": "My site: https://natebjones.com\nFull Story w/ Prompts + Guide: https://natesnewsletter.substack.com/p/the-most-expensive-ai-mistake-isnt?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when frontier models beat professionals with 14 years of experience 70% of the time but the output still doesn't survive contact with anyone who actually understands the domain? The common story is about prompting and workflow design—but the"
+            },
+            {
+              "title": "The hidden value in your AI's worst outputs #ai #tech #work",
+              "url": "https://www.youtube.com/shorts/g4FSU7g3IJw",
+              "published": "2026-06-06T20:00:19Z",
+              "description": "My site: https://natebjones.com\nFull Story w/ Prompts + Guide: https://natesnewsletter.substack.com/p/the-most-expensive-ai-mistake-isnt?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when frontier models beat professionals with 14 years of experience 70% of the time but the output still doesn't survive contact with anyone who actually understands the domain? The common story is about prompting and workflow design—but the"
+            },
+            {
+              "title": "The most expensive AI mistake you are making #ai #learning #shorts",
+              "url": "https://www.youtube.com/shorts/zOndwcirGVY",
+              "published": "2026-06-06T15:00:16Z",
+              "description": "My site: https://natebjones.com\nFull Story w/ Prompts + Guide: https://natesnewsletter.substack.com/p/the-most-expensive-ai-mistake-isnt?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when frontier models beat professionals with 14 years of experience 70% of the time but the output still doesn't survive contact with anyone who actually understands the domain? The common story is about prompting and workflow design—but the"
+            },
+            {
               "title": "My Codex Ran 800 Million Tokens in A Day. The Real Story Isn't Cost.",
               "url": "https://www.youtube.com/watch?v=l8BloTSLK6M",
               "published": "2026-06-05T14:00:07Z",
               "description": "Token Burn Dashboard Guide: https://natesnewsletter.substack.com/p/token-burn-dashboard?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nMy Substack covers:\n✅ A step-by-step guide to build your own token dashboard from scratch, with the prompt I used, and an instructional video.\n✅ A ready-made kit for your stack instead of a blank page, whether you live in Codex, Claude, ChatGPT, or all of them at once.\n✅ The line between assistant work and computer work, and why be"
-            },
-            {
-              "title": "The most expensive AI mistake isn't prompting #ai #business",
-              "url": "https://www.youtube.com/shorts/pO4qoLEMMog",
-              "published": "2026-06-05T01:00:00Z",
-              "description": "My site: https://natebjones.com\nFull Story w/ Prompts + Guide: https://natesnewsletter.substack.com/p/the-most-expensive-ai-mistake-isnt?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when frontier models beat professionals with 14 years of experience 70% of the time but the output still doesn't survive contact with anyone who actually understands the domain? The common story is about prompting and workflow design—but the"
-            },
-            {
-              "title": "The most expensive AI mistake you’re making right now #ai #strategy",
-              "url": "https://www.youtube.com/shorts/4KU1CiiAsMI",
-              "published": "2026-06-04T21:00:37Z",
-              "description": "My site: https://natebjones.com\nFull Story w/ Prompts + Guide: https://natesnewsletter.substack.com/p/the-most-expensive-ai-mistake-isnt?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when frontier models beat professionals with 14 years of experience 70% of the time but the output still doesn't survive contact with anyone who actually understands the domain? The common story is about prompting and workflow design—but the"
-            },
-            {
-              "title": "Don't let your AI output go to waste #strategy #ai",
-              "url": "https://www.youtube.com/shorts/wKWt8Cq4oDs",
-              "published": "2026-06-04T16:00:16Z",
-              "description": "My site: https://natebjones.com\nFull Story w/ Prompts + Guide: https://natesnewsletter.substack.com/p/the-most-expensive-ai-mistake-isnt?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when frontier models beat professionals with 14 years of experience 70% of the time but the output still doesn't survive contact with anyone who actually understands the domain? The common story is about prompting and workflow design—but the"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Simon Scrapes",
-          "handle": "@SimonScrapes",
-          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
-          "videos": [
-            {
-              "title": "How Anthropic Teams ACTUALLY use Claude Code day to day (for non-engineers)",
-              "url": "https://www.youtube.com/watch?v=l4mSSN6exGg",
-              "published": "2026-06-05T15:11:55Z",
-              "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes \nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\nAnthropic’s guide on how teams use Claude Code: https://www-cdn.anthropic.com/58284b19e702b49db9302d5b6f135ad8871e7658.pdf \n\nAnthropic recently revealed how their own non-engineering teams use Claude Code, and it's not what you'd expect. In this tutorial, we break down the four key patterns used by their legal, marketing, and finance team"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Nate Herk",
-          "handle": "@NateHerk",
-          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-          "videos": [
-            {
-              "title": "AGI is Here. Anthropic Just Proved It.",
-              "url": "https://www.youtube.com/watch?v=NDeyhGnNECc",
-              "published": "2026-06-05T20:42:32Z",
-              "description": "My FREE AI OS Course: https://www.skool.com/ai-automation-society/about?el=anthropic-calls-for-pause&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\nFull courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=anthropic-calls-for-pause&amp;hcategory=youtube-videos&amp;utm_campaign=ais-plus\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATE"
-            },
-            {
-              "title": "The Skill That 10x’d My Claude Code Projects",
-              "url": "https://www.youtube.com/watch?v=c0kaKxM2pHg",
-              "published": "2026-06-04T17:55:54Z",
-              "description": "My FREE AI OS Course: https://www.skool.com/ai-automation-society/about?el=grill-me-skill&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\nFull courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=grill-me-skill&amp;hcategory=youtube-videos&amp;utm_campaign=ais-plus\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS ("
             }
           ],
           "error": null
@@ -220,6 +166,12 @@
           "handle": "@ChaseAI",
           "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
           "videos": [
+            {
+              "title": "The Top 10 Claude Code Plugins to 10x Your Next Project (June '26)",
+              "url": "https://www.youtube.com/watch?v=IShdbDP4Jgg",
+              "published": "2026-06-06T22:30:35Z",
+              "description": "⚡Master Claude Code: https://www.skool.com/chase-ai\n\n🔥FREE community with Skills🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nLet's solve Claude Code's memory problem.\n\nIn this video, I break down Graphify, the latest non-RAG answer to tearing down large code bases and storing the information collected. With Graphify, we can create knowledge graphs from seemingly thin air and generate more accurate, less token heavy responses because of it."
+            },
             {
               "title": "This Open Source Repo Solves Claude Code's #1 Problem",
               "url": "https://www.youtube.com/shorts/nLT_I5ZTwog",
@@ -231,26 +183,35 @@
               "url": "https://www.youtube.com/watch?v=ChskqGovoHg",
               "published": "2026-06-05T22:30:59Z",
               "description": "⚡Master Claude Code: https://www.skool.com/chase-ai\n\n🔥FREE community with Skills🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nLet's solve Claude Code's memory problem.\n\nIn this video, I break down Graphify, the latest non-RAG answer to tearing down large code bases and storing the information collected. With Graphify, we can create knowledge graphs from seemingly thin air and generate more accurate, less token heavy responses because of it."
-            },
-            {
-              "title": "/grill-me and plan mode aren't enough",
-              "url": "https://www.youtube.com/shorts/I3CzdD9BK78",
-              "published": "2026-06-05T02:09:34Z",
-              "description": ""
-            },
-            {
-              "title": "I Updated /grill-me And Solved Claude Code",
-              "url": "https://www.youtube.com/watch?v=ENCRw5-uJBA",
-              "published": "2026-06-05T01:59:07Z",
-              "description": "⚡Master Claude Code: https://www.skool.com/chase-ai\n\n🔥FREE community with Skills🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\n/grill-me only solves half the problem.\n\nIts not enough to plan well with Claude Code, we need a way to verify that its outputs make sense. In this video, I show you how we do that with that with the grill-me-codex skill which builds upon the grill-me foundation\n\n⏰TIMESTAMPS:\n\n0:00 - Intro\n1:21 -  How it Works\n6:28 -"
-            },
-            {
-              "title": "The Missing Piece of Every AI Workflow",
-              "url": "https://www.youtube.com/shorts/xHvYn-6JSpc",
-              "published": "2026-06-04T14:54:47Z",
-              "description": "The CodeRabbit CLI is the easiest way to get a second pair of eyes on your AI generated code and break the cycle of having the same AI agent that broke the code be in charge of fixing the code.\n\nhttps://coderabbit.link/chaseai"
             }
           ],
+          "error": null
+        },
+        {
+          "creator": "Nate Herk",
+          "handle": "@NateHerk",
+          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+          "videos": [
+            {
+              "title": "Is Claude Mythos Coming?",
+              "url": "https://www.youtube.com/watch?v=lkR6mvqQQlk",
+              "published": "2026-06-06T21:26:20Z",
+              "description": "My FREE AI OS Course: https://www.skool.com/ai-automation-society/about?el=mythos-leak-june&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\nFull courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=mythos-leak-june&amp;hcategory=youtube-videos&amp;utm_campaign=ais-plus\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off V"
+            },
+            {
+              "title": "AGI is Here. Anthropic Just Proved It.",
+              "url": "https://www.youtube.com/watch?v=NDeyhGnNECc",
+              "published": "2026-06-05T20:42:32Z",
+              "description": "My FREE AI OS Course: https://www.skool.com/ai-automation-society/about?el=anthropic-calls-for-pause&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\nFull courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=anthropic-calls-for-pause&amp;hcategory=youtube-videos&amp;utm_campaign=ais-plus\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATE"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Alex Finn",
+          "handle": "@AlexFinn",
+          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
+          "videos": [],
           "error": null
         },
         {
@@ -271,12 +232,25 @@
           "creator": "AI Daily Brief",
           "handle": "@AIDailyBrief",
           "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Simon Scrapes",
+          "handle": "@SimonScrapes",
+          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
           "videos": [
             {
-              "title": "The Next Wave of Enterprise AI",
-              "url": "https://www.youtube.com/watch?v=yTPGY13ym5s",
-              "published": "2026-06-04T12:30:06Z",
-              "description": "The White House AI executive order provoked intense debate over voluntary pre-release testing, a 30-day sharing window, and the risk of a de facto licensing regime. Anthropic’s Mythos and Project Glasswing expanded to critical infrastructure partners while exposing extreme token costs and unresolved cybersecurity safeguards. OpenAI’s Codex updates (annotations, role-specific plugins, Sites) and Microsoft’s MAI models signal a shift toward knowledge-work interfaces and cost-efficient enterprise A"
+              "title": "I Taught Claude Code to Build You a Personal Brand, Watch This…",
+              "url": "https://www.youtube.com/watch?v=yh_fZZVbNwc",
+              "published": "2026-06-06T15:30:34Z",
+              "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes\nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\nGrab the skills shown in this video: https://scrapeshq.notion.site/personal-brand \n\nStop getting generic AI content! This tutorial shows you how to add your unique brand context so every output sounds and looks like you. We'll build three core files together: a brand voice profile, a body of work file with your core ideas, and a complete v"
+            },
+            {
+              "title": "How Anthropic Teams ACTUALLY use Claude Code day to day (for non-engineers)",
+              "url": "https://www.youtube.com/watch?v=l4mSSN6exGg",
+              "published": "2026-06-05T15:11:55Z",
+              "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes \nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\nAnthropic’s guide on how teams use Claude Code: https://www-cdn.anthropic.com/58284b19e702b49db9302d5b6f135ad8871e7658.pdf \n\nAnthropic recently revealed how their own non-engineering teams use Claude Code, and it's not what you'd expect. In this tutorial, we break down the four key patterns used by their legal, marketing, and finance team"
             }
           ],
           "error": null
@@ -284,6 +258,92 @@
       ]
     },
     "newsletters": {
+      "power_platform_dev_weekly": {
+        "name": "Power Platform Dev Weekly",
+        "issue_number": 294,
+        "issue_date": "2026-05-27",
+        "url": "https://www.ppdevweekly.com/p/294",
+        "is_new": false,
+        "sections": {
+          "🥇 Cover Story": [
+            {
+              "title": "10 Things I Love About Copilot Studio Workflows",
+              "url": "https://www.matthewdevaney.com/10-things-i-love-about-copilot-studio-workflows/"
+            }
+          ],
+          "🖼️Canvas Apps": [
+            {
+              "title": "Filter And Display Contacts Based On Account In Custom Page",
+              "url": "https://meganvwalker.com/filter-and-display-contacts-based-on-account-in-custom-page/"
+            }
+          ],
+          "🌎 Power Pages": [
+            {
+              "title": "Accelerate Power Pages Development Using Server Logic: Part 2",
+              "url": "https://www.inogic.com/blog/2026/05/accelerate-power-pages-development-using-server-logic-part-2/"
+            },
+            {
+              "title": "Enhancing Power Pages Security Using Security Agent",
+              "url": "https://www.inogic.com/blog/2026/05/enhancing-power-pages-security-using-security-agent/"
+            }
+          ],
+          "💎 Model Driven Apps & Dataverse": [
+            {
+              "title": "Open Different Custom Pages In Model-driven Apps With A Reusable Script",
+              "url": "https://meganvwalker.com/open-different-custom-pages-in-apps-with-script/"
+            }
+          ],
+          "🤖 Copilot & Code Apps": [
+            {
+              "title": "Understanding the Dynamics 365 Quality Evaluation Agent: A Complete Breakdown",
+              "url": "https://d365goddess.com/understanding_qea/?utm_source=feedly&utm_medium=rss&utm_campaign=understanding_qea"
+            },
+            {
+              "title": "Step by Step | Copilot Studio Agent – Integrate Application Insights",
+              "url": "https://rajeevpentyala.com/2026/05/12/step-by-step-copilot-studio-agent-integrate-application-insights/"
+            }
+          ],
+          "🚀Power Automate": [
+            {
+              "title": "Power Automate Data Operations What They Actually Do and When to Use Each One",
+              "url": "https://mytrial365.com/2026/05/14/power-automate-data-operations-what-they-actually-do-and-when-to-use-each-one/"
+            },
+            {
+              "title": "Understanding Power Automate flow performance",
+              "url": "https://sharepains.com/2026/05/22/power-automate-flow-performance/"
+            }
+          ],
+          "🎮 Other Interesting Articles": [
+            {
+              "title": "Using RetrieveDependenciesForDeleteRequest to find and delete hidden dependencies (Dataverse/ Dynamics 365)",
+              "url": "https://nishantrana.me/2026/05/27/using-retrievedependenciesfordeleterequest-to-find-and-delete-hidden-dependencies-dataverse-dynamics-365/"
+            },
+            {
+              "title": "Create Your First Azure Function and Deploy to Azure—1",
+              "url": "https://srinathpega.com/2026/05/25/create-your-first-azure-function-and-deploy-to-azure-1/"
+            },
+            {
+              "title": "New Designer Run After Settings in Power Automate",
+              "url": "https://sharepains.com/2026/05/20/new-designer-run-after-settings/"
+            }
+          ],
+          "📺 Videos": [
+            {
+              "title": "Open Code Apps Straight to the Record (Deep-linking in Power Apps)",
+              "url": "https://www.youtube.com/watch?v=8JU9fIbxLXY"
+            },
+            {
+              "title": "Power Apps Code Apps + Power Automate Flows 🚀  (NEW feature)",
+              "url": "https://www.youtube.com/watch?v=1wvJbhp3_oE"
+            },
+            {
+              "title": "How To Deploy Copilot Studio Agents to Public Websites",
+              "url": "https://www.youtube.com/watch?v=b6HrwR5Ikzk"
+            }
+          ]
+        },
+        "error": null
+      },
       "power_platform_weekly": {
         "name": "Power Platform Weekly",
         "issue_number": 266,
@@ -423,92 +483,6 @@
             {
               "title": "Heather Perriam - Designing Inclusive Copilots in Copilot Studio",
               "url": "https://www.youtube.com/watch?v=jPsy6sEIacU"
-            }
-          ]
-        },
-        "error": null
-      },
-      "power_platform_dev_weekly": {
-        "name": "Power Platform Dev Weekly",
-        "issue_number": 294,
-        "issue_date": "2026-05-27",
-        "url": "https://www.ppdevweekly.com/p/294",
-        "is_new": false,
-        "sections": {
-          "🥇 Cover Story": [
-            {
-              "title": "10 Things I Love About Copilot Studio Workflows",
-              "url": "https://www.matthewdevaney.com/10-things-i-love-about-copilot-studio-workflows/"
-            }
-          ],
-          "🖼️Canvas Apps": [
-            {
-              "title": "Filter And Display Contacts Based On Account In Custom Page",
-              "url": "https://meganvwalker.com/filter-and-display-contacts-based-on-account-in-custom-page/"
-            }
-          ],
-          "🌎 Power Pages": [
-            {
-              "title": "Accelerate Power Pages Development Using Server Logic: Part 2",
-              "url": "https://www.inogic.com/blog/2026/05/accelerate-power-pages-development-using-server-logic-part-2/"
-            },
-            {
-              "title": "Enhancing Power Pages Security Using Security Agent",
-              "url": "https://www.inogic.com/blog/2026/05/enhancing-power-pages-security-using-security-agent/"
-            }
-          ],
-          "💎 Model Driven Apps & Dataverse": [
-            {
-              "title": "Open Different Custom Pages In Model-driven Apps With A Reusable Script",
-              "url": "https://meganvwalker.com/open-different-custom-pages-in-apps-with-script/"
-            }
-          ],
-          "🤖 Copilot & Code Apps": [
-            {
-              "title": "Understanding the Dynamics 365 Quality Evaluation Agent: A Complete Breakdown",
-              "url": "https://d365goddess.com/understanding_qea/?utm_source=feedly&utm_medium=rss&utm_campaign=understanding_qea"
-            },
-            {
-              "title": "Step by Step | Copilot Studio Agent – Integrate Application Insights",
-              "url": "https://rajeevpentyala.com/2026/05/12/step-by-step-copilot-studio-agent-integrate-application-insights/"
-            }
-          ],
-          "🚀Power Automate": [
-            {
-              "title": "Power Automate Data Operations What They Actually Do and When to Use Each One",
-              "url": "https://mytrial365.com/2026/05/14/power-automate-data-operations-what-they-actually-do-and-when-to-use-each-one/"
-            },
-            {
-              "title": "Understanding Power Automate flow performance",
-              "url": "https://sharepains.com/2026/05/22/power-automate-flow-performance/"
-            }
-          ],
-          "🎮 Other Interesting Articles": [
-            {
-              "title": "Using RetrieveDependenciesForDeleteRequest to find and delete hidden dependencies (Dataverse/ Dynamics 365)",
-              "url": "https://nishantrana.me/2026/05/27/using-retrievedependenciesfordeleterequest-to-find-and-delete-hidden-dependencies-dataverse-dynamics-365/"
-            },
-            {
-              "title": "Create Your First Azure Function and Deploy to Azure—1",
-              "url": "https://srinathpega.com/2026/05/25/create-your-first-azure-function-and-deploy-to-azure-1/"
-            },
-            {
-              "title": "New Designer Run After Settings in Power Automate",
-              "url": "https://sharepains.com/2026/05/20/new-designer-run-after-settings/"
-            }
-          ],
-          "📺 Videos": [
-            {
-              "title": "Open Code Apps Straight to the Record (Deep-linking in Power Apps)",
-              "url": "https://www.youtube.com/watch?v=8JU9fIbxLXY"
-            },
-            {
-              "title": "Power Apps Code Apps + Power Automate Flows 🚀  (NEW feature)",
-              "url": "https://www.youtube.com/watch?v=1wvJbhp3_oE"
-            },
-            {
-              "title": "How To Deploy Copilot Studio Agents to Public Websites",
-              "url": "https://www.youtube.com/watch?v=b6HrwR5Ikzk"
             }
           ]
         },
