@@ -1,16 +1,9 @@
 {
-  "generated_at": "2026-06-08T12:31:16.718943Z",
+  "generated_at": "2026-06-09T12:01:33.006289Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
-        {
-          "creator": "VentureToRoam",
-          "handle": "@VentureToRoam",
-          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
-          "videos": [],
-          "error": null
-        },
         {
           "creator": "Life Style Overland",
           "handle": "@LifeStyleOverland",
@@ -19,17 +12,17 @@
           "error": null
         },
         {
-          "creator": "Casey 250",
-          "handle": "@Casey250",
-          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Epic Adventure Outfitters",
-          "handle": "@EpicAdventureOutfitters",
-          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
-          "videos": [],
+          "creator": "Ozark Overland Adventure",
+          "handle": "@OzarkOverlandAdventures",
+          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
+          "videos": [
+            {
+              "title": "Ran Out of an Epic Camp... But I found a better one!",
+              "url": "https://www.youtube.com/watch?v=DcE5wPJq3nM",
+              "published": "2026-06-08T15:00:31Z",
+              "description": "After being forced out of my epic camp, I take off on a Jelly Run to High Rock Bay and find a better one!\n\nVL45 Plus Kickstarter - https://www.kickstarter.com/projects/iceco/iceco-vl45-plus-the-first-3-way-access-portable-freezer?ref=di75ug\n\nSniper Bladeworks - https://sniperbladeworks.com/ Use Code Ozark for 10% off\n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlan"
+            }
+          ],
           "error": null
         },
         {
@@ -40,30 +33,51 @@
           "error": null
         },
         {
+          "creator": "VentureToRoam",
+          "handle": "@VentureToRoam",
+          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Epic Adventure Outfitters",
+          "handle": "@EpicAdventureOutfitters",
+          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
+          "videos": [
+            {
+              "title": "What a Former Paramedic Actually Carries on Every Off-Road Trip",
+              "url": "https://www.youtube.com/watch?v=hFoqwKn7NKY",
+              "published": "2026-06-08T20:00:09Z",
+              "description": "You have a recovery kit. You have a lift. You have lockers. You have a Starlink. You have spent serious money making sure your rig is ready for anything the trail throws at it. But are YOU ready?\n\n#TrailSafety #Overlanding #FirstAid \n\nIn this special guest episode, Christian invites Gretchen to share her experience on trail safety in a conversation the off road community has been avoiding and honestly should have had a long time ago. \n\nGretchen is a former paramedic. She also owns a Jeep Gladiat"
+            }
+          ],
+          "error": null
+        },
+        {
           "creator": "TrailRecon",
           "handle": "@TrailRecon",
           "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
-          "videos": [
-            {
-              "title": "I Didn't Expect This in the Middle of Nowhere",
-              "url": "https://www.youtube.com/watch?v=v1nDGsQg5Q4",
-              "published": "2026-06-06T14:00:08Z",
-              "description": "Valley of the Gods is what you get when you take Monument Valley and strip away the crowds, the entrance booth, and the parking lots 17 miles of dirt winding through towering sandstone buttes with names like Seven Sailors and Setting Hen. It's one of the most underrated drives in southern Utah. But I didn't come all the way out here for the scenery.\n\nI came to finish a story. In my last video I followed the Hole in the Rock pioneers down one of the most brutal wagon routes in American history. T"
-            }
-          ],
+          "videos": [],
           "error": null
         },
         {
           "creator": "This Story Till Now",
           "handle": "@ThisStoryTillNow",
           "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
-          "videos": [],
+          "videos": [
+            {
+              "title": "Our Remote B.C. Adventure Didn't Go As Planned...",
+              "url": "https://www.youtube.com/watch?v=INzUwAOYFMU",
+              "published": "2026-06-08T16:00:30Z",
+              "description": "I met up with @lewieandtherover from The Netherlands this week to show them some of our local trails as they begin their North America tour. \n\nSave 20% on XLANDR Sunglasses CODE: TSTN20 at checkout: https://bit.ly/42ThhBt\n\nSign up with my link and save 20% on OnX Off-Road: https://bit.ly/onxoffroadtstn\n\nMERCH: http://www.tstn.shop\n\nWant to support our adventures? Join our Patreon group here:\nhttp://www.patreon.com/thestorytillnow\n\nMORE OF MY GEAR:\nEPIC C.R.O.W. MOLLE System : https://bit.ly/epic"
+            }
+          ],
           "error": null
         },
         {
-          "creator": "Ozark Overland Adventure",
-          "handle": "@OzarkOverlandAdventures",
-          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
+          "creator": "Casey 250",
+          "handle": "@Casey250",
+          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
           "videos": [],
           "error": null
         }
@@ -73,14 +87,14 @@
           "creator": "Shane Young",
           "handle": "@ShanesCows",
           "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Lisa Crosbie",
-          "handle": "@LisaCrosbie",
-          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
-          "videos": [],
+          "videos": [
+            {
+              "title": "Quick - Power Automate Flow Error Notifications",
+              "url": "https://www.youtube.com/watch?v=cfHixuTAVMs",
+              "published": "2026-06-08T12:30:17Z",
+              "description": "Flow errors happen. They just do. The problem is when one fails quietly and you have no idea until someone tells you something is broken. In this video I show you what my students and I call poor man's error handling. It does not really handle the error, it notifies you the moment a flow fails so you can go fix it. I show you how to add it to any flow in about 60 seconds, then I slow down and explain exactly how it works, and finally I walk through how I use it in real production flows including"
+            }
+          ],
           "error": null
         },
         {
@@ -95,6 +109,13 @@
               "description": "In this video we are going to build an agent that uses a fuzzy search technique to find the matching records in a Dataverse table and then display the results in #CopilotStudio.\n\nWhat’s a fuzzy search? Fuzzy search is where your search terms don’t have a perfect match but you can still find results. Unlike keyword search where you must have an exact match.\n\nThis is important because users expect to see results even if they misspell a word, or put words in the wrong order. They still expect the a"
             }
           ],
+          "error": null
+        },
+        {
+          "creator": "Lisa Crosbie",
+          "handle": "@LisaCrosbie",
+          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
+          "videos": [],
           "error": null
         },
         {
@@ -121,26 +142,89 @@
       ],
       "fabric_powerbi": [
         {
-          "creator": "Guy in a Cube",
-          "handle": "@GuyInACube",
-          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
+          "creator": "Dewain Robinson",
+          "handle": "@DewainRobinson",
+          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
           "videos": [],
           "error": null
         },
         {
-          "creator": "Dewain Robinson",
-          "handle": "@DewainRobinson",
-          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
+          "creator": "Guy in a Cube",
+          "handle": "@GuyInACube",
+          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
           "videos": [],
           "error": null
         }
       ],
       "ai": [
         {
+          "creator": "Alex Finn",
+          "handle": "@AlexFinn",
+          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Chase AI",
+          "handle": "@ChaseAI",
+          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+          "videos": [
+            {
+              "title": "adding graphify to my claude OS",
+              "url": "https://www.youtube.com/shorts/KjW2JpPy9QM",
+              "published": "2026-06-09T02:45:01Z",
+              "description": ""
+            },
+            {
+              "title": "graphify x obsidian is a cheat code",
+              "url": "https://www.youtube.com/shorts/pO90D744kIk",
+              "published": "2026-06-09T00:51:25Z",
+              "description": ""
+            },
+            {
+              "title": "The INSANE Claude Code Knowledge Graph Stack",
+              "url": "https://www.youtube.com/watch?v=mWLDn49_8HA",
+              "published": "2026-06-08T23:58:10Z",
+              "description": "⚡Master Claude Code: https://www.skool.com/chase-ai\n\n🔥FREE community with Skills🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nObsidian + Graphify is a game changer.\n\nBy combining the repo deconstructing power of Graphify with the organizational layer of Obsidian, we have the ability to merge our knowledge graph insights into whatever larger Vault we are working with, improving Claude Code's answers in the process.\n\n\n⏰TIMESTAMPS:\n\n0:00 - Gra"
+            },
+            {
+              "title": "ultracode is the most powerful claude code feature in months",
+              "url": "https://www.youtube.com/shorts/kmX8h8EYgqE",
+              "published": "2026-06-08T14:00:30Z",
+              "description": ""
+            },
+            {
+              "title": "ultracode is INSANE and nobody is talking about it",
+              "url": "https://www.youtube.com/shorts/vf2uWwh1xjg",
+              "published": "2026-06-08T04:35:24Z",
+              "description": ""
+            },
+            {
+              "title": "The Most Powerful Claude Code Feature In Months Dropped & Nobody is Talking About It",
+              "url": "https://www.youtube.com/watch?v=6cmi7qyFwEE",
+              "published": "2026-06-08T03:53:40Z",
+              "description": "⚡Master Claude Code: https://www.skool.com/chase-ai\n\n🔥FREE community with Skills🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nLet's solve Claude Code's memory problem.\n\nIn this video, I break down Graphify, the latest non-RAG answer to tearing down large code bases and storing the information collected. With Graphify, we can create knowledge graphs from seemingly thin air and generate more accurate, less token heavy responses because of it."
+            }
+          ],
+          "error": null
+        },
+        {
           "creator": "NateBJones",
           "handle": "@NateBJones",
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
+            {
+              "title": "Fix your operating model or lose at AI #ai #strategy",
+              "url": "https://www.youtube.com/shorts/dfjA49EykLs",
+              "published": "2026-06-09T03:00:35Z",
+              "description": "Full video & write up: https://natesnewsletter.substack.com/p/ai-token-cost-management?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n____________________\nWhat's really happening inside enterprise AI spending when a company like Uber can't connect its token bill to better customer features?\n\nThe common story is that AI is too expensive and token maxing is backfiring — but the real reason is an operating model that was never redesigned around agents.\n\nFor leaders, t"
+            },
+            {
+              "title": "Beyond The Hype: Why Meta And Block Are Firing People",
+              "url": "https://www.youtube.com/watch?v=hzAcDU1FYDo",
+              "published": "2026-06-08T14:00:32Z",
+              "description": "For 50% off a yearly subscription ($250 → $125) to my Substack head to: https://www.natebjones.com/the-path-forward\n\nWhat you get access to:\n✅ One guide, build, or tool every week that helps you build fluency and learn how to use AI tools today.\n✅ Access to TalentBoard, where you can show your fluency and get found by people hiring for real roles.\n✅ One deep dive a week on something in AI that actually matters, so you know what's moving and how to move your career with it.\n✅ Access to my communi"
+            },
             {
               "title": "Fix your AI pipeline or lose your budget #ai #strategy",
               "url": "https://www.youtube.com/shorts/76ovBK3lJ2U",
@@ -164,57 +248,6 @@
               "url": "https://www.youtube.com/shorts/lggtc9D5e7E",
               "published": "2026-06-07T16:00:34Z",
               "description": "Full video & write up: https://natesnewsletter.substack.com/p/ai-token-cost-management?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n____________________\nWhat's really happening inside enterprise AI spending when a company like Uber can't connect its token bill to better customer features?\n\nThe common story is that AI is too expensive and token maxing is backfiring — but the real reason is an operating model that was never redesigned around agents.\n\nFor leaders, t"
-            },
-            {
-              "title": "Where AI hits a wall #ai #tech #learning",
-              "url": "https://www.youtube.com/shorts/yOGLr2IwAWk",
-              "published": "2026-06-07T01:00:29Z",
-              "description": "My site: https://natebjones.com\nFull Story w/ Prompts + Guide: https://natesnewsletter.substack.com/p/the-most-expensive-ai-mistake-isnt?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when frontier models beat professionals with 14 years of experience 70% of the time but the output still doesn't survive contact with anyone who actually understands the domain? The common story is about prompting and workflow design—but the"
-            },
-            {
-              "title": "The hidden value in your AI's worst outputs #ai #tech #work",
-              "url": "https://www.youtube.com/shorts/g4FSU7g3IJw",
-              "published": "2026-06-06T20:00:19Z",
-              "description": "My site: https://natebjones.com\nFull Story w/ Prompts + Guide: https://natesnewsletter.substack.com/p/the-most-expensive-ai-mistake-isnt?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when frontier models beat professionals with 14 years of experience 70% of the time but the output still doesn't survive contact with anyone who actually understands the domain? The common story is about prompting and workflow design—but the"
-            },
-            {
-              "title": "The most expensive AI mistake you are making #ai #learning #shorts",
-              "url": "https://www.youtube.com/shorts/zOndwcirGVY",
-              "published": "2026-06-06T15:00:16Z",
-              "description": "My site: https://natebjones.com\nFull Story w/ Prompts + Guide: https://natesnewsletter.substack.com/p/the-most-expensive-ai-mistake-isnt?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________\nWhat's really happening when frontier models beat professionals with 14 years of experience 70% of the time but the output still doesn't survive contact with anyone who actually understands the domain? The common story is about prompting and workflow design—but the"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Alex Finn",
-          "handle": "@AlexFinn",
-          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Chase AI",
-          "handle": "@ChaseAI",
-          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
-          "videos": [
-            {
-              "title": "ultracode is INSANE and nobody is talking about it",
-              "url": "https://www.youtube.com/shorts/vf2uWwh1xjg",
-              "published": "2026-06-08T04:35:24Z",
-              "description": ""
-            },
-            {
-              "title": "The Most Powerful Claude Code Feature In Months Dropped & Nobody is Talking About It",
-              "url": "https://www.youtube.com/watch?v=6cmi7qyFwEE",
-              "published": "2026-06-08T03:53:40Z",
-              "description": "⚡Master Claude Code: https://www.skool.com/chase-ai\n\n🔥FREE community with Skills🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nLet's solve Claude Code's memory problem.\n\nIn this video, I break down Graphify, the latest non-RAG answer to tearing down large code bases and storing the information collected. With Graphify, we can create knowledge graphs from seemingly thin air and generate more accurate, less token heavy responses because of it."
-            },
-            {
-              "title": "The Top 10 Claude Code Plugins to 10x Your Next Project (June '26)",
-              "url": "https://www.youtube.com/watch?v=IShdbDP4Jgg",
-              "published": "2026-06-06T22:30:35Z",
-              "description": "⚡Master Claude Code: https://www.skool.com/chase-ai\n\n🔥FREE community with Skills🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nLet's solve Claude Code's memory problem.\n\nIn this video, I break down Graphify, the latest non-RAG answer to tearing down large code bases and storing the information collected. With Graphify, we can create knowledge graphs from seemingly thin air and generate more accurate, less token heavy responses because of it."
             }
           ],
           "error": null
@@ -225,24 +258,10 @@
           "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
           "videos": [
             {
-              "title": "Is Claude Mythos Coming?",
-              "url": "https://www.youtube.com/watch?v=lkR6mvqQQlk",
-              "published": "2026-06-06T21:26:20Z",
-              "description": "My FREE AI OS Course: https://www.skool.com/ai-automation-society/about?el=mythos-leak-june&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\nFull courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=mythos-leak-june&amp;hcategory=youtube-videos&amp;utm_campaign=ais-plus\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off V"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Simon Scrapes",
-          "handle": "@SimonScrapes",
-          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
-          "videos": [
-            {
-              "title": "I Taught Claude Code to Build You a Personal Brand, Watch This…",
-              "url": "https://www.youtube.com/watch?v=yh_fZZVbNwc",
-              "published": "2026-06-06T15:30:34Z",
-              "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes\nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\nGrab the skills shown in this video: https://scrapeshq.notion.site/personal-brand \n\nStop getting generic AI content! This tutorial shows you how to add your unique brand context so every output sounds and looks like you. We'll build three core files together: a brand voice profile, a body of work file with your core ideas, and a complete v"
+              "title": "How to Build Claude Subagents Better Than 99% of People",
+              "url": "https://www.youtube.com/watch?v=e18sdZLwP7o",
+              "published": "2026-06-09T00:44:55Z",
+              "description": "My FREE AI OS Course: https://www.skool.com/ai-automation-society/about?el=claude-code-subagents&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\nFull courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=claude-code-subagents&amp;hcategory=youtube-videos&amp;utm_campaign=ais-plus\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for"
             }
           ],
           "error": null
@@ -262,10 +281,31 @@
           "error": null
         },
         {
+          "creator": "Simon Scrapes",
+          "handle": "@SimonScrapes",
+          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
+          "videos": [
+            {
+              "title": "How To Use Claude Code Anywhere (VPS & Mobile Setup)",
+              "url": "https://www.youtube.com/watch?v=UyT-CNalgy8",
+              "published": "2026-06-08T17:19:36Z",
+              "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes \nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\nThe full implementation guide: https://claude.ai/public/artifacts/ecdbac71-b3b2-4176-b59a-e045f890ab11 \n\nTired of your Claude Code workflows stopping every time you close your laptop? This tutorial solves that problem by showing you how to run Claude Code permanently on a VPS (Virtual Private Server). We'll cover everything from the groun"
+            }
+          ],
+          "error": null
+        },
+        {
           "creator": "AI Daily Brief",
           "handle": "@AIDailyBrief",
           "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
-          "videos": [],
+          "videos": [
+            {
+              "title": "The Way We Use AI is Changing",
+              "url": "https://www.youtube.com/watch?v=RKpEI37RnfI",
+              "published": "2026-06-09T02:10:51Z",
+              "description": "Proposals for government stakes or donated equity in major AI labs raise questions about public benefit, nationalization, and political control. Large cloud compute contracts and chip supply deals are reshaping AI infrastructure economics. A ChatGPT overhaul and the rise of agent loops signal a shift toward enterprise-focused, agent-driven workflows, widening the gap between power users and casual users.\n\nThe AI Daily Brief helps you understand the most important news and discussions in AI. \nSub"
+            }
+          ],
           "error": null
         }
       ]
