@@ -1,48 +1,13 @@
 {
-  "generated_at": "2026-06-11T12:22:02.698790Z",
+  "generated_at": "2026-06-12T12:05:49.007101Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
         {
-          "creator": "Life Style Overland",
-          "handle": "@LifeStyleOverland",
-          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "This Story Till Now",
           "handle": "@ThisStoryTillNow",
           "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "TrailRecon",
-          "handle": "@TrailRecon",
-          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "VentureToRoam",
-          "handle": "@VentureToRoam",
-          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "LetsGetLost",
-          "handle": "@LetsGetLost",
-          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Casey 250",
-          "handle": "@Casey250",
-          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
           "videos": [],
           "error": null
         },
@@ -61,18 +26,67 @@
           "error": null
         },
         {
+          "creator": "Casey 250",
+          "handle": "@Casey250",
+          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
+          "videos": [
+            {
+              "title": "The Good, Bad, & Ugly of Premium Roof Top Tents (2 Year Review)",
+              "url": "https://www.youtube.com/watch?v=B6wzBtL1k8I",
+              "published": "2026-06-11T22:00:24Z",
+              "description": "Prime Day is here! Your FIRST choice for power backup is @EcoFlowTech.\nSave up to 63% OFF— now’s the best time to power up.\nUse code 26EFPDCY for 5% OFF on eligible orders. Final discount will be reflected at checkout. Valid until July 3.  \nEcoFlow Prime Day Deals: https://bit.ly/4al4lHV\nEcoFlow on Amazon: https://amzn.to/4fXLypQ\n\n============================================\n\nI am looking at my AluCab Gen-3r rooftop tent that I have owned for several years now. I am going to go through every det"
+            }
+          ],
+          "error": null
+        },
+        {
           "creator": "Epic Adventure Outfitters",
           "handle": "@EpicAdventureOutfitters",
           "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "VentureToRoam",
+          "handle": "@VentureToRoam",
+          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "LetsGetLost",
+          "handle": "@LetsGetLost",
+          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "TrailRecon",
+          "handle": "@TrailRecon",
+          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
+          "videos": [
+            {
+              "title": "What 3 Days on the Rubicon Does to a Group of Friends",
+              "url": "https://www.youtube.com/watch?v=3SlBmdI-J28",
+              "published": "2026-06-11T22:00:27Z",
+              "description": "When's the last time you took a vacation to do something hard on purpose?\nAfter more than eight years, I'm back on the Rubicon Trail, this time with four friends who've never seen it. Five Jeeps, three days, and one of the toughest 4x4 trails in America. We made it through the Gatekeeper, got told no at the Soup Bowl and the Little Sluice, bent up a fender, blew two tire beads, and found out it can take three jacks to change one tire on granite. We camped at Rubicon Springs with the whole place "
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Life Style Overland",
+          "handle": "@LifeStyleOverland",
+          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
           "videos": [],
           "error": null
         }
       ],
       "power_platform": [
         {
-          "creator": "April Dunnam",
-          "handle": "@AprilDunnam",
-          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
+          "creator": "Reza Dorrani",
+          "handle": "@RezaDorrani",
+          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
           "videos": [],
           "error": null
         },
@@ -98,10 +112,17 @@
           "error": null
         },
         {
-          "creator": "Reza Dorrani",
-          "handle": "@RezaDorrani",
-          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
-          "videos": [],
+          "creator": "April Dunnam",
+          "handle": "@AprilDunnam",
+          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
+          "videos": [
+            {
+              "title": "Confused by Microsoft AI Options? Here's a Break Down",
+              "url": "https://www.youtube.com/watch?v=JqXQXReeR2Q",
+              "published": "2026-06-11T14:00:11Z",
+              "description": "Confused by Microsoft Scout, Copilot Cowork, Microsoft 365 Copilot and Copilot Studio? You’re not alone. In this video, I break down what each Microsoft AI tool does, how they’re different and which one you should use for your specific scenario.\n\nYou’ll learn when to use:\n\n✅ Microsoft Scout for AI-powered actions across your desktop, files, browser, Microsoft 365 data and connected tools\n✅ Copilot Cowork for delegating larger, multi-step tasks that can continue running in the cloud\n✅ Microsoft 3"
+            }
+          ],
           "error": null
         }
       ],
@@ -112,16 +133,16 @@
           "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
           "videos": [
             {
+              "title": "Azure SQL Database for Free? I Built a Real App Backend",
+              "url": "https://www.youtube.com/watch?v=UMivSJUTBns",
+              "published": "2026-06-11T14:30:12Z",
+              "description": "Azure SQL Database has a free offer, but free by itself is not the story.\n\nIn this video, we want to show why the Azure SQL Database free offer is interesting for developers, data professionals, SQL Server users, and anyone building a small app, prototype, proof of concept, or learning project.\n\nPatrick is going to show you how a messy spreadsheet can turn into a real app backend using Azure SQL Database. Starting with conference feedback data, he walks through a tiny feedback app that writes di"
+            },
+            {
               "title": "The Microsoft Build 2026 Announcements You Need to Know for Microsoft Fabric and Power BI",
               "url": "https://www.youtube.com/watch?v=W5jnRHxIbEE",
               "published": "2026-06-10T14:30:32Z",
               "description": "Microsoft Build 2026 introduced so many new things! In this video, Marthe helps you the biggest announcements for Fabric and Power BI. \n\nWe'll cover:\n\n✅ 00:30 Key takeaway form Build 2026\n✅ 01:30 Rayfin – Fabric's new open-source application platform\n✅ 02:36 OneLake Catalog GA in Microsoft Foundry\n✅ 02:53 GPU Acceleration for Fabric Data Warehouse\n✅ 03:22 Graph in Fabric General Availability\n✅ 03:37 Operations Agents General Availability\n✅ 03:55 New AI-powered Power BI capabilities\n\nThe big them"
-            },
-            {
-              "title": "Microsoft Build Announcements Part 1 - Fabric Apps and Rayfin 💚🔥",
-              "url": "https://www.youtube.com/shorts/tDKMgqJeLF8",
-              "published": "2026-06-09T15:27:23Z",
-              "description": "📢 Become a member: https://guyinacu.be/membership \n\n*******************\nLET'S CONNECT!\n*******************\n\n-- https://www.linkedin.com/company/guyinacube\n-- https://bsky.app/profile/guyinacube.bsky.social\n-- http://twitter.com/guyinacube\n-- http://www.facebook.com/guyinacube\n\n\n#PowerBI #MicrosoftFabric #GuyInACube"
             }
           ],
           "error": null
@@ -141,6 +162,18 @@
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
             {
+              "title": "The bridge between hand-waving and doing it all #ai #innovation #fable5",
+              "url": "https://www.youtube.com/shorts/sgF5Fo2vhTE",
+              "published": "2026-06-12T03:00:18Z",
+              "description": "Stop choosing between hand-waving instructions and doing all the work yourself. A third way to work with AI is here.\n\nMost people get stuck managing AI prompts or grinding through tasks manually. This framework bridges that gap, helping you delegate effectively without losing control of the output.\n\nSubscribe for more practical workflows on getting better results from your AI tools."
+            },
+            {
+              "title": "Apple WWDC 2026: The AI Story Everyone is Missing",
+              "url": "https://www.youtube.com/watch?v=t7L6-fMpxFc",
+              "published": "2026-06-11T14:00:38Z",
+              "description": "My Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n👉🏻 Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside Apple's WWDC AI strategy?\n\nThe common story is that Apple fell behind in the model race and had to borrow Google's Gemini tech to catch up, but the reality is more complicated, and it has less to do with who builds the best large language model than who owns the device it"
+            },
+            {
               "title": "Fable 5 is here—but who is it for? #ai #anthropic #shorts",
               "url": "https://www.youtube.com/shorts/74P-N6JZ5lc",
               "published": "2026-06-11T03:00:37Z",
@@ -151,12 +184,6 @@
               "url": "https://www.youtube.com/watch?v=R2-Y1Hjwx2U",
               "published": "2026-06-10T14:00:38Z",
               "description": "Full post: https://natesnewsletter.substack.com/p/claude-code-vs-codex-agents?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n___________________________\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n👉🏻 Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening when people argue about Claude Code versus Codex?\n\nThe common story is that this is a coding-to"
-            },
-            {
-              "title": "Siri isn't the real headline at WWDC #apple #ai #wwdc (Full Video Thursday)",
-              "url": "https://www.youtube.com/shorts/kd_OFLhOOk8",
-              "published": "2026-06-09T19:00:24Z",
-              "description": "Is Apple AI strategy at WWDC actually about software, or is the hardware story being missed?\n\nThis Thursday, I'm publishing a full video that breaks down the latest WWDC announcements, specifically focusing on Siri AI and the broader implications for Apple in the current artificial intelligence race. \n\nWhile the conference highlights software updates, the real story is about the underlying hardware and chip requirements that often go unnoticed by casual observers. This is essential viewing if yo"
             }
           ],
           "error": null
@@ -165,34 +192,28 @@
           "creator": "Alex Finn",
           "handle": "@AlexFinn",
           "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
-          "videos": [
-            {
-              "title": "Claude Fable 5 just dropped and I'm speechless...",
-              "url": "https://www.youtube.com/watch?v=RwsUnvHYmyw",
-              "published": "2026-06-09T20:08:12Z",
-              "description": "Claude Fable 5 (Mythos) full tutorial and walkthrough\n\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nFULL Claude Fable 5 bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/ \n\nI want to build a personal productivity tool. I want "
-            }
-          ],
+          "videos": [],
           "error": null
         },
         {
           "creator": "Nate Herk",
           "handle": "@NateHerk",
           "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-          "videos": [
-            {
-              "title": "I Turned Claude Fable Into The Ultimate Second Brain",
-              "url": "https://www.youtube.com/watch?v=8QQ_INxAhRs",
-              "published": "2026-06-10T04:40:11Z",
-              "description": "My FREE AI OS Course: https://www.skool.com/ai-automation-society/about?el=claude-fable-second-brain&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\nFull courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=claude-fable-second-brain&amp;hcategory=youtube-videos&amp;utm_campaign=ais-plus\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATE"
-            },
-            {
-              "title": "Claude Mythos is Finally Here.",
-              "url": "https://www.youtube.com/watch?v=dYrrEKXtttk",
-              "published": "2026-06-09T18:00:20Z",
-              "description": "My FREE AI OS Course: https://www.skool.com/ai-automation-society/about?el=claude-fable-5&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\nFull courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=claude-fable-5&amp;hcategory=youtube-videos&amp;utm_campaign=ais-plus\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS ("
-            }
-          ],
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Chase AI",
+          "handle": "@ChaseAI",
+          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Paul J Lipsky",
+          "handle": "@PaulJLipsky",
+          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
+          "videos": [],
           "error": null
         },
         {
@@ -205,12 +226,6 @@
               "url": "https://www.youtube.com/watch?v=H9BUkgDf5Y4",
               "published": "2026-06-10T17:40:13Z",
               "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes\nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\nWant to give your AI agent perfect memory? This video shows you how. I've taken the best ideas from top memory systems like Hermes, GBrain, and MemSearch and built a new, more powerful memory architecture inside Claude Code. I'll walk you through the three core jobs of memory- storage, injection, and recall - and show you exactly how to b"
-            },
-            {
-              "title": "How to Teach Claude to Write Content Like You",
-              "url": "https://www.youtube.com/shorts/0p6Odhyccl0",
-              "published": "2026-06-09T20:23:45Z",
-              "description": "Stop getting generic AI content! This tutorial shows you how to add your unique brand context so every output sounds and looks like you. We'll build three core files together: a brand voice profile, a body of work file with your core ideas, and a complete visual identity system. Do the work once and get personalised, on-brand AI content forever."
             }
           ],
           "error": null
@@ -220,6 +235,12 @@
           "handle": "@AIDailyBrief",
           "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
           "videos": [
+            {
+              "title": "Why Fable 5 is the Most Controversial AI Release Ever",
+              "url": "https://www.youtube.com/watch?v=LNXDoKPe06I",
+              "published": "2026-06-12T00:59:11Z",
+              "description": "Anthropic's Fable-5 launch sparked outrage over opaque safety filters, silent model degradation for AI research, and a 30-day enterprise data-retention rule. A rapid walkback restored visibility for safeguards but left deep trust and enterprise-adoption concerns. Broader themes included AI equity proposals for a sovereign wealth fund, massive data-center buildouts and local pushback, and tensions between concentrated lab power and open research.\n\nThe AI Daily Brief helps you understand the most "
+            },
             {
               "title": "Fable 5 Raises the Bar for AI Ambition",
               "url": "https://www.youtube.com/watch?v=it7VUqfVorw",
@@ -231,46 +252,6 @@
               "url": "https://www.youtube.com/watch?v=pnxRfJRAh5A",
               "published": "2026-06-10T13:51:16Z",
               "description": "OpenAI filed confidential IPO paperwork and released a strategy declaring a new phase centered on automating AI research, creating personal AGI, and spreading economic gains. SpaceX unveiled designs for space-based data centers and aggressive scale targets while chipmakers turn to Intel amid TSMC capacity constraints. Policy and markets heat up as compute futures, proposed federal AI rules, and Apple's Siri relaunch expose diverging trajectories between consumer assistants and agentic, work-focu"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Chase AI",
-          "handle": "@ChaseAI",
-          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
-          "videos": [
-            {
-              "title": "Claude Fable 5 + Mythos 5 in 30 Seconds",
-              "url": "https://www.youtube.com/shorts/FWUbIB5h8YM",
-              "published": "2026-06-09T21:15:02Z",
-              "description": ""
-            },
-            {
-              "title": "Claude Fable + Mythos 5 Are Live & The Numbers are INSANE",
-              "url": "https://www.youtube.com/shorts/pMuZI79YcMg",
-              "published": "2026-06-09T18:28:54Z",
-              "description": ""
-            },
-            {
-              "title": "Claude Mythos 5 + Fable 5 Are Here And The Numbers Are INSANE",
-              "url": "https://www.youtube.com/watch?v=o3UbD4DYhv4",
-              "published": "2026-06-09T18:08:10Z",
-              "description": "⚡Master Claude Code: https://www.skool.com/chase-ai\n\n🔥FREE community with Skills🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nThe Mythos model family is now live and generally available.\n\nFable 5 (aka Mythos 5 with guardrails) is here and the numbers are impressive, even if the pricing will scares you a little bit.\n\nOf note:\n\nFrom today through June 22, Fable 5 is included on Pro, Max, Team, and seat-based Enterprise plans at no extra cost."
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Paul J Lipsky",
-          "handle": "@PaulJLipsky",
-          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
-          "videos": [
-            {
-              "title": "How To Use The New Google Gemini (in 2026)",
-              "url": "https://www.youtube.com/watch?v=UXJWm_SRauY",
-              "published": "2026-06-09T13:00:34Z",
-              "description": "A complete beginner's guide to Google Gemini in 2026, covering models, notebooks, personal intelligence, image and video generation, Canvas, and usage limits.\n\nHow to Create Videos with Gemini: https://youtu.be/IrA0mzZTwLo\nMaster Gemini Spark: https://youtu.be/jHFPnqqGC6M\nMaster Notebooks in Gemini: https://youtu.be/_DWMkNKTlF4\n\nSome features in this video may not be available in your region or on your plan yet.\n\n0:00 Intro\n0:19 Getting Started\n0:46 Models\n1:29 Notebooks\n4:10 Personal Intelligen"
             }
           ],
           "error": null
@@ -425,118 +406,6 @@
             {
               "title": "Copilot Cowork + Claude Built My IT Help Desk in M365",
               "url": "https://www.youtube.com/watch?v=4oKlENZGW5M"
-            }
-          ]
-        },
-        "error": null
-      },
-      "power_platform_dev_weekly": {
-        "name": "Power Platform Dev Weekly",
-        "issue_number": 295,
-        "issue_date": "2026-06-10",
-        "url": "https://www.ppdevweekly.com/p/295",
-        "is_new": true,
-        "sections": {
-          "🥇 Cover Story": [
-            {
-              "title": "How To Create Copilot Custom UI Widgets In Power Apps",
-              "url": "https://www.matthewdevaney.com/how-to-create-copilot-custom-ui-widgets-in-power-apps/"
-            }
-          ],
-          "💎 Model Driven Apps & Dataverse": [
-            {
-              "title": "Dataverse Web API: Returning Record Data During Create Using Prefer: return=representation",
-              "url": "https://nishantrana.me/2026/06/03/dataverse-web-api-returning-record-data-during-create-using-prefer-returnrepresentation/"
-            },
-            {
-              "title": "Code Apps: What June 2026 Shipped and What's Next",
-              "url": "https://recursion.no/blogs/code-apps-what-june-2026-shipped-and-whats-next/"
-            }
-          ],
-          "🏋️‍♂️ Canvas Apps": [
-            {
-              "title": "Respond to a Power Automate Flow Approval in a Power Apps Custom Page or Canvas App",
-              "url": "https://www.ameyholden.com/articles/respond-to-power-automate-flow-approval-power-apps-custom-page-canvas-app"
-            }
-          ],
-          "🌎 Power Pages": [
-            {
-              "title": "Power Pages: Multiselect List",
-              "url": "https://www.engineeredcode.com/blog/power-pages-multiselect-list"
-            }
-          ],
-          "🤖 Copilot": [
-            {
-              "title": "Copilot Studio Evaluations",
-              "url": "https://platformsofpower.net/copilot-studio-evaluations/"
-            },
-            {
-              "title": "How to Set Up a Copilot Studio Agent Using Dataverse MCP Across Environments",
-              "url": "https://sharepoint247.com/ai/how-to-set-up-a-copilot-studio-agent-using-dataverse-mcp-across-environments/"
-            }
-          ],
-          "😎 Power Automate": [
-            {
-              "title": "Trigger a flow when a Power Automate Approval is complete (Accepted or Rejected)",
-              "url": "https://www.ameyholden.com/articles/trigger-flow-power-automate-approval-complete-response"
-            }
-          ],
-          "🚀 PCF & Custom Pages": [
-            {
-              "title": "Open Custom Page For Multiple Selected Records In A View Or SubGrid",
-              "url": "https://meganvwalker.com/open-custom-page-for-multiple-selected-records/"
-            }
-          ],
-          "👍 Everything else in Power Platform": [
-            {
-              "title": "What Are Agent Skills? Build a Power Platform Skill",
-              "url": "https://rajeevpentyala.com/2026/06/02/what-are-agent-skills-learn-with-a-real-example/"
-            }
-          ],
-          "👩‍💻 Dev to the Core": [
-            {
-              "title": "The new Power Platform Pro-Code Era: Code Apps vs Power Pages SPA",
-              "url": "https://dev.to/_neronotte/the-new-power-platform-pro-code-era-code-apps-vs-power-pages-spa-4d37"
-            }
-          ],
-          "🎮 Other Interesting Articles": [
-            {
-              "title": "Inside Built-In and Custom Copilot UI Widgets powered by Power Apps",
-              "url": "https://dianabirkelbach.wordpress.com/2026/05/26/inside-built-in-and-custom-copilot-ui-widgets-powered-by-power-apps/"
-            },
-            {
-              "title": "Customise Double Opt-In Confirmation Email {{OptedInPurposeTopic}} - Customer Insights - Journeys",
-              "url": "https://www.ameyholden.com/articles/show-topics-in-double-opt-in-confirmation-email"
-            },
-            {
-              "title": "Using Event Templates With Realtime In Customer Insights Journeys",
-              "url": "https://meganvwalker.com/create-a-customer-insights-journeys-overview-page/"
-            },
-            {
-              "title": "How to Integrate Application Insights with Copilot Studio for Better AI Monitoring",
-              "url": "https://www.inogic.com/blog/2026/06/how-integrate-application-insights-with-copilot-studio-for-better-ai-monitoring/"
-            },
-            {
-              "title": "Calling Dataverse Actions and Functions from Power Apps Code Apps",
-              "url": "https://www.inogic.com/blog/2026/05/calling-dataverse-actions-functions-from-power-apps-code-apps/"
-            }
-          ],
-          "📺 Videos": [
-            {
-              "title": "Quick - Power Automate Flow Error Notifications",
-              "url": "https://www.youtube.com/watch?v=cfHixuTAVMs"
-            },
-            {
-              "title": "Capture Advanced Telemetry from Your Copilot Studio Agents",
-              "url": "https://www.youtube.com/watch?v=N-vH1g4C2ec"
-            },
-            {
-              "title": "Typo-Proof Your Copilot Studio Agent With Dataverse Search",
-              "url": "https://www.youtube.com/watch?v=wpgYKz6kBGE"
-            },
-            {
-              "title": "Are Power Apps Vibe Apps Ready Yet? What Actually Works",
-              "url": "https://www.youtube.com/watch?v=ykzP6Ge9wBc"
             }
           ]
         },
@@ -711,13 +580,690 @@
           ]
         },
         "error": null
+      },
+      "power_platform_dev_weekly": {
+        "name": "Power Platform Dev Weekly",
+        "issue_number": 295,
+        "issue_date": "2026-06-10",
+        "url": "https://www.ppdevweekly.com/p/295",
+        "is_new": false,
+        "sections": {
+          "🥇 Cover Story": [
+            {
+              "title": "How To Create Copilot Custom UI Widgets In Power Apps",
+              "url": "https://www.matthewdevaney.com/how-to-create-copilot-custom-ui-widgets-in-power-apps/"
+            }
+          ],
+          "💎 Model Driven Apps & Dataverse": [
+            {
+              "title": "Dataverse Web API: Returning Record Data During Create Using Prefer: return=representation",
+              "url": "https://nishantrana.me/2026/06/03/dataverse-web-api-returning-record-data-during-create-using-prefer-returnrepresentation/"
+            },
+            {
+              "title": "Code Apps: What June 2026 Shipped and What's Next",
+              "url": "https://recursion.no/blogs/code-apps-what-june-2026-shipped-and-whats-next/"
+            }
+          ],
+          "🏋️‍♂️ Canvas Apps": [
+            {
+              "title": "Respond to a Power Automate Flow Approval in a Power Apps Custom Page or Canvas App",
+              "url": "https://www.ameyholden.com/articles/respond-to-power-automate-flow-approval-power-apps-custom-page-canvas-app"
+            }
+          ],
+          "🌎 Power Pages": [
+            {
+              "title": "Power Pages: Multiselect List",
+              "url": "https://www.engineeredcode.com/blog/power-pages-multiselect-list"
+            }
+          ],
+          "🤖 Copilot": [
+            {
+              "title": "Copilot Studio Evaluations",
+              "url": "https://platformsofpower.net/copilot-studio-evaluations/"
+            },
+            {
+              "title": "How to Set Up a Copilot Studio Agent Using Dataverse MCP Across Environments",
+              "url": "https://sharepoint247.com/ai/how-to-set-up-a-copilot-studio-agent-using-dataverse-mcp-across-environments/"
+            }
+          ],
+          "😎 Power Automate": [
+            {
+              "title": "Trigger a flow when a Power Automate Approval is complete (Accepted or Rejected)",
+              "url": "https://www.ameyholden.com/articles/trigger-flow-power-automate-approval-complete-response"
+            }
+          ],
+          "🚀 PCF & Custom Pages": [
+            {
+              "title": "Open Custom Page For Multiple Selected Records In A View Or SubGrid",
+              "url": "https://meganvwalker.com/open-custom-page-for-multiple-selected-records/"
+            }
+          ],
+          "👍 Everything else in Power Platform": [
+            {
+              "title": "What Are Agent Skills? Build a Power Platform Skill",
+              "url": "https://rajeevpentyala.com/2026/06/02/what-are-agent-skills-learn-with-a-real-example/"
+            }
+          ],
+          "👩‍💻 Dev to the Core": [
+            {
+              "title": "The new Power Platform Pro-Code Era: Code Apps vs Power Pages SPA",
+              "url": "https://dev.to/_neronotte/the-new-power-platform-pro-code-era-code-apps-vs-power-pages-spa-4d37"
+            }
+          ],
+          "🎮 Other Interesting Articles": [
+            {
+              "title": "Inside Built-In and Custom Copilot UI Widgets powered by Power Apps",
+              "url": "https://dianabirkelbach.wordpress.com/2026/05/26/inside-built-in-and-custom-copilot-ui-widgets-powered-by-power-apps/"
+            },
+            {
+              "title": "Customise Double Opt-In Confirmation Email {{OptedInPurposeTopic}} - Customer Insights - Journeys",
+              "url": "https://www.ameyholden.com/articles/show-topics-in-double-opt-in-confirmation-email"
+            },
+            {
+              "title": "Using Event Templates With Realtime In Customer Insights Journeys",
+              "url": "https://meganvwalker.com/create-a-customer-insights-journeys-overview-page/"
+            },
+            {
+              "title": "How to Integrate Application Insights with Copilot Studio for Better AI Monitoring",
+              "url": "https://www.inogic.com/blog/2026/06/how-integrate-application-insights-with-copilot-studio-for-better-ai-monitoring/"
+            },
+            {
+              "title": "Calling Dataverse Actions and Functions from Power Apps Code Apps",
+              "url": "https://www.inogic.com/blog/2026/05/calling-dataverse-actions-functions-from-power-apps-code-apps/"
+            }
+          ],
+          "📺 Videos": [
+            {
+              "title": "Quick - Power Automate Flow Error Notifications",
+              "url": "https://www.youtube.com/watch?v=cfHixuTAVMs"
+            },
+            {
+              "title": "Capture Advanced Telemetry from Your Copilot Studio Agents",
+              "url": "https://www.youtube.com/watch?v=N-vH1g4C2ec"
+            },
+            {
+              "title": "Typo-Proof Your Copilot Studio Agent With Dataverse Search",
+              "url": "https://www.youtube.com/watch?v=wpgYKz6kBGE"
+            },
+            {
+              "title": "Are Power Apps Vibe Apps Ready Yet? What Actually Works",
+              "url": "https://www.youtube.com/watch?v=ykzP6Ge9wBc"
+            }
+          ]
+        },
+        "error": null
       }
     },
     "release_plans": {
       "source_url": "https://releaseplans.net/",
       "data_url": "https://releaseplans.net/data/release-plans.json",
-      "products": {},
-      "total_updates": 0,
+      "products": {
+        "Power Apps": [
+          {
+            "feature_name": "Enable push notifications in custom branded apps",
+            "product": "Power Apps",
+            "product_group": "Building modern apps",
+            "status": "GA",
+            "release_wave": "2026 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Users by admins, makers, or analysts",
+            "description": "Empower your frontline staff to stay up to date with timely push notifications on your custom apps, ensuring critical information is always delivered.",
+            "preview_date": "05/08/2026",
+            "ga_date": "06/01/2026"
+          },
+          {
+            "feature_name": "Visualize the data in your view easily with Copilot",
+            "product": "Power Apps",
+            "product_group": "Copilot for Power Apps makers and users",
+            "status": "GA",
+            "release_wave": "2026 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Users by admins, makers, or analysts",
+            "description": "AI-generated visualizations from Copilot help you understand patterns, trends, and relationships in your data. You can easily turn tabular data into a chart. Plus, you can personalize the visualization to turn data into insights without needing any other analytical tool. With AI-generated visualizations, you save time and gain valuable insights faster.",
+            "preview_date": "01/23/2025",
+            "ga_date": "04/15/2026"
+          },
+          {
+            "feature_name": "Work with existing tables when visualizing complex data",
+            "product": "Power Apps",
+            "product_group": "Copilot for Power Apps makers and users",
+            "status": "GA",
+            "release_wave": "2025 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
+            "description": "By supporting existing tables when you visualize a complex data model, the entity relationship diagram (ERD) data experience helps makers build meaningful business solutions on top of their existing data assets. With Copilot assistance, makers can easily find existing tables that fit their data modeling needs and build more robust business applications. With the ERD visualization of tables and relationships, makers can review new and existing tables side-by-side and define meaningful connections",
+            "preview_date": "01/05/2025",
+            "ga_date": "05/26/2025"
+          },
+          {
+            "feature_name": "Copilot helps you plan out solutions to business problems",
+            "product": "Power Apps",
+            "product_group": "Copilot for Power Apps makers and users",
+            "status": "GA",
+            "release_wave": "2025 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
+            "description": "Detailing solutions to a business problem takes time and effort. Before you start creating apps, flows, and other objects that solve your users' needs, you need to understand the solution architecture. Copilot understands common solution architecture patterns. It uses other sources, such as images, to better understand the problem. Copilot helps you create user roles, define role-specific requirements, and suggests data schema, apps, and other objects that form a solution to the business problem",
+            "preview_date": "12/15/2024",
+            "ga_date": "04/29/2025"
+          },
+          {
+            "feature_name": "Fill forms faster with smart paste",
+            "product": "Power Apps",
+            "product_group": "Copilot for Power Apps makers and users",
+            "status": "GA",
+            "release_wave": "2026 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Users by admins, makers, or analysts",
+            "description": "The new smart paste option in Copilot's form fill assistance feature helps users fill forms faster and easier with text content from any source. Users can copy the content, select a button or use a keyboard shortcut to smart paste, and get inline suggestions in the form based on the copied content.",
+            "preview_date": "10/20/2024",
+            "ga_date": "04/15/2026"
+          },
+          {
+            "feature_name": "Explore and visualize data with data exploration agent",
+            "product": "Power Apps",
+            "product_group": "Copilot for Power Apps makers and users",
+            "status": "GA",
+            "release_wave": "2026 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Users by admins, makers, or analysts",
+            "description": "Turn raw data into actionable insights effortlessly. With Copilot, you can use natural language to create charts, apply advanced filters, and uncover patterns without relying on external analytics tools. This feature saves time, boosts productivity, and empowers decision-making by making data exploration intuitive and accessible.",
+            "preview_date": "11/15/2024",
+            "ga_date": "04/15/2026"
+          },
+          {
+            "feature_name": "Add AI record summary to model-driven apps",
+            "product": "Power Apps",
+            "product_group": "Copilot for Power Apps makers and users",
+            "status": "GA",
+            "release_wave": "2026 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Users by admins, makers, or analysts",
+            "description": "When you add an AI record summary, you can easily access important information. This feature helps you save time and effort.",
+            "preview_date": "12/22/2024",
+            "ga_date": "04/15/2026"
+          },
+          {
+            "feature_name": "Enhanced experience for form filling with Copilot",
+            "product": "Power Apps",
+            "product_group": "Copilot for Power Apps makers and users",
+            "status": "GA",
+            "release_wave": "2026 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Users by admins, makers, or analysts",
+            "description": "With the new capabilities and experience in Copilot's form-fill assistance feature, users can quickly and easily fill out forms using copied text content, images, files, and emails.",
+            "preview_date": "02/02/2025",
+            "ga_date": "04/15/2026"
+          }
+        ],
+        "Power Automate": [
+          {
+            "feature_name": "Generate process maps for multi-flow automations",
+            "product": "Power Automate",
+            "product_group": "Cloud flows",
+            "status": "GA",
+            "release_wave": "2025 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
+            "description": "This feature visualizes end-to-end process dependencies. It reduces troubleshooting time and simplifies navigation through automation logs and connections. With this feature, you get quicker issue resolution and improved operational efficiency.",
+            "preview_date": "03/03/2025",
+            "ga_date": "05/19/2025"
+          },
+          {
+            "feature_name": "Use machine to credential mapping in desktop flow connections",
+            "product": "Power Automate",
+            "product_group": "Desktop flows",
+            "status": "GA",
+            "release_wave": "2025 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
+            "description": "In many organizations, each machine needs a unique user session. Because of this requirement, these organizations can't use machine groups. Use a list of credentials when you need unique credentials for each machine. For organizations that want to use automations that run on agent machines, you can't define a mapping between machines and agents. Use a list of credentials to enable an attended automation for the machine that uses the right agent.",
+            "preview_date": "01/20/2025",
+            "ga_date": "09/16/2025"
+          },
+          {
+            "feature_name": "Use your voice to interact with Copilot",
+            "product": "Power Automate",
+            "product_group": "Desktop flows",
+            "status": "GA",
+            "release_wave": "2025 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
+            "description": "The voice command functionality for Copilot in Power Automate enhances productivity by allowing hands-free interaction for creating desktop flows. You can dictate automation steps in natural language to streamline the setup of complex workflows. With this intuitive interface, businesses can automate repetitive tasks more efficiently and improve operational efficiency.",
+            "preview_date": "03/03/2025",
+            "ga_date": "04/10/2025"
+          },
+          {
+            "feature_name": "Secure credential retrieval in Power Automate for Desktop",
+            "product": "Power Automate",
+            "product_group": "Desktop flows",
+            "status": "GA",
+            "release_wave": "2025 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
+            "description": "This feature enhances security and ease of use by letting you securely get and manage credentials within your desktop flows. It removes the need to pass credentials manually, so it reduces the risk of exposure and simplifies workflow processes.",
+            "preview_date": "11/12/2024",
+            "ga_date": "04/10/2025"
+          },
+          {
+            "feature_name": "Describe flow actions with Copilot",
+            "product": "Power Automate",
+            "product_group": "Desktop flows",
+            "status": "GA",
+            "release_wave": "2025 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
+            "description": "When you enhance Copilot to describe automation steps in Power Automate for desktops, you reduce the time it takes to understand complex automation processes during maintenance and troubleshooting. Organizations that rely on intricate flows can quickly understand specific parts of a flow, which makes it easier to find and fix errors. This capability helps you meet SLA requirements, minimize downtime, increase operational efficiency, and reduce the risk of extended disruptions. With this capabili",
+            "preview_date": "12/23/2024",
+            "ga_date": "04/10/2025"
+          },
+          {
+            "feature_name": "Enable dark mode in Power Automate for desktop",
+            "product": "Power Automate",
+            "product_group": "Desktop flows",
+            "status": "GA",
+            "release_wave": "2025 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
+            "description": "You can now build desktop flows in your preferred color mode. Choose between the default mode and dark mode to reduce eye strain and improve focus.",
+            "preview_date": "12/12/2024",
+            "ga_date": "04/10/2025"
+          },
+          {
+            "feature_name": "Share desktop flow connections with service principal users",
+            "product": "Power Automate",
+            "product_group": "Desktop flows",
+            "status": "GA",
+            "release_wave": "2025 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Users, automatically",
+            "description": "You can share desktop flow connections with a pipeline SPN. With this capability, users can seamlessly import managed solutions by using Power Platform pipelines. This feature simplifies the deployment process and boosts productivity.",
+            "preview_date": "",
+            "ga_date": "06/10/2025"
+          },
+          {
+            "feature_name": "Ingest your data from Fabric OneLake",
+            "product": "Power Automate",
+            "product_group": "Process mining",
+            "status": "GA",
+            "release_wave": "2025 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
+            "description": "Power Automate Process Mining currently ingests data from Azure Data Lake Gen 2 in CSV and parquet formats. This feature ingests data files in CSV, parquet, and delta-parquet formats as well as Delta tables from Fabric Lakehouse.",
+            "preview_date": "01/20/2025",
+            "ga_date": "07/11/2025"
+          },
+          {
+            "feature_name": "Scale faster with Process Mining thin client app",
+            "product": "Power Automate",
+            "product_group": "Process mining",
+            "status": "GA",
+            "release_wave": "2025 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
+            "description": "The current Power Automate Process Mining app requires you to download the process model to your computer. This download process requires specific hardware resources on your computer. To free up your resources, use the Azure Process Intelligence Analytic Service. With this service, you can use a lightweight desktop app with a process intelligence engine without downloading the process model. The thin desktop application offers features that are the same as the previous full desktop app. You can ",
+            "preview_date": "01/20/2025",
+            "ga_date": "06/26/2025"
+          },
+          {
+            "feature_name": "Analyze process mining processes with a web client",
+            "product": "Power Automate",
+            "product_group": "Process mining",
+            "status": "GA",
+            "release_wave": "2025 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
+            "description": "This feature reduces the wait time for default process analysis after data ingestion. Customers can view and analyze process mining results directly through a web-based interface. This new experience offers a faster and more intuitive alternative to the existing embedded Power BI component while keeping compatibility for users who want to leverage Power BI reports through a dedicated app.",
+            "preview_date": "03/03/2025",
+            "ga_date": "08/12/2025"
+          }
+        ],
+        "Microsoft Copilot Studio": [
+          {
+            "feature_name": "Extend M365 Copilot with Copilot Studio custom engine agents",
+            "product": "Microsoft Copilot Studio",
+            "product_group": "Copilot and AI innovation",
+            "status": "GA",
+            "release_wave": "2025 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
+            "description": "By customizing Microsoft 365 Copilot with custom engine copilots, you can add value to the solution. Create rich, organization-specific solutions that you can easily access and interact with from Microsoft Copilot. If you already have custom agents built with Copilot Studio, you can use that functionality in Microsoft 365 Copilot. Microsoft 365 Copilot is always available across the Microsoft 365 product suite, including office.microsoft.com, Teams, Word, Excel, and PowerPoint.",
+            "preview_date": "02/27/2025",
+            "ga_date": "05/23/2025"
+          },
+          {
+            "feature_name": "See evaluation results in real time",
+            "product": "Microsoft Copilot Studio",
+            "product_group": "Copilot and AI innovation",
+            "status": "GA",
+            "release_wave": "2026 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
+            "description": "Improves operational transparency for long-running or large-scale evaluations by providing immediate visibility into progress and intermediate outcomes. Reduces time-to-insight by allowing makers and teams to identify failures, misconfigurations, or quality issues early, instead of waiting for full execution completion. Accelerates decision-making by enabling faster validation of agent behavior in development, testing, and production-readiness scenarios. Enhances stakeholder confidence during la",
+            "preview_date": "05/31/2026",
+            "ga_date": "05/31/2026"
+          },
+          {
+            "feature_name": "Azure AI Search index as knowledge source",
+            "product": "Microsoft Copilot Studio",
+            "product_group": "Copilot and AI innovation",
+            "status": "GA",
+            "release_wave": "2025 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
+            "description": "Makers can build copilots that use prebuilt Azure AI Search indexes as knowledge sources for more relevant and accurate grounded responses.",
+            "preview_date": "11/11/2024",
+            "ga_date": "05/15/2025"
+          },
+          {
+            "feature_name": "Use managed agents as a starting point for Copilot creation",
+            "product": "Microsoft Copilot Studio",
+            "product_group": "Copilot and AI innovation",
+            "status": "GA",
+            "release_wave": "2025 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
+            "description": "With managed agents, you can quickly set up an agent so you can spend more time customizing your agent's logic and functionality. This streamlined approach not only speeds up the development process but also helps organizations quickly adapt to changing business requirements and improve overall operational efficiency.",
+            "preview_date": "03/03/2025",
+            "ga_date": "09/11/2025"
+          },
+          {
+            "feature_name": "Enable agents with new real-time knowledge sources",
+            "product": "Microsoft Copilot Studio",
+            "product_group": "Copilot and AI innovation",
+            "status": "GA",
+            "release_wave": "2025 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
+            "description": "You can build copilots that use non-Microsoft data from external systems as knowledge for more relevant and accurate grounded responses on real-time data with no data movements.",
+            "preview_date": "11/18/2024",
+            "ga_date": "05/15/2025"
+          },
+          {
+            "feature_name": "Enrich agents with third party data using extensions",
+            "product": "Microsoft Copilot Studio",
+            "product_group": "Copilot configuration",
+            "status": "GA",
+            "release_wave": "2025 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Users by admins, makers, or analysts",
+            "description": "Admins and makers can easily start with out-of-the-box extensions that contain Power Platform connectors, topics, flows, and configuration files. These extensions contain business logic and configuration presets so agents can quickly access third-party data for domain-specific use cases such as prospect to cash, configure price quote, benefits and compensation, and IT helpdesk.",
+            "preview_date": "02/13/2025",
+            "ga_date": "07/18/2025"
+          },
+          {
+            "feature_name": "Use SharePoint lists as a knowledge source",
+            "product": "Microsoft Copilot Studio",
+            "product_group": "Copilot configuration",
+            "status": "GA",
+            "release_wave": "2026 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
+            "description": "Unlock the full value of your structured data by bringing SharePoint lists directly into your Microsoft Copilot Studio agents. With native support, customers can ground AI responses in up-to-date, business-critical data—such as tasks, inventory, customers, or operations—without manual data movement or complex integrations. This enables more accurate, context-aware copilots that reflect how your business runs, helping teams make faster decisions, reduce errors, and automate workflows with confide",
+            "preview_date": "07/01/2026",
+            "ga_date": "09/01/2026"
+          },
+          {
+            "feature_name": "Publish connector actions to multiple Copilot deployments",
+            "product": "Microsoft Copilot Studio",
+            "product_group": "Copilot configuration",
+            "status": "GA",
+            "release_wave": "2025 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Users, automatically",
+            "description": "When you can reuse connect actions, you don't need to recreate actions for every deployment. This capability saves time and effort so you can focus on creating solutions instead of manually reconfiguring or copying connectors.",
+            "preview_date": "03/03/2025",
+            "ga_date": "04/21/2025"
+          },
+          {
+            "feature_name": "Create the perfect prompt with help from Copilot",
+            "product": "Microsoft Copilot Studio",
+            "product_group": "Core authoring",
+            "status": "GA",
+            "release_wave": "2025 release wave 2",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
+            "description": "The draft with Copilot feature empowers organizations to create effective prompts faster and with less effort, even if you aren’t a prompt engineering expert. By using the draft with Copilot feature's assistance to turn natural language into optimized prompts, you can accelerate development and reduce costs.",
+            "preview_date": "02/21/2025",
+            "ga_date": "03/10/2026"
+          }
+        ],
+        "AI Builder": [
+          {
+            "feature_name": "Leverage advanced features with Azure Document Intelligence integration",
+            "product": "AI Builder",
+            "product_group": "Intelligent document and email processing",
+            "status": "GA",
+            "release_wave": "2025 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
+            "description": "By integrating AI Builder document processing with Azure Document Intelligence 4.0, businesses can process complex documents more accurately. This integration leverages Azure's advanced Optical Character Recognition (OCR), natural language understanding, and layout detection capabilities.",
+            "preview_date": "12/12/2024",
+            "ga_date": "04/30/2025"
+          }
+        ],
+        "Microsoft Dataverse": [
+          {
+            "feature_name": "Build your agentic flows with Dataverse SDK for Python",
+            "product": "Microsoft Dataverse",
+            "product_group": "Build your low code hyperscale backend on Dataverse",
+            "status": "GA",
+            "release_wave": "2026 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
+            "description": "Enables data scientists and developers to create, access, and manage Dataverse business data using Python programming. The Dataverse SDK for Python implements common Python programming paradigms and best practices, provides a more natural Python interface to Dataverse, and supports community contributions.",
+            "preview_date": "11/19/2025",
+            "ga_date": "06/01/2026"
+          },
+          {
+            "feature_name": "Source code integration",
+            "product": "Microsoft Dataverse",
+            "product_group": "Build your low code hyperscale backend on Dataverse",
+            "status": "GA",
+            "release_wave": "2025 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
+            "description": "Integration with source control systems plays an important role in enterprise software development change management. With this integration, you can audit all changes, review changes before you deploy them to production environments, and protect yourself from mistakes by easily rolling back changes. This feature also supports larger team development with multiple isolated development environments.",
+            "preview_date": "11/05/2024",
+            "ga_date": "04/22/2025"
+          },
+          {
+            "feature_name": "Assisted mapping for standard dataflows",
+            "product": "Microsoft Dataverse",
+            "product_group": "Data workspace",
+            "status": "GA",
+            "release_wave": "2025 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Users, automatically",
+            "description": "Use the assisted mapping feature to ingest data into existing Microsoft Dataverse tables faster and with greater confidence. This feature in standard dataflows uses AI to recommend existing Dataverse tables for your new data. After you select a table, the feature suggests column mappings based on the semantic meaning of column names and column data types. It also helps improve data quality by alerting you to any column type mismatches before you publish the dataflow.",
+            "preview_date": "12/02/2024",
+            "ga_date": "08/05/2025"
+          },
+          {
+            "feature_name": "Manage system views with security roles",
+            "product": "Microsoft Dataverse",
+            "product_group": "Data workspace",
+            "status": "GA",
+            "release_wave": "2025 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Users by admins, makers, or analysts",
+            "description": "Using role-based views simplifies the usability of a business line app when multiple users with different needs are introduced. For example, team leads or supervisors working in the case table have different system view needs than a case service rep. Standard system views like My Cases and My Cases closed Today, just create clutter for the supervisors. So, multiple apps are being created for a cleaner experience.",
+            "preview_date": "01/10/2025",
+            "ga_date": "08/30/2025"
+          },
+          {
+            "feature_name": "Prevent data exfiltration with the app access control",
+            "product": "Microsoft Dataverse",
+            "product_group": "Data workspace",
+            "status": "GA",
+            "release_wave": "2025 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Users by admins, makers, or analysts",
+            "description": "You can protect against data exfiltration by managing and controlling what apps run in your Dataverse environment. Data exfiltration safeguards prevent unauthorized removal of sensitive information from your environment. With these safeguards, your business maintains continuity and complies with regulatory requirements.",
+            "preview_date": "12/13/2024",
+            "ga_date": "04/11/2025"
+          },
+          {
+            "feature_name": "Build Dataverse solutions with coding agents using Dataverse skills",
+            "product": "Microsoft Dataverse",
+            "product_group": "Enable AI powered business workflows in Work IQ with Dataverse",
+            "status": "In Preview",
+            "release_wave": "",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Users by admins, makers, or analysts",
+            "description": "By using coding agents, you can eliminate the need to manually create Microsoft Dataverse tables and solutions through the UI. Dataverse skills guide coding agents to connect to your environment and build solutions by using tables, relationships, forms, and views. This process also includes creating sample data.",
+            "preview_date": "06/01/2026",
+            "ga_date": ""
+          },
+          {
+            "feature_name": "Improve bulk delete user experience",
+            "product": "Microsoft Dataverse",
+            "product_group": "Improved enterprise experiences in Power Platform",
+            "status": "GA",
+            "release_wave": "2026 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Users, automatically",
+            "description": "This release significantly improves the reliability and operational safety of bulk delete jobs in Microsoft Dataverse. By making failures easy to understand and configurations portable across environments, admins can execute large‑scale data cleanup with confidence, reducing troubleshooting time, lowering support dependency, and minimizing the risk of costly misconfigurations in higher environments.",
+            "preview_date": "04/30/2026",
+            "ga_date": "06/04/2026"
+          },
+          {
+            "feature_name": "Tenant to tenant environment move",
+            "product": "Microsoft Dataverse",
+            "product_group": "Improved enterprise experiences in Power Platform",
+            "status": "GA",
+            "release_wave": "2025 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Users by admins, makers, or analysts",
+            "description": "With this feature, you can move an environment from one tenant to another tenant. Use this feature to meet compliance requirements.",
+            "preview_date": "02/03/2025",
+            "ga_date": "07/31/2025"
+          },
+          {
+            "feature_name": "Improved business continuity and disaster recovery",
+            "product": "Microsoft Dataverse",
+            "product_group": "Improved enterprise experiences in Power Platform",
+            "status": "GA",
+            "release_wave": "2025 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Users by admins, makers, or analysts",
+            "description": "With this feature, you improve solution availability and business continuity for your business-critical applications and data.",
+            "preview_date": "01/22/2025",
+            "ga_date": "04/30/2025"
+          }
+        ],
+        "Microsoft Power Platform governance and administration": [
+          {
+            "feature_name": "Manage ALM at scale in the admin deployment hub",
+            "product": "Microsoft Power Platform governance and administration",
+            "product_group": "Application lifecycle management",
+            "status": "GA",
+            "release_wave": "2025 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
+            "description": "The deployment hub makes it easier for admins to manage application lifecycle management (ALM) across the organization. With best practices, recommendations, and automation, the deployment hub simplifies admin tasks and builds confidence in production assets that are safe and secure. When combined with the maker deployment hub, admins keep visibility and control while makers self-serve requests for secure automated deployments.",
+            "preview_date": "01/13/2025",
+            "ga_date": "05/14/2025"
+          },
+          {
+            "feature_name": "View all pipelines and get recommendations in deployments hub",
+            "product": "Microsoft Power Platform governance and administration",
+            "product_group": "Application lifecycle management",
+            "status": "GA",
+            "release_wave": "2025 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
+            "description": "The deployments hub for makers gives makers a single view of deployment history and current state in their development environments.",
+            "preview_date": "01/14/2025",
+            "ga_date": "05/14/2025"
+          },
+          {
+            "feature_name": "Use the new and improved Power Platform admin center",
+            "product": "Microsoft Power Platform governance and administration",
+            "product_group": "Enterprise scale administration",
+            "status": "GA",
+            "release_wave": "2025 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
+            "description": "The new user interface (UI) of the Power Platform admin center offers several key business values that drive operational efficiency and effective governance for admins.  Increased administrator productivity – The modern design helps administrators complete tasks quickly and easily. With straightforward discovery and management, the design increases admin efficiency.  Consistency and standardization – The updated UI aligns with Microsoft’s design language. This alignment improves consistency acro",
+            "preview_date": "11/18/2024",
+            "ga_date": "05/19/2025"
+          },
+          {
+            "feature_name": "Control agent capacity consumption",
+            "product": "Microsoft Power Platform governance and administration",
+            "product_group": "Licensing and capacity",
+            "status": "GA",
+            "release_wave": "2025 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
+            "description": "Visibility and control  Provides a centralized, agent view across the tenant that gives IT and business admins full transparency into AI agent usage and limits. Enables quick identification of high-use agents, which helps avoid unexpected consumption or cost spikes.  Cost management and predictability  Set monthly caps on agent usage to stay within budget or enforce prepaid limits. For pay-as-you-go environments, control how much you're willing to spend by applying limits per agent. Helps preven",
+            "preview_date": "07/31/2025",
+            "ga_date": "08/25/2025"
+          },
+          {
+            "feature_name": "Take advantage of expanded Virtual Network support",
+            "product": "Microsoft Power Platform governance and administration",
+            "product_group": "Security and compliance",
+            "status": "GA",
+            "release_wave": "2026 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Users by admins, makers, or analysts",
+            "description": "Expanded Virtual Network support for more connectors and Power Platform services greatly enhances your data security strategies.",
+            "preview_date": "04/01/2026",
+            "ga_date": "04/30/2026"
+          },
+          {
+            "feature_name": "Manage table list views with security roles",
+            "product": "Microsoft Power Platform governance and administration",
+            "product_group": "Security and compliance",
+            "status": "GA",
+            "release_wave": "2025 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Users by admins, makers, or analysts",
+            "description": "Role-based views simplify the usability of a business line app when multiple users with different needs use the app. For example, team leads or supervisors who work in the case table need different system views than a case service rep. Standard system views, like 'My Cases' and 'My Cases Closed Today', clutter the experience for the supervisors. To provide a cleaner experience, makers had to create multiple apps.",
+            "preview_date": "02/07/2025",
+            "ga_date": "08/31/2025"
+          },
+          {
+            "feature_name": "Block and limit sharing for Copilot Studio",
+            "product": "Microsoft Power Platform governance and administration",
+            "product_group": "Security and compliance",
+            "status": "GA",
+            "release_wave": "2025 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Users by admins, makers, or analysts",
+            "description": "Sharing limits give admins in the Power Platform admin center a new type of guardrail. With this feature, admins can turn off sharing so makers can't share their agent that they created in Microsoft Copilot Studio with an individual or security group. You can apply this feature at the managed environment level. You can also apply it as a rule to an environment group.",
+            "preview_date": "12/17/2024",
+            "ga_date": "05/23/2025"
+          },
+          {
+            "feature_name": "Permit or deny guest access to an environment",
+            "product": "Microsoft Power Platform governance and administration",
+            "product_group": "Security and compliance",
+            "status": "GA",
+            "release_wave": "2026 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Users by admins, makers, or analysts",
+            "description": "When an admin configures this environment setting, guests can't connect to data sources in the environment. Guests can't perform any maker actions, and they can't use any apps or flows shared with them. Admins implement this security within the Power Platform admin center without using controls like conditional access or continuous access evaluation.",
+            "preview_date": "11/18/2024",
+            "ga_date": "05/01/2026"
+          },
+          {
+            "feature_name": "Deploy and manage unified sandbox environments",
+            "product": "Microsoft Power Platform governance and administration",
+            "product_group": "Unified experience for Power Platform and finance and operations apps",
+            "status": "GA",
+            "release_wave": "2025 release wave 1",
+            "last_updated": "06/11/2026",
+            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
+            "description": "Customers can now manage their sandbox environments as part of a unified experience in Power Platform admin center for all Dynamics 365 apps. This experience gives admins a consistent and single set of lifecycle operations they can perform across all their artifacts.",
+            "preview_date": "03/31/2025",
+            "ga_date": "09/30/2025"
+          }
+        ]
+      },
+      "total_updates": 46,
       "error": null
     }
   },
