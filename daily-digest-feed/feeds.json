@@ -1,20 +1,13 @@
 {
-  "generated_at": "2026-06-13T11:37:34.818531Z",
+  "generated_at": "2026-06-14T11:42:14.731276Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
         {
-          "creator": "Epic Adventure Outfitters",
-          "handle": "@EpicAdventureOutfitters",
-          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Life Style Overland",
-          "handle": "@LifeStyleOverland",
-          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
+          "creator": "This Story Till Now",
+          "handle": "@ThisStoryTillNow",
+          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
           "videos": [],
           "error": null
         },
@@ -22,6 +15,13 @@
           "creator": "VentureToRoam",
           "handle": "@VentureToRoam",
           "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Life Style Overland",
+          "handle": "@LifeStyleOverland",
+          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
           "videos": [],
           "error": null
         },
@@ -40,29 +40,22 @@
           "error": null
         },
         {
+          "creator": "Casey 250",
+          "handle": "@Casey250",
+          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
+          "videos": [],
+          "error": null
+        },
+        {
           "creator": "TrailRecon",
           "handle": "@TrailRecon",
           "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
           "videos": [
             {
-              "title": "What 3 Days on the Rubicon Does to a Group of Friends",
-              "url": "https://www.youtube.com/watch?v=3SlBmdI-J28",
-              "published": "2026-06-11T22:00:27Z",
-              "description": "When's the last time you took a vacation to do something hard on purpose?\nAfter more than eight years, I'm back on the Rubicon Trail, this time with four friends who've never seen it. Five Jeeps, three days, and one of the toughest 4x4 trails in America. We made it through the Gatekeeper, got told no at the Soup Bowl and the Little Sluice, bent up a fender, blew two tire beads, and found out it can take three jacks to change one tire on granite. We camped at Rubicon Springs with the whole place "
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Casey 250",
-          "handle": "@Casey250",
-          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
-          "videos": [
-            {
-              "title": "The Good, Bad, & Ugly of Premium Roof Top Tents (2 Year Review)",
-              "url": "https://www.youtube.com/watch?v=B6wzBtL1k8I",
-              "published": "2026-06-11T22:00:24Z",
-              "description": "Prime Day is here! Your FIRST choice for power backup is @EcoFlowTech.\nSave up to 63% OFF— now’s the best time to power up.\nUse code 26EFPDCY for 5% OFF on eligible orders. Final discount will be reflected at checkout. Valid until July 3.  \nEcoFlow Prime Day Deals: https://bit.ly/4al4lHV\nEcoFlow on Amazon: https://amzn.to/4fXLypQ\n@EcoFlowTech \n\n============================================\n\nI am looking at my AluCab Gen-3r rooftop tent that I have owned for several years now. I am going to go thr"
+              "title": "How to Repair a Blown Tire Bead",
+              "url": "https://www.youtube.com/shorts/Sn0W5d_74Js",
+              "published": "2026-06-13T19:10:57Z",
+              "description": ""
             }
           ],
           "error": null
@@ -75,18 +68,39 @@
           "error": null
         },
         {
-          "creator": "This Story Till Now",
-          "handle": "@ThisStoryTillNow",
-          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "creator": "Epic Adventure Outfitters",
+          "handle": "@EpicAdventureOutfitters",
+          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
           "videos": [],
           "error": null
         }
       ],
       "power_platform": [
         {
+          "creator": "Reza Dorrani",
+          "handle": "@RezaDorrani",
+          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
+          "videos": [],
+          "error": null
+        },
+        {
           "creator": "Matthew Devaney",
           "handle": "@MatthewDevaney",
           "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
+          "videos": [
+            {
+              "title": "The FUTURE of Copilot Studio is HERE (New Agents Preview)",
+              "url": "https://www.youtube.com/watch?v=aX4bcDPTmPY",
+              "published": "2026-06-13T23:54:52Z",
+              "description": "The latest version of #CopilotStudio just dropped and it is going to change how you build agents. \n\nToday, we are going to explore the new designer, the new orchestrator and every new feature it comes fully-loaded with. \n\nSo stick around until the end of the video, and I will show every last one of them to you.\n\nTable Of Contents 🎬\n00:00 Introduction \n01:07 Reveal The Orchestrator's Secrets By Chatting With The Agent\n04:05 Download All Of The Orchestrator's Details In An HTML File\n04:55 Connect "
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Lisa Crosbie",
+          "handle": "@LisaCrosbie",
+          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
           "videos": [],
           "error": null
         },
@@ -98,108 +112,35 @@
           "error": null
         },
         {
-          "creator": "Lisa Crosbie",
-          "handle": "@LisaCrosbie",
-          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "April Dunnam",
           "handle": "@AprilDunnam",
           "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
-          "videos": [
-            {
-              "title": "Confused by Microsoft AI Options? Here's a Break Down",
-              "url": "https://www.youtube.com/watch?v=JqXQXReeR2Q",
-              "published": "2026-06-11T14:00:11Z",
-              "description": "Confused by Microsoft Scout, Copilot Cowork, Microsoft 365 Copilot and Copilot Studio? You’re not alone. In this video, I break down what each Microsoft AI tool does, how they’re different and which one you should use for your specific scenario.\n\nYou’ll learn when to use:\n\n✅ Microsoft Scout for AI-powered actions across your desktop, files, browser, Microsoft 365 data and connected tools\n✅ Copilot Cowork for delegating larger, multi-step tasks that can continue running in the cloud\n✅ Microsoft 3"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Reza Dorrani",
-          "handle": "@RezaDorrani",
-          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
           "videos": [],
           "error": null
         }
       ],
       "fabric_powerbi": [
         {
-          "creator": "Guy in a Cube",
-          "handle": "@GuyInACube",
-          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
-          "videos": [
-            {
-              "title": "Azure SQL Database for Free? I Built a Real App Backend",
-              "url": "https://www.youtube.com/watch?v=UMivSJUTBns",
-              "published": "2026-06-11T14:30:12Z",
-              "description": "Azure SQL Database has a free offer, but free by itself is not the story.\n\nIn this video, we want to show why the Azure SQL Database free offer is interesting for developers, data professionals, SQL Server users, and anyone building a small app, prototype, proof of concept, or learning project.\n\nPatrick is going to show you how a messy spreadsheet can turn into a real app backend using Azure SQL Database. Starting with conference feedback data, he walks through a tiny feedback app that writes di"
-            }
-          ],
-          "error": null
-        },
-        {
           "creator": "Dewain Robinson",
           "handle": "@DewainRobinson",
           "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Guy in a Cube",
+          "handle": "@GuyInACube",
+          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
           "videos": [],
           "error": null
         }
       ],
       "ai": [
         {
-          "creator": "NateBJones",
-          "handle": "@NateBJones",
-          "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
-          "videos": [
-            {
-              "title": "BREAKING: Claude Fable 5 Pulled. Why Frontier AI Is Now a Policy Surface",
-              "url": "https://www.youtube.com/watch?v=b3jlsjOIOzs",
-              "published": "2026-06-13T06:37:37Z",
-              "description": "My Links 🔗 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n👉🏻 Instagram: https://www.instagram.com/nate.b.jones\n\nThe US government just forced Anthropic to take its most advanced AI models offline, and I filmed this from a plane because it's that unprecedented. \n\nThe order moved to block foreign access to Fable 5 and Mythos 5, and it's broad enough, covering foreign nationals even inside the US, that the practical w"
-            },
-            {
-              "title": "Is AI actually causing your layoffs? #ai #work #career",
-              "url": "https://www.youtube.com/shorts/qEVgNyBkg78",
-              "published": "2026-06-13T03:00:31Z",
-              "description": "For 50% off a yearly subscription ($250 → $125) to my Substack head to: https://www.natebjones.com/the-path-forward\n\nWhat you get access to:\n✅ One guide, build, or tool every week that helps you build fluency and learn how to use AI tools today.\n✅ Access to TalentBoard, where you can show your fluency and get found by people hiring for real roles.\n✅ One deep dive a week on something in AI that actually matters, so you know what's moving and how to move your career with it.\n✅ Access to my communi"
-            },
-            {
-              "title": "Only 1 in 1,600 People Use Codex. Here's How to Catch Up.",
-              "url": "https://www.youtube.com/watch?v=xqGCbEDbny8",
-              "published": "2026-06-12T14:00:09Z",
-              "description": "My Ultimate Codex Guide: https://natesnewsletter.substack.com/p/codex-guide-no-code?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\n✅ Catch up on a year of AI in one Codex weekend. You're not behind on facts. You're behind on setup. That's a much better problem.\n✅  Run Codex with almost no code. Every step is a copy-paste prompt.\n✅ Codex does the work, not one more chat tab. Hand it a real job in your real files and get it back finished, with receipts.\n✅ Stop chasi"
-            },
-            {
-              "title": "The bridge between hand-waving and doing it all #ai #innovation #fable5",
-              "url": "https://www.youtube.com/shorts/sgF5Fo2vhTE",
-              "published": "2026-06-12T03:00:18Z",
-              "description": "Stop choosing between hand-waving instructions and doing all the work yourself. A third way to work with AI is here.\n\nMost people get stuck managing AI prompts or grinding through tasks manually. This framework bridges that gap, helping you delegate effectively without losing control of the output.\n\nSubscribe for more practical workflows on getting better results from your AI tools."
-            },
-            {
-              "title": "Apple WWDC 2026: The AI Story Everyone is Missing",
-              "url": "https://www.youtube.com/watch?v=t7L6-fMpxFc",
-              "published": "2026-06-11T14:00:38Z",
-              "description": "My Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n👉🏻 Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside Apple's WWDC AI strategy?\n\nThe common story is that Apple fell behind in the model race and had to borrow Google's Gemini tech to catch up, but the reality is more complicated, and it has less to do with who builds the best large language model than who owns the device it"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Alex Finn",
-          "handle": "@AlexFinn",
-          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
-          "videos": [
-            {
-              "title": "CLAUDE FABLE 5 BANNED. IT ACTUALLY HAPPENED...",
-              "url": "https://www.youtube.com/watch?v=mm3Ybi-9cCw",
-              "published": "2026-06-13T05:53:28Z",
-              "description": "Claude Fable 5 (Mythos) BANNED across the world\n\nFULL Claude Opus 4.8 bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/"
-            }
-          ],
+          "creator": "Chase AI",
+          "handle": "@ChaseAI",
+          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+          "videos": [],
           "error": null
         },
         {
@@ -223,10 +164,43 @@
           "error": null
         },
         {
-          "creator": "Chase AI",
-          "handle": "@ChaseAI",
-          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
-          "videos": [],
+          "creator": "Alex Finn",
+          "handle": "@AlexFinn",
+          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
+          "videos": [
+            {
+              "title": "CLAUDE FABLE 5 BANNED. IT ACTUALLY HAPPENED...",
+              "url": "https://www.youtube.com/watch?v=mm3Ybi-9cCw",
+              "published": "2026-06-13T05:53:28Z",
+              "description": "Claude Fable 5 (Mythos) BANNED across the world\n\nFULL Claude Opus 4.8 bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "NateBJones",
+          "handle": "@NateBJones",
+          "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
+          "videos": [
+            {
+              "title": "The End of Unrestricted AI: Why Claude Fable 5 Was Just Forced Offline",
+              "url": "https://www.youtube.com/watch?v=b3jlsjOIOzs",
+              "published": "2026-06-13T06:37:37Z",
+              "description": "My Links 🔗 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n👉🏻 Instagram: https://www.instagram.com/nate.b.jones\n\nThe US government just forced Anthropic to take its most advanced AI models offline, and I filmed this from a plane because it's that unprecedented. \n\nThe order moved to block foreign access to Fable 5 and Mythos 5, and it's broad enough, covering foreign nationals even inside the US, that the practical w"
+            },
+            {
+              "title": "Is AI actually causing your layoffs? #ai #work #career",
+              "url": "https://www.youtube.com/shorts/qEVgNyBkg78",
+              "published": "2026-06-13T03:00:31Z",
+              "description": "For 50% off a yearly subscription ($250 → $125) to my Substack head to: https://www.natebjones.com/the-path-forward\n\nWhat you get access to:\n✅ One guide, build, or tool every week that helps you build fluency and learn how to use AI tools today.\n✅ Access to TalentBoard, where you can show your fluency and get found by people hiring for real roles.\n✅ One deep dive a week on something in AI that actually matters, so you know what's moving and how to move your career with it.\n✅ Access to my communi"
+            },
+            {
+              "title": "Only 1 in 1,600 People Use Codex. Here's How to Catch Up.",
+              "url": "https://www.youtube.com/watch?v=xqGCbEDbny8",
+              "published": "2026-06-12T14:00:09Z",
+              "description": "My Ultimate Codex Guide: https://natesnewsletter.substack.com/p/codex-guide-no-code?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\n✅ Catch up on a year of AI in one Codex weekend. You're not behind on facts. You're behind on setup. That's a much better problem.\n✅  Run Codex with almost no code. Every step is a copy-paste prompt.\n✅ Codex does the work, not one more chat tab. Hand it a real job in your real files and get it back finished, with receipts.\n✅ Stop chasi"
+            }
+          ],
           "error": null
         },
         {
@@ -269,16 +243,22 @@
           "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
           "videos": [
             {
+              "title": "Fable 5 Shut Down by US Government",
+              "url": "https://www.youtube.com/watch?v=5-CGzLrA4fg",
+              "published": "2026-06-13T17:00:06Z",
+              "description": "In this emergency episode, NLW breaks down the stunning news that the US government has ordered Anthropic to suspend access to Fable 5 and Mythos 5 for foreign nationals, forcing the company to shut the models down for all users. He explores Anthropic’s response, the backlash from across the AI world, and why this moment could set a major new precedent for government control over frontier AI.\n\nThe AI Daily Brief helps you understand the most important news and discussions in AI. \nSubscribe to th"
+            },
+            {
+              "title": "The AI Chart Everyone Is Getting Wrong",
+              "url": "https://www.youtube.com/watch?v=05VE_9rI954",
+              "published": "2026-06-13T15:46:26Z",
+              "description": "A viral Wall Street chart has kicked off a new round of AI bubble panic, but NLW argues the market is reading it wrong. The real story isn’t collapsing demand — it’s the shift from the token subsidy era to the token scarcity era, where companies are learning to route AI usage more efficiently. In the headlines: SpaceX’s IPO, Bezos’ Prometheus raise, Meta’s Manus split, chip supply chain crunches, and Goldman’s trillion-dollar AI infrastructure forecast.\n\nThe AI Daily Brief helps you understand t"
+            },
+            {
               "title": "10 Sites Knowledge Workers Should Build with AI",
               "url": "https://www.youtube.com/watch?v=45UGHbqq2fQ",
               "published": "2026-06-12T13:56:11Z",
               "description": "AI is making it possible to build richer versions of the files knowledge workers send every day: decks, memos, spreadsheets, reports, proposals, training materials, and more. This has gotten even easier this week with the release of OpenAI's \"Sites\" feature in Codex. In this practical Operator's episode, NLW walks through 10+ examples of work outputs that are often better as living, shareable, updateable, interactive links than static documents.\n\nThe AI Daily Brief helps you understand the most "
-            },
-            {
-              "title": "Why Fable 5 is the Most Controversial AI Release Ever",
-              "url": "https://www.youtube.com/watch?v=LNXDoKPe06I",
-              "published": "2026-06-12T00:59:11Z",
-              "description": "Anthropic's Fable-5 launch sparked outrage over opaque safety filters, silent model degradation for AI research, and a 30-day enterprise data-retention rule. A rapid walkback restored visibility for safeguards but left deep trust and enterprise-adoption concerns. Broader themes included AI equity proposals for a sovereign wealth fund, massive data-center buildouts and local pushback, and tensions between concentrated lab power and open research.\n\nThe AI Daily Brief helps you understand the most "
             }
           ],
           "error": null
