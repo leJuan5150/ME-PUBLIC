@@ -1,30 +1,9 @@
 {
-  "generated_at": "2026-06-18T12:09:09.121441Z",
+  "generated_at": "2026-06-19T12:21:09.509463Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
-        {
-          "creator": "VentureToRoam",
-          "handle": "@VentureToRoam",
-          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
-          "videos": [
-            {
-              "title": "MUST SEE IDAHO Waterfalls",
-              "url": "https://www.youtube.com/watch?v=-yyyoPdlTL8",
-              "published": "2026-06-16T14:43:52Z",
-              "description": "Support my Partners:\nK-Suspension: https://geni.us/Ksuspension\nJoin our Patreon! https://www.patreon.com/c/venture2roam\nSave 20% on OnX Offroad: https://geni.us/OnXOffroad V2R20\n\nI share my favorite waterfalls in South Western Idaho. These majestic waterfalls will take your breath away as they carve though canyons and in some cases travel underground hundreds of miles before reappearing on Idaho cliffsides. The waterfalls in this video make a perfect day trip, camping experience, or even overlan"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "TrailRecon",
-          "handle": "@TrailRecon",
-          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
-          "videos": [],
-          "error": null
-        },
         {
           "creator": "Ozark Overland Adventure",
           "handle": "@OzarkOverlandAdventures",
@@ -47,10 +26,31 @@
           "error": null
         },
         {
+          "creator": "Life Style Overland",
+          "handle": "@LifeStyleOverland",
+          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
+          "videos": [],
+          "error": null
+        },
+        {
           "creator": "LetsGetLost",
           "handle": "@LetsGetLost",
           "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
           "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Casey 250",
+          "handle": "@Casey250",
+          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
+          "videos": [
+            {
+              "title": "Is the Iceco VL45 Plus the Ultimate 12v Fridge?",
+              "url": "https://www.youtube.com/watch?v=RtazGyJ34Hk",
+              "published": "2026-06-18T22:00:27Z",
+              "description": "Grab your ICECO VL45 PLUS Today: https://bit.ly/4uxEEvm\n\nAre fridge slides officially a thing of the past? In this video, we’re taking a deep dive into the Iceco VL45 Plus to see if its unique design can replace a traditional slide-out setup in your rig.\n\nWe take a look at this fridge to see how it actually fits in the back of a Jeep. If you're tired of bulky slides taking up precious cargo space, this might be the solution you've been looking for.\n\nIn this video:\n\n    Iceco VL45 Plus full teard"
+            }
+          ],
           "error": null
         },
         {
@@ -61,42 +61,21 @@
           "error": null
         },
         {
-          "creator": "Casey 250",
-          "handle": "@Casey250",
-          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
+          "creator": "TrailRecon",
+          "handle": "@TrailRecon",
+          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
           "videos": [],
           "error": null
         },
         {
-          "creator": "Life Style Overland",
-          "handle": "@LifeStyleOverland",
-          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
+          "creator": "VentureToRoam",
+          "handle": "@VentureToRoam",
+          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
           "videos": [],
           "error": null
         }
       ],
       "power_platform": [
-        {
-          "creator": "Shane Young",
-          "handle": "@ShanesCows",
-          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Lisa Crosbie",
-          "handle": "@LisaCrosbie",
-          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Matthew Devaney",
-          "handle": "@MatthewDevaney",
-          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
-          "videos": [],
-          "error": null
-        },
         {
           "creator": "Reza Dorrani",
           "handle": "@RezaDorrani",
@@ -108,52 +87,86 @@
           "creator": "April Dunnam",
           "handle": "@AprilDunnam",
           "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
+          "videos": [
+            {
+              "title": "Copilot Cowork Is GA... Here's What Actually Changed",
+              "url": "https://www.youtube.com/watch?v=QcxeVdKC3rY",
+              "published": "2026-06-18T13:45:01Z",
+              "description": "n this video, I walk through what changed with Copilot Cowork now that it's reached general availability, including the new usage-based billing model, Copilot Credits, admin controls and security, skills, plugins, MCP support, browser use, branded PowerPoint templates, and when Cowork is actually worth using over Microsoft 365 Copilot.\n\n📚 Resources Mentioned\n\n🚀 Copilot Cowork\nGet started with Copilot Cowork:\nhttps://aka.ms/cowork\n\n🧩 Cowork Skills\nLearn how to create reusable instructions and pla"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Lisa Crosbie",
+          "handle": "@LisaCrosbie",
+          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Shane Young",
+          "handle": "@ShanesCows",
+          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Matthew Devaney",
+          "handle": "@MatthewDevaney",
+          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
           "videos": [],
           "error": null
         }
       ],
       "fabric_powerbi": [
         {
-          "creator": "Guy in a Cube",
-          "handle": "@GuyInACube",
-          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
+          "creator": "Dewain Robinson",
+          "handle": "@DewainRobinson",
+          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
           "videos": [
             {
-              "title": "We tested the New Power BI Report Skills: The Future of AI-Powered Reporting? [Steb by step demo]",
-              "url": "https://www.youtube.com/watch?v=pDRSXOK6fq0",
-              "published": "2026-06-17T14:30:03Z",
-              "description": "In this video, Marthe tests the new Power BI Report Skills experience and show how AI is changing the way reports are created, refined, and delivered.\n\nShe takes us trough it all step-by-step looking at:\n✅How to access and enable the new experience\n✅ Step-by-step setup and installation\n✅ How AI-assisted report authoring works\n✅ What this means for analysts and BI developers\n✅ Real-world demonstration of the new capabilities\n\nJump right to:\n00:40 Get started with Power BI Report Skills\n02:11 Inst"
-            },
-            {
-              "title": "Are we happy or sad about this? 🤯🤩😭",
-              "url": "https://www.youtube.com/shorts/Eu-oEIUZYpI",
-              "published": "2026-06-16T18:49:05Z",
-              "description": "You never have to build a Power BI report again. 🤯🤯🤯 #PowerBI #AI #agenticai \n\n📢 Become a member: https://guyinacu.be/membership \n\n*******************\nLET'S CONNECT!\n*******************\n\n-- https://www.linkedin.com/company/guyinacube\n-- https://bsky.app/profile/guyinacube.bsky.social\n-- http://twitter.com/guyinacube\n-- http://www.facebook.com/guyinacube\n\n\n#PowerBI #MicrosoftFabric #GuyInACube"
+              "title": "Exciting News Coming",
+              "url": "https://www.youtube.com/shorts/j_AK50lmPEE",
+              "published": "2026-06-18T16:20:47Z",
+              "description": ""
             }
           ],
           "error": null
         },
         {
-          "creator": "Dewain Robinson",
-          "handle": "@DewainRobinson",
-          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
-          "videos": [],
+          "creator": "Guy in a Cube",
+          "handle": "@GuyInACube",
+          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
+          "videos": [
+            {
+              "title": "AI Didn’t Kill ETL — It Made Data Modeling More Important",
+              "url": "https://www.youtube.com/watch?v=mDEXl_nFiRY",
+              "published": "2026-06-18T14:30:11Z",
+              "description": "Is ETL dead in the AI era? Not even close.\n\nIn this Guy in a Cube video, Patrick LeBlanc responds to a great community discussion around the AI-native data stack, ETL, data modeling, semantic models, medallion architecture, and what AI agents really need from your data.\n\nThis conversation was sparked by a Reddit thread in the Microsoft Fabric community:\nhttps://www.reddit.com/r/MicrosoftFabric/s/ejV0HQeTd2\n\nPatrick is going to show you why AI does not remove the need for ETL, data warehouses, or"
+            },
+            {
+              "title": "We tested the New Power BI Report Skills: The Future of AI-Powered Reporting? [Steb by step demo]",
+              "url": "https://www.youtube.com/watch?v=pDRSXOK6fq0",
+              "published": "2026-06-17T14:30:03Z",
+              "description": "In this video, Marthe tests the new Power BI Report Skills experience and show how AI is changing the way reports are created, refined, and delivered.\n\nShe takes us trough it all step-by-step looking at:\n✅How to access and enable the new experience\n✅ Step-by-step setup and installation\n✅ How AI-assisted report authoring works\n✅ What this means for analysts and BI developers\n✅ Real-world demonstration of the new capabilities\n\nJump right to:\n00:40 Get started with Power BI Report Skills\n02:11 Inst"
+            }
+          ],
           "error": null
         }
       ],
       "ai": [
         {
-          "creator": "Alex Finn",
-          "handle": "@AlexFinn",
-          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "NateBJones",
           "handle": "@NateBJones",
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
+            {
+              "title": "Apple’s Worst Nightmare #apple #google #gemini",
+              "url": "https://www.youtube.com/shorts/SzSL54SrSVE",
+              "published": "2026-06-19T03:00:21Z",
+              "description": "My Links 🔗 👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n👉🏻 Instagram: https://www.instagram.com/nate.b.jones\n\nIs Apple finally outsourcing its AI strategy to Google Gemini?\n\nWe are looking at the new partnership between Apple and Google and what it means for the future of Foundation models. If you have been following Apple's history of independent innovation, this shift in strategy is a major turning point for"
+            },
             {
               "title": "Don't let your app get left behind #appleintelligence #tech #ai",
               "url": "https://www.youtube.com/shorts/nUoJS6AXoAw",
@@ -164,15 +177,16 @@
               "title": "Don't build more AI agents until you watch this",
               "url": "https://www.youtube.com/watch?v=BOXK2XFLA-E",
               "published": "2026-06-17T14:00:31Z",
-              "description": "Full post with Agent Maintenance Guide: https://natesnewsletter.substack.com/p//ai-agent-maintenance?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nOpenAI and Anthropic aren't the only ones who figured this out: Vercel made its AI agent better by deleting most of its tools. The real skill in 2026 is not building agents, it is maintaining the harness around them as the model improves and your data drifts.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack."
-            },
-            {
-              "title": "Siri is finally getting an upgrade 🤯 #siri #apple #ios",
-              "url": "https://www.youtube.com/shorts/4-luYDWO9f4",
-              "published": "2026-06-17T03:00:02Z",
-              "description": "My Links 🔗 👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n👉🏻 Instagram: https://www.instagram.com/nate.b.jones\n\nApple AI strategy isn't about a chatbot; it is about your device.\n\nMost people miss how Apple Intelligence weaves into the apps you already use daily. This breakdown explains why Apple is betting on integration over standalone features.\n\nWatch to see why Siri is changing without becoming a separate AI "
+              "description": "Full post with Agent Maintenance Guide: https://natesnewsletter.substack.com/p/ai-agent-maintenance?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nOpenAI and Anthropic aren't the only ones who figured this out: Vercel made its AI agent better by deleting most of its tools. The real skill in 2026 is not building agents, it is maintaining the harness around them as the model improves and your data drifts.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.c"
             }
           ],
+          "error": null
+        },
+        {
+          "creator": "Alex Finn",
+          "handle": "@AlexFinn",
+          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
+          "videos": [],
           "error": null
         },
         {
@@ -181,16 +195,42 @@
           "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
           "videos": [
             {
+              "title": "GLM 5.2 in Claude Code is Blowing My Mind",
+              "url": "https://www.youtube.com/watch?v=2OD14-0cot4",
+              "published": "2026-06-19T01:13:05Z",
+              "description": "My FREE AI OS Course: https://www.skool.com/ai-automation-society/about?el=glm-5.2-claude&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\nFull courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=glm-5.2-claude&amp;hcategory=youtube-videos&amp;utm_campaign=ais-plus\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS ("
+            },
+            {
+              "title": "How to Build Effective Claude Code Agents in 2026",
+              "url": "https://www.youtube.com/watch?v=RzLV8sfFdMM",
+              "published": "2026-06-18T17:26:17Z",
+              "description": "Code NATEHERKB2 for 15% for Biz+ for 1 month or year (exp Jul 18): https://clickup.com/ \nMy FREE AI OS Course: https://www.skool.com/ai-automation-society/about?el=cole-medin-podcast&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\nFull courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=cole-medin-podcast&amp;hcategory=youtube-videos&amp;utm_campaign=ais-plus\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/"
+            },
+            {
               "title": "Every Level of a Claude Second Brain Explained",
               "url": "https://www.youtube.com/watch?v=DTCyvo6cC54",
               "published": "2026-06-17T20:52:45Z",
               "description": "My FREE AI OS Course: https://www.skool.com/ai-automation-society/about?el=second-brain-levels&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\nFull courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=second-brain-levels&amp;hcategory=youtube-videos&amp;utm_campaign=ais-plus\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10%"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "AI Daily Brief",
+          "handle": "@AIDailyBrief",
+          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
+          "videos": [
+            {
+              "title": "Why Only AI Training Can Save the Economy",
+              "url": "https://www.youtube.com/watch?v=v3jwNZ94GLo",
+              "published": "2026-06-18T17:29:26Z",
+              "description": "Large-scale AI training offers the only practical path to align AI labs' token-driven revenue growth with enterprise spending constraints. A shift from seat-based subscriptions to agentic, usage-based consumption is driving surging token demand, massive infrastructure investment, and adoption of token-efficiency tactics such as model routing and targeted post-training. Massive, high-quality upskilling prevents budget caps and known-ROI bias from stifling experimentation; discovery of high-value "
             },
             {
-              "title": "We Might Actually Need to Stop AI",
-              "url": "https://www.youtube.com/watch?v=CvA8-aScqio",
-              "published": "2026-06-16T13:15:42Z",
-              "description": "My FREE AI OS Course: https://www.skool.com/ai-automation-society/about?el=pause-ai-june-26&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\nFull courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=pause-ai-june-26&amp;hcategory=youtube-videos&amp;utm_campaign=ais-plus\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off V"
+              "title": "A Big Shift in the AI Race",
+              "url": "https://www.youtube.com/watch?v=RO7Ly_wu9dQ",
+              "published": "2026-06-17T20:00:56Z",
+              "description": "Anthropic's forced shutdown of Mythos and Fable exposes jailbreak risks, cybersecurity weaknesses, and a chaotic regulatory response.  \nSpaceX's IPO and the Cursor acquisition signal a shift toward monetizing massive compute and competing across models, harnesses, and control planes. Industry themes include token-cost pressures driving efficiency, KPMG evidence that top AI users treat models as reasoning partners, and escalating national-security oversight.\n\nThe AI Daily Brief helps you understa"
             }
           ],
           "error": null
@@ -199,25 +239,18 @@
           "creator": "Chase AI",
           "handle": "@ChaseAI",
           "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Simon Scrapes",
-          "handle": "@SimonScrapes",
-          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
           "videos": [
             {
-              "title": "14 GENIUS Ways to Give Claude Code SUPERPOWERS",
-              "url": "https://www.youtube.com/shorts/ZjNzXokagJ4",
-              "published": "2026-06-17T10:30:30Z",
-              "description": "Are you still using Claude Code like it's 2025? A lot has changed, and while most people treat it like a chatbot, a small group are running their entire business through it. This next video packs 14 high-leverage tips and setup decisions that will turn Claude Code into a superpowered, agentic tool."
+              "title": "This skill turns Claude Code into a Research God",
+              "url": "https://www.youtube.com/shorts/xww96j6eoig",
+              "published": "2026-06-19T12:00:00Z",
+              "description": ""
             },
             {
-              "title": "You’re Only Using 10% of Claude Code (I’m Being Serious)",
-              "url": "https://www.youtube.com/watch?v=nPkoRJMIgmk",
-              "published": "2026-06-16T15:54:12Z",
-              "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes \nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\nAre you stuck just using Claude Code as a better chatbot? This tutorial closes the gap between the promise of AI automation and your reality. In this video, we cover the four essential phases to unlock Claude's full potential: making it work continuously, handling bigger jobs without quality drops, getting it off your laptop, and finally"
+              "title": "The #1 Trending GitHub Repo Makes Claude 20% Cheaper?",
+              "url": "https://www.youtube.com/shorts/VIg3da4sUM8",
+              "published": "2026-06-19T03:28:07Z",
+              "description": ""
             }
           ],
           "error": null
@@ -232,28 +265,15 @@
               "url": "https://www.youtube.com/watch?v=rvg0wuMC5_s",
               "published": "2026-06-17T13:00:22Z",
               "description": "👉 Kortex: https://kortex-notebooklm.com/\n⚠️ Use Code PAUL10 for 10% off 🚨\n\nNotebookLM just got a massive update. It can now create PDFs, PowerPoints, Excel files, and charts right from the chat, and it runs on Gemini 3.5 with a secure cloud computer for deeper research and analysis.\n\nHeads up, these updates may not be available worldwide yet. Just because I have access to them doesn't mean you will yet.\n\n🔗 This video is sponsored. Some product links are affiliate links which means if you buy som"
-            },
-            {
-              "title": "The Tool That 10x'd My Claude Cowork OS (Zapier MCP)",
-              "url": "https://www.youtube.com/watch?v=WALe2iQvaOk",
-              "published": "2026-06-16T13:00:28Z",
-              "description": "#ZapierPartner Sponsored by Zapier! Zapier MCP levels you up, connecting you directly to apps to automate your workflow. Start building with Zapier MCP today: https://bit.ly/4vRBaF5\n\nClaude Cowork's built-in connectors can read your apps but often can't act on them. Here's how to set up Zapier MCP to give Cowork real permissions across 9,000+ apps, like actually sending emails and editing Google Docs for you.\n\n0:00 Intro\n0:41 The Problem with Claude Connectors\n1:40 What Is Zapier MCP\n2:43 Settin"
             }
           ],
           "error": null
         },
         {
-          "creator": "AI Daily Brief",
-          "handle": "@AIDailyBrief",
-          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
-          "videos": [
-            {
-              "title": "A Big Shift in the AI Race",
-              "url": "https://www.youtube.com/watch?v=RO7Ly_wu9dQ",
-              "published": "2026-06-17T20:00:56Z",
-              "description": "Anthropic's forced shutdown of Mythos and Fable exposes jailbreak risks, cybersecurity weaknesses, and a chaotic regulatory response.  \nSpaceX's IPO and the Cursor acquisition signal a shift toward monetizing massive compute and competing across models, harnesses, and control planes. Industry themes include token-cost pressures driving efficiency, KPMG evidence that top AI users treat models as reasoning partners, and escalating national-security oversight.\n\nThe AI Daily Brief helps you understa"
-            }
-          ],
+          "creator": "Simon Scrapes",
+          "handle": "@SimonScrapes",
+          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
+          "videos": [],
           "error": null
         }
       ]
@@ -685,87 +705,8 @@
     "release_plans": {
       "source_url": "https://releaseplans.net/",
       "data_url": "https://releaseplans.net/data/release-plans.json",
-      "products": {
-        "Power Automate": [
-          {
-            "feature_name": "View property value expanded inline in new cloud flow designer",
-            "product": "Power Automate",
-            "product_group": "Cloud flows",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "06/17/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "You can be more efficient when authoring or debugging flows by using the inline view to examine property values from multiple steps at once without needing to select each step separately.",
-            "preview_date": "",
-            "ga_date": "06/01/2026"
-          },
-          {
-            "feature_name": "Analyze processes using object-centric process mining",
-            "product": "Power Automate",
-            "product_group": "Process mining",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "06/17/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "Object-centric process mining delivers transformative insights that traditional process analysis simply can't capture. By analyzing how multiple object types, such as orders, items, deliveries, and invoices interact throughout your processes, you gain a complete, realistic view of your operations as they actually function. This comprehensive visibility enables you to identify hidden inefficiencies, such as bottlenecks that only appear when certain object combinations occur, or resource constrain",
-            "preview_date": "11/14/2025",
-            "ga_date": "06/05/2026"
-          },
-          {
-            "feature_name": "Analyze your processes in the process intelligence experience",
-            "product": "Power Automate",
-            "product_group": "Process mining",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "06/17/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "The process intelligence experience eliminates the friction between your questions and your answers. Instead of navigating rigid dashboards or using a desktop application, your teams work in a fluid, customizable environment that adapts to their analysis needs in real-time. This means faster time-to-insight, reduced training overhead, and the ability to tackle complex process questions without constantly restarting your analysis. Business analysts, process owners, and improvement teams can now b",
-            "preview_date": "03/17/2026",
-            "ga_date": "06/05/2026"
-          }
-        ],
-        "Microsoft Dataverse": [
-          {
-            "feature_name": "Monitor data management framework with Azure Monitor Application Insights",
-            "product": "Microsoft Dataverse",
-            "product_group": "Finance and operations cross application integration",
-            "status": "GA",
-            "release_wave": "",
-            "last_updated": "06/17/2026",
-            "enabled_for": "Users by admins, makers, or analysts",
-            "description": "Data management framework telemetry gives customers real‑time visibility into data import and export jobs. It provides progress tracking, detailed error insights, and proactive alerts through Azure Application Insights, helping teams troubleshoot faster, reduce operational effort, and run data management more reliably.",
-            "preview_date": "04/06/2026",
-            "ga_date": "06/08/2026"
-          },
-          {
-            "feature_name": "Enhance Dataverse record descriptions for Copilot /mention",
-            "product": "Microsoft Dataverse",
-            "product_group": "Improved enterprise experiences in Power Platform",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "06/17/2026",
-            "enabled_for": "Users by admins, makers, or analysts",
-            "description": "Enables Microsoft 365 Copilot to surface business data with meaningful context, reducing confusion from generic labels and helping users quickly identify the right records to drive faster workflows and more reliable decision-making.",
-            "preview_date": "07/01/2026",
-            "ga_date": "08/01/2026"
-          }
-        ],
-        "Microsoft Power Platform governance and administration": [
-          {
-            "feature_name": "Manage agent security with enhanced admin controls",
-            "product": "Microsoft Power Platform governance and administration",
-            "product_group": "Security and compliance",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "06/17/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "By using new governance controls, you can guide Copilot and agent development in your tenants, enforce governance policies that match your organizational requirements, and unlock new innovation opportunities.",
-            "preview_date": "05/31/2026",
-            "ga_date": "06/01/2026"
-          }
-        ]
-      },
-      "total_updates": 6,
+      "products": {},
+      "total_updates": 0,
       "error": null
     }
   },
