@@ -1,13 +1,54 @@
 {
-  "generated_at": "2026-06-21T11:54:17.518643Z",
+  "generated_at": "2026-06-22T13:03:16.820978Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
         {
+          "creator": "Epic Adventure Outfitters",
+          "handle": "@EpicAdventureOutfitters",
+          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Life Style Overland",
+          "handle": "@LifeStyleOverland",
+          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
+          "videos": [],
+          "error": null
+        },
+        {
           "creator": "This Story Till Now",
           "handle": "@ThisStoryTillNow",
           "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "videos": [
+            {
+              "title": "Solo Camping on a Remote Beach I Never Wanted to Leave",
+              "url": "https://www.youtube.com/watch?v=l8wA4pFZ0JE",
+              "published": "2026-06-22T00:09:10Z",
+              "description": "➡️ Wolfbox Prime Day Mega Sale Up to 50% site wide (June23-26), shop Hyperflow 60D air compressor now at:\nOfficial Site | Code: TSTN60D → https://wolfbox.com/products/off-road-air-compressor-high-cfm-dual-cylinder-tire-inflator-wolfbox-hyperflow-60d?ref=TSTN\nAmazon | Code: WFHF60DKOL → https://www.amazon.com/dp/B0GKPNWD5W?maas=maas_adg_66215AD009E6C89A418FC78AD6DF600A_afap_abs&amp;ref_=aa_maas&amp;tag=maas\n\n#wolfbox #aircompressor \n\n----------------------------------\n\nSign up with my link and sa"
+            },
+            {
+              "title": "Searching for solitude 🤘🏻",
+              "url": "https://www.youtube.com/shorts/BWkFeOwIFac",
+              "published": "2026-06-21T19:29:55Z",
+              "description": ""
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "VentureToRoam",
+          "handle": "@VentureToRoam",
+          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "LetsGetLost",
+          "handle": "@LetsGetLost",
+          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
           "videos": [],
           "error": null
         },
@@ -19,13 +60,6 @@
           "error": null
         },
         {
-          "creator": "VentureToRoam",
-          "handle": "@VentureToRoam",
-          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "Casey 250",
           "handle": "@Casey250",
           "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
@@ -33,37 +67,9 @@
           "error": null
         },
         {
-          "creator": "Epic Adventure Outfitters",
-          "handle": "@EpicAdventureOutfitters",
-          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "Ozark Overland Adventure",
           "handle": "@OzarkOverlandAdventures",
           "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
-          "videos": [
-            {
-              "title": "Our First Time in Canada (Kinda) - International Peace Garden",
-              "url": "https://www.youtube.com/watch?v=f7A4_s_nUGg",
-              "published": "2026-06-19T22:00:09Z",
-              "description": "We set off west through North Dakota and explore the International Peace Garden which marks our first time in Canada. \n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHNYyUa\nAll Roads Taken - https://www.allroadsta"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Life Style Overland",
-          "handle": "@LifeStyleOverland",
-          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "LetsGetLost",
-          "handle": "@LetsGetLost",
-          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
           "videos": [],
           "error": null
         }
@@ -77,30 +83,44 @@
           "error": null
         },
         {
-          "creator": "Lisa Crosbie",
-          "handle": "@LisaCrosbie",
-          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
-          "videos": [],
+          "creator": "Shane Young",
+          "handle": "@ShanesCows",
+          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
+          "videos": [
+            {
+              "title": "Copilot Cowork Is Finally GA (Big Changes)",
+              "url": "https://www.youtube.com/watch?v=hIEQ817tBqM",
+              "published": "2026-06-22T12:30:33Z",
+              "description": "Copilot Cowork is finally Generally Available, and Microsoft made some big changes along the way.\n\nIn this video, you'll get a practical walkthrough of what changed, why it matters, and what it means for your organization.\n\nWe'll cover:\n✅ What General Availability means for the future of Cowork\n✅ Why Cowork is one of the most exciting AI tools Microsoft has released\n✅ New licensing requirements and Copilot Credit consumption\n✅ Admin controls, governance, and policy management\n✅ New model options"
+            }
+          ],
           "error": null
         },
         {
           "creator": "Reza Dorrani",
           "handle": "@RezaDorrani",
           "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Shane Young",
-          "handle": "@ShanesCows",
-          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
-          "videos": [],
+          "videos": [
+            {
+              "title": "NEW Copilot Studio Agents: Working with SharePoint Lists & Work IQ 🚀",
+              "url": "https://www.youtube.com/watch?v=OdCZCvFaPtg",
+              "published": "2026-06-22T12:00:32Z",
+              "description": "Microsoft has completely redesigned the Copilot Studio agent experience, and in this video I put the new agents to work with SharePoint Lists and SharePoint Work IQ.\n\nWe'll build an AI-powered agent that connects to a large SharePoint List as a knowledge source and explore how the new agent experience can reason over data, generate business artifacts, and take actions on your behalf.\n\n🚀 In this video you'll learn how to:\n\n✅ Connect SharePoint Lists as a knowledge source\n✅ Query large datasets us"
+            }
+          ],
           "error": null
         },
         {
           "creator": "April Dunnam",
           "handle": "@AprilDunnam",
           "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Lisa Crosbie",
+          "handle": "@LisaCrosbie",
+          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
           "videos": [],
           "error": null
         }
@@ -117,7 +137,14 @@
           "creator": "Guy in a Cube",
           "handle": "@GuyInACube",
           "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
-          "videos": [],
+          "videos": [
+            {
+              "title": "Did AI 🪦 ETL?",
+              "url": "https://www.youtube.com/shorts/xNz3dAphkQY",
+              "published": "2026-06-21T18:47:02Z",
+              "description": "Or what is the take on ETL now that AI is changing things up? \n\n📢 Become a member: https://guyinacu.be/membership \n\n*******************\nLET'S CONNECT!\n*******************\n\n-- https://www.linkedin.com/company/guyinacube\n-- https://bsky.app/profile/guyinacube.bsky.social\n-- http://twitter.com/guyinacube\n-- http://www.facebook.com/guyinacube\n\n\n#PowerBI #MicrosoftFabric #GuyInACube"
+            }
+          ],
           "error": null
         }
       ],
@@ -128,36 +155,22 @@
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
             {
+              "title": "Anthropic Just Proved They're Ahead of OpenAI #AIRace #Tech #News - Full Video Tomorrow!",
+              "url": "https://www.youtube.com/shorts/Dyi4y7o4FB8",
+              "published": "2026-06-22T01:00:13Z",
+              "description": "My Links 🔗 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n👉🏻 Instagram: https://www.instagram.com/nate.b.jones\n\nIs Anthropic actually winning the AI development race?\n\nWhile OpenAI dominates the headlines, the real progress in AI industry trends is shifting. This analysis compares the current landscape and explains why the biggest breakthroughs might be coming from unexpected players.\n\nTomorrow I've got the full vi"
+            },
+            {
+              "title": "You Can't Run AI Agents Without This",
+              "url": "https://www.youtube.com/watch?v=rh_PcL26zls",
+              "published": "2026-06-21T17:00:12Z",
+              "description": "Full briefing w/ Agent Owner Card: https://natesnewsletter.substack.com/p/ai-agent-ownership?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nAI agent ownership is the skill most teams skip in 2026. Once an agent reads real files and does real work, somebody has to own it, and most people cannot say who.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n👉🏻 Instagram: https:"
+            },
+            {
               "title": "You Can't Tell If I'm Real Anymore. And That's Now YouTube's Problem Too.",
               "url": "https://www.youtube.com/watch?v=lWbtvC0Hn18",
               "published": "2026-06-20T15:00:22Z",
               "description": "Newsletter: https://natesnewsletter.substack.com/ \nAI voice cloning is already good enough to fool a half-watching audience. The harder problem is that people can no longer tell what was human, what was synthetic, and who is accountable for the final result.\n\nMy Links:\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n👉🏻 Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside the question \"was this made with AI?\"\n\nThe common story says AI co"
-            },
-            {
-              "title": "Nvidia vs Apple: The real AI battle 🤖 #nvidia #apple #shorts",
-              "url": "https://www.youtube.com/shorts/R9qzlpFWPxw",
-              "published": "2026-06-20T03:00:38Z",
-              "description": "My Links 🔗 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n👉🏻 Instagram: https://www.instagram.com/nate.b.jones\n\nWho will win the AI integration race? It isn't just about the best model, but who owns the interface.\n\nWe break down why Apple is positioned to control daily user interactions and how that impacts the broader tech landscape. You will also learn why massive data center demand keeps companies like Nvidia at"
-            },
-            {
-              "title": "Your AI Skills Are Trapped | Here's How to Own Them",
-              "url": "https://www.youtube.com/watch?v=9PUaEj0pMYE",
-              "published": "2026-06-19T14:00:08Z",
-              "description": "Full post w/ The Complete Open Skills Guide: https://natesnewsletter.substack.com/p/claude-codex-agent-skills?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nYour AI agent finally works the way you want, then you switch tools and it breaks. Agent skills do not travel between Claude Code, Codex, and Cursor, and that is becoming one of the most expensive problems in AI work.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjon"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Nate Herk",
-          "handle": "@NateHerk",
-          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-          "videos": [
-            {
-              "title": "Finally. Agent Loops Clearly Explained.",
-              "url": "https://www.youtube.com/watch?v=EuzYhzB0vbI",
-              "published": "2026-06-19T17:18:24Z",
-              "description": "My FREE AI OS Course: https://www.skool.com/ai-automation-society/about?el=agent-loops-explained&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\nFull courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=agent-loops-explained&amp;hcategory=youtube-videos&amp;utm_campaign=ais-plus\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for"
             }
           ],
           "error": null
@@ -166,34 +179,7 @@
           "creator": "Alex Finn",
           "handle": "@AlexFinn",
           "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
-          "videos": [
-            {
-              "title": "How to get unlimited AI for free (GLM 5.2 local)",
-              "url": "https://www.youtube.com/watch?v=mhOqhMuYxWE",
-              "published": "2026-06-19T18:15:48Z",
-              "description": "GLM 5.2 is incredible and crushes Opus. Here is how it works and how I am running it locally and more information on local models\n\nFULL GLM 5.2 bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.cre"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "AI Daily Brief",
-          "handle": "@AIDailyBrief",
-          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
-          "videos": [
-            {
-              "title": "Your Company Doesn't Need an AI Strategy",
-              "url": "https://www.youtube.com/watch?v=sKrr_ckIt4s",
-              "published": "2026-06-20T12:34:51Z",
-              "description": "...it needs an AI learning system. This episode argues that the Fable 5 disruption exposed a deeper enterprise problem: companies can’t treat AI as a vendor strategy. The real advantage will come from building learning systems that capture institutional judgment, workflow traces, private evals, and model-portable IP. In the headlines: could Anthropic and the White House be headed for a resolution? \n\nRegister for our new enterprise-grade AI training programs: ⁠http://training.besuper.ai/⁠\n\nThe AI"
-            },
-            {
-              "title": "The Models Trying to Replace Fable",
-              "url": "https://www.youtube.com/watch?v=4hvA6aCwf6E",
-              "published": "2026-06-19T17:37:51Z",
-              "description": "G7 talks exposed geopolitical tension over access to US frontier models after the Anthropic Fable shutdown. Open-source and smaller efficient models: GLM 5.2, Kimi 2.7, Vibe Thinker, and Cursor Composer 2.5, are driving moves toward local hosting and lower-cost inference. Model panels, smart routing, and advisor-worker hybrids highlight inference optimization and capability orchestration as new enterprise priorities.\n\nThe AI Daily Brief helps you understand the most important news and discussion"
-            }
-          ],
+          "videos": [],
           "error": null
         },
         {
@@ -202,22 +188,16 @@
           "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
           "videos": [
             {
-              "title": "Debunking the Ponytail Benchmarks",
-              "url": "https://www.youtube.com/shorts/3-fS0kCd5oo",
-              "published": "2026-06-19T22:29:05Z",
+              "title": "Is GLM 5.2 the most powerful open source model ever?",
+              "url": "https://www.youtube.com/shorts/PHrHhbLKcuU",
+              "published": "2026-06-22T01:53:04Z",
               "description": ""
             },
             {
-              "title": "This Open Source Repo Solves Claude Code's Biggest Problem",
-              "url": "https://www.youtube.com/watch?v=aTPTUYC44ds",
-              "published": "2026-06-19T22:03:43Z",
-              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nYour custom Claude Code Agentic OS can be yours in just three simple steps.\n\nIn this video I breakdown how to setup the architecture, memory, and observability pieces of your Claude Code Agentic OS, giving you the ability to push your Claude Code efficiency to the limit.\n\n⏰TIMESTAMPS:\n\n"
-            },
-            {
-              "title": "This skill turns Claude Code into a Research God",
-              "url": "https://www.youtube.com/shorts/xww96j6eoig",
-              "published": "2026-06-19T12:00:00Z",
-              "description": ""
+              "title": "I Tested GLM 5.2 vs Opus 4.8 vs GPT 5.5",
+              "url": "https://www.youtube.com/watch?v=hEv_8tyfdHc",
+              "published": "2026-06-22T01:44:05Z",
+              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nGLM 5.2 is being hyped to the moon, but does this open source model actually hold up against the frontier giants? In this video, we put Opus 4.8 and GPT 5.5 up against GLM 5.2 to answer that question.\n\n\n⏰TIMESTAMPS:\n\n0:00 - Intro\n0:55 - DeepSWE Bench\n5:46 - Test 1\n14:03 - Test 2\n19:41 -"
             }
           ],
           "error": null
@@ -228,10 +208,38 @@
           "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
           "videos": [
             {
-              "title": "AI News: Fable 5 Fallout; ChatGPT Upgrades; New AI Super App and Chunky AI Glasses",
-              "url": "https://www.youtube.com/watch?v=HDMHwR0IgiI",
-              "published": "2026-06-20T13:00:25Z",
-              "description": "Try i10x: https://i10x.ai?fpr=paul53\n\nGoogle Vids Tutorial: https://youtu.be/BF4jHnafRJw\n\nAnthropic's Fable 5 got pulled offline, Snap's new AR Specs split the internet, and ChatGPT picked up a few genuinely useful updates. Plus a new Gemini Home speaker, OpenAI's Codex Record and Replay, Grok Imagine 1.5, and SpaceX buying Cursor.\n\n🔗 This video is sponsored. Some product links are affiliate links which means if you buy something we'll receive a small commission.\n\n0:00 Intro\n0:51 Fable 5 Fallout"
+              "title": "The Simple Claude Cowork OS That Automates My Work",
+              "url": "https://www.youtube.com/watch?v=NjYZW-1bLMo",
+              "published": "2026-06-21T13:00:03Z",
+              "description": "Try Claude Cowork: http://clau.de/paul-j-lipsky\n\nThis video is sponsored by Anthropic.\n\nIn this video I walk through the simple three-step process I use to set up a Claude Cowork operating system that runs the repetitive parts of my business on autopilot, and show you how to build the same thing for yourself.\n\nJoin my course / community: \nhttps://join.pauljlipsky.com/waitlist\n\nCowork OS setup prompt: \nhttps://docs.google.com/document/d/1fi1pSlkBjZzvZA9r2oa-Nwud_cjz48E8xYv5S05zVdc/edit?usp=sharin"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Nate Herk",
+          "handle": "@NateHerk",
+          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+          "videos": [
+            {
+              "title": "So You Learned Claude, Now What?",
+              "url": "https://www.youtube.com/watch?v=-zL_trhnQaI",
+              "published": "2026-06-22T12:44:24Z",
+              "description": "My FREE AI OS Course: https://www.skool.com/ai-automation-society/about?el=you-learned-claude-now-what&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\nFull courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=you-learned-claude-now-what&amp;hcategory=youtube-videos&amp;utm_campaign=ais-plus\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode "
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "AI Daily Brief",
+          "handle": "@AIDailyBrief",
+          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
+          "videos": [
+            {
+              "title": "The 5-Minute AI Weekly Recap: Realignment Week",
+              "url": "https://www.youtube.com/watch?v=VK56IPRsA-s",
+              "published": "2026-06-21T12:08:41Z",
+              "description": "This week, the Fable fallout became a broader realignment across AI, pushing more attention toward open models, model routing, local control, and the risks of building around any single frontier system. GLM 5.2, OpenRouter’s Fusion, SpaceX’s Cursor acquisition, and Europe’s AI sovereignty scramble all point to the same shift: the model ecosystem is getting more fragmented, more strategic, and more contested.\n\nRegister for our new enterprise-grade AI training programs: ⁠⁠http://training.besuper.a"
             }
           ],
           "error": null
@@ -242,16 +250,10 @@
           "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
           "videos": [
             {
-              "title": "Claude Code Just Hit A Different Level (We Built THIS)",
+              "title": "Claude Code Has Become DANGEROUS",
               "url": "https://www.youtube.com/watch?v=ARJMA4kvWWg",
               "published": "2026-06-20T17:23:57Z",
               "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes\nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\nClaude Code is powerful enough to replace entire SaaS tools, but the real skill isn't building—it's knowing what to build. This video dives into the critical decision-making process of building a custom solution vs. buying off-the-shelf software. We'll show you the exact framework to use and then break down two systems we built to solve o"
-            },
-            {
-              "title": "Claude Code Agentic OS… It Remembers Everything",
-              "url": "https://www.youtube.com/watch?v=F4At4St1iH8",
-              "published": "2026-06-19T16:19:50Z",
-              "description": "🚀 Get my Custom Claude Memory Layer: https://skool.com/scrapes\nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\nClaude Code's default memory is a tax on your time. In this video, I break down the best memory systems from projects like Hermes, Memsearch and GBrain to show you how to build a superior Agentic OS from scratch. You'll get the complete blueprint for a memory system that finds old decisions, cites its sources so you can trust it, and can even be sha"
             }
           ],
           "error": null
@@ -259,128 +261,6 @@
       ]
     },
     "newsletters": {
-      "power_bi_weekly": {
-        "name": "Power BI Weekly",
-        "issue_number": 362,
-        "issue_date": null,
-        "url": "https://powerbiweekly.info/issue-362.html",
-        "is_new": false,
-        "sections": {
-          "Issue 362": [
-            {
-              "title": "org apps now support audiences and have reached general availability",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Org-apps-with-audiences-for-Power-BI-and-Fabric-Generally/ba-p/5196326"
-            },
-            {
-              "title": "simplified Oracle connectivity",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Simplified-Oracle-connectivity-in-Power-BI-Preview/ba-p/5193366"
-            },
-            {
-              "title": "why the RLS bitmap default just quadrupled",
-              "url": "https://dax.tips/2026/06/11/rls-bitmap-bigger-default/"
-            },
-            {
-              "title": "lessons from Anthropic's agentic self-service BI rollout",
-              "url": "https://tabulareditor.com/blog/lessons-from-anthropics-implementation-of-agentic-self-service-bi"
-            }
-          ],
-          "Data Prep": [
-            {
-              "title": "Simplified Oracle connectivity in Power BI (Preview)",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Simplified-Oracle-connectivity-in-Power-BI-Preview/ba-p/5193366"
-            },
-            {
-              "title": "AI is Only as Smart as Your Model",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Community-Blog/AI-is-Only-as-Smart-as-Your-Model/ba-p/5201563"
-            },
-            {
-              "title": "Power Query Remove Duplicates Keeps the WRONG Record (Here's the fix)",
-              "url": "https://www.youtube.com/watch?v=tsIiiXWqqdo"
-            },
-            {
-              "title": "Combining Multiple Excel Files in Power Query Using Claude",
-              "url": "https://www.youtube.com/watch?v=tSieRUIFUdE"
-            }
-          ],
-          "Data Modeling": [
-            {
-              "title": "There Is More Than One Way to Query Your Data: Have You Tried DAX?",
-              "url": "https://www.purplefrogsystems.com/2026/06/there-is-more-than-one-way-to-query-your-data-have-you-tried-dax/?utm_source=rss&utm_medium=rss&utm_campaign=there-is-more-than-one-way-to-query-your-data-have-you-tried-dax"
-            },
-            {
-              "title": "Rebuilding My First Fabric App (WITHOUT AI ❌🤖)",
-              "url": "https://www.youtube.com/watch?v=hkrghb8qJQM"
-            },
-            {
-              "title": "In Power BI, Is the Semantic Model Now the Real Product?",
-              "url": "https://www.youtube.com/watch?v=memOv4Ya4CE"
-            }
-          ],
-          "Report Authoring and Interactivity": [
-            {
-              "title": "Small Buttons, Big Problem: Fixing Target Size in Power BI Reports",
-              "url": "https://smart-frames.co.uk/2026/06/16/small-buttons-big-problem-fixing-target-size-in-power-bi-reports/"
-            },
-            {
-              "title": "Power BI Date Preset Slicer (Last 30/60/90 Days + Custom)",
-              "url": "https://www.youtube.com/watch?v=ok4vbdlb1iU"
-            },
-            {
-              "title": "Cálculos Visuais no Power BI: A Simplicidade do Excel com o Poder do DAX [Portuguese]",
-              "url": "https://pbiportugal.com/2026/06/06/calculos-visuais-no-power-bi-a-simplicidade-do-excel-com-o-poder-do-dax/"
-            },
-            {
-              "title": "Preparing location data for Icon Map: from spatial source to Power BI map",
-              "url": "https://www.icon-map.com/blog/preparing-location-data-for-icon-map-from-spatial-source-to-power-bi-map.html"
-            },
-            {
-              "title": "Power BI Visual Design Tips | Modern Visual Defaults Explained",
-              "url": "https://www.youtube.com/watch?v=-fUBr-yXWVg"
-            },
-            {
-              "title": "Actualización Power BI: Todo sobre el nuevo selector de fecha",
-              "url": "https://www.youtube.com/watch?v=qeEVfag6Vh4"
-            },
-            {
-              "title": "Dashboard PRO en Power BI: Cómo pasar de un reporte básico a uno profesional en Power BI",
-              "url": "https://www.youtube.com/watch?v=vpeBaz-MR8Y"
-            }
-          ],
-          "Deployment, Security and Operations": [
-            {
-              "title": "Power BI Large Semantic Model Storage Format: Do You Need It?",
-              "url": "https://www.purplefrogsystems.com/2026/06/power-bi-large-semantic-model-storage-format-do-you-need-it/?utm_source=rss&utm_medium=rss&utm_campaign=power-bi-large-semantic-model-storage-format-do-you-need-it"
-            },
-            {
-              "title": "Fabric Apps – náhrada Power BI reportů?",
-              "url": "http://www.blogger.com/feeds/3706049878427060699/posts/default/1432597551646101255"
-            },
-            {
-              "title": "Org apps with audiences for Power BI and Fabric (Generally Available)",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Org-apps-with-audiences-for-Power-BI-and-Fabric-Generally/ba-p/5196326"
-            },
-            {
-              "title": "Why the RLS bitmap default just went up 4x",
-              "url": "https://dax.tips/2026/06/11/rls-bitmap-bigger-default/"
-            },
-            {
-              "title": "No Code, No Tools: Documentation for Power BI & Fabric Using Fabric Skills and Github Copilot",
-              "url": "https://www.youtube.com/watch?v=KtIO_K-8MMk"
-            }
-          ],
-          "General": [
-            {
-              "title": "Building a Banking Dashboard in Power BI with Loans, Risk, and Customer Segmentation",
-              "url": "https://www.youtube.com/watch?v=hG-2oXw2Rlk"
-            },
-            {
-              "title": "Lessons from Anthropic’s implementation of agentic self-service BI",
-              "url": "https://tabulareditor.com/blog/lessons-from-anthropics-implementation-of-agentic-self-service-bi"
-            }
-          ]
-        },
-        "error": null
-      },
       "power_platform_weekly": {
         "name": "Power Platform Weekly",
         "issue_number": 268,
@@ -640,6 +520,128 @@
             {
               "title": "Are Power Apps Vibe Apps Ready Yet? What Actually Works",
               "url": "https://www.youtube.com/watch?v=ykzP6Ge9wBc"
+            }
+          ]
+        },
+        "error": null
+      },
+      "power_bi_weekly": {
+        "name": "Power BI Weekly",
+        "issue_number": 362,
+        "issue_date": null,
+        "url": "https://powerbiweekly.info/issue-362.html",
+        "is_new": false,
+        "sections": {
+          "Issue 362": [
+            {
+              "title": "org apps now support audiences and have reached general availability",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Org-apps-with-audiences-for-Power-BI-and-Fabric-Generally/ba-p/5196326"
+            },
+            {
+              "title": "simplified Oracle connectivity",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Simplified-Oracle-connectivity-in-Power-BI-Preview/ba-p/5193366"
+            },
+            {
+              "title": "why the RLS bitmap default just quadrupled",
+              "url": "https://dax.tips/2026/06/11/rls-bitmap-bigger-default/"
+            },
+            {
+              "title": "lessons from Anthropic's agentic self-service BI rollout",
+              "url": "https://tabulareditor.com/blog/lessons-from-anthropics-implementation-of-agentic-self-service-bi"
+            }
+          ],
+          "Data Prep": [
+            {
+              "title": "Simplified Oracle connectivity in Power BI (Preview)",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Simplified-Oracle-connectivity-in-Power-BI-Preview/ba-p/5193366"
+            },
+            {
+              "title": "AI is Only as Smart as Your Model",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Community-Blog/AI-is-Only-as-Smart-as-Your-Model/ba-p/5201563"
+            },
+            {
+              "title": "Power Query Remove Duplicates Keeps the WRONG Record (Here's the fix)",
+              "url": "https://www.youtube.com/watch?v=tsIiiXWqqdo"
+            },
+            {
+              "title": "Combining Multiple Excel Files in Power Query Using Claude",
+              "url": "https://www.youtube.com/watch?v=tSieRUIFUdE"
+            }
+          ],
+          "Data Modeling": [
+            {
+              "title": "There Is More Than One Way to Query Your Data: Have You Tried DAX?",
+              "url": "https://www.purplefrogsystems.com/2026/06/there-is-more-than-one-way-to-query-your-data-have-you-tried-dax/?utm_source=rss&utm_medium=rss&utm_campaign=there-is-more-than-one-way-to-query-your-data-have-you-tried-dax"
+            },
+            {
+              "title": "Rebuilding My First Fabric App (WITHOUT AI ❌🤖)",
+              "url": "https://www.youtube.com/watch?v=hkrghb8qJQM"
+            },
+            {
+              "title": "In Power BI, Is the Semantic Model Now the Real Product?",
+              "url": "https://www.youtube.com/watch?v=memOv4Ya4CE"
+            }
+          ],
+          "Report Authoring and Interactivity": [
+            {
+              "title": "Small Buttons, Big Problem: Fixing Target Size in Power BI Reports",
+              "url": "https://smart-frames.co.uk/2026/06/16/small-buttons-big-problem-fixing-target-size-in-power-bi-reports/"
+            },
+            {
+              "title": "Power BI Date Preset Slicer (Last 30/60/90 Days + Custom)",
+              "url": "https://www.youtube.com/watch?v=ok4vbdlb1iU"
+            },
+            {
+              "title": "Cálculos Visuais no Power BI: A Simplicidade do Excel com o Poder do DAX [Portuguese]",
+              "url": "https://pbiportugal.com/2026/06/06/calculos-visuais-no-power-bi-a-simplicidade-do-excel-com-o-poder-do-dax/"
+            },
+            {
+              "title": "Preparing location data for Icon Map: from spatial source to Power BI map",
+              "url": "https://www.icon-map.com/blog/preparing-location-data-for-icon-map-from-spatial-source-to-power-bi-map.html"
+            },
+            {
+              "title": "Power BI Visual Design Tips | Modern Visual Defaults Explained",
+              "url": "https://www.youtube.com/watch?v=-fUBr-yXWVg"
+            },
+            {
+              "title": "Actualización Power BI: Todo sobre el nuevo selector de fecha",
+              "url": "https://www.youtube.com/watch?v=qeEVfag6Vh4"
+            },
+            {
+              "title": "Dashboard PRO en Power BI: Cómo pasar de un reporte básico a uno profesional en Power BI",
+              "url": "https://www.youtube.com/watch?v=vpeBaz-MR8Y"
+            }
+          ],
+          "Deployment, Security and Operations": [
+            {
+              "title": "Power BI Large Semantic Model Storage Format: Do You Need It?",
+              "url": "https://www.purplefrogsystems.com/2026/06/power-bi-large-semantic-model-storage-format-do-you-need-it/?utm_source=rss&utm_medium=rss&utm_campaign=power-bi-large-semantic-model-storage-format-do-you-need-it"
+            },
+            {
+              "title": "Fabric Apps – náhrada Power BI reportů?",
+              "url": "http://www.blogger.com/feeds/3706049878427060699/posts/default/1432597551646101255"
+            },
+            {
+              "title": "Org apps with audiences for Power BI and Fabric (Generally Available)",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Org-apps-with-audiences-for-Power-BI-and-Fabric-Generally/ba-p/5196326"
+            },
+            {
+              "title": "Why the RLS bitmap default just went up 4x",
+              "url": "https://dax.tips/2026/06/11/rls-bitmap-bigger-default/"
+            },
+            {
+              "title": "No Code, No Tools: Documentation for Power BI & Fabric Using Fabric Skills and Github Copilot",
+              "url": "https://www.youtube.com/watch?v=KtIO_K-8MMk"
+            }
+          ],
+          "General": [
+            {
+              "title": "Building a Banking Dashboard in Power BI with Loans, Risk, and Customer Segmentation",
+              "url": "https://www.youtube.com/watch?v=hG-2oXw2Rlk"
+            },
+            {
+              "title": "Lessons from Anthropic’s implementation of agentic self-service BI",
+              "url": "https://tabulareditor.com/blog/lessons-from-anthropics-implementation-of-agentic-self-service-bi"
             }
           ]
         },
