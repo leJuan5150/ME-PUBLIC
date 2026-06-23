@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-22T13:03:16.820978Z",
+  "generated_at": "2026-06-23T12:01:57.262966Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
         {
-          "creator": "Epic Adventure Outfitters",
-          "handle": "@EpicAdventureOutfitters",
-          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
+          "creator": "TrailRecon",
+          "handle": "@TrailRecon",
+          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
           "videos": [],
           "error": null
         },
@@ -19,14 +19,49 @@
           "error": null
         },
         {
+          "creator": "LetsGetLost",
+          "handle": "@LetsGetLost",
+          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Epic Adventure Outfitters",
+          "handle": "@EpicAdventureOutfitters",
+          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
+          "videos": [
+            {
+              "title": "Before You Buy a Jeep Eco Diesel Watch This. Seriously.",
+              "url": "https://www.youtube.com/watch?v=M9SAaQyWqAc",
+              "published": "2026-06-22T20:00:35Z",
+              "description": "#JeepLife #EcoDiesel #OffRoad\nBefore you hand over your money for a Jeep Eco Diesel there are some things you need to hear. From two guys who are not going to sugarcoat a single word of it.\n\nIn this episode Paul and The Ginger sit down and have the Eco Diesel conversation the dealership absolutely was not going to have with you before you signed the paperwork.\n\nThe Jeep Eco Diesel is one of the most polarizing engines in the Jeep community. Owners who love it absolutely swear by it. People who h"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Ozark Overland Adventure",
+          "handle": "@OzarkOverlandAdventures",
+          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
+          "videos": [
+            {
+              "title": "North Dakota's Badlands - Just a 5/10?",
+              "url": "https://www.youtube.com/watch?v=oE5muy1_nxc",
+              "published": "2026-06-22T22:00:28Z",
+              "description": "We explore the badlands of North Dakota and Theodore Roosevelt National Park and luck out at an awesome campsite.  \n\nGrab the best 70mai dashcam deals this Prime Day — upgrade your driving safety and potentially save you thousands when it matters most - https://amzn.to/3Qx7Yny\n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://ww"
+            }
+          ],
+          "error": null
+        },
+        {
           "creator": "This Story Till Now",
           "handle": "@ThisStoryTillNow",
           "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
           "videos": [
             {
-              "title": "Solo Camping on a Remote Beach I Never Wanted to Leave",
+              "title": "The Only Way to Get Away From It All",
               "url": "https://www.youtube.com/watch?v=l8wA4pFZ0JE",
-              "published": "2026-06-22T00:09:10Z",
+              "published": "2026-06-22T16:00:06Z",
               "description": "➡️ Wolfbox Prime Day Mega Sale Up to 50% site wide (June23-26), shop Hyperflow 60D air compressor now at:\nOfficial Site | Code: TSTN60D → https://wolfbox.com/products/off-road-air-compressor-high-cfm-dual-cylinder-tire-inflator-wolfbox-hyperflow-60d?ref=TSTN\nAmazon | Code: WFHF60DKOL → https://www.amazon.com/dp/B0GKPNWD5W?maas=maas_adg_66215AD009E6C89A418FC78AD6DF600A_afap_abs&amp;ref_=aa_maas&amp;tag=maas\n\n#wolfbox #aircompressor \n\n----------------------------------\n\nSign up with my link and sa"
             },
             {
@@ -46,30 +81,9 @@
           "error": null
         },
         {
-          "creator": "LetsGetLost",
-          "handle": "@LetsGetLost",
-          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "TrailRecon",
-          "handle": "@TrailRecon",
-          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "Casey 250",
           "handle": "@Casey250",
           "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Ozark Overland Adventure",
-          "handle": "@OzarkOverlandAdventures",
-          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
           "videos": [],
           "error": null
         }
@@ -97,15 +111,15 @@
           "error": null
         },
         {
-          "creator": "Reza Dorrani",
-          "handle": "@RezaDorrani",
-          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
+          "creator": "Lisa Crosbie",
+          "handle": "@LisaCrosbie",
+          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
           "videos": [
             {
-              "title": "NEW Copilot Studio Agents: Working with SharePoint Lists & Work IQ 🚀",
-              "url": "https://www.youtube.com/watch?v=OdCZCvFaPtg",
-              "published": "2026-06-22T12:00:32Z",
-              "description": "Microsoft has completely redesigned the Copilot Studio agent experience, and in this video I put the new agents to work with SharePoint Lists and SharePoint Work IQ.\n\nWe'll build an AI-powered agent that connects to a large SharePoint List as a knowledge source and explore how the new agent experience can reason over data, generate business artifacts, and take actions on your behalf.\n\n🚀 In this video you'll learn how to:\n\n✅ Connect SharePoint Lists as a knowledge source\n✅ Query large datasets us"
+              "title": "Copilot Cowork Costs Explained (With Real Examples)",
+              "url": "https://www.youtube.com/watch?v=yp1q8TiHk1A",
+              "published": "2026-06-22T13:35:28Z",
+              "description": "Copilot Cowork is one of the most powerful new capabilities in Microsoft 365 Copilot, but understanding the cost can be challenging.\n\nIn this video, I walk through how Cowork pricing works, what affects the number of credits used, and most importantly, how to decide when Cowork is worth using versus when standard Microsoft 365 Copilot tools may be enough.\n\nUsing real examples from my own testing, I'll show what different tasks actually cost, from simple content creation through to more complex w"
             }
           ],
           "error": null
@@ -118,21 +132,21 @@
           "error": null
         },
         {
-          "creator": "Lisa Crosbie",
-          "handle": "@LisaCrosbie",
-          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
-          "videos": [],
+          "creator": "Reza Dorrani",
+          "handle": "@RezaDorrani",
+          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
+          "videos": [
+            {
+              "title": "NEW Copilot Studio Agents: Working with SharePoint Lists & Work IQ 🚀",
+              "url": "https://www.youtube.com/watch?v=OdCZCvFaPtg",
+              "published": "2026-06-22T12:00:32Z",
+              "description": "Microsoft has completely redesigned the Copilot Studio agent experience, and in this video I put the new agents to work with SharePoint Lists and SharePoint Work IQ.\n\nWe'll build an AI-powered agent that connects to a large SharePoint List as a knowledge source and explore how the new agent experience can reason over data, generate business artifacts, and take actions on your behalf.\n\n🚀 In this video you'll learn how to:\n\n✅ Connect SharePoint Lists as a knowledge source\n✅ Query large datasets us"
+            }
+          ],
           "error": null
         }
       ],
       "fabric_powerbi": [
-        {
-          "creator": "Dewain Robinson",
-          "handle": "@DewainRobinson",
-          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
-          "videos": [],
-          "error": null
-        },
         {
           "creator": "Guy in a Cube",
           "handle": "@GuyInACube",
@@ -146,6 +160,13 @@
             }
           ],
           "error": null
+        },
+        {
+          "creator": "Dewain Robinson",
+          "handle": "@DewainRobinson",
+          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
+          "videos": [],
+          "error": null
         }
       ],
       "ai": [
@@ -154,6 +175,18 @@
           "handle": "@NateBJones",
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
+            {
+              "title": "Why Anthropic Hired the Smartest Person in AI #AI #Research #News",
+              "url": "https://www.youtube.com/shorts/V4sGSp2VMe4",
+              "published": "2026-06-23T03:00:11Z",
+              "description": "My Links 🔗 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n👉🏻 Instagram: https://www.instagram.com/nate.b.jones\n\nAnthropic AI is pulling ahead, and John Jumper’s move is a major signal for the industry.\n\nWe break down why their recent focus on a massive context window matters for the future of AI development. If you follow machine learning trends or want to understand who is winning the model race, this update is es"
+            },
+            {
+              "title": "Google Lost $2.7 Billion In Talent This Week. The Real Reason Isn't Money.",
+              "url": "https://www.youtube.com/watch?v=h1MxhfZSTjo",
+              "published": "2026-06-22T14:00:37Z",
+              "description": "OpenAI vs Anthropic: OpenAI looks like it won the week — the Shazeer hire, the 5.6 rumors, the Fable headlines. But talent movement and pre-training cadence suggest Anthropic may actually be ahead, and the biggest AI story may be happening at neither lab.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n👉🏻 Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside the OpenAI vers"
+            },
             {
               "title": "Anthropic Just Proved They're Ahead of OpenAI #AIRace #Tech #News - Full Video Tomorrow!",
               "url": "https://www.youtube.com/shorts/Dyi4y7o4FB8",
@@ -165,12 +198,6 @@
               "url": "https://www.youtube.com/watch?v=rh_PcL26zls",
               "published": "2026-06-21T17:00:12Z",
               "description": "Full briefing w/ Agent Owner Card: https://natesnewsletter.substack.com/p/ai-agent-ownership?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nAI agent ownership is the skill most teams skip in 2026. Once an agent reads real files and does real work, somebody has to own it, and most people cannot say who.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n👉🏻 Instagram: https:"
-            },
-            {
-              "title": "You Can't Tell If I'm Real Anymore. And That's Now YouTube's Problem Too.",
-              "url": "https://www.youtube.com/watch?v=lWbtvC0Hn18",
-              "published": "2026-06-20T15:00:22Z",
-              "description": "Newsletter: https://natesnewsletter.substack.com/ \nAI voice cloning is already good enough to fool a half-watching audience. The harder problem is that people can no longer tell what was human, what was synthetic, and who is accountable for the final result.\n\nMy Links:\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n👉🏻 Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside the question \"was this made with AI?\"\n\nThe common story says AI co"
             }
           ],
           "error": null
@@ -188,6 +215,12 @@
           "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
           "videos": [
             {
+              "title": "10x Your Next Claude Code Project With These 5 Plugins",
+              "url": "https://www.youtube.com/shorts/bb57QRplDZM",
+              "published": "2026-06-23T04:24:19Z",
+              "description": ""
+            },
+            {
               "title": "Is GLM 5.2 the most powerful open source model ever?",
               "url": "https://www.youtube.com/shorts/PHrHhbLKcuU",
               "published": "2026-06-22T01:53:04Z",
@@ -200,6 +233,33 @@
               "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nGLM 5.2 is being hyped to the moon, but does this open source model actually hold up against the frontier giants? In this video, we put Opus 4.8 and GPT 5.5 up against GLM 5.2 to answer that question.\n\n\n⏰TIMESTAMPS:\n\n0:00 - Intro\n0:55 - DeepSWE Bench\n5:46 - Test 1\n14:03 - Test 2\n19:41 -"
             }
           ],
+          "error": null
+        },
+        {
+          "creator": "Nate Herk",
+          "handle": "@NateHerk",
+          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+          "videos": [
+            {
+              "title": "I Battle Tested Sakana Fugu's Fable Killer",
+              "url": "https://www.youtube.com/watch?v=GpSqBjW6hR4",
+              "published": "2026-06-23T00:26:39Z",
+              "description": "My FREE AI OS Course: https://www.skool.com/ai-automation-society/about?el=sakana-fugu-test&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\nFull courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=sakana-fugu-test&amp;hcategory=youtube-videos&amp;utm_campaign=ais-plus\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off V"
+            },
+            {
+              "title": "So You Learned Claude, Now What?",
+              "url": "https://www.youtube.com/watch?v=-zL_trhnQaI",
+              "published": "2026-06-22T12:44:24Z",
+              "description": "My FREE AI OS Course: https://www.skool.com/ai-automation-society/about?el=you-learned-claude-now-what&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\nFull courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=you-learned-claude-now-what&amp;hcategory=youtube-videos&amp;utm_campaign=ais-plus\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode "
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Simon Scrapes",
+          "handle": "@SimonScrapes",
+          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
+          "videos": [],
           "error": null
         },
         {
@@ -217,43 +277,21 @@
           "error": null
         },
         {
-          "creator": "Nate Herk",
-          "handle": "@NateHerk",
-          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-          "videos": [
-            {
-              "title": "So You Learned Claude, Now What?",
-              "url": "https://www.youtube.com/watch?v=-zL_trhnQaI",
-              "published": "2026-06-22T12:44:24Z",
-              "description": "My FREE AI OS Course: https://www.skool.com/ai-automation-society/about?el=you-learned-claude-now-what&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\nFull courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=you-learned-claude-now-what&amp;hcategory=youtube-videos&amp;utm_campaign=ais-plus\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode "
-            }
-          ],
-          "error": null
-        },
-        {
           "creator": "AI Daily Brief",
           "handle": "@AIDailyBrief",
           "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
           "videos": [
             {
+              "title": "Why AI Users Are Raving About GLM 5.2",
+              "url": "https://www.youtube.com/watch?v=HkVpSoaIKsc",
+              "published": "2026-06-22T19:38:26Z",
+              "description": "Examination of the Fable/Mythos controversy, including the NSA jailbreak context and Trump’s remarks about Anthropic. Analysis of GLM 5.2 and DeepMind departures showing open-weight models challenging frontier labs and reshaping enterprise AI tactics. Rumors about Fable, Claude Sonnet 5, and GPT 5.6 signal rapid iteration and highlight trade-offs between cost, performance, and deployment strategies.\n\nThe AI Daily Brief helps you understand the most important news and discussions in AI. \nSubscrib"
+            },
+            {
               "title": "The 5-Minute AI Weekly Recap: Realignment Week",
               "url": "https://www.youtube.com/watch?v=VK56IPRsA-s",
               "published": "2026-06-21T12:08:41Z",
               "description": "This week, the Fable fallout became a broader realignment across AI, pushing more attention toward open models, model routing, local control, and the risks of building around any single frontier system. GLM 5.2, OpenRouter’s Fusion, SpaceX’s Cursor acquisition, and Europe’s AI sovereignty scramble all point to the same shift: the model ecosystem is getting more fragmented, more strategic, and more contested.\n\nRegister for our new enterprise-grade AI training programs: ⁠⁠http://training.besuper.a"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Simon Scrapes",
-          "handle": "@SimonScrapes",
-          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
-          "videos": [
-            {
-              "title": "Claude Code Has Become DANGEROUS",
-              "url": "https://www.youtube.com/watch?v=ARJMA4kvWWg",
-              "published": "2026-06-20T17:23:57Z",
-              "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes\nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\nClaude Code is powerful enough to replace entire SaaS tools, but the real skill isn't building—it's knowing what to build. This video dives into the critical decision-making process of building a custom solution vs. buying off-the-shelf software. We'll show you the exact framework to use and then break down two systems we built to solve o"
             }
           ],
           "error": null
@@ -263,69 +301,77 @@
     "newsletters": {
       "power_platform_weekly": {
         "name": "Power Platform Weekly",
-        "issue_number": 268,
-        "issue_date": "2026-06-15",
-        "url": "https://www.ppweekly.com/p/power-platform-weekly-issue-268",
-        "is_new": false,
+        "issue_number": 269,
+        "issue_date": "2026-06-23",
+        "url": "https://www.ppweekly.com/p/power-platform-weekly-issue-269",
+        "is_new": true,
         "sections": {
           "📰 Articles": [
             {
-              "title": "Create a Customer Insights Journeys Overview Page for Contacts",
-              "url": "https://meganvwalker.com/create-a-customer-insights-journeys-overview-page/"
+              "title": "A Formula That Respects Your Time Zone and Your Lunch",
+              "url": "https://www.cloudappie.nl/formula-respects-time-zone-lunch/"
             },
             {
-              "title": "Customise Double Opt-In Confirmation Email {{OptedInPurposeTopic}} - Customer Insights - Journeys",
-              "url": "https://www.ameyholden.com/articles/show-topics-in-double-opt-in-confirmation-email"
+              "title": "Vibe Coding My Own Power Platform Admin Center",
+              "url": "https://dev.to/wyattdave/vibe-coding-my-own-power-platform-admin-center-29eh"
             },
             {
-              "title": "Dataverse MCP Server: The 15 Tools That Make Power Platform Agent-Ready",
-              "url": "https://aidevme.com/dataverse-mcp-server-the-15-tools-that-make-power-platform-agent-ready/?utm_source=feedly&utm_medium=rss&utm_campaign=dataverse-mcp-server-the-15-tools-that-make-power-platform-agent-ready"
+              "title": "New bulk delete options come to Dataverse",
+              "url": "https://markcarrington.dev/2026/06/22/new-bulk-delete-options-come-to-dataverse"
             },
             {
-              "title": "Stairway to Dataverse Heaven - Governance & Business Skills",
-              "url": "https://www.empoweredhumans.net/post/stairway-to-dataverse-heaven-governance-business-skills"
+              "title": "Automating Copilot Studio Evaluations",
+              "url": "https://platformsofpower.net/automating-copilot-studio-evaluations/"
             },
             {
-              "title": "How Copilot Cowork, Dynamics 365 Sales plugin and a custom skill run a sales pipeline",
-              "url": "https://www.apprising.co.nz/post/copilot-cowork-dynamics-365-sales"
+              "title": "Create A Segment Using Unmapped Fields On Marketing Forms in Customer Insights Journeys",
+              "url": "https://meganvwalker.com/create-a-segment-using-unmapped-fields-on-forms/"
             },
             {
-              "title": "Editing The Theme & Styling A Power Pages Site",
-              "url": "https://meganvwalker.com/editing-the-theme-styling-a-power-pages-site/"
+              "title": "AI Agent Johan’s revenge: Netherlands vs. Sweden",
+              "url": "https://jscheper.com/ai-agent-johans-revenge-netherlands-vs-sweden/"
             },
             {
-              "title": "Create A Segment Using Custom Event Registration Questions in Customer Insights Journeys",
-              "url": "https://meganvwalker.com/create-a-segment-using-custom-event-registration-questions/"
+              "title": "Your Copilot, Your Rules: Customizing Chat For Model-Driven Apps",
+              "url": "https://www.blog.allandecastro.com/your-copilot-your-rules-customizing-chat-for-model-driven-apps/"
             },
             {
-              "title": "Why Customer Insights Data?",
-              "url": "https://powerplatform.se/why-customer-insights-data/"
+              "title": "How To Fuzzy Search Dataverse Tables In Copilot Studio",
+              "url": "https://www.matthewdevaney.com/how-to-fuzzy-search-dataverse-tables-in-copilot-studio/"
             },
             {
-              "title": "D365 Quality Evaluation Agent: Step-by-step configuration guide",
-              "url": "https://d365goddess.com/setup_qea/"
+              "title": "How We Successfully Removed the Resco Woodford Managed Solution from Dynamics 365 Field Service",
+              "url": "https://nishantrana.me/2026/06/16/how-we-successfully-removed-the-resco-woodford-managed-solution-from-dynamics-365-field-service/"
             },
             {
-              "title": "AI Agent Johan his first prediction: Netherlands vs. Japan",
-              "url": "https://jscheper.com/ai-agent-johan-his-first-prediction-nl-vs-japan/"
+              "title": "Invite Leads to Your Customer Insights Journeys Events",
+              "url": "https://martinplopez.com/posts/leads-customer-insights-journeys-events/"
+            },
+            {
+              "title": "PPTB - Bulk Data Studio",
+              "url": "https://linked365.blog/bulkdatastudio/"
             }
           ],
           "🎙️ Podcasts": [
             {
-              "title": "Ctrl+Alt+Azure Podcast",
-              "url": "https://share.transistor.fm/s/7eea9f87"
+              "title": "MSDW Podcast",
+              "url": "https://msdynamicsworld.libsyn.com/autonomous-agents-and-ai-priorities-with-steve-mordue"
             },
             {
-              "title": "Unresolved Dependencies Podcast",
-              "url": "https://player.fm/series/unresolved-dependencies/ep-7-live-from-dynamicsminds"
+              "title": "RapidClaw",
+              "url": "https://www.rapidstart.com/en/products/rapidclaw"
             },
             {
-              "title": "DynamicsMinds",
-              "url": "https://www.dynamicsminds.com/"
+              "title": "Scout",
+              "url": "https://msdynamicsworld.com/story/microsoft-introduces-scout-openclaw-based-always-personal-ai-agent"
             },
             {
-              "title": "The Worklab Podcast",
-              "url": "https://www.microsoft.com/en-us/worklab/podcast/allie-k-miller-find-your-weirdos-and-let-them-lead"
+              "title": "MS Cloud IT Pro Podcast",
+              "url": "https://www.msclouditpropodcast.com/episode430/"
+            },
+            {
+              "title": "Power Platform Boost Podcast",
+              "url": "https://player.fm/series/power-platform-boost-podcast/build-bonanza-88"
             }
           ],
           "📅 Events & Webinars": [
@@ -364,50 +410,50 @@
           ],
           "💙 Out of the Blue": [
             {
-              "title": "Dataverse MCP Server: Understanding the New Tool Shape",
-              "url": "https://www.microsoft.com/power-platform/blog/2026/06/08/dataverse-mcp-server-understanding-the-new-tool-shape/"
+              "title": "Copilot Cowork is now generally available",
+              "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/"
             },
             {
-              "title": "AI-Powered Power BI reporting: From design to deployment with agent skills (Preview)",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/AI-Powered-Power-BI-reporting-From-design-to-deployment-with/ba-p/5190703"
+              "title": "Meet the Agent Academy Hackathon winners",
+              "url": "https://devblogs.microsoft.com/powerplatform/agent-academy-hackathon-winners/"
             },
             {
-              "title": "Announcing Low-latency sync for Dataverse to Fabric in GA",
-              "url": "https://www.microsoft.com/power-platform/blog/2026/06/09/low-latency-sync/"
+              "title": "Power BI May 2026 feature summary",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-May-2026-Feature-Summary/ba-p/5182174"
             },
             {
-              "title": "What’s new in Power Platform: June 2026 feature update",
-              "url": "https://www.microsoft.com/power-platform/blog/2026/06/11/whats-new-in-power-platform-june-2026-feature-update/"
+              "title": "Org apps with audiences for Power BI and Fabric (Generally Available)",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Org-apps-with-audiences-for-Power-BI-and-Fabric-Generally/ba-p/5196326"
             },
             {
-              "title": "Bulk Deletion in Microsoft Dataverse: New capabilities for data lifecycle management",
-              "url": "https://www.microsoft.com/power-platform/blog/2026/06/10/bulk-deletion-in-dataverse/"
+              "title": "Migrating from embedded ODBC drivers to ADBC in Power BI and Fabric",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Migrating-from-embedded-ODBC-drivers-to-ADBC-in-Power-BI-and-Fabric/ba-p/5195167"
             },
             {
-              "title": "Power BI June 2026 Feature Summary",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-June-2026-Feature-Summary/ba-p/5193264"
+              "title": "Workspace outbound access protection for Power BI reports (Preview)",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Workspace-outbound-access-protection-for-Power-BI-reports/ba-p/5193354"
             },
             {
-              "title": "Who evaluates the evaluators? The data science behind agent evals",
-              "url": "https://www.microsoft.com/microsoft-copilot/blog/copilot-studio/who-evaluates-the-evaluators-the-data-science-behind-agent-evals/"
+              "title": "Microsoft Entra ID single sign-on for the Starburst connector in Power BI (Preview)",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Microsoft-Entra-ID-single-sign-on-for-the-Starburst-connector-in/ba-p/5193371"
             },
             {
-              "title": "The Admin Control That Closes the Door Before “Hello”",
-              "url": "https://microsoft.github.io/mcscatblog/posts/agent-authentication-controls/"
+              "title": "Simplified Oracle connectivity in Power BI (Preview)",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Simplified-Oracle-connectivity-in-Power-BI-Preview/ba-p/5193366"
             }
           ],
           "📺 Videos": [
             {
-              "title": "This Hidden Menu Changes How You Build Power Automate Flows",
-              "url": "https://www.youtube.com/watch?v=HFZ58abyOGY"
+              "title": "Building Skills in the New Copilot Studio Experience",
+              "url": "https://www.youtube.com/watch?v=Jp12IC-H_lM"
             },
             {
-              "title": "Flows Failing? Make Your Conditions Flexible!",
-              "url": "https://www.youtube.com/watch?v=XcSr9MqdYP8"
+              "title": "Which Microsoft AI Service Do You Actually Need? Foundry vs Copilot Studio vs Azure OpenAI",
+              "url": "https://www.youtube.com/watch?v=KdlXbFUcYAA"
             },
             {
-              "title": "June 2026 Meetup - Power Automate MCP: Agentic Development with John Liu and Catherine Han",
-              "url": "https://www.youtube.com/watch?v=5k_HAS-DgHQ"
+              "title": "Copilot, Microsoft 365 & Power Platform weekly call – 16th of June, 2026",
+              "url": "https://www.youtube.com/watch?v=HU-TqxxUIxI"
             }
           ]
         },
