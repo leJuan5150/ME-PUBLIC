@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-06-25T11:53:45.292996Z",
+  "generated_at": "2026-06-26T11:52:22.237003Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
         {
-          "creator": "TrailRecon",
-          "handle": "@TrailRecon",
-          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
+          "creator": "Ozark Overland Adventure",
+          "handle": "@OzarkOverlandAdventures",
+          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
           "videos": [],
           "error": null
         },
         {
-          "creator": "Ozark Overland Adventure",
-          "handle": "@OzarkOverlandAdventures",
-          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
-          "videos": [
-            {
-              "title": "How to Choose a Large Power Station",
-              "url": "https://www.youtube.com/watch?v=cOuGc0qO68w",
-              "published": "2026-06-23T16:00:10Z",
-              "description": "Looking for a large power station for overlanding, RV life, Van life, home backup or disaster recovery? I take a look at 3 of Bluetti's largest power stations and discuss which one is right for you.\n\n🔥 BLUETTI Prime Day Sale\n5%off Code: OZARK05OFF1\nWebsite: https://bit.ly/43rICdM\nAmazon: https://amzn.to/4uOiLZq\n#Bluetti#Elite300#Elite400#Apex300#charger2#Solargenerator#StayPoweredStayReady#primeday#primedaydeals \n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://w"
-            }
-          ],
+          "creator": "This Story Till Now",
+          "handle": "@ThisStoryTillNow",
+          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "TrailRecon",
+          "handle": "@TrailRecon",
+          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
+          "videos": [],
           "error": null
         },
         {
@@ -33,23 +33,9 @@
           "error": null
         },
         {
-          "creator": "Life Style Overland",
-          "handle": "@LifeStyleOverland",
-          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "LetsGetLost",
           "handle": "@LetsGetLost",
           "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Casey 250",
-          "handle": "@Casey250",
-          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
           "videos": [],
           "error": null
         },
@@ -68,10 +54,24 @@
           "error": null
         },
         {
-          "creator": "This Story Till Now",
-          "handle": "@ThisStoryTillNow",
-          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "creator": "Life Style Overland",
+          "handle": "@LifeStyleOverland",
+          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
           "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Casey 250",
+          "handle": "@Casey250",
+          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
+          "videos": [
+            {
+              "title": "Ford Ranger Raptor OFF-ROAD HONEST REVIEW by Jeep & Toyota Owners (Rocky Mountain River Trail)",
+              "url": "https://www.youtube.com/watch?v=U41nHHRaTnk",
+              "published": "2026-06-25T22:00:04Z",
+              "description": "Is the Ford Ranger Raptor the ultimate off-road machine, or just a flashy truck? We decided to settle the debate as die hard Jeep and Toyota owners, and took a Ford Ranger Raptor out to the Rocky Mountains. This wasn't just a casual drive—we pushed this Raptor through the river trails to see where it shines and where it falls short. If you’re considering switching from a Jeep or Toyota to a Raptor, this honest review is for you.\n\n\n=============================================================\n\nCh"
+            }
+          ],
           "error": null
         }
       ],
@@ -84,23 +84,9 @@
           "error": null
         },
         {
-          "creator": "April Dunnam",
-          "handle": "@AprilDunnam",
-          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "Shane Young",
           "handle": "@ShanesCows",
           "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Lisa Crosbie",
-          "handle": "@LisaCrosbie",
-          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
           "videos": [],
           "error": null
         },
@@ -110,14 +96,41 @@
           "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
           "videos": [],
           "error": null
+        },
+        {
+          "creator": "April Dunnam",
+          "handle": "@AprilDunnam",
+          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Lisa Crosbie",
+          "handle": "@LisaCrosbie",
+          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
+          "videos": [],
+          "error": null
         }
       ],
       "fabric_powerbi": [
+        {
+          "creator": "Dewain Robinson",
+          "handle": "@DewainRobinson",
+          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
+          "videos": [],
+          "error": null
+        },
         {
           "creator": "Guy in a Cube",
           "handle": "@GuyInACube",
           "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
           "videos": [
+            {
+              "title": "Power BI Finally Has a Date Picker — No More Workarounds?",
+              "url": "https://www.youtube.com/watch?v=YWcxgpa5VlI",
+              "published": "2026-06-25T14:30:36Z",
+              "description": "Have you ever needed users to pick one specific date in Power BI without using a workaround?\n\nFor years, report authors had to get creative with slicers, custom visuals, DAX, or report design tricks to create a simple date picker experience. Now Power BI has a new Date Picker slicer option, and Patrick LeBlanc from Guy in a Cube is going to put it side by side with one of his older workaround approaches.\n\nIn this video, Patrick shows how the new Power BI Date Picker works, how it compares to the"
+            },
             {
               "title": "Is ontology replacing the semantic model?",
               "url": "https://www.youtube.com/watch?v=y1iw0tf4lzY",
@@ -126,16 +139,35 @@
             }
           ],
           "error": null
-        },
-        {
-          "creator": "Dewain Robinson",
-          "handle": "@DewainRobinson",
-          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
-          "videos": [],
-          "error": null
         }
       ],
       "ai": [
+        {
+          "creator": "NateBJones",
+          "handle": "@NateBJones",
+          "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
+          "videos": [
+            {
+              "title": "You're learning AI wrong. Here's the fix #AI #Management #Leadership #FutureOfWork",
+              "url": "https://www.youtube.com/shorts/rRNbjws5P_M",
+              "published": "2026-06-26T03:00:34Z",
+              "description": "I watched the people who actually survived their company's AI rollout, and they all figured out one thing: AI isn't a tool skill, it's a management skill. The skills that make you good at AI aren't prompting skills — they're people skills. Closing the AI fluency gap on your team starts here. Get my newsletter 👉 https://natesnewsletter.substack.com\n\n\nMy Links \n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n👉🏻 Instagram: https://www.instagram.com/nate.b.jones"
+            },
+            {
+              "title": "The ONLY thing AI will NEVER replace #Career #FutureOfWork #ArtificialIntelligence",
+              "url": "https://www.youtube.com/shorts/mWT-dBFkQdQ",
+              "published": "2026-06-25T03:00:06Z",
+              "description": "AI keeps making it easier to build — and harder to stand out. When the platforms and playbooks reset every few months, the people who win aren't the fastest builders. They're the ones with trust and relationships that compound.\n\nThat's the part nobody can automate. Here's the full breakdown — why the bottleneck moved and what's actually scarce now 👉 https://natesnewsletter.substack.com/p/8-habits-worth-unlearning-in-the\n\n#AI #Career #FutureOfWork #Relationships #ArtificialIntelligence\n\nMy Links "
+            },
+            {
+              "title": "I Stopped Prompting AI One Task At A Time. This Works Better.",
+              "url": "https://www.youtube.com/watch?v=A4zMyjkL0Dc",
+              "published": "2026-06-24T14:00:11Z",
+              "description": "Full post w/ Questionnaire:\nhttps://natesnewsletter.substack.com/p/ai-loop-managers?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nAI agents get useful when you stop prompting one task at a time and start building loops. A loop is a recurring job that remembers, notices what changed, and stops where your judgment matters.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n"
+            }
+          ],
+          "error": null
+        },
         {
           "creator": "Alex Finn",
           "handle": "@AlexFinn",
@@ -151,107 +183,21 @@
           "error": null
         },
         {
-          "creator": "NateBJones",
-          "handle": "@NateBJones",
-          "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
-          "videos": [
-            {
-              "title": "The ONLY thing AI will NEVER replace #Career #FutureOfWork #ArtificialIntelligence",
-              "url": "https://www.youtube.com/shorts/mWT-dBFkQdQ",
-              "published": "2026-06-25T03:00:06Z",
-              "description": "AI keeps making it easier to build — and harder to stand out. When the platforms and playbooks reset every few months, the people who win aren't the fastest builders. They're the ones with trust and relationships that compound.\n\nThat's the part nobody can automate. Here's the full breakdown — why the bottleneck moved and what's actually scarce now 👉 https://natesnewsletter.substack.com/p/8-habits-worth-unlearning-in-the\n\n#AI #Career #FutureOfWork #Relationships #ArtificialIntelligence\n\nMy Links "
-            },
-            {
-              "title": "I Stopped Prompting AI One Task At A Time. This Works Better.",
-              "url": "https://www.youtube.com/watch?v=A4zMyjkL0Dc",
-              "published": "2026-06-24T14:00:11Z",
-              "description": "Full post w/ Questionnaire:\nhttps://natesnewsletter.substack.com/p/ai-loop-managers?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nAI agents get useful when you stop prompting one task at a time and start building loops. A loop is a recurring job that remembers, notices what changed, and stops where your judgment matters.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n"
-            },
-            {
-              "title": "The Doing Got Cheap. Now What? | Claude Fable 5 Changes Work",
-              "url": "https://www.youtube.com/watch?v=2w_vwQVvFmc",
-              "published": "2026-06-23T14:00:10Z",
-              "description": "Full post w/ Work Spec + Benchmarks:\nhttps://natesnewsletter.substack.com/p/claude-fable-5-how-to-use?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nClaude Fable 5 is the biggest model in the world, and the real story isn't the benchmarks. It's that the bottleneck just moved from what the model can do to what you can imagine handing it.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Chase AI",
-          "handle": "@ChaseAI",
-          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
-          "videos": [
-            {
-              "title": "Every Level of Claude Agentic OS Explained",
-              "url": "https://www.youtube.com/watch?v=HRw-vP0j8OM",
-              "published": "2026-06-25T02:34:47Z",
-              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nWhy should we care about creating an Agentic OS if we are already happy with Claude Code?\n\nWell, its because Agentic OS fundamentals are tightly tied to Claude Code fundamentals, and mastering the former improves your outputs with the latter. \n\nFrom skills, to loop engineering, to memor"
-            },
-            {
-              "title": "The Four Step Process to Loop Engineer ANYTHING (+ Why Prompt Engineering Isn't Dead)",
-              "url": "https://www.youtube.com/watch?v=JirDfgJcJFU",
-              "published": "2026-06-24T02:40:28Z",
-              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nLoop engineering is all the rage, with prompt engineering being declared dead-- but is that actually the case?\n\nIn this video, I break down why prompt engineering isnt dead, what loop engineering actually is, and how to design your own loops (and when).\n\n\n⏰TIMESTAMPS:\n\n0:00 - Intro\n0:50"
-            },
-            {
-              "title": "Supercharge Your Obsidain + Claude Code Setup",
-              "url": "https://www.youtube.com/shorts/YWEOTmlck6Y",
-              "published": "2026-06-23T20:30:13Z",
-              "description": ""
-            },
-            {
-              "title": "STOP Overcomplicating Loop Engineering",
-              "url": "https://www.youtube.com/shorts/0G-NHspVYJI",
-              "published": "2026-06-23T16:46:30Z",
-              "description": ""
-            },
-            {
-              "title": "Three CHEAT CODE Repos for Claude Code Front End Design",
-              "url": "https://www.youtube.com/shorts/-l-s2WdnNFk",
-              "published": "2026-06-23T12:45:09Z",
-              "description": ""
-            }
-          ],
-          "error": null
-        },
-        {
           "creator": "Nate Herk",
           "handle": "@NateHerk",
           "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
           "videos": [
             {
-              "title": "Two AI Events I Want You At This Summer",
+              "title": "I asked Claude Code to make me as much money as possible",
+              "url": "https://www.youtube.com/watch?v=iTY8Q449YNQ",
+              "published": "2026-06-25T19:52:16Z",
+              "description": "My FREE AI OS Course: https://www.skool.com/ai-automation-society/about?el=claude-money&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\nFull courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=claude-money&amp;hcategory=youtube-videos&amp;utm_campaign=ais-plus\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annu"
+            },
+            {
+              "title": "Why Watching AI Videos Isn't Enough",
               "url": "https://www.youtube.com/watch?v=S2ME69hra-k",
               "published": "2026-06-24T15:49:36Z",
               "description": "Event I'm hosting that you can attend online: https://app.aiautomationsociety.ai/ais-live/extended/\nMontenegro Event: https://workless.ai/\nMonetizing AI Automation Playlist: https://www.youtube.com/playlist?list=PLvQWpZ46MVvjM2vX-pkeBxLUMgd8T9bRZ\n\nEvent Sponsorship Inquiries:\n📧 nate@smoothmedia.co\n\nConnect with me:\nhttps://www.linkedin.com/in/nateherkelman/\nhttps://x.com/nateherk\nhttps://www.instagram.com/nateherk/"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Simon Scrapes",
-          "handle": "@SimonScrapes",
-          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
-          "videos": [
-            {
-              "title": "Claude Code Has Quietly Evolved (People Haven't Noticed)",
-              "url": "https://www.youtube.com/watch?v=4iMZA1omCkM",
-              "published": "2026-06-23T15:38:49Z",
-              "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes\nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\nThe best practices for using Claude Code have quietly changed. If your workflow is still based on guides from early this year, you're likely missing out on Claude's most powerful new capabilities. In this video, we'll break down the three biggest shifts for using Claude Code effectively: improving its memory with community tools, leveling"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "AI Daily Brief",
-          "handle": "@AIDailyBrief",
-          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
-          "videos": [
-            {
-              "title": "5 Ways Claude Tag Could Change How You Use AI",
-              "url": "https://www.youtube.com/watch?v=EpxZEvvOTL8",
-              "published": "2026-06-24T21:57:57Z",
-              "description": "Claude Tag embeds persistent, proactive AI coworkers into Slack channels to access team context, manage long‑horizon tasks, and automate code and incident response. Regulatory flashpoints include the Anthropic Fable access ban, a lawsuit seeking model reinstatement, and government pressure on model testing. Additional discussions cover US scrutiny of Chinese robotics, new goal‑directed coding agents from xAI and Groq, and ByteDance's C‑Dance 2.5 advances in video generation.\n\nThe AI Daily Brief "
             }
           ],
           "error": null
@@ -262,10 +208,70 @@
           "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
           "videos": [
             {
+              "title": "Build a Self Improving Claude Knowledge Base",
+              "url": "https://www.youtube.com/watch?v=0-QDPnEIkvw",
+              "published": "2026-06-25T13:00:15Z",
+              "description": "#ZapierPartner Sponsored by Zapier! Zapier MCP levels you up, connecting you directly to apps to automate your workflow. Start building with Zapier MCP today:  https://bit.ly/3QDA0xF\n\nBuild a knowledge base that organizes itself and gets smarter every night. In this video I show you the exact Karpathy-style \"LLM wiki\" setup I run, built in Claude Cowork with plain markdown files you view in Obsidian. You drop your notes, articles, and transcripts in, the AI builds a connected map of everything y"
+            },
+            {
               "title": "Claude Cowork Can Now Generate Images and Videos with Higgsfield MCP!",
               "url": "https://www.youtube.com/watch?v=x0GOZWWJieI",
               "published": "2026-06-24T13:00:08Z",
               "description": "Try Higgsfield MCP here: https://higgsfield.ai/s/mcp-pauljlipsky-MfjWLa\n\nHiggsfield's MCP connector lets Claude Cowork generate images and videos directly inside the chat, so you can plan the work and create the actual assets without ever leaving Claude.\n\n0:00 Intro\n0:58 Setup\n2:40 First Image Test\n3:21 Lesson Plan Infographics\n4:22 Restaurant Assets\n5:54 Editing and Iterating\n7:06 Why It Stays in Claude\n8:03 Outro\n\n🔗 This video is sponsored by Higgsfield. Some product links are affiliate links "
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Chase AI",
+          "handle": "@ChaseAI",
+          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+          "videos": [
+            {
+              "title": "The Agentic OS Setup That Will 10x Claude Code",
+              "url": "https://www.youtube.com/watch?v=HRw-vP0j8OM",
+              "published": "2026-06-25T02:34:47Z",
+              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nWhy should we care about creating an Agentic OS if we are already happy with Claude Code?\n\nWell, its because Agentic OS fundamentals are tightly tied to Claude Code fundamentals, and mastering the former improves your outputs with the latter. \n\nFrom skills, to loop engineering, to memor"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Simon Scrapes",
+          "handle": "@SimonScrapes",
+          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
+          "videos": [
+            {
+              "title": "Claude Code's Evolution of Memory",
+              "url": "https://www.youtube.com/shorts/_BIGdZeM7i4",
+              "published": "2026-06-26T08:42:00Z",
+              "description": "The best practices for using Claude Code have quietly changed. If your workflow is still based on guides from early this year, you're likely missing out on Claude's most powerful new capabilities. In this video, we'll break down the three biggest shifts for using Claude Code effectively: improving its memory with community tools, leveling up your planning with new commands, and automating your workflows. You'll learn how to spend less time managing Claude and more time getting useful work done."
+            },
+            {
+              "title": "Watch This If You're Serious About Claude Code (Most People Skip This Step)",
+              "url": "https://www.youtube.com/watch?v=CBcyKfpldTo",
+              "published": "2026-06-25T14:51:24Z",
+              "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes \nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\nOut of the box, Claude Code is a powerful tool, but it has four major limitations holding you back. It doesn't know your business context, it stops when you close your laptop, it struggles with large tasks, and it can create problems faster than it solves them. This tutorial shows you how to fix each one, turning Claude Code from a simpl"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "AI Daily Brief",
+          "handle": "@AIDailyBrief",
+          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
+          "videos": [
+            {
+              "title": "CEO-Led AI Gets 3X the ROI",
+              "url": "https://www.youtube.com/watch?v=VICrf_yV0co",
+              "published": "2026-06-25T21:54:06Z",
+              "description": "Headlines cover OpenAI's Jalapeño ASIC, GPT‑5.5 Instant updates for free users, and Anthropic's Fable rumors and Claude Tag rollout. KPMG's quarterly survey finds CEO ownership of AI strategy yields three times the reported ROI and shifts priorities toward human‑AI collaboration and governance. Micron's blowout results expose sustained memory demand while Google talent exits and allegations of Alibaba-led model distillation heighten competitive and security concerns.\n\nThe AI Daily Brief helps yo"
+            },
+            {
+              "title": "5 Ways Claude Tag Could Change How You Use AI",
+              "url": "https://www.youtube.com/watch?v=EpxZEvvOTL8",
+              "published": "2026-06-24T21:57:57Z",
+              "description": "Claude Tag embeds persistent, proactive AI coworkers into Slack channels to access team context, manage long‑horizon tasks, and automate code and incident response. Regulatory flashpoints include the Anthropic Fable access ban, a lawsuit seeking model reinstatement, and government pressure on model testing. Additional discussions cover US scrutiny of Chinese robotics, new goal‑directed coding agents from xAI and Groq, and ByteDance's C‑Dance 2.5 advances in video generation.\n\nThe AI Daily Brief "
             }
           ],
           "error": null
@@ -438,7 +444,7 @@
         "issue_number": 296,
         "issue_date": "2026-06-24",
         "url": "https://www.ppdevweekly.com/p/296",
-        "is_new": true,
+        "is_new": false,
         "sections": {
           "🥇 Cover Story": [
             {
@@ -649,8 +655,103 @@
     "release_plans": {
       "source_url": "https://releaseplans.net/",
       "data_url": "https://releaseplans.net/data/release-plans.json",
-      "products": {},
-      "total_updates": 0,
+      "products": {
+        "Power Apps": [
+          {
+            "feature_name": "Enforce modern look across model-driven apps",
+            "product": "Power Apps",
+            "product_group": "Building modern apps",
+            "status": "GA",
+            "release_wave": "2026 release wave 1",
+            "last_updated": "06/25/2026",
+            "enabled_for": "Users, automatically",
+            "description": "Making the modern look universal gives you a consistent, accessible, and modern experience. Organizations benefit from simplified governance, reduced support overhead, and reliable rollout of UX improvements across environments, freeing admins and makers to focus on solutions rather than maintaining UI exceptions.",
+            "preview_date": "",
+            "ga_date": "04/01/2026"
+          }
+        ],
+        "Power Automate": [
+          {
+            "feature_name": "Measure time and cost savings for desktop flows",
+            "product": "Power Automate",
+            "product_group": "Desktop flows",
+            "status": "GA",
+            "release_wave": "2026 release wave 1",
+            "last_updated": "06/25/2026",
+            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
+            "description": "This feature is designed for teams that want to demonstrate the business impact of desktop automation. It lets you automatically calculate time and cost savings compared to pre-automation processes, without relying on manual tracking or spreadsheets. These insights help you clearly show return on investment, justify automation initiatives, and communicate value to business stakeholders and Centers of Excellence.",
+            "preview_date": "",
+            "ga_date": "07/01/2026"
+          },
+          {
+            "feature_name": "Encrypt and decrypt data with PGP",
+            "product": "Power Automate",
+            "product_group": "Desktop flows",
+            "status": "GA",
+            "release_wave": "2026 release wave 1",
+            "last_updated": "06/25/2026",
+            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
+            "description": "This feature is for organizations that exchange sensitive data with partners using Pretty Good Privacy (PGP) standards. You can automatically encrypt and decrypt data using PGP keys, reducing manual handling and human error. This helps you meet security and compliance requirements, speed up integrations with external systems, and avoid building and maintaining custom PGP solutions.",
+            "preview_date": "",
+            "ga_date": "07/01/2026"
+          },
+          {
+            "feature_name": "Capture video logs in unattended runs",
+            "product": "Power Automate",
+            "product_group": "Desktop flows",
+            "status": "In Preview",
+            "release_wave": "",
+            "last_updated": "06/25/2026",
+            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
+            "description": "Unattended desktop flow runs often fail without clear visual context, forcing makers and support teams to reproduce issues manually or rely on incomplete logs. Existing tools, such as action logs, screenshots, and run‑history metadata, provide useful data but are sometimes insufficient, especially when failures stem from transient UI issues, timing conflicts, pop‑ups, or unexpected system behavior. Logging unattended failures can be significantly harder when only textual logs and screenshots are",
+            "preview_date": "04/30/2026",
+            "ga_date": ""
+          }
+        ],
+        "Microsoft Copilot Studio": [
+          {
+            "feature_name": "See a unified view of errors, warnings, and governance notifications",
+            "product": "Microsoft Copilot Studio",
+            "product_group": "Core authoring",
+            "status": "GA",
+            "release_wave": "2026 release wave 1",
+            "last_updated": "06/25/2026",
+            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
+            "description": "This feature helps organizations enable safe innovation without slowing makers down. By clearly surfacing governance constraints early and consolidating all errors and notifications in one place, makers spend less time debugging late-stage failures and more time building compliant solutions. Customers benefit from reduced support friction, higher maker success rates, and better adherence to organizational policies - driving faster adoption and more predictable outcomes in governed environments.",
+            "preview_date": "05/15/2026",
+            "ga_date": "07/01/2026"
+          }
+        ],
+        "Microsoft Dataverse": [
+          {
+            "feature_name": "Build Dataverse solutions with coding agents using Dataverse skills",
+            "product": "Microsoft Dataverse",
+            "product_group": "Enable AI powered business workflows in Work IQ with Dataverse",
+            "status": "In Preview",
+            "release_wave": "",
+            "last_updated": "06/25/2026",
+            "enabled_for": "Users by admins, makers, or analysts",
+            "description": "By using coding agents, you can eliminate the need to manually create Microsoft Dataverse tables and solutions through the UI. Dataverse skills guide coding agents to connect to your environment and build solutions by using tables, relationships, forms, and views. This process also includes creating sample data.",
+            "preview_date": "06/01/2026",
+            "ga_date": ""
+          }
+        ],
+        "Microsoft Power Platform governance and administration": [
+          {
+            "feature_name": "Prevent sending sensitive data to Purview audit logs",
+            "product": "Microsoft Power Platform governance and administration",
+            "product_group": "Security and compliance",
+            "status": "GA",
+            "release_wave": "2026 release wave 1",
+            "last_updated": "06/25/2026",
+            "enabled_for": "Users by admins, makers, or analysts",
+            "description": "This feature restricts customer business data in Dataverse audit logs from being sent to Purview auditing streams. This helps ensure compliance and reduces the risk of leaking sensitive customer data.",
+            "preview_date": "",
+            "ga_date": "06/12/2026"
+          }
+        ]
+      },
+      "total_updates": 7,
       "error": null
     }
   },
