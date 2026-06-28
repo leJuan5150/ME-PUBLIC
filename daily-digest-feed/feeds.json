@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T11:31:41.374806Z",
+  "generated_at": "2026-06-28T11:34:40.316273Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
@@ -15,6 +15,13 @@
           "creator": "VentureToRoam",
           "handle": "@VentureToRoam",
           "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Epic Adventure Outfitters",
+          "handle": "@EpicAdventureOutfitters",
+          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
           "videos": [],
           "error": null
         },
@@ -40,23 +47,16 @@
           "error": null
         },
         {
-          "creator": "Casey 250",
-          "handle": "@Casey250",
-          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
-          "videos": [
-            {
-              "title": "Ford Ranger Raptor OFF-ROAD HONEST REVIEW by Jeep & Toyota Owners (Rocky Mountain River Trail)",
-              "url": "https://www.youtube.com/watch?v=U41nHHRaTnk",
-              "published": "2026-06-25T22:00:04Z",
-              "description": "Is the Ford Ranger Raptor the ultimate off-road machine, or just a flashy truck? We decided to settle the debate as die hard Jeep and Toyota owners, and took a Ford Ranger Raptor out to the Rocky Mountains. This wasn't just a casual drive—we pushed this Raptor through the river trails to see where it shines and where it falls short. If you’re considering switching from a Jeep or Toyota to a Raptor, this honest review is for you.\n\n\n=============================================================\n\nCh"
-            }
-          ],
+          "creator": "TrailRecon",
+          "handle": "@TrailRecon",
+          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
+          "videos": [],
           "error": null
         },
         {
-          "creator": "Epic Adventure Outfitters",
-          "handle": "@EpicAdventureOutfitters",
-          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
+          "creator": "Casey 250",
+          "handle": "@Casey250",
+          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
           "videos": [],
           "error": null
         },
@@ -66,20 +66,13 @@
           "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
           "videos": [],
           "error": null
-        },
-        {
-          "creator": "TrailRecon",
-          "handle": "@TrailRecon",
-          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
-          "videos": [],
-          "error": null
         }
       ],
       "power_platform": [
         {
-          "creator": "Shane Young",
-          "handle": "@ShanesCows",
-          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
+          "creator": "Reza Dorrani",
+          "handle": "@RezaDorrani",
+          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
           "videos": [],
           "error": null
         },
@@ -87,6 +80,13 @@
           "creator": "Matthew Devaney",
           "handle": "@MatthewDevaney",
           "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Shane Young",
+          "handle": "@ShanesCows",
+          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
           "videos": [],
           "error": null
         },
@@ -103,34 +103,20 @@
           "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
           "videos": [],
           "error": null
-        },
-        {
-          "creator": "Reza Dorrani",
-          "handle": "@RezaDorrani",
-          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
-          "videos": [],
-          "error": null
         }
       ],
       "fabric_powerbi": [
         {
-          "creator": "Guy in a Cube",
-          "handle": "@GuyInACube",
-          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
-          "videos": [
-            {
-              "title": "Power BI Finally Has a Date Picker — No More Workarounds?",
-              "url": "https://www.youtube.com/watch?v=YWcxgpa5VlI",
-              "published": "2026-06-25T14:30:36Z",
-              "description": "Have you ever needed users to pick one specific date in Power BI without using a workaround?\n\nFor years, report authors had to get creative with slicers, custom visuals, DAX, or report design tricks to create a simple date picker experience. Now Power BI has a new Date Picker slicer option, and Patrick LeBlanc from Guy in a Cube is going to put it side by side with one of his older workaround approaches.\n\nIn this video, Patrick shows how the new Power BI Date Picker works, how it compares to the"
-            }
-          ],
-          "error": null
-        },
-        {
           "creator": "Dewain Robinson",
           "handle": "@DewainRobinson",
           "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Guy in a Cube",
+          "handle": "@GuyInACube",
+          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
           "videos": [],
           "error": null
         }
@@ -142,6 +128,12 @@
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
             {
+              "title": "AI didn't make you faster. It just hid the real bottleneck. #Productivity #FutureOfWork",
+              "url": "https://www.youtube.com/shorts/AdtGNAhVtok",
+              "published": "2026-06-28T03:00:09Z",
+              "description": "Here's the uncomfortable truth: AI made the building part fast, so now everything around it is the slow part. The meeting to align on a feature. The PRD. The approval loop. There's a manufacturing principle that explains it — kill a bottleneck and it doesn't vanish, it just slides downstream. The work got faster. Our habits didn't.\n\nI broke down the 8 habits worth unlearning (with a prompt kit to find your real bottleneck) here 👉 https://natesnewsletter.substack.com/p/8-habits-worth-unlearning-i"
+            },
+            {
               "title": "This is the real AI moat — and it's not the models. #anthropic #claude #claudecowork",
               "url": "https://www.youtube.com/shorts/u763aFhSeoU",
               "published": "2026-06-27T03:00:30Z",
@@ -152,12 +144,33 @@
               "url": "https://www.youtube.com/watch?v=QSK4vf_ZTRA",
               "published": "2026-06-26T14:00:12Z",
               "description": "How to Guide - Build Your Open Engine:\nhttps://natesnewsletter.substack.com/p/ai-agent-handoffs?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nYour AI agents don't talk to each other, so you have become the human glue moving work between Claude, Codex, and ChatGPT. Open Engine is a shared task queue that lets your agents hand off work, carry the sources, and leave a receipt, without you stuck in the middle.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substa"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Nate Herk",
+          "handle": "@NateHerk",
+          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Alex Finn",
+          "handle": "@AlexFinn",
+          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
+          "videos": [
+            {
+              "title": "The most important concept to learn in AI...",
+              "url": "https://www.youtube.com/watch?v=C4vwvRMTlvc",
+              "published": "2026-06-27T19:29:10Z",
+              "description": "You NEED to be learning about local AI. Here is your masterclass\n\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nFULL Hermes Agent bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nDesktop app: https://hermes-agent.nousresearc"
             },
             {
-              "title": "You're learning AI wrong. Here's the fix #AI #Management #Leadership #FutureOfWork",
-              "url": "https://www.youtube.com/shorts/rRNbjws5P_M",
-              "published": "2026-06-26T03:00:34Z",
-              "description": "I watched the people who actually survived their company's AI rollout, and they all figured out one thing: AI isn't a tool skill, it's a management skill. The skills that make you good at AI aren't prompting skills — they're people skills. Closing the AI fluency gap on your team starts here. Get my newsletter 👉 https://natesnewsletter.substack.com\n\n\nMy Links \n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n👉🏻 Instagram: https://www.instagram.com/nate.b.jones"
+              "title": "ChatGPT 5.6 has been announced. I’m done…",
+              "url": "https://www.youtube.com/watch?v=5zm7LIDXtvE",
+              "published": "2026-06-27T02:55:19Z",
+              "description": "ChatGPT 5.6 was just announced. Here is why this is bad.\n\n\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nFULL Hermes Agent bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/"
             }
           ],
           "error": null
@@ -183,15 +196,15 @@
           "error": null
         },
         {
-          "creator": "Alex Finn",
-          "handle": "@AlexFinn",
-          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
+          "creator": "AI Daily Brief",
+          "handle": "@AIDailyBrief",
+          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
           "videos": [
             {
-              "title": "ChatGPT 5.6 has been announced. I’m done…",
-              "url": "https://www.youtube.com/watch?v=5zm7LIDXtvE",
-              "published": "2026-06-27T02:55:19Z",
-              "description": "ChatGPT 5.6 was just announced. Here is why this is bad.\n\n\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nFULL Hermes Agent bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/"
+              "title": "Meet Your Ad Hoc AI Licensing Regime",
+              "url": "https://www.youtube.com/watch?v=WkXuk8NlPAQ",
+              "published": "2026-06-27T16:20:26Z",
+              "description": "This week’s AI Weekly Brief looks at the emerging government-limited rollout process for frontier models, from Mythos to GPT-5.6, and why an opaque, customer-by-customer access regime could be bad for everyone. It also covers Claude Tag, open model momentum, CEO-led AI ROI, and the suddenly revived AI infrastructure trade.\n\nThe AI Daily Brief helps you understand the most important news and discussions in AI. \nSubscribe to the podcast version of The AI Daily Brief wherever you listen: https://po"
             }
           ],
           "error": null
@@ -206,40 +219,6 @@
               "url": "https://www.youtube.com/watch?v=JfxLTPAjGgg",
               "published": "2026-06-26T12:00:37Z",
               "description": "Try Lovart Today: https://www.lovart.ai/?sourceId=902604\n\nEvery week I bring you the latest AI news. This week I show you some updates to NotebookLM and Gemini, including their new Study Notebooks. Claude Design also got a UI overhaul that looks so nice. ChatGPT gave us a nice update and so much more!\n\nThis video is sponsored by Lovart.\n#BuiltWithLovart  #AiDesign #AIBranding  ⁨@lovart_ai⁩  \n\n00:00 Intro\n00:33 NotebookLM Update\n01:40 Anthropic News\n02:28 Claude CoWork\n03:36 Claude Tag\n04:26 AI M"
-            },
-            {
-              "title": "Build a Self Improving Claude Knowledge Base",
-              "url": "https://www.youtube.com/watch?v=0-QDPnEIkvw",
-              "published": "2026-06-25T13:00:15Z",
-              "description": "#ZapierPartner Sponsored by Zapier! Zapier MCP levels you up, connecting you directly to apps to automate your workflow. Start building with Zapier MCP today:  https://bit.ly/3QDA0xF\n\nBuild a knowledge base that organizes itself and gets smarter every night. In this video I show you the exact Karpathy-style \"LLM wiki\" setup I run, built in Claude Cowork with plain markdown files you view in Obsidian. You drop your notes, articles, and transcripts in, the AI builds a connected map of everything y"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Nate Herk",
-          "handle": "@NateHerk",
-          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-          "videos": [
-            {
-              "title": "I asked Claude Code to make me as much money as possible",
-              "url": "https://www.youtube.com/watch?v=iTY8Q449YNQ",
-              "published": "2026-06-25T19:52:16Z",
-              "description": "My FREE AI OS Course: https://www.skool.com/ai-automation-society/about?el=claude-money&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\nFull courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=claude-money&amp;hcategory=youtube-videos&amp;utm_campaign=ais-plus\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annu"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "AI Daily Brief",
-          "handle": "@AIDailyBrief",
-          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
-          "videos": [
-            {
-              "title": "CEO-Led AI Gets 3X the ROI",
-              "url": "https://www.youtube.com/watch?v=VICrf_yV0co",
-              "published": "2026-06-25T21:54:06Z",
-              "description": "Headlines cover OpenAI's Jalapeño ASIC, GPT‑5.5 Instant updates for free users, and Anthropic's Fable rumors and Claude Tag rollout. KPMG's quarterly survey finds CEO ownership of AI strategy yields three times the reported ROI and shifts priorities toward human‑AI collaboration and governance. Micron's blowout results expose sustained memory demand while Google talent exits and allegations of Alibaba-led model distillation heighten competitive and security concerns.\n\nThe AI Daily Brief helps yo"
             }
           ],
           "error": null
@@ -248,20 +227,7 @@
           "creator": "Simon Scrapes",
           "handle": "@SimonScrapes",
           "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
-          "videos": [
-            {
-              "title": "Claude Code's Evolution of Memory",
-              "url": "https://www.youtube.com/shorts/_BIGdZeM7i4",
-              "published": "2026-06-26T08:42:00Z",
-              "description": "The best practices for using Claude Code have quietly changed. If your workflow is still based on guides from early this year, you're likely missing out on Claude's most powerful new capabilities. In this video, we'll break down the three biggest shifts for using Claude Code effectively: improving its memory with community tools, leveling up your planning with new commands, and automating your workflows. You'll learn how to spend less time managing Claude and more time getting useful work done."
-            },
-            {
-              "title": "Watch This If You're Serious About Claude Code (Most People Skip This Step)",
-              "url": "https://www.youtube.com/watch?v=CBcyKfpldTo",
-              "published": "2026-06-25T14:51:24Z",
-              "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes \nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\nOut of the box, Claude Code is a powerful tool, but it has four major limitations holding you back. It doesn't know your business context, it stops when you close your laptop, it struggles with large tasks, and it can create problems faster than it solves them. This tutorial shows you how to fix each one, turning Claude Code from a simpl"
-            }
-          ],
+          "videos": [],
           "error": null
         }
       ]
