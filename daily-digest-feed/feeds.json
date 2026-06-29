@@ -1,13 +1,34 @@
 {
-  "generated_at": "2026-06-28T11:34:40.316273Z",
+  "generated_at": "2026-06-29T12:31:33.682491Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
         {
+          "creator": "LetsGetLost",
+          "handle": "@LetsGetLost",
+          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "TrailRecon",
+          "handle": "@TrailRecon",
+          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
+          "videos": [],
+          "error": null
+        },
+        {
           "creator": "Life Style Overland",
           "handle": "@LifeStyleOverland",
           "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Casey 250",
+          "handle": "@Casey250",
+          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
           "videos": [],
           "error": null
         },
@@ -26,60 +47,46 @@
           "error": null
         },
         {
-          "creator": "This Story Till Now",
-          "handle": "@ThisStoryTillNow",
-          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "Ozark Overland Adventure",
           "handle": "@OzarkOverlandAdventures",
           "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "This Story Till Now",
+          "handle": "@ThisStoryTillNow",
+          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
           "videos": [
             {
-              "title": "Solo Along the Salmon River Idaho",
-              "url": "https://www.youtube.com/watch?v=IbryOI3idJM",
-              "published": "2026-06-26T16:00:16Z",
-              "description": "Cara heads home and I take off along the Salmon River to continue the journey west through Idaho.\n\n🚨 Prime Day Floor Mats Sale is LIVE! (June 23rd–26th)\nThe Prime Day deals from 3W Auto Life are now officially live. Whether you need all-weather protection for daily driving, road trips, off-road adventures, or family vehicles, click the link below to unlock the biggest Prime Day discount on our custom-fit floor mats\n🔥 Amazon Prime Day Deals – Up to 30% OFF\nGladiator floor liners:https://amzn.to/4"
+              "title": "The Road Was Gone... So We Drove It Anyway",
+              "url": "https://www.youtube.com/watch?v=YS2WoLqRi6o",
+              "published": "2026-06-28T05:49:42Z",
+              "description": "Sign up with my link and save 20% on OnX Off-Road: https://bit.ly/onxoffroadtstn\n\nSUBSCRIBE TO TSTN MAGAZINE ($11.40 a month including delivery): http://subscribe.tstnmag.com\n\nMERCH: http://www.tstn.shop\n\nWe set out to explore a remote corner of British Columbia, following rugged mountain roads deep into the Rockies in search of an unforgettable campsite. Along the way, we navigate countless water crossings, washed-out roads, and one obstacle where the road has completely disappeared. After maki"
             }
           ],
-          "error": null
-        },
-        {
-          "creator": "TrailRecon",
-          "handle": "@TrailRecon",
-          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Casey 250",
-          "handle": "@Casey250",
-          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "LetsGetLost",
-          "handle": "@LetsGetLost",
-          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
-          "videos": [],
           "error": null
         }
       ],
       "power_platform": [
         {
-          "creator": "Reza Dorrani",
-          "handle": "@RezaDorrani",
-          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "Matthew Devaney",
           "handle": "@MatthewDevaney",
           "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
+          "videos": [
+            {
+              "title": "Build Agents With SharePoint List Knowledge (Copilot Studio)",
+              "url": "https://www.youtube.com/watch?v=BUM4gUc8QUM",
+              "published": "2026-06-28T16:15:49Z",
+              "description": "In today's video, we are going to use the all-new #CopilotStudio build an agent that's grounded in #SharePoint list knowledge. \n\nWe'll be able to ask our agent question using natural language, and then the agent will send us the results.\n\nAnd what I love about these new agents is they give super accurate results, even when working with a really large lists.\n\nWe are also going to make our agent generate spreadsheets and chat over email. I can't wait to show you. Let's get started.\n\nTable Of Conte"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Lisa Crosbie",
+          "handle": "@LisaCrosbie",
+          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
           "videos": [],
           "error": null
         },
@@ -91,32 +98,46 @@
           "error": null
         },
         {
-          "creator": "Lisa Crosbie",
-          "handle": "@LisaCrosbie",
-          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "April Dunnam",
           "handle": "@AprilDunnam",
           "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
           "videos": [],
           "error": null
+        },
+        {
+          "creator": "Reza Dorrani",
+          "handle": "@RezaDorrani",
+          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
+          "videos": [
+            {
+              "title": "Build Power Apps with AI | Canvas Apps Authoring MCP Server + Claude Code",
+              "url": "https://www.youtube.com/watch?v=0MM2BTBiRpc",
+              "published": "2026-06-29T12:00:06Z",
+              "description": "What if AI could build an entire Power Apps Canvas App for you?\n\nIn this step-by-step tutorial, I show exactly how to use the new Canvas Apps Authoring MCP Server together with Claude Code to go from a simple idea to a fully functional Power Apps application.\n\nRather than manually creating every screen, control, formula (Power Fx), and data source, we collaborate with AI throughout the entire development process. From designing the data model to generating the SharePoint schema, building the UI,"
+            }
+          ],
+          "error": null
         }
       ],
       "fabric_powerbi": [
         {
-          "creator": "Dewain Robinson",
-          "handle": "@DewainRobinson",
-          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "Guy in a Cube",
           "handle": "@GuyInACube",
           "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
+          "videos": [
+            {
+              "title": "Is Ontology the new Semantic Model? 🤔",
+              "url": "https://www.youtube.com/shorts/cwo8JcoUrdw",
+              "published": "2026-06-28T18:17:28Z",
+              "description": "📢 Become a member: https://guyinacu.be/membership \n\n*******************\nLET'S CONNECT!\n*******************\n\n-- https://www.linkedin.com/company/guyinacube\n-- https://bsky.app/profile/guyinacube.bsky.social\n-- http://twitter.com/guyinacube\n-- http://www.facebook.com/guyinacube\n\n\n#PowerBI #MicrosoftFabric #GuyInACube"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Dewain Robinson",
+          "handle": "@DewainRobinson",
+          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
           "videos": [],
           "error": null
         }
@@ -128,49 +149,22 @@
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
             {
+              "title": "Is the junior developer pipeline collapsing? #AI #SoftwareDevelopment #Coding #JobMarket",
+              "url": "https://www.youtube.com/shorts/f1Ulp-ZMWy8",
+              "published": "2026-06-29T03:00:31Z",
+              "description": "If you're early in your tech career, you already feel it: the bottom rung of the ladder is disappearing. AI took over exactly the kind of work juniors used to cut their teeth on — which means \"I can code\" no longer proves what it used to. The pipeline that turned beginners into seniors is quietly collapsing.\n\nSo how do you actually break into tech now? I broke down the strategies, success stories, and who's still hiring 👉 https://natesnewsletter.substack.com/p/the-inside-scoop-on-juniors-and-job"
+            },
+            {
+              "title": "GLM 5.2 Is Free And Beats Claude On Most Work. So Why Can't Companies Switch?",
+              "url": "https://www.youtube.com/watch?v=Zp8lr6IzUnQ",
+              "published": "2026-06-28T17:00:40Z",
+              "description": "Full post: https://natesnewsletter.substack.com/p/glm-5-2-context-lock-in?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nGLM 5.2 is a free, open-source model that often beats Claude on everyday work, yet companies still pay frontier prices. The real bottleneck is no longer the model call. It is the last mile around it: context, routing, and harnesses.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https:/"
+            },
+            {
               "title": "AI didn't make you faster. It just hid the real bottleneck. #Productivity #FutureOfWork",
               "url": "https://www.youtube.com/shorts/AdtGNAhVtok",
               "published": "2026-06-28T03:00:09Z",
               "description": "Here's the uncomfortable truth: AI made the building part fast, so now everything around it is the slow part. The meeting to align on a feature. The PRD. The approval loop. There's a manufacturing principle that explains it — kill a bottleneck and it doesn't vanish, it just slides downstream. The work got faster. Our habits didn't.\n\nI broke down the 8 habits worth unlearning (with a prompt kit to find your real bottleneck) here 👉 https://natesnewsletter.substack.com/p/8-habits-worth-unlearning-i"
-            },
-            {
-              "title": "This is the real AI moat — and it's not the models. #anthropic #claude #claudecowork",
-              "url": "https://www.youtube.com/shorts/u763aFhSeoU",
-              "published": "2026-06-27T03:00:30Z",
-              "description": "Anthropic noticed something weird: developers were using their coding tool to sort expense receipts. 10 days later, they'd shipped Claude Cowork. That kind of operational velocity is becoming as big a moat as the models themselves. Want the deeper breakdown on how AI-native teams move this fast? Get my newsletter: https://natesnewsletter.substack.com\n\nMy Links \n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n👉🏻 Instagram: https://www.instagram.com/nate.b.jones"
-            },
-            {
-              "title": "I Was The Only Thing Connecting Claude, ChatGPT, and Codex. So I Built My Replacement.",
-              "url": "https://www.youtube.com/watch?v=QSK4vf_ZTRA",
-              "published": "2026-06-26T14:00:12Z",
-              "description": "How to Guide - Build Your Open Engine:\nhttps://natesnewsletter.substack.com/p/ai-agent-handoffs?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nYour AI agents don't talk to each other, so you have become the human glue moving work between Claude, Codex, and ChatGPT. Open Engine is a shared task queue that lets your agents hand off work, carry the sources, and leave a receipt, without you stuck in the middle.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substa"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Nate Herk",
-          "handle": "@NateHerk",
-          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Alex Finn",
-          "handle": "@AlexFinn",
-          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
-          "videos": [
-            {
-              "title": "The most important concept to learn in AI...",
-              "url": "https://www.youtube.com/watch?v=C4vwvRMTlvc",
-              "published": "2026-06-27T19:29:10Z",
-              "description": "You NEED to be learning about local AI. Here is your masterclass\n\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nFULL Hermes Agent bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nDesktop app: https://hermes-agent.nousresearc"
-            },
-            {
-              "title": "ChatGPT 5.6 has been announced. I’m done…",
-              "url": "https://www.youtube.com/watch?v=5zm7LIDXtvE",
-              "published": "2026-06-27T02:55:19Z",
-              "description": "ChatGPT 5.6 was just announced. Here is why this is bad.\n\n\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nFULL Hermes Agent bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/"
             }
           ],
           "error": null
@@ -181,16 +175,16 @@
           "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
           "videos": [
             {
-              "title": "Use This Claude GitHub Repo Tracker and Never Fall Behind",
-              "url": "https://www.youtube.com/shorts/0k8rJseHQTA",
-              "published": "2026-06-26T21:36:33Z",
+              "title": "The EASIEST Way to Improve your Obsidian + Claude Code Setup",
+              "url": "https://www.youtube.com/shorts/0CH2ml-NZFw",
+              "published": "2026-06-28T22:58:23Z",
               "description": ""
             },
             {
-              "title": "Use These 17 Claude Plugins, It Will Make You 10x Better.",
-              "url": "https://www.youtube.com/watch?v=V2RIVnGCy74",
-              "published": "2026-06-26T20:45:02Z",
-              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nSkills, CLIs, and Plugins are the easiest way to supercharge your Claude Code experience, but which ones are actually worth it? In this video, I dive into 17 of my favorite.\n\n🔌Plugins\n\nTaste Skill - https://github.com/leonxlnx/taste-skill\nImpeccable - https://github.com/pbakaus/impeccab"
+              "title": "The Top Trending Github Repo For Fixing Claude Code Web Design",
+              "url": "https://www.youtube.com/shorts/t6laGaEMlsU",
+              "published": "2026-06-28T22:55:29Z",
+              "description": ""
             }
           ],
           "error": null
@@ -210,15 +204,15 @@
           "error": null
         },
         {
-          "creator": "Paul J Lipsky",
-          "handle": "@PaulJLipsky",
-          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
+          "creator": "Alex Finn",
+          "handle": "@AlexFinn",
+          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
           "videos": [
             {
-              "title": "AI News: NotebookLM Update; Gemini Study Notebooks; Claude Design 2.0; and ChatGPT Is Now Better!!",
-              "url": "https://www.youtube.com/watch?v=JfxLTPAjGgg",
-              "published": "2026-06-26T12:00:37Z",
-              "description": "Try Lovart Today: https://www.lovart.ai/?sourceId=902604\n\nEvery week I bring you the latest AI news. This week I show you some updates to NotebookLM and Gemini, including their new Study Notebooks. Claude Design also got a UI overhaul that looks so nice. ChatGPT gave us a nice update and so much more!\n\nThis video is sponsored by Lovart.\n#BuiltWithLovart  #AiDesign #AIBranding  ⁨@lovart_ai⁩  \n\n00:00 Intro\n00:33 NotebookLM Update\n01:40 Anthropic News\n02:28 Claude CoWork\n03:36 Claude Tag\n04:26 AI M"
+              "title": "The most important concept to learn in AI...",
+              "url": "https://www.youtube.com/watch?v=C4vwvRMTlvc",
+              "published": "2026-06-27T19:29:10Z",
+              "description": "You NEED to be learning about local AI. Here is your masterclass\n\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nFULL Hermes Agent bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nDesktop app: https://hermes-agent.nousresearc"
             }
           ],
           "error": null
@@ -227,6 +221,34 @@
           "creator": "Simon Scrapes",
           "handle": "@SimonScrapes",
           "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
+          "videos": [
+            {
+              "title": "How Serious Claude Code Users Get Ahead",
+              "url": "https://www.youtube.com/shorts/lP4druPIsss",
+              "published": "2026-06-29T08:13:47Z",
+              "description": "Out of the box, Claude Code is a powerful tool, but it has four major limitations holding you back. It doesn't know your business context, it stops when you close your laptop, it struggles with large tasks, and it can create problems faster than it solves them. This tutorial shows you how to fix each one, turning Claude Code from a simple chatbot into a powerful system that runs meaningful work for you."
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Paul J Lipsky",
+          "handle": "@PaulJLipsky",
+          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
+          "videos": [
+            {
+              "title": "ChatGPT vs Grok in 2026 (Which One Is Better?)",
+              "url": "https://www.youtube.com/watch?v=zjQrP9FW2ag",
+              "published": "2026-06-28T13:00:33Z",
+              "description": "👉 Try Emergent: https://app.emergent.sh/?via=pauljlipsky\n\nSuperGrok costs $30 a month and ChatGPT Plus is $20, so I put both head to head across images, video, coding, connectors, research, writing, memory, limits and price to figure out which one is actually worth your money.\n\n🔗 This video is sponsored by Emergent. \n\n0:00 Intro\n0:43 Images\n2:01 Video Generation\n3:10 Coding (Emergent)\n5:21 Everyday Use & Connectors\n6:27 Summaries & Trending on X\n8:15 Writing & Codex\n10:26 Memory & Responses\n12:2"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Nate Herk",
+          "handle": "@NateHerk",
+          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
           "videos": [],
           "error": null
         }
