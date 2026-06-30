@@ -1,34 +1,13 @@
 {
-  "generated_at": "2026-06-29T12:31:33.682491Z",
+  "generated_at": "2026-06-30T11:52:27.102487Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
         {
-          "creator": "LetsGetLost",
-          "handle": "@LetsGetLost",
-          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "TrailRecon",
-          "handle": "@TrailRecon",
-          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "Life Style Overland",
           "handle": "@LifeStyleOverland",
           "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Casey 250",
-          "handle": "@Casey250",
-          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
           "videos": [],
           "error": null
         },
@@ -40,17 +19,24 @@
           "error": null
         },
         {
-          "creator": "Epic Adventure Outfitters",
-          "handle": "@EpicAdventureOutfitters",
-          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
+          "creator": "LetsGetLost",
+          "handle": "@LetsGetLost",
+          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
           "videos": [],
           "error": null
         },
         {
-          "creator": "Ozark Overland Adventure",
-          "handle": "@OzarkOverlandAdventures",
-          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
-          "videos": [],
+          "creator": "Epic Adventure Outfitters",
+          "handle": "@EpicAdventureOutfitters",
+          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
+          "videos": [
+            {
+              "title": "Everything You Need to Know About Off Road Lighting in 20 Minutes",
+              "url": "https://www.youtube.com/watch?v=9Q7KDN61bDM",
+              "published": "2026-06-29T20:00:21Z",
+              "description": "Your trail doesn't care that you forgot to upgrade your lighting. \nIt just gets dark. Really fast. Really far from home.\n#JeepLife #RigidIndustries #BajaDesigns\n\nIn this episode Paul and The Ginger illuminate everything you have ever wanted to know about off road lighting and a few things you did not know you needed to know until right now.\n\nHere is a scenario that plays out more often than it should. Someone spends serious money on a Jeep build. Lift. Tires. Skids. Recovery Gear. All of it dial"
+            }
+          ],
           "error": null
         },
         {
@@ -61,14 +47,63 @@
             {
               "title": "The Road Was Gone... So We Drove It Anyway",
               "url": "https://www.youtube.com/watch?v=YS2WoLqRi6o",
-              "published": "2026-06-28T05:49:42Z",
+              "published": "2026-06-29T16:00:08Z",
               "description": "Sign up with my link and save 20% on OnX Off-Road: https://bit.ly/onxoffroadtstn\n\nSUBSCRIBE TO TSTN MAGAZINE ($11.40 a month including delivery): http://subscribe.tstnmag.com\n\nMERCH: http://www.tstn.shop\n\nWe set out to explore a remote corner of British Columbia, following rugged mountain roads deep into the Rockies in search of an unforgettable campsite. Along the way, we navigate countless water crossings, washed-out roads, and one obstacle where the road has completely disappeared. After maki"
             }
           ],
           "error": null
+        },
+        {
+          "creator": "TrailRecon",
+          "handle": "@TrailRecon",
+          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Ozark Overland Adventure",
+          "handle": "@OzarkOverlandAdventures",
+          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
+          "videos": [
+            {
+              "title": "Through Idaho's Sawtooth Range",
+              "url": "https://www.youtube.com/watch?v=59C7_j5Dtv4",
+              "published": "2026-06-29T16:00:31Z",
+              "description": "I take off through the Sawtooth Range in Central Idaho and find a great camp.\n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHNYyUa\nAll Roads Taken - https://www.allroadstaken.com\nMOORE Expo - https://mooreexpo.co"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Casey 250",
+          "handle": "@Casey250",
+          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
+          "videos": [],
+          "error": null
         }
       ],
       "power_platform": [
+        {
+          "creator": "Shane Young",
+          "handle": "@ShanesCows",
+          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Lisa Crosbie",
+          "handle": "@LisaCrosbie",
+          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "April Dunnam",
+          "handle": "@AprilDunnam",
+          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
+          "videos": [],
+          "error": null
+        },
         {
           "creator": "Matthew Devaney",
           "handle": "@MatthewDevaney",
@@ -81,27 +116,6 @@
               "description": "In today's video, we are going to use the all-new #CopilotStudio build an agent that's grounded in #SharePoint list knowledge. \n\nWe'll be able to ask our agent question using natural language, and then the agent will send us the results.\n\nAnd what I love about these new agents is they give super accurate results, even when working with a really large lists.\n\nWe are also going to make our agent generate spreadsheets and chat over email. I can't wait to show you. Let's get started.\n\nTable Of Conte"
             }
           ],
-          "error": null
-        },
-        {
-          "creator": "Lisa Crosbie",
-          "handle": "@LisaCrosbie",
-          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Shane Young",
-          "handle": "@ShanesCows",
-          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "April Dunnam",
-          "handle": "@AprilDunnam",
-          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
-          "videos": [],
           "error": null
         },
         {
@@ -121,6 +135,13 @@
       ],
       "fabric_powerbi": [
         {
+          "creator": "Dewain Robinson",
+          "handle": "@DewainRobinson",
+          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
+          "videos": [],
+          "error": null
+        },
+        {
           "creator": "Guy in a Cube",
           "handle": "@GuyInACube",
           "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
@@ -133,13 +154,6 @@
             }
           ],
           "error": null
-        },
-        {
-          "creator": "Dewain Robinson",
-          "handle": "@DewainRobinson",
-          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
-          "videos": [],
-          "error": null
         }
       ],
       "ai": [
@@ -148,6 +162,12 @@
           "handle": "@NateBJones",
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
+            {
+              "title": "The Real Story Behind the Government GPT 5.6 Freeze.",
+              "url": "https://www.youtube.com/watch?v=H9oNA5IyrXA",
+              "published": "2026-06-29T14:00:35Z",
+              "description": "Full post: https://natesnewsletter.substack.com/p/ai-race-context?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nFrontier AI just hit a speed bump. The real story isn't which lab has the smartest model. It's who controls the context that makes any model useful: your files, your Slack, your phone.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n👉🏻 Instagram: https://www."
+            },
             {
               "title": "Is the junior developer pipeline collapsing? #AI #SoftwareDevelopment #Coding #JobMarket",
               "url": "https://www.youtube.com/shorts/f1Ulp-ZMWy8",
@@ -159,14 +179,15 @@
               "url": "https://www.youtube.com/watch?v=Zp8lr6IzUnQ",
               "published": "2026-06-28T17:00:40Z",
               "description": "Full post: https://natesnewsletter.substack.com/p/glm-5-2-context-lock-in?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nGLM 5.2 is a free, open-source model that often beats Claude on everyday work, yet companies still pay frontier prices. The real bottleneck is no longer the model call. It is the last mile around it: context, routing, and harnesses.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https:/"
-            },
-            {
-              "title": "AI didn't make you faster. It just hid the real bottleneck. #Productivity #FutureOfWork",
-              "url": "https://www.youtube.com/shorts/AdtGNAhVtok",
-              "published": "2026-06-28T03:00:09Z",
-              "description": "Here's the uncomfortable truth: AI made the building part fast, so now everything around it is the slow part. The meeting to align on a feature. The PRD. The approval loop. There's a manufacturing principle that explains it — kill a bottleneck and it doesn't vanish, it just slides downstream. The work got faster. Our habits didn't.\n\nI broke down the 8 habits worth unlearning (with a prompt kit to find your real bottleneck) here 👉 https://natesnewsletter.substack.com/p/8-habits-worth-unlearning-i"
             }
           ],
+          "error": null
+        },
+        {
+          "creator": "Alex Finn",
+          "handle": "@AlexFinn",
+          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
+          "videos": [],
           "error": null
         },
         {
@@ -195,24 +216,24 @@
           "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
           "videos": [
             {
-              "title": "Meet Your Ad Hoc AI Licensing Regime",
-              "url": "https://www.youtube.com/watch?v=WkXuk8NlPAQ",
-              "published": "2026-06-27T16:20:26Z",
-              "description": "This week’s AI Weekly Brief looks at the emerging government-limited rollout process for frontier models, from Mythos to GPT-5.6, and why an opaque, customer-by-customer access regime could be bad for everyone. It also covers Claude Tag, open model momentum, CEO-led AI ROI, and the suddenly revived AI infrastructure trade.\n\nThe AI Daily Brief helps you understand the most important news and discussions in AI. \nSubscribe to the podcast version of The AI Daily Brief wherever you listen: https://po"
+              "title": "Mythos Returns But Not For Everyone",
+              "url": "https://www.youtube.com/watch?v=187eNPPTa_w",
+              "published": "2026-06-30T01:15:11Z",
+              "description": "The Commerce Department authorized limited, vetted access to Anthropic's Mythos and signaled a de facto licensing regime for frontier models. OpenAI previewed GPT‑5.6 (Sol, Terra, Luna) under a trusted‑partner rollout, igniting debate over benchmarks, safety measures, and government review processes. Rising adoption of Chinese open‑weight models like GLM 5.2 and corporate moves to cheaper defaults highlight geopolitical competition, cybersecurity tradeoffs, and the risk of concentrated access to"
             }
           ],
           "error": null
         },
         {
-          "creator": "Alex Finn",
-          "handle": "@AlexFinn",
-          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
+          "creator": "Paul J Lipsky",
+          "handle": "@PaulJLipsky",
+          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
           "videos": [
             {
-              "title": "The most important concept to learn in AI...",
-              "url": "https://www.youtube.com/watch?v=C4vwvRMTlvc",
-              "published": "2026-06-27T19:29:10Z",
-              "description": "You NEED to be learning about local AI. Here is your masterclass\n\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nFULL Hermes Agent bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nDesktop app: https://hermes-agent.nousresearc"
+              "title": "ChatGPT vs Grok in 2026 (The Results Surprised Me)",
+              "url": "https://www.youtube.com/watch?v=zjQrP9FW2ag",
+              "published": "2026-06-28T13:00:33Z",
+              "description": "👉 Try Emergent: https://app.emergent.sh/?via=pauljlipsky\n\nSuperGrok costs $30 a month and ChatGPT Plus is $20, so I put both head to head across images, video, coding, connectors, research, writing, memory, limits and price to figure out which one is actually worth your money.\n\n🔗 This video is sponsored by Emergent. \n\n0:00 Intro\n0:43 Images\n2:01 Video Generation\n3:10 Coding (Emergent)\n5:21 Everyday Use & Connectors\n6:27 Summaries & Trending on X\n8:15 Writing & Codex\n10:26 Memory & Responses\n12:2"
             }
           ],
           "error": null
@@ -232,24 +253,17 @@
           "error": null
         },
         {
-          "creator": "Paul J Lipsky",
-          "handle": "@PaulJLipsky",
-          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
-          "videos": [
-            {
-              "title": "ChatGPT vs Grok in 2026 (Which One Is Better?)",
-              "url": "https://www.youtube.com/watch?v=zjQrP9FW2ag",
-              "published": "2026-06-28T13:00:33Z",
-              "description": "👉 Try Emergent: https://app.emergent.sh/?via=pauljlipsky\n\nSuperGrok costs $30 a month and ChatGPT Plus is $20, so I put both head to head across images, video, coding, connectors, research, writing, memory, limits and price to figure out which one is actually worth your money.\n\n🔗 This video is sponsored by Emergent. \n\n0:00 Intro\n0:43 Images\n2:01 Video Generation\n3:10 Coding (Emergent)\n5:21 Everyday Use & Connectors\n6:27 Summaries & Trending on X\n8:15 Writing & Codex\n10:26 Memory & Responses\n12:2"
-            }
-          ],
-          "error": null
-        },
-        {
           "creator": "Nate Herk",
           "handle": "@NateHerk",
           "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-          "videos": [],
+          "videos": [
+            {
+              "title": "Stanford's Method Turns Claude Into a PHD Level Research Team",
+              "url": "https://www.youtube.com/watch?v=Tj3018n5MVg",
+              "published": "2026-06-29T13:15:39Z",
+              "description": "My FREE AI OS Course: https://www.skool.com/ai-automation-society/about?el=storm-research&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\nFull courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=storm-research&amp;hcategory=youtube-videos&amp;utm_campaign=ais-plus\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS ("
+            }
+          ],
           "error": null
         }
       ]
@@ -257,77 +271,49 @@
     "newsletters": {
       "power_platform_weekly": {
         "name": "Power Platform Weekly",
-        "issue_number": 269,
-        "issue_date": "2026-06-23",
-        "url": "https://www.ppweekly.com/p/power-platform-weekly-issue-269",
-        "is_new": false,
+        "issue_number": 270,
+        "issue_date": "2026-06-29",
+        "url": "https://www.ppweekly.com/p/power-platform-weekly-issue-270",
+        "is_new": true,
         "sections": {
           "📰 Articles": [
             {
-              "title": "A Formula That Respects Your Time Zone and Your Lunch",
-              "url": "https://www.cloudappie.nl/formula-respects-time-zone-lunch/"
+              "title": "Are We Replacing Clicks With Prompts?",
+              "url": "https://crmkeeper.com/2026/06/23/are-we-replacing-clicks-with-prompts/"
             },
             {
-              "title": "Vibe Coding My Own Power Platform Admin Center",
-              "url": "https://dev.to/wyattdave/vibe-coding-my-own-power-platform-admin-center-29eh"
+              "title": "Create A Segment For People Searching On Your Website",
+              "url": "https://meganvwalker.com/create-a-segment-searching-on-your-website/"
             },
             {
-              "title": "New bulk delete options come to Dataverse",
-              "url": "https://markcarrington.dev/2026/06/22/new-bulk-delete-options-come-to-dataverse"
+              "title": "How to Set Up Verbatim Knowledge Responses in Dynamics 365",
+              "url": "https://d365goddess.com/verbatim-responses"
             },
             {
-              "title": "Automating Copilot Studio Evaluations",
-              "url": "https://platformsofpower.net/automating-copilot-studio-evaluations/"
+              "title": "AI Agent Johan is on Fire, NL vs Tunisia two in a row?",
+              "url": "https://jscheper.com/ai-agent-johan-is-on-fire-nl-vs-tunisia-two-in-a-row/"
             },
             {
-              "title": "Create A Segment Using Unmapped Fields On Marketing Forms in Customer Insights Journeys",
-              "url": "https://meganvwalker.com/create-a-segment-using-unmapped-fields-on-forms/"
+              "title": "Optimizing Prompt Columns in Microsoft Dataverse with Filters: Part 2",
+              "url": "https://www.inogic.com/blog/2026/06/optimizing-prompt-columns-in-microsoft-dataverse-with-filters-part-2/"
             },
             {
-              "title": "AI Agent Johan’s revenge: Netherlands vs. Sweden",
-              "url": "https://jscheper.com/ai-agent-johans-revenge-netherlands-vs-sweden/"
-            },
-            {
-              "title": "Your Copilot, Your Rules: Customizing Chat For Model-Driven Apps",
-              "url": "https://www.blog.allandecastro.com/your-copilot-your-rules-customizing-chat-for-model-driven-apps/"
-            },
-            {
-              "title": "How To Fuzzy Search Dataverse Tables In Copilot Studio",
-              "url": "https://www.matthewdevaney.com/how-to-fuzzy-search-dataverse-tables-in-copilot-studio/"
-            },
-            {
-              "title": "How We Successfully Removed the Resco Woodford Managed Solution from Dynamics 365 Field Service",
-              "url": "https://nishantrana.me/2026/06/16/how-we-successfully-removed-the-resco-woodford-managed-solution-from-dynamics-365-field-service/"
-            },
-            {
-              "title": "Invite Leads to Your Customer Insights Journeys Events",
-              "url": "https://martinplopez.com/posts/leads-customer-insights-journeys-events/"
-            },
-            {
-              "title": "PPTB - Bulk Data Studio",
-              "url": "https://linked365.blog/bulkdatastudio/"
+              "title": "Running Dataverse MCP Server in non-Microsoft clients",
+              "url": "https://nullpointer.se/dv-mcp-non-microsoft.html"
             }
           ],
           "🎙️ Podcasts": [
             {
-              "title": "MSDW Podcast",
-              "url": "https://msdynamicsworld.libsyn.com/autonomous-agents-and-ai-priorities-with-steve-mordue"
+              "title": "Microsoft Mechanics Podcast",
+              "url": "https://microsoftmechanics.libsyn.com/find-and-fix-app-issues-azure-copilot-observability-agent"
             },
             {
-              "title": "RapidClaw",
-              "url": "https://www.rapidstart.com/en/products/rapidclaw"
+              "title": "M365 Nuggets Podcast",
+              "url": "https://creators.spotify.com/pod/profile/ragnarheil/episodes/Stop-Putting-Governance-in-Charge-of-Adoption-e3l8nbp"
             },
             {
-              "title": "Scout",
-              "url": "https://msdynamicsworld.com/story/microsoft-introduces-scout-openclaw-based-always-personal-ai-agent"
-            },
-            {
-              "title": "MS Cloud IT Pro Podcast",
-              "url": "https://www.msclouditpropodcast.com/episode430/"
-            },
-            {
-              "title": "Power Platform Boost Podcast",
-              "url": "https://player.fm/series/power-platform-boost-podcast/build-bonanza-88"
+              "title": "Unresolved Dependencies Podcast",
+              "url": "https://player.fm/series/unresolved-dependencies/ep-8-thats-what-satya-said"
             }
           ],
           "📅 Events & Webinars": [
@@ -366,50 +352,30 @@
           ],
           "💙 Out of the Blue": [
             {
-              "title": "Copilot Cowork is now generally available",
-              "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/"
+              "title": "Building reliable voice agents: A practical guide",
+              "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/building-reliable-voice-agents-a-practical-guide/"
             },
             {
-              "title": "Meet the Agent Academy Hackathon winners",
-              "url": "https://devblogs.microsoft.com/powerplatform/agent-academy-hackathon-winners/"
+              "title": "Microsoft Entra ID single sign-on for the Denodo connector in Power BI (Preview)",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Microsoft-Entra-ID-single-sign-on-for-the-Denodo-connector-in/ba-p/5193376"
             },
             {
-              "title": "Power BI May 2026 feature summary",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-May-2026-Feature-Summary/ba-p/5182174"
-            },
-            {
-              "title": "Org apps with audiences for Power BI and Fabric (Generally Available)",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Org-apps-with-audiences-for-Power-BI-and-Fabric-Generally/ba-p/5196326"
-            },
-            {
-              "title": "Migrating from embedded ODBC drivers to ADBC in Power BI and Fabric",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Migrating-from-embedded-ODBC-drivers-to-ADBC-in-Power-BI-and-Fabric/ba-p/5195167"
-            },
-            {
-              "title": "Workspace outbound access protection for Power BI reports (Preview)",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Workspace-outbound-access-protection-for-Power-BI-reports/ba-p/5193354"
-            },
-            {
-              "title": "Microsoft Entra ID single sign-on for the Starburst connector in Power BI (Preview)",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Microsoft-Entra-ID-single-sign-on-for-the-Starburst-connector-in/ba-p/5193371"
-            },
-            {
-              "title": "Simplified Oracle connectivity in Power BI (Preview)",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Simplified-Oracle-connectivity-in-Power-BI-Preview/ba-p/5193366"
+              "title": "Protect once, enforce everywhere: Protection policies for Power BI (Generally Available)",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Protect-once-enforce-everywhere-Protection-policies-for-Power-BI/ba-p/5223932"
             }
           ],
           "📺 Videos": [
             {
-              "title": "Building Skills in the New Copilot Studio Experience",
-              "url": "https://www.youtube.com/watch?v=Jp12IC-H_lM"
+              "title": "Environment-aware Office Scripts for different SharePoint sites and Power Platform environments",
+              "url": "https://www.youtube.com/watch?v=iX_pEcxRtF8"
             },
             {
-              "title": "Which Microsoft AI Service Do You Actually Need? Foundry vs Copilot Studio vs Azure OpenAI",
-              "url": "https://www.youtube.com/watch?v=KdlXbFUcYAA"
+              "title": "Copilot Studio | Multi-Agent Architecture with Child, Connected and Foundry Agents (Part - 13)",
+              "url": "https://www.youtube.com/watch?v=h1BofRgVN0U"
             },
             {
-              "title": "Copilot, Microsoft 365 & Power Platform weekly call – 16th of June, 2026",
-              "url": "https://www.youtube.com/watch?v=HU-TqxxUIxI"
+              "title": "Copilot Studio Integration helps you on your Flows on D365 F&O",
+              "url": "https://www.youtube.com/watch?v=1wW3QzsBVJo"
             }
           ]
         },
