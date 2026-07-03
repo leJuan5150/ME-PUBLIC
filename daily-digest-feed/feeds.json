@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-02T11:48:36.865573Z",
+  "generated_at": "2026-07-03T11:47:18.427042Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
         {
-          "creator": "Life Style Overland",
-          "handle": "@LifeStyleOverland",
-          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
+          "creator": "Casey 250",
+          "handle": "@Casey250",
+          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
           "videos": [],
           "error": null
         },
@@ -19,9 +19,9 @@
           "error": null
         },
         {
-          "creator": "This Story Till Now",
-          "handle": "@ThisStoryTillNow",
-          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "creator": "LetsGetLost",
+          "handle": "@LetsGetLost",
+          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
           "videos": [],
           "error": null
         },
@@ -40,23 +40,9 @@
           "error": null
         },
         {
-          "creator": "Casey 250",
-          "handle": "@Casey250",
-          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "VentureToRoam",
-          "handle": "@VentureToRoam",
-          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "LetsGetLost",
-          "handle": "@LetsGetLost",
-          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
+          "creator": "Life Style Overland",
+          "handle": "@LifeStyleOverland",
+          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
           "videos": [],
           "error": null
         },
@@ -66,12 +52,32 @@
           "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
           "videos": [
             {
+              "title": "Water in tents = mold #rooftoptents #overlanding #jeep",
+              "url": "https://www.youtube.com/shorts/Sk3fm47lvtY",
+              "published": "2026-07-02T19:00:33Z",
+              "description": ""
+            },
+            {
               "title": "Breaking the rooftop tent myth #rooftoptents #overlanding #jeep",
               "url": "https://www.youtube.com/shorts/yKEj7X-4loQ",
               "published": "2026-07-01T19:00:30Z",
               "description": ""
             }
           ],
+          "error": null
+        },
+        {
+          "creator": "This Story Till Now",
+          "handle": "@ThisStoryTillNow",
+          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "VentureToRoam",
+          "handle": "@VentureToRoam",
+          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
+          "videos": [],
           "error": null
         }
       ],
@@ -80,27 +86,13 @@
           "creator": "Shane Young",
           "handle": "@ShanesCows",
           "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
-          "videos": [
-            {
-              "title": "Power Apps App and Host Objects Explained (Device, OS, and Screen Info)",
-              "url": "https://www.youtube.com/watch?v=e20InQtbHxo",
-              "published": "2026-06-30T13:00:26Z",
-              "description": "Ever needed your Power Apps app to behave differently depending on whether someone is on an iPhone, a PC, or running offline? This video walks you through the App and Host objects in Power Apps and shows you how to pull device, OS, browser, session, and screen information. You will see how to use Host for things like OS type and user agent, how App gives you the active screen, height, width, and theme colors, and how all of this helps you troubleshoot user issues or make responsive decisions in "
-            }
-          ],
+          "videos": [],
           "error": null
         },
         {
           "creator": "Matthew Devaney",
           "handle": "@MatthewDevaney",
           "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Reza Dorrani",
-          "handle": "@RezaDorrani",
-          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
           "videos": [],
           "error": null
         },
@@ -117,14 +109,34 @@
           "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
           "videos": [],
           "error": null
+        },
+        {
+          "creator": "Reza Dorrani",
+          "handle": "@RezaDorrani",
+          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
+          "videos": [],
+          "error": null
         }
       ],
       "fabric_powerbi": [
+        {
+          "creator": "Dewain Robinson",
+          "handle": "@DewainRobinson",
+          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
+          "videos": [],
+          "error": null
+        },
         {
           "creator": "Guy in a Cube",
           "handle": "@GuyInACube",
           "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
           "videos": [
+            {
+              "title": "Power BI Tutorial for Beginners (Step-by-Step in 30 Minutes)",
+              "url": "https://www.youtube.com/watch?v=OmW9YvxSl1E",
+              "published": "2026-07-02T14:30:36Z",
+              "description": "In this Guy in a Cube video, Patrick is showing a complete introduction to Power BI for beginners. This is not just a tour of features. It is a practical walkthrough of how Power BI works from start to finish.\n\nPatrick walks through how to get data into Power BI Desktop, clean and transform it with Power Query, build a simple model, create basic DAX measures, design report visuals, and publish the final report to the Power BI service.\n\nThe big idea is simple: do not learn Power BI as a random co"
+            },
             {
               "title": "Join THE CUBE: The Community Data Professionals Have Been ASKING For",
               "url": "https://www.youtube.com/watch?v=dQL1HgDqwMI",
@@ -132,13 +144,6 @@
               "description": "Yooo! 🙌 We’re officially launching something BIG: https://guyinacube.com\n\nTHE CUBE is our brand-new community for data professionals who want to go beyond YouTube.\n\nAnd don’t worry… Guy in a Cube isn’t going anywhere, we’ll keep bringing you free YouTube content.\n\nTHE CUBE will become the place where data pros go to:\n✅ Learn deeper (beyond surface-level feature videos)\n✅ Connect with like-minded people\n✅ Get more direct access to us (Guy & Gal in a Cube!)\n\nInside THE CUBE, you’ll get:\n✅ Exclusiv"
             }
           ],
-          "error": null
-        },
-        {
-          "creator": "Dewain Robinson",
-          "handle": "@DewainRobinson",
-          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
-          "videos": [],
           "error": null
         }
       ],
@@ -148,6 +153,18 @@
           "handle": "@NateBJones",
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
+            {
+              "title": "Will Fable 5 kill jobs? #fable5 #fableisback #anthropic #futureofwork",
+              "url": "https://www.youtube.com/shorts/Ug9O-VOEjUs",
+              "published": "2026-07-03T03:00:27Z",
+              "description": "The only jobs this model actually kills are the ones with zero judgment, the pure-execution roles where nothing really gets decided and the work could honestly have been automated any time in the last ten years anyway.\n\nEverything else still needs a person, because a model this capable does not run itself, and someone still has to aim it, feed it the right context, check what it produced, and own the result when it lands on someone's desk. That is not a smaller job than the one you have now, it "
+            },
+            {
+              "title": "Stop Wasting Money on the Wrong AI",
+              "url": "https://www.youtube.com/watch?v=lq2fP7wC7d8",
+              "published": "2026-07-02T14:00:08Z",
+              "description": "Full model routing guide:\nhttps://natesnewsletter.substack.com/p/which-ai-model-to-use?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nEvery AI model suddenly looks replaceable, and picking the right one has turned into a second job. This video is a practical model picker: how to choose which AI to use for real work without overpaying or drowning in model names.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTo"
+            },
             {
               "title": "The fastest way to make an AI agent dangerous #AIagents #AI #agents #automation #futureofwork",
               "url": "https://www.youtube.com/shorts/CCOoGvX9bCA",
@@ -159,50 +176,20 @@
               "url": "https://www.youtube.com/watch?v=HgAQOkG_v8c",
               "published": "2026-07-01T14:00:20Z",
               "description": "The Full Open Stack Guide:\nhttps://natesnewsletter.substack.com/p/build-your-own-ai-memory?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nAI agents can now build most of your own AI memory stack for you, just by talking to Claude or Codex.\nThis is how to build a personal agent that starts from your context, follows your intent, and waits for your yes before it acts.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 "
-            },
-            {
-              "title": "Midjourney breaks into ... healthcare? #AI #Medtech #MidjourneyMedical #Medicalbreakthrough",
-              "url": "https://www.youtube.com/shorts/SdjhgU3Cpb0",
-              "published": "2026-07-01T03:00:15Z",
-              "description": "Midjourney medical is a real thing now. The AI image company built a full-body ultrasound.\n\nIt is cheaper than an MRI and faster. They want to run a billion scans a year, and apparently it is built to feel like a trip to the spa. The whole thing came out of a 40-person team that funds itself off the image business.\n\nHere is the part that gets me. The most interesting AI move of the week did not come from OpenAI or Anthropic. It came from the company you thought only made pictures.\n\nThat is the s"
-            },
-            {
-              "title": "Nobody’s ready for Claude Fable 5 #Anthropic #AI #Fable5 #Claude",
-              "url": "https://www.youtube.com/shorts/ZUK9fpJsHy8",
-              "published": "2026-06-30T13:18:56Z",
-              "description": "Claude Fable 5 was public for a few days, and the strange part was not just how good it was. It was realizing the new constraint might be us.\n\nThe model didn't run out of ability. I ran out of big things to ask for.\n\nSo the skill that matters now isn't prompting — it's learning to ask bigger. That's what the full breakdown gets into: https://natesnewsletter.substack.com/p/claude-fable-5-how-to-use?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\n\nMy Links 🔗 Newslett"
             }
           ],
           "error": null
         },
         {
-          "creator": "Chase AI",
-          "handle": "@ChaseAI",
-          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+          "creator": "Alex Finn",
+          "handle": "@AlexFinn",
+          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
           "videos": [
             {
-              "title": "Claude Fable 5 Use Cases You Must Do NOW (Or Lose Thousands in 1 Week)",
-              "url": "https://www.youtube.com/watch?v=lplVBFr0Ndc",
-              "published": "2026-07-02T00:51:45Z",
-              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nThe time to push Fable 5 to the limit is now, and here are 5 projects for you to implement. \n\n\n⏰TIMESTAMPS:\n\n0:00 - Intro\n0:30 - Case 1\n4:24 - Case 2\n6:31 - Case 3\n8:24 - Case 4\n9:31 - Case 5\n11:42 Outro\n\n\nRESOURCES FROM THIS VIDEO:\n➡️ Master Claude Code: https://www.skool.com/chase-ai\n"
-            },
-            {
-              "title": "The MASSIVE Sonnet Upgrade Explained in 30 Seconds",
-              "url": "https://www.youtube.com/shorts/p3moLZ1-4oY",
-              "published": "2026-06-30T19:41:03Z",
-              "description": ""
-            },
-            {
-              "title": "Sonnet 5 is LIVE! But Does it Compete with Opus 4.8?",
-              "url": "https://www.youtube.com/shorts/oY5zDajiSmo",
-              "published": "2026-06-30T19:33:16Z",
-              "description": ""
-            },
-            {
-              "title": "Sonnet 5 is LIVE And It Competes With Opus",
-              "url": "https://www.youtube.com/watch?v=_QE7v4VFxsE",
-              "published": "2026-06-30T19:02:53Z",
-              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nIts been a while since we got a Sonnet upgrade, but it may have been worth the wait.\n\nThe new Claude Sonnet 5 is a huge leap forward for the Sonnet series, posting benchmarks that get within spitting distance of its big brother Opus 4.8. \n\nBut do the benchmarks hold up when it comes to "
+              "title": "Fable 5 is BACK! Here are the first 8 things you need to do…",
+              "url": "https://www.youtube.com/watch?v=A3fxKRsvh3U",
+              "published": "2026-07-01T21:21:21Z",
+              "description": "Claude Fable 5 is back! Here are the first 8 things you need to do with it. These are use cases EVERYONE should be doing\n\nFULL Claude Code bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorb"
             }
           ],
           "error": null
@@ -217,6 +204,34 @@
               "url": "https://www.youtube.com/watch?v=vcU85OrwuV0",
               "published": "2026-07-01T21:21:58Z",
               "description": "$1000 Free Hyperagent Credits (limited): https://www.hyperagent.com/nate\nMy playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=fable-5-prompts&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nFable 5 is back, and it's the "
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Chase AI",
+          "handle": "@ChaseAI",
+          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+          "videos": [
+            {
+              "title": "Claude Fable 5 Use Cases You Must Do NOW (Or Lose Thousands in 1 Week)",
+              "url": "https://www.youtube.com/watch?v=lplVBFr0Ndc",
+              "published": "2026-07-02T00:51:45Z",
+              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nThe time to push Fable 5 to the limit is now, and here are 5 projects for you to implement. \n\n\n⏰TIMESTAMPS:\n\n0:00 - Intro\n0:30 - Case 1\n4:24 - Case 2\n6:31 - Case 3\n8:24 - Case 4\n9:31 - Case 5\n11:42 Outro\n\n\nRESOURCES FROM THIS VIDEO:\n➡️ Master Claude Code: https://www.skool.com/chase-ai\n"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "AI Daily Brief",
+          "handle": "@AIDailyBrief",
+          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
+          "videos": [
+            {
+              "title": "Fable Is Back: Here's What You Should Try First",
+              "url": "https://www.youtube.com/watch?v=ztCLWKwyMJY",
+              "published": "2026-07-02T00:33:12Z",
+              "description": "OpenAI and other labs are racing to slash inference costs, prompting debate about token-efficiency techniques and quality trade-offs. Anthropic regained global access to Fable 5 after export controls were lifted, triggering discussions about jailbreaking, tightened guardrails, and regulatory opacity. New model launches and platform moves include Sonnet 5's agentic-but-costly approach, Base44's fine-tuned Base1, and AWS's billion-dollar FTE push for enterprise AI.\n\nThe AI Daily Brief helps you un"
             }
           ],
           "error": null
@@ -237,12 +252,6 @@
               "url": "https://www.youtube.com/watch?v=fG5D_voK46E",
               "published": "2026-07-01T13:00:08Z",
               "description": "NotebookLM just rolled out vertical short video overviews, free for everyone with no plan required. I walk through how they work, where they actually shine, and why they look better than the cinematic videos.\n\n0:00 Intro\n0:18 What NotebookLM Shorts Are\n1:05 Generating Your First Short\n3:10 Shorts vs Cinematic vs Explainer\n4:36 More Short Examples\n5:59 Why It's Free Now \n7:02 Motion Graphics Examples\n7:45 Using Shorts on Your Phone\n8:20 Personal Data + Limitations"
-            },
-            {
-              "title": "How To Create Stunning Motion Graphics With Claude Design (Dead Simple Animations)",
-              "url": "https://www.youtube.com/watch?v=lxmrK4RCWQQ",
-              "published": "2026-06-30T13:00:12Z",
-              "description": "The easiest way I've found to create motion graphics with Claude Design, no code, no terminal, no complicated storyboards. Just a few simple tricks: templates, screenshots, transcripts, and animating any UI. \n\nAll The Resources: https://docs.google.com/document/d/13suyqdyQVPxU4YIPttF__YRmHmyUfxPFT_bpg3I5x-g/edit?usp=sharing\n\n\n0:00 Intro\n0:29 Get Started in Claude Design\n1:27 Trick 1: Use Templates\n4:02 Trick 2: Recreate With Screenshots\n7:33 Trick 3: From a Transcript\n10:38 Editing With the Mark"
             }
           ],
           "error": null
@@ -253,252 +262,10 @@
           "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
           "videos": [],
           "error": null
-        },
-        {
-          "creator": "Alex Finn",
-          "handle": "@AlexFinn",
-          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
-          "videos": [
-            {
-              "title": "Fable 5 is BACK! Here are the first 8 things you need to do…",
-              "url": "https://www.youtube.com/watch?v=A3fxKRsvh3U",
-              "published": "2026-07-01T21:21:21Z",
-              "description": "Claude Fable 5 is back! Here are the first 8 things you need to do with it. These are use cases EVERYONE should be doing\n\nFULL Claude Code bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorb"
-            },
-            {
-              "title": "Claude Sonnet 5 just dropped. I'm changing how I use AI...",
-              "url": "https://www.youtube.com/watch?v=uU0RFxGv-Ks",
-              "published": "2026-06-30T19:39:15Z",
-              "description": "A complete walkthrough of the new Claude Sonnet 5 release\n\nFULL Claude Code bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nTimestamps:\n0:00 Intro\n0:41 What Sonnet 5 is\n3:41 Per"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "AI Daily Brief",
-          "handle": "@AIDailyBrief",
-          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
-          "videos": [
-            {
-              "title": "Fable Is Back: Here's What You Should Try First",
-              "url": "https://www.youtube.com/watch?v=ztCLWKwyMJY",
-              "published": "2026-07-02T00:33:12Z",
-              "description": "OpenAI and other labs are racing to slash inference costs, prompting debate about token-efficiency techniques and quality trade-offs. Anthropic regained global access to Fable 5 after export controls were lifted, triggering discussions about jailbreaking, tightened guardrails, and regulatory opacity. New model launches and platform moves include Sonnet 5's agentic-but-costly approach, Base44's fine-tuned Base1, and AWS's billion-dollar FTE push for enterprise AI.\n\nThe AI Daily Brief helps you un"
-            },
-            {
-              "title": "How Big is the AI Economy",
-              "url": "https://www.youtube.com/watch?v=gP8A3x2mFRM",
-              "published": "2026-06-30T20:48:56Z",
-              "description": "Alleged credit-based, identity-verified access for Anthropic Fable sparks privacy and policy debate. Senate draft targets agent neutrality and a duty-of-loyalty while state and corporate contracts shift pricing and access. Exponential View estimates a $175 billion annual AI run rate and documents a compute supercycle with surging token volumes and falling unit token prices.\n\nThe AI Daily Brief helps you understand the most important news and discussions in AI. \nSubscribe to the podcast version o"
-            }
-          ],
-          "error": null
         }
       ]
     },
     "newsletters": {
-      "power_platform_weekly": {
-        "name": "Power Platform Weekly",
-        "issue_number": 270,
-        "issue_date": "2026-06-29",
-        "url": "https://www.ppweekly.com/p/power-platform-weekly-issue-270",
-        "is_new": false,
-        "sections": {
-          "📰 Articles": [
-            {
-              "title": "Are We Replacing Clicks With Prompts?",
-              "url": "https://crmkeeper.com/2026/06/23/are-we-replacing-clicks-with-prompts/"
-            },
-            {
-              "title": "Create A Segment For People Searching On Your Website",
-              "url": "https://meganvwalker.com/create-a-segment-searching-on-your-website/"
-            },
-            {
-              "title": "How to Set Up Verbatim Knowledge Responses in Dynamics 365",
-              "url": "https://d365goddess.com/verbatim-responses"
-            },
-            {
-              "title": "AI Agent Johan is on Fire, NL vs Tunisia two in a row?",
-              "url": "https://jscheper.com/ai-agent-johan-is-on-fire-nl-vs-tunisia-two-in-a-row/"
-            },
-            {
-              "title": "Optimizing Prompt Columns in Microsoft Dataverse with Filters: Part 2",
-              "url": "https://www.inogic.com/blog/2026/06/optimizing-prompt-columns-in-microsoft-dataverse-with-filters-part-2/"
-            },
-            {
-              "title": "Running Dataverse MCP Server in non-Microsoft clients",
-              "url": "https://nullpointer.se/dv-mcp-non-microsoft.html"
-            }
-          ],
-          "🎙️ Podcasts": [
-            {
-              "title": "Microsoft Mechanics Podcast",
-              "url": "https://microsoftmechanics.libsyn.com/find-and-fix-app-issues-azure-copilot-observability-agent"
-            },
-            {
-              "title": "M365 Nuggets Podcast",
-              "url": "https://creators.spotify.com/pod/profile/ragnarheil/episodes/Stop-Putting-Governance-in-Charge-of-Adoption-e3l8nbp"
-            },
-            {
-              "title": "Unresolved Dependencies Podcast",
-              "url": "https://player.fm/series/unresolved-dependencies/ep-8-thats-what-satya-said"
-            }
-          ],
-          "📅 Events & Webinars": [
-            {
-              "title": "European Power Platform Conference",
-              "url": "https://espc.tech/conference/eppc-2026/"
-            },
-            {
-              "title": "HELish Summit",
-              "url": "https://www.helishsummit.fi/"
-            },
-            {
-              "title": "Nordic Summit",
-              "url": "https://nordicsummit.info/"
-            },
-            {
-              "title": "Directions for Enterprise",
-              "url": "https://www.directionsforpartners.com/enterprise2026"
-            },
-            {
-              "title": "Scottish Summit",
-              "url": "https://scottishsummit.com/"
-            },
-            {
-              "title": "Community Summit North America",
-              "url": "https://www.summitna.com/"
-            },
-            {
-              "title": "Directions EMEA",
-              "url": "https://www.directionsforpartners.com/emea2026"
-            },
-            {
-              "title": "Power Platform Community Conference",
-              "url": "https://powerplatformconf.com/"
-            }
-          ],
-          "💙 Out of the Blue": [
-            {
-              "title": "Building reliable voice agents: A practical guide",
-              "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/building-reliable-voice-agents-a-practical-guide/"
-            },
-            {
-              "title": "Microsoft Entra ID single sign-on for the Denodo connector in Power BI (Preview)",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Microsoft-Entra-ID-single-sign-on-for-the-Denodo-connector-in/ba-p/5193376"
-            },
-            {
-              "title": "Protect once, enforce everywhere: Protection policies for Power BI (Generally Available)",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Protect-once-enforce-everywhere-Protection-policies-for-Power-BI/ba-p/5223932"
-            }
-          ],
-          "📺 Videos": [
-            {
-              "title": "Environment-aware Office Scripts for different SharePoint sites and Power Platform environments",
-              "url": "https://www.youtube.com/watch?v=iX_pEcxRtF8"
-            },
-            {
-              "title": "Copilot Studio | Multi-Agent Architecture with Child, Connected and Foundry Agents (Part - 13)",
-              "url": "https://www.youtube.com/watch?v=h1BofRgVN0U"
-            },
-            {
-              "title": "Copilot Studio Integration helps you on your Flows on D365 F&O",
-              "url": "https://www.youtube.com/watch?v=1wW3QzsBVJo"
-            }
-          ]
-        },
-        "error": null
-      },
-      "power_platform_dev_weekly": {
-        "name": "Power Platform Dev Weekly",
-        "issue_number": 296,
-        "issue_date": "2026-06-24",
-        "url": "https://www.ppdevweekly.com/p/296",
-        "is_new": false,
-        "sections": {
-          "🥇 Cover Story": [
-            {
-              "title": "Vibe Coding My Own Power Platform Admin Center",
-              "url": "https://dev.to/wyattdave/vibe-coding-my-own-power-platform-admin-center-29eh"
-            }
-          ],
-          "💎 Model Driven Apps & Dataverse": [
-            {
-              "title": "Why SQL4CDS Record Counts May Not Match Advanced Find for Date Filters (Dataverse / Dynamics 365)",
-              "url": "https://nishantrana.me/2026/06/18/why-sql4cds-record-counts-may-not-match-advanced-find-for-date-filters-dataverse-dynamics-365/"
-            },
-            {
-              "title": "What ‘pac solution pack’ Ships to Production",
-              "url": "https://automatevalue.com/blog/what-pac-solution-pack-ships-to-production/"
-            },
-            {
-              "title": "How to Perform CRUD Operations in Microsoft Dataverse with Python – Part II",
-              "url": "https://www.inogic.com/blog/2026/06/how-to-perform-crud-operations-in-microsoft-dataverse-with-python-part-ii/"
-            }
-          ],
-          "🤖 Copilot & Agents": [
-            {
-              "title": "How To Fuzzy Search Dataverse Tables In Copilot Studio",
-              "url": "https://www.matthewdevaney.com/how-to-fuzzy-search-dataverse-tables-in-copilot-studio/"
-            },
-            {
-              "title": "Transform Raw Data into Visual Insights in Copilot Studio with a Single Skill!",
-              "url": "https://dev.to/balagmadhu/transform-raw-data-into-visual-insights-in-copilot-studio-with-a-single-skill-1h25"
-            },
-            {
-              "title": "Automating Copilot Studio Evaluations",
-              "url": "https://platformsofpower.net/automating-copilot-studio-evaluations/"
-            },
-            {
-              "title": "MCP vs MCP Server: What’s the Difference?",
-              "url": "https://rajeevpentyala.com/2026/06/18/mcp-vs-mcp-server-whats-the-difference/"
-            }
-          ],
-          "🚀 Code-Only": [
-            {
-              "title": "Power Apps Code App | Environment Config Mismatch Error",
-              "url": "https://rajeevpentyala.com/2026/06/18/power-apps-code-app-environment-config-mismatch-error/"
-            }
-          ],
-          "👍 Everything else in Power Platform": [
-            {
-              "title": "New bulk delete options come to Dataverse",
-              "url": "https://markcarrington.dev/2026/06/22/new-bulk-delete-options-come-to-dataverse/"
-            }
-          ],
-          "👩‍💻 Dev to the Core": [
-            {
-              "title": "PPTB - Bulk Data Studio",
-              "url": "https://linked365.blog/bulkdatastudio/"
-            }
-          ],
-          "🎮 Other Interesting Articles": [
-            {
-              "title": "AI-900 vs AI-901",
-              "url": "https://ukcrm.wordpress.com/2026/06/09/ai-900-vs-ai-901/"
-            }
-          ],
-          "📺 Videos": [
-            {
-              "title": "Power Widgets Deep Dives - Episode 1 - FetchXML Builder with Jonas Rapp",
-              "url": "https://www.youtube.com/watch?v=tuFusj6zHRU"
-            },
-            {
-              "title": "How to Replace Autonomous Agents with Workflows",
-              "url": "https://www.youtube.com/watch?v=nv3MUuciu_g"
-            },
-            {
-              "title": "The FUTURE of Copilot Studio is HERE (New Agents Preview)",
-              "url": "https://www.youtube.com/watch?v=aX4bcDPTmPY"
-            },
-            {
-              "title": "AI Is Expensive: 15 Ways to Cut Agent Costs",
-              "url": "https://www.youtube.com/watch?v=r6WBSTuB3Yo"
-            }
-          ]
-        },
-        "error": null
-      },
       "power_bi_weekly": {
         "name": "Power BI Weekly",
         "issue_number": 363,
@@ -628,13 +395,282 @@
           ]
         },
         "error": null
+      },
+      "power_platform_dev_weekly": {
+        "name": "Power Platform Dev Weekly",
+        "issue_number": 296,
+        "issue_date": "2026-06-24",
+        "url": "https://www.ppdevweekly.com/p/296",
+        "is_new": false,
+        "sections": {
+          "🥇 Cover Story": [
+            {
+              "title": "Vibe Coding My Own Power Platform Admin Center",
+              "url": "https://dev.to/wyattdave/vibe-coding-my-own-power-platform-admin-center-29eh"
+            }
+          ],
+          "💎 Model Driven Apps & Dataverse": [
+            {
+              "title": "Why SQL4CDS Record Counts May Not Match Advanced Find for Date Filters (Dataverse / Dynamics 365)",
+              "url": "https://nishantrana.me/2026/06/18/why-sql4cds-record-counts-may-not-match-advanced-find-for-date-filters-dataverse-dynamics-365/"
+            },
+            {
+              "title": "What ‘pac solution pack’ Ships to Production",
+              "url": "https://automatevalue.com/blog/what-pac-solution-pack-ships-to-production/"
+            },
+            {
+              "title": "How to Perform CRUD Operations in Microsoft Dataverse with Python – Part II",
+              "url": "https://www.inogic.com/blog/2026/06/how-to-perform-crud-operations-in-microsoft-dataverse-with-python-part-ii/"
+            }
+          ],
+          "🤖 Copilot & Agents": [
+            {
+              "title": "How To Fuzzy Search Dataverse Tables In Copilot Studio",
+              "url": "https://www.matthewdevaney.com/how-to-fuzzy-search-dataverse-tables-in-copilot-studio/"
+            },
+            {
+              "title": "Transform Raw Data into Visual Insights in Copilot Studio with a Single Skill!",
+              "url": "https://dev.to/balagmadhu/transform-raw-data-into-visual-insights-in-copilot-studio-with-a-single-skill-1h25"
+            },
+            {
+              "title": "Automating Copilot Studio Evaluations",
+              "url": "https://platformsofpower.net/automating-copilot-studio-evaluations/"
+            },
+            {
+              "title": "MCP vs MCP Server: What’s the Difference?",
+              "url": "https://rajeevpentyala.com/2026/06/18/mcp-vs-mcp-server-whats-the-difference/"
+            }
+          ],
+          "🚀 Code-Only": [
+            {
+              "title": "Power Apps Code App | Environment Config Mismatch Error",
+              "url": "https://rajeevpentyala.com/2026/06/18/power-apps-code-app-environment-config-mismatch-error/"
+            }
+          ],
+          "👍 Everything else in Power Platform": [
+            {
+              "title": "New bulk delete options come to Dataverse",
+              "url": "https://markcarrington.dev/2026/06/22/new-bulk-delete-options-come-to-dataverse/"
+            }
+          ],
+          "👩‍💻 Dev to the Core": [
+            {
+              "title": "PPTB - Bulk Data Studio",
+              "url": "https://linked365.blog/bulkdatastudio/"
+            }
+          ],
+          "🎮 Other Interesting Articles": [
+            {
+              "title": "AI-900 vs AI-901",
+              "url": "https://ukcrm.wordpress.com/2026/06/09/ai-900-vs-ai-901/"
+            }
+          ],
+          "📺 Videos": [
+            {
+              "title": "Power Widgets Deep Dives - Episode 1 - FetchXML Builder with Jonas Rapp",
+              "url": "https://www.youtube.com/watch?v=tuFusj6zHRU"
+            },
+            {
+              "title": "How to Replace Autonomous Agents with Workflows",
+              "url": "https://www.youtube.com/watch?v=nv3MUuciu_g"
+            },
+            {
+              "title": "The FUTURE of Copilot Studio is HERE (New Agents Preview)",
+              "url": "https://www.youtube.com/watch?v=aX4bcDPTmPY"
+            },
+            {
+              "title": "AI Is Expensive: 15 Ways to Cut Agent Costs",
+              "url": "https://www.youtube.com/watch?v=r6WBSTuB3Yo"
+            }
+          ]
+        },
+        "error": null
+      },
+      "power_platform_weekly": {
+        "name": "Power Platform Weekly",
+        "issue_number": 270,
+        "issue_date": "2026-06-29",
+        "url": "https://www.ppweekly.com/p/power-platform-weekly-issue-270",
+        "is_new": false,
+        "sections": {
+          "📰 Articles": [
+            {
+              "title": "Are We Replacing Clicks With Prompts?",
+              "url": "https://crmkeeper.com/2026/06/23/are-we-replacing-clicks-with-prompts/"
+            },
+            {
+              "title": "Create A Segment For People Searching On Your Website",
+              "url": "https://meganvwalker.com/create-a-segment-searching-on-your-website/"
+            },
+            {
+              "title": "How to Set Up Verbatim Knowledge Responses in Dynamics 365",
+              "url": "https://d365goddess.com/verbatim-responses"
+            },
+            {
+              "title": "AI Agent Johan is on Fire, NL vs Tunisia two in a row?",
+              "url": "https://jscheper.com/ai-agent-johan-is-on-fire-nl-vs-tunisia-two-in-a-row/"
+            },
+            {
+              "title": "Optimizing Prompt Columns in Microsoft Dataverse with Filters: Part 2",
+              "url": "https://www.inogic.com/blog/2026/06/optimizing-prompt-columns-in-microsoft-dataverse-with-filters-part-2/"
+            },
+            {
+              "title": "Running Dataverse MCP Server in non-Microsoft clients",
+              "url": "https://nullpointer.se/dv-mcp-non-microsoft.html"
+            }
+          ],
+          "🎙️ Podcasts": [
+            {
+              "title": "Microsoft Mechanics Podcast",
+              "url": "https://microsoftmechanics.libsyn.com/find-and-fix-app-issues-azure-copilot-observability-agent"
+            },
+            {
+              "title": "M365 Nuggets Podcast",
+              "url": "https://creators.spotify.com/pod/profile/ragnarheil/episodes/Stop-Putting-Governance-in-Charge-of-Adoption-e3l8nbp"
+            },
+            {
+              "title": "Unresolved Dependencies Podcast",
+              "url": "https://player.fm/series/unresolved-dependencies/ep-8-thats-what-satya-said"
+            }
+          ],
+          "📅 Events & Webinars": [
+            {
+              "title": "European Power Platform Conference",
+              "url": "https://espc.tech/conference/eppc-2026/"
+            },
+            {
+              "title": "HELish Summit",
+              "url": "https://www.helishsummit.fi/"
+            },
+            {
+              "title": "Nordic Summit",
+              "url": "https://nordicsummit.info/"
+            },
+            {
+              "title": "Directions for Enterprise",
+              "url": "https://www.directionsforpartners.com/enterprise2026"
+            },
+            {
+              "title": "Scottish Summit",
+              "url": "https://scottishsummit.com/"
+            },
+            {
+              "title": "Community Summit North America",
+              "url": "https://www.summitna.com/"
+            },
+            {
+              "title": "Directions EMEA",
+              "url": "https://www.directionsforpartners.com/emea2026"
+            },
+            {
+              "title": "Power Platform Community Conference",
+              "url": "https://powerplatformconf.com/"
+            }
+          ],
+          "💙 Out of the Blue": [
+            {
+              "title": "Building reliable voice agents: A practical guide",
+              "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/building-reliable-voice-agents-a-practical-guide/"
+            },
+            {
+              "title": "Microsoft Entra ID single sign-on for the Denodo connector in Power BI (Preview)",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Microsoft-Entra-ID-single-sign-on-for-the-Denodo-connector-in/ba-p/5193376"
+            },
+            {
+              "title": "Protect once, enforce everywhere: Protection policies for Power BI (Generally Available)",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Protect-once-enforce-everywhere-Protection-policies-for-Power-BI/ba-p/5223932"
+            }
+          ],
+          "📺 Videos": [
+            {
+              "title": "Environment-aware Office Scripts for different SharePoint sites and Power Platform environments",
+              "url": "https://www.youtube.com/watch?v=iX_pEcxRtF8"
+            },
+            {
+              "title": "Copilot Studio | Multi-Agent Architecture with Child, Connected and Foundry Agents (Part - 13)",
+              "url": "https://www.youtube.com/watch?v=h1BofRgVN0U"
+            },
+            {
+              "title": "Copilot Studio Integration helps you on your Flows on D365 F&O",
+              "url": "https://www.youtube.com/watch?v=1wW3QzsBVJo"
+            }
+          ]
+        },
+        "error": null
       }
     },
     "release_plans": {
       "source_url": "https://releaseplans.net/",
       "data_url": "https://releaseplans.net/data/release-plans.json",
-      "products": {},
-      "total_updates": 0,
+      "products": {
+        "Power Automate": [
+          {
+            "feature_name": "Configure notifications for desktop flow checker in admin portal",
+            "product": "Power Automate",
+            "product_group": "Desktop flows",
+            "status": "GA",
+            "release_wave": "2026 release wave 1",
+            "last_updated": "07/02/2026",
+            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
+            "description": "As an administrator, you need a clear way to track quality issues across the desktop flows in your environment. But today you only discover problems when they cause run failures or support escalations. With configurable notifications in the admin portal, you choose which rule violations trigger alerts and what parameters apply to each notification type. You stay ahead of quality risks, enforce governance standards across makers, and reduce the time you spend reacting to issues across environment",
+            "preview_date": "",
+            "ga_date": "07/01/2026"
+          },
+          {
+            "feature_name": "Compare flow versions",
+            "product": "Power Automate",
+            "product_group": "Desktop flows",
+            "status": "GA",
+            "release_wave": "2026 release wave 1",
+            "last_updated": "07/02/2026",
+            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
+            "description": "When you can’t quickly see what changed between flow versions, you lose time fixing problems and risk pushing the wrong updates to production. Side-by-side version comparison gives you a clear view of what was added, removed, or updated so you can make confident decisions. You resolve issues faster, avoid costly mistakes, and work better with co-owners by reviewing changes before publishing.",
+            "preview_date": "",
+            "ga_date": "05/13/2026"
+          }
+        ],
+        "Microsoft Dataverse": [
+          {
+            "feature_name": "Dataverse MCP Server",
+            "product": "Microsoft Dataverse",
+            "product_group": "Activate Enterprise Data in Copilot",
+            "status": "GA",
+            "release_wave": "2025 release wave 2",
+            "last_updated": "07/02/2026",
+            "enabled_for": "Users, automatically",
+            "description": "A remote Microsoft Dataverse model context protocol (MCP) server represents the next evolution in how AI systems and enterprise data interact within the Microsoft ecosystem. Unlike local MCP setups, which require developers or users to install SDKs, configure proxies, and manage environment access manually, a remote Dataverse MCP server runs as a centrally hosted, managed service. This shift streamlines integration, improves security, and enables scalable AI connectivity across teams, devices, a",
+            "preview_date": "05/20/2025",
+            "ga_date": "12/15/2025"
+          },
+          {
+            "feature_name": "Create Dataverse agent users with Microsoft Entra agent identity",
+            "product": "Microsoft Dataverse",
+            "product_group": "Activate Enterprise Data in Copilot",
+            "status": "GA",
+            "release_wave": "2026 release wave 1",
+            "last_updated": "07/02/2026",
+            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
+            "description": "This feature enables secure, compliant management of AI agents in Microsoft Dataverse, which reduces risk and improves governance for autonomous and interactive agents.",
+            "preview_date": "06/01/2026",
+            "ga_date": "08/01/2026"
+          }
+        ],
+        "Microsoft Power Platform governance and administration": [
+          {
+            "feature_name": "Prevent sending sensitive data to Purview audit logs",
+            "product": "Microsoft Power Platform governance and administration",
+            "product_group": "Security and compliance",
+            "status": "GA",
+            "release_wave": "2026 release wave 1",
+            "last_updated": "07/02/2026",
+            "enabled_for": "Users by admins, makers, or analysts",
+            "description": "This feature restricts customer business data in Dataverse audit logs from being sent to Purview auditing streams. This helps ensure compliance and reduces the risk of leaking sensitive customer data.",
+            "preview_date": "",
+            "ga_date": "06/26/2026"
+          }
+        ]
+      },
+      "total_updates": 5,
       "error": null
     }
   },
