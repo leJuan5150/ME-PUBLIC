@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-03T11:47:18.427042Z",
+  "generated_at": "2026-07-04T11:30:48.852373Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
         {
-          "creator": "Casey 250",
-          "handle": "@Casey250",
-          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
+          "creator": "This Story Till Now",
+          "handle": "@ThisStoryTillNow",
+          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
           "videos": [],
           "error": null
         },
@@ -19,22 +19,15 @@
           "error": null
         },
         {
-          "creator": "LetsGetLost",
-          "handle": "@LetsGetLost",
-          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "Ozark Overland Adventure",
           "handle": "@OzarkOverlandAdventures",
           "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
           "videos": [
             {
-              "title": "Hidden Gems on the Oregon Coast in our Ultimate Adventure Rigs",
-              "url": "https://www.youtube.com/watch?v=KrPOufh3IrI",
-              "published": "2026-07-01T16:30:04Z",
-              "description": "The Oregon coast never disappoints and we take a couple days to explore new areas of the coast. \n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHNYyUa\nAll Roads Taken - https://www.allroadstaken.com\nMOORE Expo - h"
+              "title": "The BEST of Overland Expo PNW 2026",
+              "url": "https://www.youtube.com/watch?v=cEvhwAf17Yc",
+              "published": "2026-07-03T16:00:32Z",
+              "description": "We found the best gear and rigs at the Overland Expo PNW 2026 and an incredible campsite after.\n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHNYyUa\nAll Roads Taken - https://www.allroadstaken.com\nMOORE Expo - ht"
             }
           ],
           "error": null
@@ -52,25 +45,24 @@
           "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
           "videos": [
             {
+              "title": "Don't Make These Suspension Mistakes - The Hotline Ep.3",
+              "url": "https://www.youtube.com/watch?v=EAk8UhqphaM",
+              "published": "2026-07-03T20:00:16Z",
+              "description": "The Hotline is open again! \n#jeeplife #4x4 #overlanding \nIn today's Q&amp;A we answer suspension questions and cover topics like sector shaft braces (shhh its snake oil), steering boxes, flexing, should you get a 2.5 inch lift, 3.5 inch lift, or just get portals, what size wheels work best with 35's on the 4xe, and much more! \n\nGet all the answers, leave all the comments, and maybe your question will be featured on the next episode! \n\n🛠️ TOOLS WE ACTUALLY USE IN THE SHOP:\nMilwaukee Mini Tape Mea"
+            },
+            {
+              "title": "Rooftop tent mattresses suck...#rooftoptents #overlanding #jeep",
+              "url": "https://www.youtube.com/shorts/-jStk7KFnxI",
+              "published": "2026-07-03T19:00:18Z",
+              "description": ""
+            },
+            {
               "title": "Water in tents = mold #rooftoptents #overlanding #jeep",
               "url": "https://www.youtube.com/shorts/Sk3fm47lvtY",
               "published": "2026-07-02T19:00:33Z",
               "description": ""
-            },
-            {
-              "title": "Breaking the rooftop tent myth #rooftoptents #overlanding #jeep",
-              "url": "https://www.youtube.com/shorts/yKEj7X-4loQ",
-              "published": "2026-07-01T19:00:30Z",
-              "description": ""
             }
           ],
-          "error": null
-        },
-        {
-          "creator": "This Story Till Now",
-          "handle": "@ThisStoryTillNow",
-          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
-          "videos": [],
           "error": null
         },
         {
@@ -79,20 +71,34 @@
           "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
           "videos": [],
           "error": null
-        }
-      ],
-      "power_platform": [
+        },
         {
-          "creator": "Shane Young",
-          "handle": "@ShanesCows",
-          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
+          "creator": "LetsGetLost",
+          "handle": "@LetsGetLost",
+          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
           "videos": [],
           "error": null
         },
         {
+          "creator": "Casey 250",
+          "handle": "@Casey250",
+          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
+          "videos": [],
+          "error": null
+        }
+      ],
+      "power_platform": [
+        {
           "creator": "Matthew Devaney",
           "handle": "@MatthewDevaney",
           "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Shane Young",
+          "handle": "@ShanesCows",
+          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
           "videos": [],
           "error": null
         },
@@ -120,13 +126,6 @@
       ],
       "fabric_powerbi": [
         {
-          "creator": "Dewain Robinson",
-          "handle": "@DewainRobinson",
-          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "Guy in a Cube",
           "handle": "@GuyInACube",
           "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
@@ -136,23 +135,43 @@
               "url": "https://www.youtube.com/watch?v=OmW9YvxSl1E",
               "published": "2026-07-02T14:30:36Z",
               "description": "In this Guy in a Cube video, Patrick is showing a complete introduction to Power BI for beginners. This is not just a tour of features. It is a practical walkthrough of how Power BI works from start to finish.\n\nPatrick walks through how to get data into Power BI Desktop, clean and transform it with Power Query, build a simple model, create basic DAX measures, design report visuals, and publish the final report to the Power BI service.\n\nThe big idea is simple: do not learn Power BI as a random co"
-            },
-            {
-              "title": "Join THE CUBE: The Community Data Professionals Have Been ASKING For",
-              "url": "https://www.youtube.com/watch?v=dQL1HgDqwMI",
-              "published": "2026-07-01T14:30:23Z",
-              "description": "Yooo! 🙌 We’re officially launching something BIG: https://guyinacube.com\n\nTHE CUBE is our brand-new community for data professionals who want to go beyond YouTube.\n\nAnd don’t worry… Guy in a Cube isn’t going anywhere, we’ll keep bringing you free YouTube content.\n\nTHE CUBE will become the place where data pros go to:\n✅ Learn deeper (beyond surface-level feature videos)\n✅ Connect with like-minded people\n✅ Get more direct access to us (Guy & Gal in a Cube!)\n\nInside THE CUBE, you’ll get:\n✅ Exclusiv"
             }
           ],
+          "error": null
+        },
+        {
+          "creator": "Dewain Robinson",
+          "handle": "@DewainRobinson",
+          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
+          "videos": [],
           "error": null
         }
       ],
       "ai": [
         {
+          "creator": "Alex Finn",
+          "handle": "@AlexFinn",
+          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
+          "videos": [],
+          "error": null
+        },
+        {
           "creator": "NateBJones",
           "handle": "@NateBJones",
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
+            {
+              "title": "Fable 5 is a magician 🪄 #Fable5 #AI #Careers #Claude #Productivity #tech",
+              "url": "https://www.youtube.com/shorts/RUuU1UrTOe0",
+              "published": "2026-07-03T14:30:03Z",
+              "description": "It does not matter whether you sit in product management or engineering or sales or marketing, because the situation is the same for all of us: there is an incredibly powerful magician sitting inside your computer, and the only things it asks of you are raw material to work with and a clear sense of what good looks like when the job is done.\n\nMost people never hand it either one. They ask for small tricks, get small tricks back, and walk away convinced the magic was overhyped, when the real prob"
+            },
+            {
+              "title": "Every AI Agent Demo Stops at Email. I Pointed Mine at the Bills That Cost You Money.",
+              "url": "https://www.youtube.com/watch?v=U4TmrlWEY4M",
+              "published": "2026-07-03T14:00:20Z",
+              "description": "Build your reusable agent:\nhttps://natesnewsletter.substack.com/p/reusable-ai-agent?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nAI agents usually get rebuilt from scratch for every new job. Here's how to build one reusable AI agent for messy, high-trust paperwork -- insurance appeals, tax prep, and beyond.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n👉🏻 Instagram:"
+            },
             {
               "title": "Will Fable 5 kill jobs? #fable5 #fableisback #anthropic #futureofwork",
               "url": "https://www.youtube.com/shorts/Ug9O-VOEjUs",
@@ -164,46 +183,6 @@
               "url": "https://www.youtube.com/watch?v=lq2fP7wC7d8",
               "published": "2026-07-02T14:00:08Z",
               "description": "Full model routing guide:\nhttps://natesnewsletter.substack.com/p/which-ai-model-to-use?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nEvery AI model suddenly looks replaceable, and picking the right one has turned into a second job. This video is a practical model picker: how to choose which AI to use for real work without overpaying or drowning in model names.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTo"
-            },
-            {
-              "title": "The fastest way to make an AI agent dangerous #AIagents #AI #agents #automation #futureofwork",
-              "url": "https://www.youtube.com/shorts/CCOoGvX9bCA",
-              "published": "2026-07-02T03:00:14Z",
-              "description": "The fastest way to make an AI agent dangerous is simple. Let everyone use it and nobody own it.\n\nThat is where it breaks. Not some rogue AI. An agent that can read your files, draft messages, change code, and update records, with nobody whose actual job is to check it. The output looks clean, so people stop asking where it came from.\n\nOwnership is the missing skill. \n\nI put the one-page owner card and the two prompts that fix this on Substack.\n\nFull breakdown: https://natesnewsletter.substack.co"
-            },
-            {
-              "title": "I Built My Own AI Memory by Talking to Claude. It Did 80% Itself.",
-              "url": "https://www.youtube.com/watch?v=HgAQOkG_v8c",
-              "published": "2026-07-01T14:00:20Z",
-              "description": "The Full Open Stack Guide:\nhttps://natesnewsletter.substack.com/p/build-your-own-ai-memory?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nAI agents can now build most of your own AI memory stack for you, just by talking to Claude or Codex.\nThis is how to build a personal agent that starts from your context, follows your intent, and waits for your yes before it acts.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 "
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Alex Finn",
-          "handle": "@AlexFinn",
-          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
-          "videos": [
-            {
-              "title": "Fable 5 is BACK! Here are the first 8 things you need to do…",
-              "url": "https://www.youtube.com/watch?v=A3fxKRsvh3U",
-              "published": "2026-07-01T21:21:21Z",
-              "description": "Claude Fable 5 is back! Here are the first 8 things you need to do with it. These are use cases EVERYONE should be doing\n\nFULL Claude Code bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorb"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Nate Herk",
-          "handle": "@NateHerk",
-          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-          "videos": [
-            {
-              "title": "How Anthropic Engineers Actually Prompt Fable 5",
-              "url": "https://www.youtube.com/watch?v=vcU85OrwuV0",
-              "published": "2026-07-01T21:21:58Z",
-              "description": "$1000 Free Hyperagent Credits (limited): https://www.hyperagent.com/nate\nMy playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=fable-5-prompts&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nFable 5 is back, and it's the "
             }
           ],
           "error": null
@@ -214,44 +193,22 @@
           "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
           "videos": [
             {
-              "title": "Claude Fable 5 Use Cases You Must Do NOW (Or Lose Thousands in 1 Week)",
-              "url": "https://www.youtube.com/watch?v=lplVBFr0Ndc",
-              "published": "2026-07-02T00:51:45Z",
-              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nThe time to push Fable 5 to the limit is now, and here are 5 projects for you to implement. \n\n\n⏰TIMESTAMPS:\n\n0:00 - Intro\n0:30 - Case 1\n4:24 - Case 2\n6:31 - Case 3\n8:24 - Case 4\n9:31 - Case 5\n11:42 Outro\n\n\nRESOURCES FROM THIS VIDEO:\n➡️ Master Claude Code: https://www.skool.com/chase-ai\n"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "AI Daily Brief",
-          "handle": "@AIDailyBrief",
-          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
-          "videos": [
-            {
-              "title": "Fable Is Back: Here's What You Should Try First",
-              "url": "https://www.youtube.com/watch?v=ztCLWKwyMJY",
-              "published": "2026-07-02T00:33:12Z",
-              "description": "OpenAI and other labs are racing to slash inference costs, prompting debate about token-efficiency techniques and quality trade-offs. Anthropic regained global access to Fable 5 after export controls were lifted, triggering discussions about jailbreaking, tightened guardrails, and regulatory opacity. New model launches and platform moves include Sonnet 5's agentic-but-costly approach, Base44's fine-tuned Base1, and AWS's billion-dollar FTE push for enterprise AI.\n\nThe AI Daily Brief helps you un"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Paul J Lipsky",
-          "handle": "@PaulJLipsky",
-          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
-          "videos": [
-            {
-              "title": "Fable 5 Is Back But With Some BIG Restrictions",
-              "url": "https://www.youtube.com/watch?v=5se9C4K_ysM",
-              "published": "2026-07-01T20:52:33Z",
-              "description": "Fable 5 is back for all paid Claude users, but it comes with tighter usage limits and stronger safeguards than before. Here's everything that changed, what actually gets blocked in real-world use, and how to get the most out of Fable 5 before the July 7th deadline.\n\n0:00 Intro\n0:22 Fable 5 Is Back\n0:38 New Usage Limits\n1:39 Increased Safeguards\n3:13 A Bad Precedent\n3:31 What Actually Gets Blocked\n5:22 How I'll Use Fable 5"
+              "title": "This Makes Claude Fable 5 80% Cheaper",
+              "url": "https://www.youtube.com/shorts/nU4LZ_LWRxY",
+              "published": "2026-07-04T02:00:16Z",
+              "description": ""
             },
             {
-              "title": "NotebookLM’s New Vertical Shorts Are INCREDIBLE",
-              "url": "https://www.youtube.com/watch?v=fG5D_voK46E",
-              "published": "2026-07-01T13:00:08Z",
-              "description": "NotebookLM just rolled out vertical short video overviews, free for everyone with no plan required. I walk through how they work, where they actually shine, and why they look better than the cinematic videos.\n\n0:00 Intro\n0:18 What NotebookLM Shorts Are\n1:05 Generating Your First Short\n3:10 Shorts vs Cinematic vs Explainer\n4:36 More Short Examples\n5:59 Why It's Free Now \n7:02 Motion Graphics Examples\n7:45 Using Shorts on Your Phone\n8:20 Personal Data + Limitations"
+              "title": "Top Fable 5 Use Cases You MUST Try (Or Lose $$$)",
+              "url": "https://www.youtube.com/shorts/yXpeTaAitWY",
+              "published": "2026-07-04T00:00:25Z",
+              "description": ""
+            },
+            {
+              "title": "Make Fable 5 80% Cheaper (& Other Usage Cheat Codes)",
+              "url": "https://www.youtube.com/watch?v=p8ypBeNXQ8E",
+              "published": "2026-07-03T15:46:08Z",
+              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nFable 5 Usage is the ultimate resource over the next few days, so how can we maximize it? Here are five ways.\n\n\n⏰TIMESTAMPS:\n\n0:00 - Intro\n0:38 - Case 1\n4:33 - Case 2\n6:01 - Case 3\n7:40 - Case 4\n9:43 - Case 5\n11:33 - Outro\n\n\nRESOURCES FROM THIS VIDEO:\n➡️ Master Claude Code: https://www."
             }
           ],
           "error": null
@@ -262,135 +219,125 @@
           "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
           "videos": [],
           "error": null
+        },
+        {
+          "creator": "Paul J Lipsky",
+          "handle": "@PaulJLipsky",
+          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "AI Daily Brief",
+          "handle": "@AIDailyBrief",
+          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Nate Herk",
+          "handle": "@NateHerk",
+          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+          "videos": [
+            {
+              "title": "Fable 5 + Karpathy’s LLM Wiki is Basically Cheating",
+              "url": "https://www.youtube.com/watch?v=hQvwMj7IJe4",
+              "published": "2026-07-03T21:53:05Z",
+              "description": "My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=fable-llm-wiki&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nKarpathy LLM Wiki Gist: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f\n\nI ingested al"
+            },
+            {
+              "title": "How Claude is Creating a New Generation of Millionaires",
+              "url": "https://www.youtube.com/watch?v=pbrln2TVeh4",
+              "published": "2026-07-03T13:03:22Z",
+              "description": "My playbook for growing a $1M AI agency: https://www.skool.com/ai-automation-society-plus/about?el=new-generation-of-millionaires\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=claude-millionaires&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nA brand new wave of wealth is being built right now. This vi"
+            }
+          ],
+          "error": null
         }
       ]
     },
     "newsletters": {
       "power_bi_weekly": {
         "name": "Power BI Weekly",
-        "issue_number": 363,
+        "issue_number": 364,
         "issue_date": null,
-        "url": "https://powerbiweekly.info/issue-363.html",
+        "url": "https://powerbiweekly.info/issue-364.html",
         "is_new": false,
         "sections": {
-          "Issue 363": [
+          "Issue 364": [
             {
-              "title": "embedded ODBC drivers to ADBC in Power BI and Fabric",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Migrating-from-embedded-ODBC-drivers-to-ADBC-in-Power-BI-and/ba-p/5195167"
+              "title": "Power BI Desktop Bridge (Preview)",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-Desktop-Bridge-Preview/ba-p/5227769"
             },
             {
-              "title": "Entra ID single sign-on for the Starburst connector (Preview)",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Microsoft-Entra-ID-single-sign-on-for-the-Starburst-connector-in/ba-p/5193371"
+              "title": "Power BI Date Picker",
+              "url": "https://prologika.com/powerbi-date-picker/"
             },
             {
-              "title": "Entra ID single sign-on for the Denodo connector (Preview)",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Microsoft-Entra-ID-single-sign-on-for-the-Denodo-connector-in/ba-p/5193376"
+              "title": "Power BI Copilot, Data Agent Optimization & Performance",
+              "url": "https://sqlserverbi.blog/2026/06/24/power-bi-copilot-data-agent-optimization-performance/"
             },
             {
-              "title": "workspace outbound access protection for Power BI Reports (Preview)",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Workspace-outbound-access-protection-for-Power-BI-reports/ba-p/5193354"
-            },
-            {
-              "title": "Protection Policies are now Generally Available",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Protect-once-enforce-everywhere-Protection-policies-for-Power-BI/ba-p/5223932"
-            },
-            {
-              "title": "June 2026 on-premises data gateway release",
-              "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/On-premises-data-gateway-June-2026-release/ba-p/5233421"
-            },
-            {
-              "title": "centralising the Power Query connector ecosystem in Fabric",
-              "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Securing-the-Power-Query-connector-ecosystem-in-Fabric/ba-p/5195164"
-            },
-            {
-              "title": "implementing parent-child hierarchies using PATH(), DAX UDFs and TMDL",
-              "url": "https://www.flip-design.de/?p=1622&utm_source=rss&utm_medium=rss&utm_campaign=implementing-parent-child-hierarchies-in-power-bi-using-path-dax-udfs-and-tmdl"
+              "title": "Fabric Weekly",
+              "url": "https://fabricweekly.info/"
             }
           ],
           "Data Prep": [
             {
-              "title": "Securing the Power Query connector ecosystem in Fabric",
-              "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Securing-the-Power-Query-connector-ecosystem-in-Fabric/ba-p/5195164"
-            },
-            {
-              "title": "Power Query, PivotTable, and Pivot Chart: A Month-End Workflow",
-              "url": "https://www.excel-university.com/power-query-pivottable-pivot-chart-month-end-workflow/"
+              "title": "How to Build Queries That Don’t Break",
+              "url": "https://goodly.co.in/how-to-build-queries-that-dont-break/"
             }
           ],
           "Data Modeling": [
             {
-              "title": "Implementing Parent-Child Hierarchies in Power BI Using PATH(), DAX UDFs, and TMDL",
-              "url": "https://www.flip-design.de/?p=1622&utm_source=rss&utm_medium=rss&utm_campaign=implementing-parent-child-hierarchies-in-power-bi-using-path-dax-udfs-and-tmdl"
+              "title": "DAX Fundamentals Part 3: The Patterns That Make Reports Work",
+              "url": "https://www.youtube.com/watch?v=_McUlXEyWyg"
             },
             {
-              "title": "Connecting Claude AI to Power BI Desktop: 5 Practical Tips for Efficiency",
-              "url": "https://www.youtube.com/watch?v=OrJpkD7XHt0"
+              "title": "When to Create a Lookup Table in Power BI",
+              "url": "https://exceleratorbi.com.au/lookup-tables-in-power-bi/"
             },
             {
-              "title": "The Most Important DAX Concepts to Learn First",
-              "url": "https://www.youtube.com/watch?v=fn09SC-b-6Y"
+              "title": "Copo de nieve vs Estrella: Cuál esquema es realmente más rápido en Power BI? [Spanish]",
+              "url": "https://www.youtube.com/watch?v=x5ru-y73MPo"
+            },
+            {
+              "title": "DAX RANK, RANKX & TOPN in Power BI",
+              "url": "https://www.youtube.com/watch?v=FZBvgxQmcrM"
             }
           ],
           "Report Authoring and Interactivity": [
             {
-              "title": "Using AI with Power BI Project (PBIP) Files to Create Reports",
-              "url": "https://www.youtube.com/watch?v=GMDSrShUTlY"
+              "title": "Power BI Desktop Bridge (Preview)",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-Desktop-Bridge-Preview/ba-p/5227769"
             },
             {
-              "title": "How to Build ANY Custom Cards in Power BI",
-              "url": "https://www.youtube.com/watch?v=Lrr1w9B0QgI"
-            },
-            {
-              "title": "Clickable KPI Cards in Power BI — No Custom Visual, Just SVG",
-              "url": "https://www.youtube.com/watch?v=icHjUdkSY_I"
-            },
-            {
-              "title": "Deja de usar los Tooltips por defecto en Power BI",
-              "url": "https://www.youtube.com/watch?v=Venh_JC2heM"
-            },
-            {
-              "title": "Building Power BI Reports with AI 100% OFFLINE (Official MCP with Local LLM)",
-              "url": "https://www.youtube.com/watch?v=SMJP_-Z6-n0"
+              "title": "Power BI Date Picker",
+              "url": "https://prologika.com/powerbi-date-picker/"
             }
           ],
           "Deployment, Security and Operations": [
             {
-              "title": "Protect once, enforce everywhere: Protection policies for Power BI (Generally Available)",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Protect-once-enforce-everywhere-Protection-policies-for-Power-BI/ba-p/5223932"
-            },
-            {
-              "title": "Microsoft Entra ID single sign-on for the Starburst connector in Power BI (Preview)",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Microsoft-Entra-ID-single-sign-on-for-the-Starburst-connector-in/ba-p/5193371"
-            },
-            {
-              "title": "Microsoft Entra ID single sign-on for the Denodo connector in Power BI (Preview)",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Microsoft-Entra-ID-single-sign-on-for-the-Denodo-connector-in/ba-p/5193376"
-            },
-            {
-              "title": "Workspace outbound access protection for Power BI reports (Preview)",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Workspace-outbound-access-protection-for-Power-BI-reports/ba-p/5193354"
-            },
-            {
-              "title": "Migrating from embedded ODBC drivers to ADBC in Power BI and Fabric",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Migrating-from-embedded-ODBC-drivers-to-ADBC-in-Power-BI-and/ba-p/5195167"
-            },
-            {
-              "title": "On-premises data gateway June 2026 release",
-              "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/On-premises-data-gateway-June-2026-release/ba-p/5233421"
-            },
-            {
-              "title": "Power BI to Excel: Save time and never reformat your data again",
-              "url": "https://www.youtube.com/watch?v=KH8q7cpsRpI"
-            },
-            {
-              "title": "Beyond Version Control: GitHub Actions for Power BI Development | Daniel Patkos",
-              "url": "https://www.youtube.com/watch?v=T-2fM0vKq_k"
+              "title": "Power BI Copilot, Data Agent Optimization & Performance",
+              "url": "https://sqlserverbi.blog/2026/06/24/power-bi-copilot-data-agent-optimization-performance/"
             }
           ],
           "General": [
             {
-              "title": "Dashboard del Mundial de Fútbol en Power BI y en vivo",
-              "url": "https://www.youtube.com/watch?v=bDoL4Tzi1wk"
+              "title": "How Data Apps make semantic models better in Fabric",
+              "url": "https://tabulareditor.com/blog/how-data-apps-make-semantic-models-better-in-fabric"
+            },
+            {
+              "title": "Self Service Analytics with AI - Ep.536 - Power BI tips",
+              "url": "https://www.youtube.com/watch?v=5DaaW8Mfom4"
+            },
+            {
+              "title": "Self Service with AI Part 2- Ep.540 - Power BI tips",
+              "url": "https://www.youtube.com/watch?v=RcxzBjyxKmo"
+            },
+            {
+              "title": "I let Microsoft’s AI skills design me a Power BI report...",
+              "url": "https://www.youtube.com/watch?v=RisHKmeZ2y0"
             }
           ]
         },
@@ -602,75 +549,8 @@
     "release_plans": {
       "source_url": "https://releaseplans.net/",
       "data_url": "https://releaseplans.net/data/release-plans.json",
-      "products": {
-        "Power Automate": [
-          {
-            "feature_name": "Configure notifications for desktop flow checker in admin portal",
-            "product": "Power Automate",
-            "product_group": "Desktop flows",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "07/02/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "As an administrator, you need a clear way to track quality issues across the desktop flows in your environment. But today you only discover problems when they cause run failures or support escalations. With configurable notifications in the admin portal, you choose which rule violations trigger alerts and what parameters apply to each notification type. You stay ahead of quality risks, enforce governance standards across makers, and reduce the time you spend reacting to issues across environment",
-            "preview_date": "",
-            "ga_date": "07/01/2026"
-          },
-          {
-            "feature_name": "Compare flow versions",
-            "product": "Power Automate",
-            "product_group": "Desktop flows",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "07/02/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "When you can’t quickly see what changed between flow versions, you lose time fixing problems and risk pushing the wrong updates to production. Side-by-side version comparison gives you a clear view of what was added, removed, or updated so you can make confident decisions. You resolve issues faster, avoid costly mistakes, and work better with co-owners by reviewing changes before publishing.",
-            "preview_date": "",
-            "ga_date": "05/13/2026"
-          }
-        ],
-        "Microsoft Dataverse": [
-          {
-            "feature_name": "Dataverse MCP Server",
-            "product": "Microsoft Dataverse",
-            "product_group": "Activate Enterprise Data in Copilot",
-            "status": "GA",
-            "release_wave": "2025 release wave 2",
-            "last_updated": "07/02/2026",
-            "enabled_for": "Users, automatically",
-            "description": "A remote Microsoft Dataverse model context protocol (MCP) server represents the next evolution in how AI systems and enterprise data interact within the Microsoft ecosystem. Unlike local MCP setups, which require developers or users to install SDKs, configure proxies, and manage environment access manually, a remote Dataverse MCP server runs as a centrally hosted, managed service. This shift streamlines integration, improves security, and enables scalable AI connectivity across teams, devices, a",
-            "preview_date": "05/20/2025",
-            "ga_date": "12/15/2025"
-          },
-          {
-            "feature_name": "Create Dataverse agent users with Microsoft Entra agent identity",
-            "product": "Microsoft Dataverse",
-            "product_group": "Activate Enterprise Data in Copilot",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "07/02/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "This feature enables secure, compliant management of AI agents in Microsoft Dataverse, which reduces risk and improves governance for autonomous and interactive agents.",
-            "preview_date": "06/01/2026",
-            "ga_date": "08/01/2026"
-          }
-        ],
-        "Microsoft Power Platform governance and administration": [
-          {
-            "feature_name": "Prevent sending sensitive data to Purview audit logs",
-            "product": "Microsoft Power Platform governance and administration",
-            "product_group": "Security and compliance",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "07/02/2026",
-            "enabled_for": "Users by admins, makers, or analysts",
-            "description": "This feature restricts customer business data in Dataverse audit logs from being sent to Purview auditing streams. This helps ensure compliance and reduces the risk of leaking sensitive customer data.",
-            "preview_date": "",
-            "ga_date": "06/26/2026"
-          }
-        ]
-      },
-      "total_updates": 5,
+      "products": {},
+      "total_updates": 0,
       "error": null
     }
   },
