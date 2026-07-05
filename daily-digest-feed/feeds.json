@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-04T11:30:48.852373Z",
+  "generated_at": "2026-07-05T11:31:41.759242Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
         {
-          "creator": "This Story Till Now",
-          "handle": "@ThisStoryTillNow",
-          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "creator": "VentureToRoam",
+          "handle": "@VentureToRoam",
+          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
           "videos": [],
           "error": null
         },
@@ -15,6 +15,34 @@
           "creator": "TrailRecon",
           "handle": "@TrailRecon",
           "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
+          "videos": [
+            {
+              "title": "This Colorado Trail Leads to a Town That Shouldn't Exist",
+              "url": "https://www.youtube.com/watch?v=vjaG2rbzsTU",
+              "published": "2026-07-04T14:00:18Z",
+              "description": "The mountains above Durango were named for silver that was never really there and this trail tells the whole story.\n\nIn this episode of Recon America, I point the Jeep up La Plata Canyon toward Kennebec Pass, an easy backcountry route that climbs past waterfalls, old mining claims, and the ruins of towns that boomed and busted 150 years ago. Most of the trail is a comfortable graded road, but the last stretch gets rocky you'll want 4WD and a little patience. At the top: the remains of the Cumber"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "LetsGetLost",
+          "handle": "@LetsGetLost",
+          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Life Style Overland",
+          "handle": "@LifeStyleOverland",
+          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Casey 250",
+          "handle": "@Casey250",
+          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
           "videos": [],
           "error": null
         },
@@ -33,17 +61,16 @@
           "error": null
         },
         {
-          "creator": "Life Style Overland",
-          "handle": "@LifeStyleOverland",
-          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "Epic Adventure Outfitters",
           "handle": "@EpicAdventureOutfitters",
           "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
           "videos": [
+            {
+              "title": "RTT's aren't designed to come off...#rooftoptents #overlanding #jeep",
+              "url": "https://www.youtube.com/shorts/NTslB-xcfBY",
+              "published": "2026-07-04T19:00:19Z",
+              "description": ""
+            },
             {
               "title": "Don't Make These Suspension Mistakes - The Hotline Ep.3",
               "url": "https://www.youtube.com/watch?v=EAk8UhqphaM",
@@ -55,43 +82,23 @@
               "url": "https://www.youtube.com/shorts/-jStk7KFnxI",
               "published": "2026-07-03T19:00:18Z",
               "description": ""
-            },
-            {
-              "title": "Water in tents = mold #rooftoptents #overlanding #jeep",
-              "url": "https://www.youtube.com/shorts/Sk3fm47lvtY",
-              "published": "2026-07-02T19:00:33Z",
-              "description": ""
             }
           ],
           "error": null
         },
         {
-          "creator": "VentureToRoam",
-          "handle": "@VentureToRoam",
-          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "LetsGetLost",
-          "handle": "@LetsGetLost",
-          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Casey 250",
-          "handle": "@Casey250",
-          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
+          "creator": "This Story Till Now",
+          "handle": "@ThisStoryTillNow",
+          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
           "videos": [],
           "error": null
         }
       ],
       "power_platform": [
         {
-          "creator": "Matthew Devaney",
-          "handle": "@MatthewDevaney",
-          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
+          "creator": "Lisa Crosbie",
+          "handle": "@LisaCrosbie",
+          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
           "videos": [],
           "error": null
         },
@@ -103,16 +110,9 @@
           "error": null
         },
         {
-          "creator": "April Dunnam",
-          "handle": "@AprilDunnam",
-          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Lisa Crosbie",
-          "handle": "@LisaCrosbie",
-          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
+          "creator": "Matthew Devaney",
+          "handle": "@MatthewDevaney",
+          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
           "videos": [],
           "error": null
         },
@@ -122,6 +122,13 @@
           "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
           "videos": [],
           "error": null
+        },
+        {
+          "creator": "April Dunnam",
+          "handle": "@AprilDunnam",
+          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
+          "videos": [],
+          "error": null
         }
       ],
       "fabric_powerbi": [
@@ -129,14 +136,7 @@
           "creator": "Guy in a Cube",
           "handle": "@GuyInACube",
           "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
-          "videos": [
-            {
-              "title": "Power BI Tutorial for Beginners (Step-by-Step in 30 Minutes)",
-              "url": "https://www.youtube.com/watch?v=OmW9YvxSl1E",
-              "published": "2026-07-02T14:30:36Z",
-              "description": "In this Guy in a Cube video, Patrick is showing a complete introduction to Power BI for beginners. This is not just a tour of features. It is a practical walkthrough of how Power BI works from start to finish.\n\nPatrick walks through how to get data into Power BI Desktop, clean and transform it with Power Query, build a simple model, create basic DAX measures, design report visuals, and publish the final report to the Power BI service.\n\nThe big idea is simple: do not learn Power BI as a random co"
-            }
-          ],
+          "videos": [],
           "error": null
         },
         {
@@ -149,17 +149,22 @@
       ],
       "ai": [
         {
-          "creator": "Alex Finn",
-          "handle": "@AlexFinn",
-          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "NateBJones",
           "handle": "@NateBJones",
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
+            {
+              "title": "Fable 5 doesn't want your prompt. It wants the whole job. #ClaudeFable5 #Fable5 #Claude #AI",
+              "url": "https://www.youtube.com/shorts/_qiFCABxvpo",
+              "published": "2026-07-05T03:00:39Z",
+              "description": "Everyone who got burned asking AI for big things in 2023 trained themselves to ask small, and almost nobody has updated that habit since, which means most people are quietly underusing the most capable model available right now.\n\nThe way through is not better prompting. It is picking one gnarly job nobody on your team owns, assembling the data it needs, writing down what done looks like, and handing the whole thing over. That takes a few hours of prep and can save you weeks, and it is a complete"
+            },
+            {
+              "title": "Free Fable 5 tokens this weekend? Here's how to max them",
+              "url": "https://www.youtube.com/watch?v=RtxUdvSTQGc",
+              "published": "2026-07-04T16:00:12Z",
+              "description": "Fable 5 is the AI model everyone's racing to max out this holiday weekend, but most people are pointing it at the wrong work. Here's how to get results that actually stand out.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n👉🏻 Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside the way serious users are running Fable 5?\n\nThe common advice is to plan with Fable 5 and code"
+            },
             {
               "title": "Fable 5 is a magician 🪄 #Fable5 #AI #Careers #Claude #Productivity #tech",
               "url": "https://www.youtube.com/shorts/RUuU1UrTOe0",
@@ -171,20 +176,22 @@
               "url": "https://www.youtube.com/watch?v=U4TmrlWEY4M",
               "published": "2026-07-03T14:00:20Z",
               "description": "Build your reusable agent:\nhttps://natesnewsletter.substack.com/p/reusable-ai-agent?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nAI agents usually get rebuilt from scratch for every new job. Here's how to build one reusable AI agent for messy, high-trust paperwork -- insurance appeals, tax prep, and beyond.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n👉🏻 Instagram:"
-            },
-            {
-              "title": "Will Fable 5 kill jobs? #fable5 #fableisback #anthropic #futureofwork",
-              "url": "https://www.youtube.com/shorts/Ug9O-VOEjUs",
-              "published": "2026-07-03T03:00:27Z",
-              "description": "The only jobs this model actually kills are the ones with zero judgment, the pure-execution roles where nothing really gets decided and the work could honestly have been automated any time in the last ten years anyway.\n\nEverything else still needs a person, because a model this capable does not run itself, and someone still has to aim it, feed it the right context, check what it produced, and own the result when it lands on someone's desk. That is not a smaller job than the one you have now, it "
-            },
-            {
-              "title": "Stop Wasting Money on the Wrong AI",
-              "url": "https://www.youtube.com/watch?v=lq2fP7wC7d8",
-              "published": "2026-07-02T14:00:08Z",
-              "description": "Full model routing guide:\nhttps://natesnewsletter.substack.com/p/which-ai-model-to-use?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nEvery AI model suddenly looks replaceable, and picking the right one has turned into a second job. This video is a practical model picker: how to choose which AI to use for real work without overpaying or drowning in model names.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTo"
             }
           ],
+          "error": null
+        },
+        {
+          "creator": "Alex Finn",
+          "handle": "@AlexFinn",
+          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "AI Daily Brief",
+          "handle": "@AIDailyBrief",
+          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
+          "videos": [],
           "error": null
         },
         {
@@ -214,23 +221,23 @@
           "error": null
         },
         {
-          "creator": "Simon Scrapes",
-          "handle": "@SimonScrapes",
-          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "Paul J Lipsky",
           "handle": "@PaulJLipsky",
           "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
-          "videos": [],
+          "videos": [
+            {
+              "title": "Huge AI News Week: Fable 5 Returns; NotebookLM Shorts; Gemini Spark Updates; Nano Banana 2 Lite 🤯",
+              "url": "https://www.youtube.com/watch?v=1u0vKWeP9HI",
+              "published": "2026-07-04T13:00:12Z",
+              "description": "Try Building a Digest Today With xTiles: https://xtiles.app/en?fp_ref=pauljlipsky\n\nFable 5 is back with new restrictions, Anthropic released Sonnet 5, OpenAI announced the GPT-5.6 family, and Google had a monster week with NotebookLM Shorts, Nano Banana 2 Light, and Gemini on Mac. Here's everything from this week that actually matters for regular people.\n\n🔗 This video is sponsored. \n\n0:00 Intro\n0:49 Fable 5 Returns\n3:46 xTiles (Sponsor)\n6:13 Claude Sonnet 5\n8:25 NotebookLM Shorts\n11:01 Nano Bana"
+            }
+          ],
           "error": null
         },
         {
-          "creator": "AI Daily Brief",
-          "handle": "@AIDailyBrief",
-          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
+          "creator": "Simon Scrapes",
+          "handle": "@SimonScrapes",
+          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
           "videos": [],
           "error": null
         },
@@ -257,92 +264,6 @@
       ]
     },
     "newsletters": {
-      "power_bi_weekly": {
-        "name": "Power BI Weekly",
-        "issue_number": 364,
-        "issue_date": null,
-        "url": "https://powerbiweekly.info/issue-364.html",
-        "is_new": false,
-        "sections": {
-          "Issue 364": [
-            {
-              "title": "Power BI Desktop Bridge (Preview)",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-Desktop-Bridge-Preview/ba-p/5227769"
-            },
-            {
-              "title": "Power BI Date Picker",
-              "url": "https://prologika.com/powerbi-date-picker/"
-            },
-            {
-              "title": "Power BI Copilot, Data Agent Optimization & Performance",
-              "url": "https://sqlserverbi.blog/2026/06/24/power-bi-copilot-data-agent-optimization-performance/"
-            },
-            {
-              "title": "Fabric Weekly",
-              "url": "https://fabricweekly.info/"
-            }
-          ],
-          "Data Prep": [
-            {
-              "title": "How to Build Queries That Don’t Break",
-              "url": "https://goodly.co.in/how-to-build-queries-that-dont-break/"
-            }
-          ],
-          "Data Modeling": [
-            {
-              "title": "DAX Fundamentals Part 3: The Patterns That Make Reports Work",
-              "url": "https://www.youtube.com/watch?v=_McUlXEyWyg"
-            },
-            {
-              "title": "When to Create a Lookup Table in Power BI",
-              "url": "https://exceleratorbi.com.au/lookup-tables-in-power-bi/"
-            },
-            {
-              "title": "Copo de nieve vs Estrella: Cuál esquema es realmente más rápido en Power BI? [Spanish]",
-              "url": "https://www.youtube.com/watch?v=x5ru-y73MPo"
-            },
-            {
-              "title": "DAX RANK, RANKX & TOPN in Power BI",
-              "url": "https://www.youtube.com/watch?v=FZBvgxQmcrM"
-            }
-          ],
-          "Report Authoring and Interactivity": [
-            {
-              "title": "Power BI Desktop Bridge (Preview)",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-Desktop-Bridge-Preview/ba-p/5227769"
-            },
-            {
-              "title": "Power BI Date Picker",
-              "url": "https://prologika.com/powerbi-date-picker/"
-            }
-          ],
-          "Deployment, Security and Operations": [
-            {
-              "title": "Power BI Copilot, Data Agent Optimization & Performance",
-              "url": "https://sqlserverbi.blog/2026/06/24/power-bi-copilot-data-agent-optimization-performance/"
-            }
-          ],
-          "General": [
-            {
-              "title": "How Data Apps make semantic models better in Fabric",
-              "url": "https://tabulareditor.com/blog/how-data-apps-make-semantic-models-better-in-fabric"
-            },
-            {
-              "title": "Self Service Analytics with AI - Ep.536 - Power BI tips",
-              "url": "https://www.youtube.com/watch?v=5DaaW8Mfom4"
-            },
-            {
-              "title": "Self Service with AI Part 2- Ep.540 - Power BI tips",
-              "url": "https://www.youtube.com/watch?v=RcxzBjyxKmo"
-            },
-            {
-              "title": "I let Microsoft’s AI skills design me a Power BI report...",
-              "url": "https://www.youtube.com/watch?v=RisHKmeZ2y0"
-            }
-          ]
-        },
-        "error": null
-      },
       "power_platform_dev_weekly": {
         "name": "Power Platform Dev Weekly",
         "issue_number": 296,
@@ -428,6 +349,92 @@
             {
               "title": "AI Is Expensive: 15 Ways to Cut Agent Costs",
               "url": "https://www.youtube.com/watch?v=r6WBSTuB3Yo"
+            }
+          ]
+        },
+        "error": null
+      },
+      "power_bi_weekly": {
+        "name": "Power BI Weekly",
+        "issue_number": 364,
+        "issue_date": null,
+        "url": "https://powerbiweekly.info/issue-364.html",
+        "is_new": false,
+        "sections": {
+          "Issue 364": [
+            {
+              "title": "Power BI Desktop Bridge (Preview)",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-Desktop-Bridge-Preview/ba-p/5227769"
+            },
+            {
+              "title": "Power BI Date Picker",
+              "url": "https://prologika.com/powerbi-date-picker/"
+            },
+            {
+              "title": "Power BI Copilot, Data Agent Optimization & Performance",
+              "url": "https://sqlserverbi.blog/2026/06/24/power-bi-copilot-data-agent-optimization-performance/"
+            },
+            {
+              "title": "Fabric Weekly",
+              "url": "https://fabricweekly.info/"
+            }
+          ],
+          "Data Prep": [
+            {
+              "title": "How to Build Queries That Don’t Break",
+              "url": "https://goodly.co.in/how-to-build-queries-that-dont-break/"
+            }
+          ],
+          "Data Modeling": [
+            {
+              "title": "DAX Fundamentals Part 3: The Patterns That Make Reports Work",
+              "url": "https://www.youtube.com/watch?v=_McUlXEyWyg"
+            },
+            {
+              "title": "When to Create a Lookup Table in Power BI",
+              "url": "https://exceleratorbi.com.au/lookup-tables-in-power-bi/"
+            },
+            {
+              "title": "Copo de nieve vs Estrella: Cuál esquema es realmente más rápido en Power BI? [Spanish]",
+              "url": "https://www.youtube.com/watch?v=x5ru-y73MPo"
+            },
+            {
+              "title": "DAX RANK, RANKX & TOPN in Power BI",
+              "url": "https://www.youtube.com/watch?v=FZBvgxQmcrM"
+            }
+          ],
+          "Report Authoring and Interactivity": [
+            {
+              "title": "Power BI Desktop Bridge (Preview)",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-Desktop-Bridge-Preview/ba-p/5227769"
+            },
+            {
+              "title": "Power BI Date Picker",
+              "url": "https://prologika.com/powerbi-date-picker/"
+            }
+          ],
+          "Deployment, Security and Operations": [
+            {
+              "title": "Power BI Copilot, Data Agent Optimization & Performance",
+              "url": "https://sqlserverbi.blog/2026/06/24/power-bi-copilot-data-agent-optimization-performance/"
+            }
+          ],
+          "General": [
+            {
+              "title": "How Data Apps make semantic models better in Fabric",
+              "url": "https://tabulareditor.com/blog/how-data-apps-make-semantic-models-better-in-fabric"
+            },
+            {
+              "title": "Self Service Analytics with AI - Ep.536 - Power BI tips",
+              "url": "https://www.youtube.com/watch?v=5DaaW8Mfom4"
+            },
+            {
+              "title": "Self Service with AI Part 2- Ep.540 - Power BI tips",
+              "url": "https://www.youtube.com/watch?v=RcxzBjyxKmo"
+            },
+            {
+              "title": "I let Microsoft’s AI skills design me a Power BI report...",
+              "url": "https://www.youtube.com/watch?v=RisHKmeZ2y0"
             }
           ]
         },
