@@ -1,9 +1,57 @@
 {
-  "generated_at": "2026-07-05T11:31:41.759242Z",
+  "generated_at": "2026-07-06T12:17:55.035779Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
+        {
+          "creator": "Ozark Overland Adventure",
+          "handle": "@OzarkOverlandAdventures",
+          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Life Style Overland",
+          "handle": "@LifeStyleOverland",
+          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Epic Adventure Outfitters",
+          "handle": "@EpicAdventureOutfitters",
+          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
+          "videos": [
+            {
+              "title": "Don't buy an Alibaba tent...#rooftoptents #overlanding #jeep",
+              "url": "https://www.youtube.com/shorts/7VfnAIHP6xE",
+              "published": "2026-07-05T19:00:10Z",
+              "description": ""
+            },
+            {
+              "title": "RTT's aren't designed to come off...#rooftoptents #overlanding #jeep",
+              "url": "https://www.youtube.com/shorts/NTslB-xcfBY",
+              "published": "2026-07-04T19:00:19Z",
+              "description": ""
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "LetsGetLost",
+          "handle": "@LetsGetLost",
+          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "This Story Till Now",
+          "handle": "@ThisStoryTillNow",
+          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "videos": [],
+          "error": null
+        },
         {
           "creator": "VentureToRoam",
           "handle": "@VentureToRoam",
@@ -26,70 +74,9 @@
           "error": null
         },
         {
-          "creator": "LetsGetLost",
-          "handle": "@LetsGetLost",
-          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Life Style Overland",
-          "handle": "@LifeStyleOverland",
-          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "Casey 250",
           "handle": "@Casey250",
           "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Ozark Overland Adventure",
-          "handle": "@OzarkOverlandAdventures",
-          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
-          "videos": [
-            {
-              "title": "The BEST of Overland Expo PNW 2026",
-              "url": "https://www.youtube.com/watch?v=cEvhwAf17Yc",
-              "published": "2026-07-03T16:00:32Z",
-              "description": "We found the best gear and rigs at the Overland Expo PNW 2026 and an incredible campsite after.\n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHNYyUa\nAll Roads Taken - https://www.allroadstaken.com\nMOORE Expo - ht"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Epic Adventure Outfitters",
-          "handle": "@EpicAdventureOutfitters",
-          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
-          "videos": [
-            {
-              "title": "RTT's aren't designed to come off...#rooftoptents #overlanding #jeep",
-              "url": "https://www.youtube.com/shorts/NTslB-xcfBY",
-              "published": "2026-07-04T19:00:19Z",
-              "description": ""
-            },
-            {
-              "title": "Don't Make These Suspension Mistakes - The Hotline Ep.3",
-              "url": "https://www.youtube.com/watch?v=EAk8UhqphaM",
-              "published": "2026-07-03T20:00:16Z",
-              "description": "The Hotline is open again! \n#jeeplife #4x4 #overlanding \nIn today's Q&amp;A we answer suspension questions and cover topics like sector shaft braces (shhh its snake oil), steering boxes, flexing, should you get a 2.5 inch lift, 3.5 inch lift, or just get portals, what size wheels work best with 35's on the 4xe, and much more! \n\nGet all the answers, leave all the comments, and maybe your question will be featured on the next episode! \n\n🛠️ TOOLS WE ACTUALLY USE IN THE SHOP:\nMilwaukee Mini Tape Mea"
-            },
-            {
-              "title": "Rooftop tent mattresses suck...#rooftoptents #overlanding #jeep",
-              "url": "https://www.youtube.com/shorts/-jStk7KFnxI",
-              "published": "2026-07-03T19:00:18Z",
-              "description": ""
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "This Story Till Now",
-          "handle": "@ThisStoryTillNow",
-          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
           "videos": [],
           "error": null
         }
@@ -99,13 +86,6 @@
           "creator": "Lisa Crosbie",
           "handle": "@LisaCrosbie",
           "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Shane Young",
-          "handle": "@ShanesCows",
-          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
           "videos": [],
           "error": null
         },
@@ -120,7 +100,14 @@
           "creator": "Reza Dorrani",
           "handle": "@RezaDorrani",
           "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
-          "videos": [],
+          "videos": [
+            {
+              "title": "Copilot Studio Workflows | AI Document Approvals for SharePoint",
+              "url": "https://www.youtube.com/watch?v=a7iiDHEwZwo",
+              "published": "2026-07-06T12:00:26Z",
+              "description": "Build AI Document Approval Workflows with Copilot Studio Workflows and SharePoint Library. In this step-by-step tutorial, you'll learn how to use the NEW Copilot Studio Workflows designer to review contracts with AI, identify risky clauses, route approvals automatically, and maintain a complete SharePoint audit trail—without writing code.\n\nYou'll build an end-to-end document approval solution where an AI Agent reads contracts uploaded to a SharePoint document library, extracts key information su"
+            }
+          ],
           "error": null
         },
         {
@@ -129,20 +116,27 @@
           "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
           "videos": [],
           "error": null
+        },
+        {
+          "creator": "Shane Young",
+          "handle": "@ShanesCows",
+          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
+          "videos": [],
+          "error": null
         }
       ],
       "fabric_powerbi": [
         {
-          "creator": "Guy in a Cube",
-          "handle": "@GuyInACube",
-          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
+          "creator": "Dewain Robinson",
+          "handle": "@DewainRobinson",
+          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
           "videos": [],
           "error": null
         },
         {
-          "creator": "Dewain Robinson",
-          "handle": "@DewainRobinson",
-          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
+          "creator": "Guy in a Cube",
+          "handle": "@GuyInACube",
+          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
           "videos": [],
           "error": null
         }
@@ -154,6 +148,18 @@
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
             {
+              "title": "This time ... the rumors are true. #ClaudeFable5 #Fable5 #Claude #AI #aitools",
+              "url": "https://www.youtube.com/shorts/zs-2gPbQNQ4",
+              "published": "2026-07-06T03:00:32Z",
+              "description": "I know. There are always rumors, and every release comes with the same breathless script — terrifying, speechless, best ever — so tuning it out became the smart move. I tune it out too. But this time Claude Fable 5 actually clears the bar.\n\nHere is where it shows up, minus the adjectives: Fable 5 is a much bigger pre-trained model, and the jump is in how much work you can hand it at once, not in a benchmark chart. Most of your day still feels the same until you change the size of what you ask fo"
+            },
+            {
+              "title": "You Can't Compete on Cheap Models Anymore",
+              "url": "https://www.youtube.com/watch?v=1cSNE-ZkDLQ",
+              "published": "2026-07-05T16:00:08Z",
+              "description": "Full post:\nhttps://natesnewsletter.substack.com/p/beyond-model-routing?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nEveryone in AI is saying the same thing right now: route your work to cheaper models. It's the right call — and it's about to be table stakes, which means the real advantage is moving to a layer almost nobody is budgeting for.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tikt"
+            },
+            {
               "title": "Fable 5 doesn't want your prompt. It wants the whole job. #ClaudeFable5 #Fable5 #Claude #AI",
               "url": "https://www.youtube.com/shorts/_qiFCABxvpo",
               "published": "2026-07-05T03:00:39Z",
@@ -164,18 +170,27 @@
               "url": "https://www.youtube.com/watch?v=RtxUdvSTQGc",
               "published": "2026-07-04T16:00:12Z",
               "description": "Fable 5 is the AI model everyone's racing to max out this holiday weekend, but most people are pointing it at the wrong work. Here's how to get results that actually stand out.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n👉🏻 Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside the way serious users are running Fable 5?\n\nThe common advice is to plan with Fable 5 and code"
-            },
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Chase AI",
+          "handle": "@ChaseAI",
+          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Paul J Lipsky",
+          "handle": "@PaulJLipsky",
+          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
+          "videos": [
             {
-              "title": "Fable 5 is a magician 🪄 #Fable5 #AI #Careers #Claude #Productivity #tech",
-              "url": "https://www.youtube.com/shorts/RUuU1UrTOe0",
-              "published": "2026-07-03T14:30:03Z",
-              "description": "It does not matter whether you sit in product management or engineering or sales or marketing, because the situation is the same for all of us: there is an incredibly powerful magician sitting inside your computer, and the only things it asks of you are raw material to work with and a clear sense of what good looks like when the job is done.\n\nMost people never hand it either one. They ask for small tricks, get small tricks back, and walk away convinced the magic was overhyped, when the real prob"
-            },
-            {
-              "title": "Every AI Agent Demo Stops at Email. I Pointed Mine at the Bills That Cost You Money.",
-              "url": "https://www.youtube.com/watch?v=U4TmrlWEY4M",
-              "published": "2026-07-03T14:00:20Z",
-              "description": "Build your reusable agent:\nhttps://natesnewsletter.substack.com/p/reusable-ai-agent?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nAI agents usually get rebuilt from scratch for every new job. Here's how to build one reusable AI agent for messy, high-trust paperwork -- insurance appeals, tax prep, and beyond.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n👉🏻 Instagram:"
+              "title": "Huge AI News Week: Fable 5 Returns; NotebookLM Shorts; Gemini Spark Updates; Nano Banana 2 Lite 🤯",
+              "url": "https://www.youtube.com/watch?v=1u0vKWeP9HI",
+              "published": "2026-07-04T13:00:12Z",
+              "description": "Try Building a Digest Today With xTiles: https://xtiles.app/en?fp_ref=pauljlipsky\n\nFable 5 is back with new restrictions, Anthropic released Sonnet 5, OpenAI announced the GPT-5.6 family, and Google had a monster week with NotebookLM Shorts, Nano Banana 2 Light, and Gemini on Mac. Here's everything from this week that actually matters for regular people.\n\n🔗 This video is sponsored. \n\n0:00 Intro\n0:49 Fable 5 Returns\n3:46 xTiles (Sponsor)\n6:13 Claude Sonnet 5\n8:25 NotebookLM Shorts\n11:01 Nano Bana"
             }
           ],
           "error": null
@@ -195,43 +210,10 @@
           "error": null
         },
         {
-          "creator": "Chase AI",
-          "handle": "@ChaseAI",
-          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
-          "videos": [
-            {
-              "title": "This Makes Claude Fable 5 80% Cheaper",
-              "url": "https://www.youtube.com/shorts/nU4LZ_LWRxY",
-              "published": "2026-07-04T02:00:16Z",
-              "description": ""
-            },
-            {
-              "title": "Top Fable 5 Use Cases You MUST Try (Or Lose $$$)",
-              "url": "https://www.youtube.com/shorts/yXpeTaAitWY",
-              "published": "2026-07-04T00:00:25Z",
-              "description": ""
-            },
-            {
-              "title": "Make Fable 5 80% Cheaper (& Other Usage Cheat Codes)",
-              "url": "https://www.youtube.com/watch?v=p8ypBeNXQ8E",
-              "published": "2026-07-03T15:46:08Z",
-              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nFable 5 Usage is the ultimate resource over the next few days, so how can we maximize it? Here are five ways.\n\n\n⏰TIMESTAMPS:\n\n0:00 - Intro\n0:38 - Case 1\n4:33 - Case 2\n6:01 - Case 3\n7:40 - Case 4\n9:43 - Case 5\n11:33 - Outro\n\n\nRESOURCES FROM THIS VIDEO:\n➡️ Master Claude Code: https://www."
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Paul J Lipsky",
-          "handle": "@PaulJLipsky",
-          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
-          "videos": [
-            {
-              "title": "Huge AI News Week: Fable 5 Returns; NotebookLM Shorts; Gemini Spark Updates; Nano Banana 2 Lite 🤯",
-              "url": "https://www.youtube.com/watch?v=1u0vKWeP9HI",
-              "published": "2026-07-04T13:00:12Z",
-              "description": "Try Building a Digest Today With xTiles: https://xtiles.app/en?fp_ref=pauljlipsky\n\nFable 5 is back with new restrictions, Anthropic released Sonnet 5, OpenAI announced the GPT-5.6 family, and Google had a monster week with NotebookLM Shorts, Nano Banana 2 Light, and Gemini on Mac. Here's everything from this week that actually matters for regular people.\n\n🔗 This video is sponsored. \n\n0:00 Intro\n0:49 Fable 5 Returns\n3:46 xTiles (Sponsor)\n6:13 Claude Sonnet 5\n8:25 NotebookLM Shorts\n11:01 Nano Bana"
-            }
-          ],
+          "creator": "Nate Herk",
+          "handle": "@NateHerk",
+          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+          "videos": [],
           "error": null
         },
         {
@@ -240,30 +222,122 @@
           "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
           "videos": [],
           "error": null
-        },
-        {
-          "creator": "Nate Herk",
-          "handle": "@NateHerk",
-          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-          "videos": [
-            {
-              "title": "Fable 5 + Karpathy’s LLM Wiki is Basically Cheating",
-              "url": "https://www.youtube.com/watch?v=hQvwMj7IJe4",
-              "published": "2026-07-03T21:53:05Z",
-              "description": "My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=fable-llm-wiki&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nKarpathy LLM Wiki Gist: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f\n\nI ingested al"
-            },
-            {
-              "title": "How Claude is Creating a New Generation of Millionaires",
-              "url": "https://www.youtube.com/watch?v=pbrln2TVeh4",
-              "published": "2026-07-03T13:03:22Z",
-              "description": "My playbook for growing a $1M AI agency: https://www.skool.com/ai-automation-society-plus/about?el=new-generation-of-millionaires\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=claude-millionaires&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nA brand new wave of wealth is being built right now. This vi"
-            }
-          ],
-          "error": null
         }
       ]
     },
     "newsletters": {
+      "power_platform_weekly": {
+        "name": "Power Platform Weekly",
+        "issue_number": 270,
+        "issue_date": "2026-06-29",
+        "url": "https://www.ppweekly.com/p/power-platform-weekly-issue-270",
+        "is_new": false,
+        "sections": {
+          "📰 Articles": [
+            {
+              "title": "Are We Replacing Clicks With Prompts?",
+              "url": "https://crmkeeper.com/2026/06/23/are-we-replacing-clicks-with-prompts/"
+            },
+            {
+              "title": "Create A Segment For People Searching On Your Website",
+              "url": "https://meganvwalker.com/create-a-segment-searching-on-your-website/"
+            },
+            {
+              "title": "How to Set Up Verbatim Knowledge Responses in Dynamics 365",
+              "url": "https://d365goddess.com/verbatim-responses"
+            },
+            {
+              "title": "AI Agent Johan is on Fire, NL vs Tunisia two in a row?",
+              "url": "https://jscheper.com/ai-agent-johan-is-on-fire-nl-vs-tunisia-two-in-a-row/"
+            },
+            {
+              "title": "Optimizing Prompt Columns in Microsoft Dataverse with Filters: Part 2",
+              "url": "https://www.inogic.com/blog/2026/06/optimizing-prompt-columns-in-microsoft-dataverse-with-filters-part-2/"
+            },
+            {
+              "title": "Running Dataverse MCP Server in non-Microsoft clients",
+              "url": "https://nullpointer.se/dv-mcp-non-microsoft.html"
+            }
+          ],
+          "🎙️ Podcasts": [
+            {
+              "title": "Microsoft Mechanics Podcast",
+              "url": "https://microsoftmechanics.libsyn.com/find-and-fix-app-issues-azure-copilot-observability-agent"
+            },
+            {
+              "title": "M365 Nuggets Podcast",
+              "url": "https://creators.spotify.com/pod/profile/ragnarheil/episodes/Stop-Putting-Governance-in-Charge-of-Adoption-e3l8nbp"
+            },
+            {
+              "title": "Unresolved Dependencies Podcast",
+              "url": "https://player.fm/series/unresolved-dependencies/ep-8-thats-what-satya-said"
+            }
+          ],
+          "📅 Events & Webinars": [
+            {
+              "title": "European Power Platform Conference",
+              "url": "https://espc.tech/conference/eppc-2026/"
+            },
+            {
+              "title": "HELish Summit",
+              "url": "https://www.helishsummit.fi/"
+            },
+            {
+              "title": "Nordic Summit",
+              "url": "https://nordicsummit.info/"
+            },
+            {
+              "title": "Directions for Enterprise",
+              "url": "https://www.directionsforpartners.com/enterprise2026"
+            },
+            {
+              "title": "Scottish Summit",
+              "url": "https://scottishsummit.com/"
+            },
+            {
+              "title": "Community Summit North America",
+              "url": "https://www.summitna.com/"
+            },
+            {
+              "title": "Directions EMEA",
+              "url": "https://www.directionsforpartners.com/emea2026"
+            },
+            {
+              "title": "Power Platform Community Conference",
+              "url": "https://powerplatformconf.com/"
+            }
+          ],
+          "💙 Out of the Blue": [
+            {
+              "title": "Building reliable voice agents: A practical guide",
+              "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/building-reliable-voice-agents-a-practical-guide/"
+            },
+            {
+              "title": "Microsoft Entra ID single sign-on for the Denodo connector in Power BI (Preview)",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Microsoft-Entra-ID-single-sign-on-for-the-Denodo-connector-in/ba-p/5193376"
+            },
+            {
+              "title": "Protect once, enforce everywhere: Protection policies for Power BI (Generally Available)",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Protect-once-enforce-everywhere-Protection-policies-for-Power-BI/ba-p/5223932"
+            }
+          ],
+          "📺 Videos": [
+            {
+              "title": "Environment-aware Office Scripts for different SharePoint sites and Power Platform environments",
+              "url": "https://www.youtube.com/watch?v=iX_pEcxRtF8"
+            },
+            {
+              "title": "Copilot Studio | Multi-Agent Architecture with Child, Connected and Foundry Agents (Part - 13)",
+              "url": "https://www.youtube.com/watch?v=h1BofRgVN0U"
+            },
+            {
+              "title": "Copilot Studio Integration helps you on your Flows on D365 F&O",
+              "url": "https://www.youtube.com/watch?v=1wW3QzsBVJo"
+            }
+          ]
+        },
+        "error": null
+      },
       "power_platform_dev_weekly": {
         "name": "Power Platform Dev Weekly",
         "issue_number": 296,
@@ -435,118 +509,6 @@
             {
               "title": "I let Microsoft’s AI skills design me a Power BI report...",
               "url": "https://www.youtube.com/watch?v=RisHKmeZ2y0"
-            }
-          ]
-        },
-        "error": null
-      },
-      "power_platform_weekly": {
-        "name": "Power Platform Weekly",
-        "issue_number": 270,
-        "issue_date": "2026-06-29",
-        "url": "https://www.ppweekly.com/p/power-platform-weekly-issue-270",
-        "is_new": false,
-        "sections": {
-          "📰 Articles": [
-            {
-              "title": "Are We Replacing Clicks With Prompts?",
-              "url": "https://crmkeeper.com/2026/06/23/are-we-replacing-clicks-with-prompts/"
-            },
-            {
-              "title": "Create A Segment For People Searching On Your Website",
-              "url": "https://meganvwalker.com/create-a-segment-searching-on-your-website/"
-            },
-            {
-              "title": "How to Set Up Verbatim Knowledge Responses in Dynamics 365",
-              "url": "https://d365goddess.com/verbatim-responses"
-            },
-            {
-              "title": "AI Agent Johan is on Fire, NL vs Tunisia two in a row?",
-              "url": "https://jscheper.com/ai-agent-johan-is-on-fire-nl-vs-tunisia-two-in-a-row/"
-            },
-            {
-              "title": "Optimizing Prompt Columns in Microsoft Dataverse with Filters: Part 2",
-              "url": "https://www.inogic.com/blog/2026/06/optimizing-prompt-columns-in-microsoft-dataverse-with-filters-part-2/"
-            },
-            {
-              "title": "Running Dataverse MCP Server in non-Microsoft clients",
-              "url": "https://nullpointer.se/dv-mcp-non-microsoft.html"
-            }
-          ],
-          "🎙️ Podcasts": [
-            {
-              "title": "Microsoft Mechanics Podcast",
-              "url": "https://microsoftmechanics.libsyn.com/find-and-fix-app-issues-azure-copilot-observability-agent"
-            },
-            {
-              "title": "M365 Nuggets Podcast",
-              "url": "https://creators.spotify.com/pod/profile/ragnarheil/episodes/Stop-Putting-Governance-in-Charge-of-Adoption-e3l8nbp"
-            },
-            {
-              "title": "Unresolved Dependencies Podcast",
-              "url": "https://player.fm/series/unresolved-dependencies/ep-8-thats-what-satya-said"
-            }
-          ],
-          "📅 Events & Webinars": [
-            {
-              "title": "European Power Platform Conference",
-              "url": "https://espc.tech/conference/eppc-2026/"
-            },
-            {
-              "title": "HELish Summit",
-              "url": "https://www.helishsummit.fi/"
-            },
-            {
-              "title": "Nordic Summit",
-              "url": "https://nordicsummit.info/"
-            },
-            {
-              "title": "Directions for Enterprise",
-              "url": "https://www.directionsforpartners.com/enterprise2026"
-            },
-            {
-              "title": "Scottish Summit",
-              "url": "https://scottishsummit.com/"
-            },
-            {
-              "title": "Community Summit North America",
-              "url": "https://www.summitna.com/"
-            },
-            {
-              "title": "Directions EMEA",
-              "url": "https://www.directionsforpartners.com/emea2026"
-            },
-            {
-              "title": "Power Platform Community Conference",
-              "url": "https://powerplatformconf.com/"
-            }
-          ],
-          "💙 Out of the Blue": [
-            {
-              "title": "Building reliable voice agents: A practical guide",
-              "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/building-reliable-voice-agents-a-practical-guide/"
-            },
-            {
-              "title": "Microsoft Entra ID single sign-on for the Denodo connector in Power BI (Preview)",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Microsoft-Entra-ID-single-sign-on-for-the-Denodo-connector-in/ba-p/5193376"
-            },
-            {
-              "title": "Protect once, enforce everywhere: Protection policies for Power BI (Generally Available)",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Protect-once-enforce-everywhere-Protection-policies-for-Power-BI/ba-p/5223932"
-            }
-          ],
-          "📺 Videos": [
-            {
-              "title": "Environment-aware Office Scripts for different SharePoint sites and Power Platform environments",
-              "url": "https://www.youtube.com/watch?v=iX_pEcxRtF8"
-            },
-            {
-              "title": "Copilot Studio | Multi-Agent Architecture with Child, Connected and Foundry Agents (Part - 13)",
-              "url": "https://www.youtube.com/watch?v=h1BofRgVN0U"
-            },
-            {
-              "title": "Copilot Studio Integration helps you on your Flows on D365 F&O",
-              "url": "https://www.youtube.com/watch?v=1wW3QzsBVJo"
             }
           ]
         },
