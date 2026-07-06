@@ -79,15 +79,27 @@ RELEASE_PLANS_SOURCE: dict = {
 }
 
 
+# ---------------------------------------------------------------------------
+# Microsoft 365 Roadmap (public JSON API behind microsoft.com/microsoft-365/roadmap)
+# ---------------------------------------------------------------------------
+# NO product filter — include everything. Power Platform items may overlap with
+# RELEASE_PLANS_SOURCE; duplicates are intentional (better duplicates than gaps,
+# since Microsoft moves roadmap items between surfaces).
+M365_ROADMAP_SOURCE: dict = {
+    "url": "https://www.microsoft.com/releasecommunications/api/v1/m365",
+}
+
+
 def all_youtube_sources() -> list[tuple[str, dict]]:
     """Flatten YouTube sources to (category, source_dict) tuples for parallel fetching."""
     return [(cat, src) for cat, srcs in YOUTUBE_SOURCES.items() for src in srcs]
 
 
 def total_source_count() -> int:
-    """Total discrete source count (YouTube channels + newsletters + release plans)."""
+    """Total discrete source count (YouTube channels + newsletters + release plans + roadmap)."""
     return (
         sum(len(v) for v in YOUTUBE_SOURCES.values())
         + len(NEWSLETTER_SOURCES)
         + 1  # release_plans is one source
+        + 1  # m365_roadmap is one source
     )
