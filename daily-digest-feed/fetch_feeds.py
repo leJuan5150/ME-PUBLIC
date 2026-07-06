@@ -20,6 +20,7 @@ from urllib.error import URLError
 import feedparser  # type: ignore
 
 from sources import (
+    M365_ROADMAP_SOURCE,
     NEWSLETTER_SOURCES,
     RELEASE_PLANS_SOURCE,
     YOUTUBE_SOURCES,
@@ -543,6 +544,92 @@ def fetch_release_plans(cutoff: datetime) -> dict:
 
 
 # ---------------------------------------------------------------------------
+# Microsoft 365 Roadmap (microsoft.com/microsoft-365/roadmap)
+# ---------------------------------------------------------------------------
+def _parse_iso_utc(date_str: str | None) -> datetime | None:
+    """Parse the roadmap API's ISO timestamps (no timezone suffix → assume UTC)."""
+    if not date_str:
+        return None
+    try:
+        dt = datetime.fromisoformat(date_str)
+    except (TypeError, ValueError):
+        return None
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=timezone.utc)
+    return dt
+
+
+def fetch_m365_roadmap(cutoff: datetime) -> dict:
+    """Fetch the full M365 roadmap API, keep items created or modified in window.
+
+    Every feature in the API has `created` and `modified` timestamps, so the
+    48h window catches both brand-new roadmap items and updates to existing
+    ones (status changes, date slips, etc.). NO product filter — intentional
+    overlap with release_plans is preferred over missed items.
+    """
+    result: dict = {
+        "source_url": "https://www.microsoft.com/microsoft-365/roadmap",
+        "data_url": M365_ROADMAP_SOURCE["url"],
+        "items": [],
+        "total_updates": 0,
+        "error": None,
+    }
+    try:
+        # The full roadmap payload is large (all features, all products) —
+        # give it a more generous timeout than the default.
+        raw = http_get(M365_ROADMAP_SOURCE["url"], timeout=60)
+        data = json.loads(raw)
+        items = data.get("value", data) if isinstance(data, dict) else data
+
+        for item in items:
+            created = _parse_iso_utc(item.get("created"))
+            modified = _parse_iso_utc(item.get("modified"))
+            candidates = [d for d in (created, modified) if d is not None]
+            if not candidates or max(candidates) < cutoff:
+                continue
+
+            change_type = "new" if (created is not None and created >= cutoff) else "updated"
+            tags = item.get("tagsContainer") or {}
+
+            def _tag_names(key: str) -> list[str]:
+                return [
+                    t.get("tagName", "")
+                    for t in (tags.get(key) or [])
+                    if t.get("tagName")
+                ]
+
+            result["items"].append(
+                {
+                    "id": item.get("id"),
+                    "title": item.get("title", ""),
+                    "description": _strip_html(item.get("description", "")),
+                    "status": item.get("status", ""),
+                    "change_type": change_type,
+                    "created": item.get("created", ""),
+                    "modified": item.get("modified", ""),
+                    "ga_date": item.get("publicDisclosureAvailabilityDate", ""),
+                    "preview_date": item.get("publicPreviewDate", ""),
+                    "products": _tag_names("products"),
+                    "platforms": _tag_names("platforms"),
+                    "release_phase": _tag_names("releasePhase"),
+                    "cloud_instances": _tag_names("cloudInstances"),
+                    "url": (
+                        "https://www.microsoft.com/microsoft-365/roadmap"
+                        f"?searchterms={item.get('id')}"
+                    ),
+                }
+            )
+
+        result["items"].sort(key=lambda x: x.get("modified") or "", reverse=True)
+        result["total_updates"] = len(result["items"])
+        log.info("m365_roadmap: %d items new/updated in window", result["total_updates"])
+    except Exception as exc:  # noqa: BLE001
+        result["error"] = f"{type(exc).__name__}: {exc}"
+        log.warning("m365_roadmap FAILED: %s", result["error"])
+    return result
+
+
+# ---------------------------------------------------------------------------
 # Orchestrator
 # ---------------------------------------------------------------------------
 def build_feed() -> dict:
@@ -590,10 +677,12 @@ def build_feed() -> dict:
                 else:
                     errors.append(f"newsletter/{key}: {data['error']}")
 
-    # Release plans (single source, run in the same threadpool)
+    # Release plans + M365 roadmap (single-source fetchers, run in parallel)
     release_plans_out: dict = {}
-    with ThreadPoolExecutor(max_workers=1) as pool:
+    m365_roadmap_out: dict = {}
+    with ThreadPoolExecutor(max_workers=2) as pool:
         rp_fut = pool.submit(fetch_release_plans, cutoff)
+        rm_fut = pool.submit(fetch_m365_roadmap, cutoff)
         try:
             release_plans_out = rp_fut.result()
             if release_plans_out.get("error") is None:
@@ -602,6 +691,14 @@ def build_feed() -> dict:
                 errors.append(f"release_plans: {release_plans_out['error']}")
         except Exception as exc:  # noqa: BLE001
             errors.append(f"release_plans crashed: {type(exc).__name__}: {exc}")
+        try:
+            m365_roadmap_out = rm_fut.result()
+            if m365_roadmap_out.get("error") is None:
+                success_count += 1
+            else:
+                errors.append(f"m365_roadmap: {m365_roadmap_out['error']}")
+        except Exception as exc:  # noqa: BLE001
+            errors.append(f"m365_roadmap crashed: {type(exc).__name__}: {exc}")
 
     # Preserve the spec's category order within youtube_out
     ordered_youtube = {cat: youtube_out[cat] for cat in YOUTUBE_SOURCES}
@@ -613,6 +710,7 @@ def build_feed() -> dict:
             "youtube": ordered_youtube,
             "newsletters": newsletters_out,
             "release_plans": release_plans_out,
+            "m365_roadmap": m365_roadmap_out,
         },
         "errors": errors,
         "_meta": {
@@ -640,6 +738,8 @@ def main() -> int:
     rp = feed["sources"].get("release_plans", {})
     for prod_items in rp.get("products", {}).values():
         total_items += len(prod_items)
+    rm = feed["sources"].get("m365_roadmap", {})
+    total_items += len(rm.get("items", []))
 
     OUTPUT_PATH.write_text(
         json.dumps(feed, indent=2, ensure_ascii=False) + "\n",
