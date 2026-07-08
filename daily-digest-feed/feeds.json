@@ -1,14 +1,54 @@
 {
-  "generated_at": "2026-07-07T12:00:01.836585Z",
+  "generated_at": "2026-07-08T11:35:13.753103Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
         {
-          "creator": "TrailRecon",
-          "handle": "@TrailRecon",
-          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
+          "creator": "Life Style Overland",
+          "handle": "@LifeStyleOverland",
+          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
           "videos": [],
+          "error": null
+        },
+        {
+          "creator": "This Story Till Now",
+          "handle": "@ThisStoryTillNow",
+          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "VentureToRoam",
+          "handle": "@VentureToRoam",
+          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Epic Adventure Outfitters",
+          "handle": "@EpicAdventureOutfitters",
+          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
+          "videos": [
+            {
+              "title": "If you're claustrophobic this is not the tent for you ...#rooftoptents #overlanding #jeep",
+              "url": "https://www.youtube.com/shorts/jRQNDfChsDQ",
+              "published": "2026-07-07T19:00:14Z",
+              "description": ""
+            },
+            {
+              "title": "The Massive Jeep Fire Recall Explained",
+              "url": "https://www.youtube.com/watch?v=ssZAHHYQxJ0",
+              "published": "2026-07-06T20:00:12Z",
+              "description": "#JeepFireRecall #OffRoad #Overlanding\nIf you own a Jeep Wrangler or Gladiator built in the last few years, this is the episode you need to watch before you park in your garage tonight. \n\nWe mean that literally. In this episode Paul and The Ginger break down the massive Jeep recalls making headlines right now, what they actually mean for you, and what you need to do about it.\n\nTwo big ones are on the table today and both involve the word nobody wants to hear next to their brand new rig: fire.\nFir"
+            },
+            {
+              "title": "Swags are the best tents for desert camping...#rooftoptents #overlanding #jeep",
+              "url": "https://www.youtube.com/shorts/YsbJo1Ek9JQ",
+              "published": "2026-07-06T19:00:05Z",
+              "description": ""
+            }
+          ],
           "error": null
         },
         {
@@ -26,9 +66,16 @@
           "error": null
         },
         {
-          "creator": "This Story Till Now",
-          "handle": "@ThisStoryTillNow",
-          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "creator": "Casey 250",
+          "handle": "@Casey250",
+          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "TrailRecon",
+          "handle": "@TrailRecon",
+          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
           "videos": [],
           "error": null
         },
@@ -37,53 +84,6 @@
           "handle": "@LetsGetLost",
           "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
           "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Casey 250",
-          "handle": "@Casey250",
-          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Life Style Overland",
-          "handle": "@LifeStyleOverland",
-          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "VentureToRoam",
-          "handle": "@VentureToRoam",
-          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Epic Adventure Outfitters",
-          "handle": "@EpicAdventureOutfitters",
-          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
-          "videos": [
-            {
-              "title": "The Massive Jeep Fire Recall Explained",
-              "url": "https://www.youtube.com/watch?v=ssZAHHYQxJ0",
-              "published": "2026-07-06T20:00:12Z",
-              "description": "#JeepFireRecall #OffRoad #Overlanding\nIf you own a Jeep Wrangler or Gladiator built in the last few years, this is the episode you need to watch before you park in your garage tonight. \n\nWe mean that literally. In this episode Paul and The Ginger break down the massive Jeep recalls making headlines right now, what they actually mean for you, and what you need to do about it.\n\nTwo big ones are on the table today and both involve the word nobody wants to hear next to their brand new rig: fire.\nFir"
-            },
-            {
-              "title": "Swags are the best tents for desert camping...#rooftoptents #overlanding #jeep",
-              "url": "https://www.youtube.com/shorts/YsbJo1Ek9JQ",
-              "published": "2026-07-06T19:00:05Z",
-              "description": ""
-            },
-            {
-              "title": "Don't buy an Alibaba tent...#rooftoptents #overlanding #jeep",
-              "url": "https://www.youtube.com/shorts/7VfnAIHP6xE",
-              "published": "2026-07-05T19:00:10Z",
-              "description": ""
-            }
-          ],
           "error": null
         }
       ],
@@ -99,14 +99,14 @@
           "creator": "Shane Young",
           "handle": "@ShanesCows",
           "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Lisa Crosbie",
-          "handle": "@LisaCrosbie",
-          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
-          "videos": [],
+          "videos": [
+            {
+              "title": "Power Apps Date Functions: EDate and EOMonth",
+              "url": "https://www.youtube.com/watch?v=FJcMrLW5X5o",
+              "published": "2026-07-07T12:30:22Z",
+              "description": "Working with recurring dates in Power Apps gets messy fast, especially when a subscription or contract starts on the 30th or 31st and the next month does not have that day. In this walkthrough you will learn two Power Apps date functions that clean this up: EDATE, which gives you the same calendar date each month and correctly rolls January 30th to February 28th, and EOMONTH, which returns the last day of any month without you having to guess whether it is 28, 30, or 31 days. Along the way you w"
+            }
+          ],
           "error": null
         },
         {
@@ -124,6 +124,13 @@
           "error": null
         },
         {
+          "creator": "Lisa Crosbie",
+          "handle": "@LisaCrosbie",
+          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
+          "videos": [],
+          "error": null
+        },
+        {
           "creator": "April Dunnam",
           "handle": "@AprilDunnam",
           "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
@@ -133,16 +140,16 @@
       ],
       "fabric_powerbi": [
         {
-          "creator": "Dewain Robinson",
-          "handle": "@DewainRobinson",
-          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
+          "creator": "Guy in a Cube",
+          "handle": "@GuyInACube",
+          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
           "videos": [],
           "error": null
         },
         {
-          "creator": "Guy in a Cube",
-          "handle": "@GuyInACube",
-          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
+          "creator": "Dewain Robinson",
+          "handle": "@DewainRobinson",
+          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
           "videos": [],
           "error": null
         }
@@ -154,6 +161,12 @@
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
             {
+              "title": "THIS is the 2026 AI skill #AI #aiagents #agents #automation #AItools",
+              "url": "https://www.youtube.com/shorts/ld-2pnxuujg",
+              "published": "2026-07-08T03:00:26Z",
+              "description": "Prompting was the 2023 skill. Delegation was 2025. The one that actually matters in 2026 is maintenance, because the moment an agent starts doing real work, keeping it honest becomes your job.\n\nHere's the simple test for whether an agent needs an owner: does it read important context, produce work you or your team act on, or touch a workflow other people depend on? If yes, it needs one person's name on it. And if nobody's willing to own it, it probably shouldn't be doing anything important in th"
+            },
+            {
               "title": "Now ... real people get accused of being AI #AI #deepfakes #syntheticmedia #creator",
               "url": "https://www.youtube.com/shorts/nFzVuipvxXg",
               "published": "2026-07-07T03:00:15Z",
@@ -164,18 +177,6 @@
               "url": "https://www.youtube.com/watch?v=oOpgmS88pLw",
               "published": "2026-07-06T14:00:31Z",
               "description": "Meta, OpenAI, and Anthropic all made moves this week that reveal how the AI strategy game is actually changing.\n\nThe common scoreboard, who has the best model, is being replaced by a fight over compute, distribution, and government permission.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n👉🏻 Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside the AI industry right now?\n"
-            },
-            {
-              "title": "This time ... the rumors are true. #ClaudeFable5 #Fable5 #Claude #AI #aitools",
-              "url": "https://www.youtube.com/shorts/zs-2gPbQNQ4",
-              "published": "2026-07-06T03:00:32Z",
-              "description": "I know. There are always rumors, and every release comes with the same breathless script — terrifying, speechless, best ever — so tuning it out became the smart move. I tune it out too. But this time Claude Fable 5 actually clears the bar.\n\nHere is where it shows up, minus the adjectives: Fable 5 is a much bigger pre-trained model, and the jump is in how much work you can hand it at once, not in a benchmark chart. Most of your day still feels the same until you change the size of what you ask fo"
-            },
-            {
-              "title": "You Can't Compete on Cheap Models Anymore",
-              "url": "https://www.youtube.com/watch?v=1cSNE-ZkDLQ",
-              "published": "2026-07-05T16:00:08Z",
-              "description": "Full post:\nhttps://natesnewsletter.substack.com/p/beyond-model-routing?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nEveryone in AI is saying the same thing right now: route your work to cheaper models. It's the right call — and it's about to be table stakes, which means the real advantage is moving to a layer almost nobody is budgeting for.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tikt"
             }
           ],
           "error": null
@@ -195,24 +196,16 @@
           "error": null
         },
         {
-          "creator": "Nate Herk",
-          "handle": "@NateHerk",
-          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-          "videos": [
-            {
-              "title": "How I Make Opus Think Like Fable (5 easy steps)",
-              "url": "https://www.youtube.com/watch?v=XTBWVVcF3Pk",
-              "published": "2026-07-07T02:44:05Z",
-              "description": "My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=fable-llm-wiki&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nFable 5 is going back behind subscriptions at some point, so I've been focused on keeping its process in"
-            }
-          ],
-          "error": null
-        },
-        {
           "creator": "Chase AI",
           "handle": "@ChaseAI",
           "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
           "videos": [
+            {
+              "title": "5 Open Source Repos That Fix 95% of Claude Code's Problems",
+              "url": "https://www.youtube.com/watch?v=IRPEfl2BD_c",
+              "published": "2026-07-08T04:09:45Z",
+              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nThe time to push Fable 5 to the limit is now, and here are 5 projects for you to implement. \n\n⏰TIMESTAMPS:\n\n0:00 - Intro\n0:30 - Video\n3:36 - Research\n5:42 - Memory\n7:34 - Design\n9:27 - Tokens\n11:45 Outro\n\n🔨Tools\nclaude-video: https://github.com/bradautomates/claude-video\nnotebooklm-py: "
+            },
             {
               "title": "5 Ways To Not Lose Thousands on Claude Fable Tokens",
               "url": "https://www.youtube.com/shorts/0hqsebGlwAY",
@@ -229,115 +222,69 @@
           "error": null
         },
         {
-          "creator": "Simon Scrapes",
-          "handle": "@SimonScrapes",
-          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
-          "videos": [],
+          "creator": "Nate Herk",
+          "handle": "@NateHerk",
+          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+          "videos": [
+            {
+              "title": "How I Make Opus Think Like Fable (5 easy steps)",
+              "url": "https://www.youtube.com/watch?v=XTBWVVcF3Pk",
+              "published": "2026-07-07T02:44:05Z",
+              "description": "My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=fable-llm-wiki&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nFable 5 is going back behind subscriptions at some point, so I've been focused on keeping its process in"
+            }
+          ],
           "error": null
         },
         {
           "creator": "Paul J Lipsky",
           "handle": "@PaulJLipsky",
           "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
-          "videos": [],
+          "videos": [
+            {
+              "title": "Wispr Flow Got Me Addicted To Voice Prompting (Can't Go Back)",
+              "url": "https://www.youtube.com/watch?v=-VYvADXIJbU",
+              "published": "2026-07-07T13:00:08Z",
+              "description": "Sponsored by Wispr Flow! Wispr Flow is faster and more efficient than any other built-in dictation tool. Download Wispr Flow today (it's free!) and use code LIPSKY at desktop checkout for a free month of Wispr Flow Pro: https://ref.wisprflow.ai/paul-j-lipsky-yt-3\n\nWispr Flow isn't just accurate voice-to-text. It makes prompting AI tools like Gemini and ChatGPT far faster and better, and here's how I use it to talk instead of type.\n\n#wisprflowpartner \n\n0:00 Intro\n0:57 Writing Emails by Voice\n1:37"
+            }
+          ],
           "error": null
         },
         {
           "creator": "AI Daily Brief",
           "handle": "@AIDailyBrief",
           "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
+          "videos": [
+            {
+              "title": "How AI Is Changing How Companies Get Built",
+              "url": "https://www.youtube.com/watch?v=58xIe60tBfw",
+              "published": "2026-07-08T11:00:27Z",
+              "description": "Open-weight models and data sovereignty take center stage as Palantir challenges frontier model companies over ownership, security, and competitive risk. Nvidia's NeoCloud backstop and SoftBank's NeoCloud plans aim to expand GPU access and reshape infrastructure financing for AI builders. KPMG, Stripe, and academic research document a surge in solopreneurship as AI lowers startup activation costs and enables solo founders to scale revenue rapidly.\n\nThe AI Daily Brief helps you understand the mos"
+            },
+            {
+              "title": "The Big Ways AI Just Changed",
+              "url": "https://www.youtube.com/watch?v=WUeMqk_ABmY",
+              "published": "2026-07-07T21:00:08Z",
+              "description": "June marked a pivot from token-subsidized experimentation to token scarcity, forcing enterprises to prioritize cost, efficiency, and model sovereignty. The Fable 5 launch and ensuing US export-control restrictions triggered intense debate over safety, data retention, and access licensing. Open-weight models, routing architectures, local AI, and compute and memory constraints reshaped enterprise strategies around diversification and harness engineering.\n\nThe AI Daily Brief helps you understand th"
+            },
+            {
+              "title": "AI Focused Companies Are Hiring More",
+              "url": "https://www.youtube.com/watch?v=PnEWo_AKzIU",
+              "published": "2026-07-07T18:45:11Z",
+              "description": "Coverage examines OpenAI's proposal to transfer a 5% stake to a US sovereign fund and the political fallout from corporate-government AI ties. KPMG, Ramp/Revelio and Box studies link higher AI adoption to headcount growth and show treating AI as a reasoning partner boosts workplace impact. Fable's rapid gains on the remote labor index join news about Meta Compute, Anthropic's rollback of monitoring, and rising policy responses to AI-driven layoffs.\n\nThe AI Daily Brief helps you understand the mo"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Simon Scrapes",
+          "handle": "@SimonScrapes",
+          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
           "videos": [],
           "error": null
         }
       ]
     },
     "newsletters": {
-      "power_bi_weekly": {
-        "name": "Power BI Weekly",
-        "issue_number": 364,
-        "issue_date": null,
-        "url": "https://powerbiweekly.info/issue-364.html",
-        "is_new": false,
-        "sections": {
-          "Issue 364": [
-            {
-              "title": "Power BI Desktop Bridge (Preview)",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-Desktop-Bridge-Preview/ba-p/5227769"
-            },
-            {
-              "title": "Power BI Date Picker",
-              "url": "https://prologika.com/powerbi-date-picker/"
-            },
-            {
-              "title": "Power BI Copilot, Data Agent Optimization & Performance",
-              "url": "https://sqlserverbi.blog/2026/06/24/power-bi-copilot-data-agent-optimization-performance/"
-            },
-            {
-              "title": "Fabric Weekly",
-              "url": "https://fabricweekly.info/"
-            }
-          ],
-          "Data Prep": [
-            {
-              "title": "How to Build Queries That Don’t Break",
-              "url": "https://goodly.co.in/how-to-build-queries-that-dont-break/"
-            }
-          ],
-          "Data Modeling": [
-            {
-              "title": "DAX Fundamentals Part 3: The Patterns That Make Reports Work",
-              "url": "https://www.youtube.com/watch?v=_McUlXEyWyg"
-            },
-            {
-              "title": "When to Create a Lookup Table in Power BI",
-              "url": "https://exceleratorbi.com.au/lookup-tables-in-power-bi/"
-            },
-            {
-              "title": "Copo de nieve vs Estrella: Cuál esquema es realmente más rápido en Power BI? [Spanish]",
-              "url": "https://www.youtube.com/watch?v=x5ru-y73MPo"
-            },
-            {
-              "title": "DAX RANK, RANKX & TOPN in Power BI",
-              "url": "https://www.youtube.com/watch?v=FZBvgxQmcrM"
-            }
-          ],
-          "Report Authoring and Interactivity": [
-            {
-              "title": "Power BI Desktop Bridge (Preview)",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-Desktop-Bridge-Preview/ba-p/5227769"
-            },
-            {
-              "title": "Power BI Date Picker",
-              "url": "https://prologika.com/powerbi-date-picker/"
-            }
-          ],
-          "Deployment, Security and Operations": [
-            {
-              "title": "Power BI Copilot, Data Agent Optimization & Performance",
-              "url": "https://sqlserverbi.blog/2026/06/24/power-bi-copilot-data-agent-optimization-performance/"
-            }
-          ],
-          "General": [
-            {
-              "title": "How Data Apps make semantic models better in Fabric",
-              "url": "https://tabulareditor.com/blog/how-data-apps-make-semantic-models-better-in-fabric"
-            },
-            {
-              "title": "Self Service Analytics with AI - Ep.536 - Power BI tips",
-              "url": "https://www.youtube.com/watch?v=5DaaW8Mfom4"
-            },
-            {
-              "title": "Self Service with AI Part 2- Ep.540 - Power BI tips",
-              "url": "https://www.youtube.com/watch?v=RcxzBjyxKmo"
-            },
-            {
-              "title": "I let Microsoft’s AI skills design me a Power BI report...",
-              "url": "https://www.youtube.com/watch?v=RisHKmeZ2y0"
-            }
-          ]
-        },
-        "error": null
-      },
       "power_platform_weekly": {
         "name": "Power Platform Weekly",
         "issue_number": 270,
@@ -539,6 +486,92 @@
           ]
         },
         "error": null
+      },
+      "power_bi_weekly": {
+        "name": "Power BI Weekly",
+        "issue_number": 364,
+        "issue_date": null,
+        "url": "https://powerbiweekly.info/issue-364.html",
+        "is_new": false,
+        "sections": {
+          "Issue 364": [
+            {
+              "title": "Power BI Desktop Bridge (Preview)",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-Desktop-Bridge-Preview/ba-p/5227769"
+            },
+            {
+              "title": "Power BI Date Picker",
+              "url": "https://prologika.com/powerbi-date-picker/"
+            },
+            {
+              "title": "Power BI Copilot, Data Agent Optimization & Performance",
+              "url": "https://sqlserverbi.blog/2026/06/24/power-bi-copilot-data-agent-optimization-performance/"
+            },
+            {
+              "title": "Fabric Weekly",
+              "url": "https://fabricweekly.info/"
+            }
+          ],
+          "Data Prep": [
+            {
+              "title": "How to Build Queries That Don’t Break",
+              "url": "https://goodly.co.in/how-to-build-queries-that-dont-break/"
+            }
+          ],
+          "Data Modeling": [
+            {
+              "title": "DAX Fundamentals Part 3: The Patterns That Make Reports Work",
+              "url": "https://www.youtube.com/watch?v=_McUlXEyWyg"
+            },
+            {
+              "title": "When to Create a Lookup Table in Power BI",
+              "url": "https://exceleratorbi.com.au/lookup-tables-in-power-bi/"
+            },
+            {
+              "title": "Copo de nieve vs Estrella: Cuál esquema es realmente más rápido en Power BI? [Spanish]",
+              "url": "https://www.youtube.com/watch?v=x5ru-y73MPo"
+            },
+            {
+              "title": "DAX RANK, RANKX & TOPN in Power BI",
+              "url": "https://www.youtube.com/watch?v=FZBvgxQmcrM"
+            }
+          ],
+          "Report Authoring and Interactivity": [
+            {
+              "title": "Power BI Desktop Bridge (Preview)",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-Desktop-Bridge-Preview/ba-p/5227769"
+            },
+            {
+              "title": "Power BI Date Picker",
+              "url": "https://prologika.com/powerbi-date-picker/"
+            }
+          ],
+          "Deployment, Security and Operations": [
+            {
+              "title": "Power BI Copilot, Data Agent Optimization & Performance",
+              "url": "https://sqlserverbi.blog/2026/06/24/power-bi-copilot-data-agent-optimization-performance/"
+            }
+          ],
+          "General": [
+            {
+              "title": "How Data Apps make semantic models better in Fabric",
+              "url": "https://tabulareditor.com/blog/how-data-apps-make-semantic-models-better-in-fabric"
+            },
+            {
+              "title": "Self Service Analytics with AI - Ep.536 - Power BI tips",
+              "url": "https://www.youtube.com/watch?v=5DaaW8Mfom4"
+            },
+            {
+              "title": "Self Service with AI Part 2- Ep.540 - Power BI tips",
+              "url": "https://www.youtube.com/watch?v=RcxzBjyxKmo"
+            },
+            {
+              "title": "I let Microsoft’s AI skills design me a Power BI report...",
+              "url": "https://www.youtube.com/watch?v=RisHKmeZ2y0"
+            }
+          ]
+        },
+        "error": null
       }
     },
     "release_plans": {
@@ -552,6 +585,690 @@
       "source_url": "https://www.microsoft.com/microsoft-365/roadmap",
       "data_url": "https://www.microsoft.com/releasecommunications/api/v1/m365",
       "items": [
+        {
+          "id": 566470,
+          "title": "Microsoft Viva: Insights for GitHub Copilot spend and usage",
+          "description": "AI spend and usage insights for GitHub Copilot will be available on Viva Insights for managers with at least 5 direct reports (scoped access), Global analysts and Microsoft Global administrators. They can track spend and make data-driven decisions for AI spend and usage in GitHub Copilot. The dashboard is enabled by default to ensure immediate access.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-06-23T23:15:39",
+          "modified": "2026-07-07T23:10:48",
+          "ga_date": "July CY2026",
+          "preview_date": "July CY2026",
+          "products": [
+            "Microsoft Viva",
+            "Microsoft Copilot (Microsoft 365)"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=566470"
+        },
+        {
+          "id": 567306,
+          "title": "Microsoft Teams: Enhanced delegated calling with delegate call access restrictions and join notifications",
+          "description": "Call delegation in Teams now includes new controls that give delegators greater privacy and control during active calls. Delegators can lock an ongoing call to prevent delegates from joining or resuming the call and can optionally enable warning tones that notify participants when a delegate joins or resumes a call.",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-07-07T23:10:08",
+          "modified": "2026-07-07T23:10:08",
+          "ga_date": "August CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Desktop",
+            "Mac"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)",
+            "GCC",
+            "GCC High",
+            "DoD"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567306"
+        },
+        {
+          "id": 567010,
+          "title": "Microsoft Purview: Data Loss Prevention - User Based Aggregation of DLP Alerts",
+          "description": "Enable aggregation of DLP alerts based on common entities user even when multiple rules are matched. This feature should consolidate related alert events into a single alert object to: Reduce alert noise, simplify investigation workflows, enhance contextual understanding of violations.",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-07-07T23:10:08",
+          "modified": "2026-07-07T23:10:08",
+          "ga_date": "September CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "GCC",
+            "GCC High",
+            "DoD"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567010"
+        },
+        {
+          "id": 562662,
+          "title": "Microsoft 365 app: New Copilot Notebooks design in the Microsoft 365 Copilot App",
+          "description": "The new Copilot Notebooks design in the Microsoft 365 Copilot app now lets users organize related chats, output creations, and references into a persistent AI workspace. Copilot uses the Notebook's accumulated context to ground responses, so work continues across sessions instead of starting over each time. While this is the quicker, light-weight Notebooks experience, you can still find the fuller, workspace-forward experience in OneNote.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-05-27T23:15:50",
+          "modified": "2026-07-07T23:10:08",
+          "ga_date": "August CY2026",
+          "preview_date": "July CY2026",
+          "products": [
+            "Microsoft 365 app"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview",
+            "Targeted Release"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=562662"
+        },
+        {
+          "id": 567319,
+          "title": "Outlook: Categorize Emails by Dragging Them onto a Favorite Category",
+          "description": "You can now add a category to your Favorites and then drag emails right onto it to apply that category. No need to open menus or right-click each message. Just pin the category you use most to Favorites, then drop your emails on it to tag them in one quick motion. It's a faster, more visual way to keep your inbox sorted the way you like. #newoutlookforwindows",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-07-07T23:01:01",
+          "modified": "2026-07-07T23:01:01",
+          "ga_date": "September CY2026",
+          "preview_date": "",
+          "products": [
+            "Outlook"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567319"
+        },
+        {
+          "id": 567318,
+          "title": "Outlook: Reply with a Template in Rules",
+          "description": "You can now create a rule that automatically replies to incoming messages with a template you've set up. Set the conditions you care about and pick the template, and Outlook handles the response for you. It's a simple way to send consistent replies without typing the same thing over and over. #newoutlookforwindows",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-07-07T23:01:01",
+          "modified": "2026-07-07T23:01:01",
+          "ga_date": "September CY2026",
+          "preview_date": "",
+          "products": [
+            "Outlook"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567318"
+        },
+        {
+          "id": 567315,
+          "title": "Planner: Capabilities in Microsoft Cowork",
+          "description": "You’ll soon be able to bring your Microsoft Planner into Microsoft Cowork. In Cowork, you can view, create, and update your plans, buckets, goals, and tasks without switching apps. Cowork goes a step further by helping you execute your Planner tasks across Microsoft 365, such as drafting and sending emails, scheduling meetings, posting updates to Teams, and working with files. It can then write progress back to Planner with your approval. You can move from planning your work to getting it done i",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-07-07T23:01:01",
+          "modified": "2026-07-07T23:01:01",
+          "ga_date": "August CY2026",
+          "preview_date": "",
+          "products": [
+            "Planner",
+            "Microsoft Copilot (Microsoft 365)"
+          ],
+          "platforms": [
+            "Desktop",
+            "Teams and Surface Devices",
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567315"
+        },
+        {
+          "id": 567313,
+          "title": "Microsoft Purview: Data Lifecycle Management - Graph API Support for Archive Mailboxes",
+          "description": "Access to Archive mailboxes (Main + Auxiliary) through Microsoft Graph. The goal is to give users a single, seamless Archive view, even though Archive data may physically reside across multiple auxiliary mailboxes with EWS Graph APIs getting deprecated by OCT 2026.",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-07-07T23:01:01",
+          "modified": "2026-07-07T23:01:01",
+          "ga_date": "August CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567313"
+        },
+        {
+          "id": 566859,
+          "title": "Microsoft Copilot Studio: Use SharePoint lists as a knowledge source",
+          "description": "Unlock the full value of your structured data by bringing SharePoint lists directly into your Microsoft Copilot Studio agents. With native support, customers can ground AI responses in up-to-date, business-critical data—such as tasks, inventory, customers, or operations—without manual data movement or complex integrations. This enables more accurate, context-aware copilots that reflect how your business runs, helping teams make faster decisions, reduce errors, and automate workflows with confide",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-07-07T23:01:01",
+          "modified": "2026-07-07T23:01:01",
+          "ga_date": "September CY2026",
+          "preview_date": "July CY2026",
+          "products": [
+            "Microsoft Copilot (Microsoft 365)",
+            "Microsoft Copilot Studio"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=566859"
+        },
+        {
+          "id": 565863,
+          "title": "OneNote: Copilot Notebook in OneNote on Mac",
+          "description": "Copilot Notebook, an AI-powered workspace for a project or topic built on reference materials, is coming to OneNote on Mac. Bring together your work context behind a project in one place.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-06-12T22:00:47",
+          "modified": "2026-07-07T23:01:01",
+          "ga_date": "August CY2026",
+          "preview_date": "",
+          "products": [
+            "OneNote"
+          ],
+          "platforms": [
+            "Mac"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=565863"
+        },
+        {
+          "id": 562993,
+          "title": "Endpoint Data Loss Prevention — Endpoint DLP now supports a pre curated list of file extensions for the file extension condition",
+          "description": "Endpoint DLP now includes a pre curated list of file extensions for the file extension condition. Previously, file extensions were entered as free form text, which could result in unsupported or non-scannable extensions being used. This could lead to gaps in protection and increase processing overhead on endpoints. With the pre curated list, you can select only supported file extensions. This helps improve policy reliability and reduces unnecessary processing on endpoints.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-05-27T23:15:50",
+          "modified": "2026-07-07T23:01:01",
+          "ga_date": "September CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=562993"
+        },
+        {
+          "id": 562992,
+          "title": "Microsoft Purview: Endpoint Data Loss Prevention – Ability to protect files stored in the excluded folders in Windows",
+          "description": "Endpoint DLP now extends protection to files stored in commonly excluded Windows folders, including Temp and AppData. This helps improve coverage by detecting and protecting sensitive data in these locations.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-05-26T22:45:59",
+          "modified": "2026-07-07T23:01:01",
+          "ga_date": "September CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=562992"
+        },
+        {
+          "id": 562991,
+          "title": "Microsoft Purview: Endpoint Data Loss Prevention - Allow customer to scope JIT Audit to specific user or user group",
+          "description": "Enable customers to include or exclude users/user groups from Just‑In‑Time (JIT) Audit, ensuring audits are generated only for the selected users or groups.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-05-26T22:45:59",
+          "modified": "2026-07-07T23:01:01",
+          "ga_date": "September CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=562991"
+        },
+        {
+          "id": 561551,
+          "title": "Microsoft Edge: Intune MAM Protected Downloads",
+          "description": "The protected downloads feature for Intune MAM will now save downloaded files to the Documents > Microsoft Edge > Downloads folder in OneDrive.",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2026-05-12T23:00:33",
+          "modified": "2026-07-07T23:01:01",
+          "ga_date": "July CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Edge"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=561551"
+        },
+        {
+          "id": 561490,
+          "title": "Microsoft Teams: Connect Teams meeting to existing Planner Plans",
+          "description": "Teams meetings automatically create a corresponding Planner plan to capture meeting tasks. However, when teams use meetings as their primary collaboration surface for long-running initiatives, tasks from the same project can become scattered across multiple auto-generated plans. With this capability, users can now connect Teams meetings to existing Planner plans, so all related tasks across meetings can be tracked in one place.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-05-11T23:15:11",
+          "modified": "2026-07-07T23:01:01",
+          "ga_date": "August CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams",
+            "Planner"
+          ],
+          "platforms": [
+            "Desktop",
+            "Teams and Surface Devices"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Targeted Release"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=561490"
+        },
+        {
+          "id": 560399,
+          "title": "Microsoft Purview: Insider Risk Management - Microsoft Fabric, Cloud storage, cloud service activities as triggers ",
+          "description": "With this update, the indicators belonging to cloud storage apps (Box, Dropbox, Google Drive), cloud services (Azure, Amazon Web Services) and Microsoft Fabric (Power BI, Lakehouse) will be supported as triggers in Data leaks policy. With triggers, customers can define the conditions for bringing the user into the scope of a policy while the respective indicators are used to determine risk score.\n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential maliciou",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2026-04-15T22:45:13",
+          "modified": "2026-07-07T23:01:01",
+          "ga_date": "July CY2026",
+          "preview_date": "June CY2026",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=560399"
+        },
+        {
+          "id": 558684,
+          "title": "Microsoft Purview: Information Protection - Sensitivity label support in Engage",
+          "description": "Organizations can now manually apply Purview Information Protection sensitivity labels in Engage. Allowing admins to create labels and configure label publishing policies to determine which users and groups can manually label content in Engage communities. End users in Engage will be able to then manually apply labels to communities and in turn classify and protect their sensitive data via privacy and external user access controls.",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2026-03-18T23:15:26",
+          "modified": "2026-07-07T23:01:01",
+          "ga_date": "May CY2026",
+          "preview_date": "March CY2026",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=558684"
+        },
+        {
+          "id": 558687,
+          "title": "Microsoft Purview: Information Protection - Policy sync status for M365 Label publishing policies",
+          "description": "Admins can now see the sync status of sensitivity label publishing policies directly in the Purview portal. This provides clear confirmation that label policy changes have been fully applied across Microsoft 365 workloads, reducing guesswork, speeding troubleshooting, and increasing confidence during large scale label deployments.",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2026-03-16T23:00:10",
+          "modified": "2026-07-07T23:01:01",
+          "ga_date": "April CY2026",
+          "preview_date": "March CY2026",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=558687"
+        },
+        {
+          "id": 558686,
+          "title": "Microsoft Purview: Information Protection - Sensitivity label inheritance for Teams meeting artifacts",
+          "description": "Teams meeting artifacts, including recordings, transcripts, and Loop notes, can now be configured to automatically inherit the sensitivity label from the meeting. This ensures content generated during meetings is consistently protected without requiring manual labeling, reducing risk and simplifying protection at scale.",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2026-03-16T23:00:10",
+          "modified": "2026-07-07T23:01:01",
+          "ga_date": "June CY2026",
+          "preview_date": "May CY2026",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=558686"
+        },
+        {
+          "id": 558685,
+          "title": "Microsoft Purview: Information Protection - Exclude modern groups / include dynamic security groups support for sensitivity label policies ",
+          "description": "To provide more flexibility, admins can now exclude modern Microsoft 365 groups and scope sensitivity label policies to dynamic and non-mail enabled security groups—expanding policy targeting beyond individual users and mail enabled groups.",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2026-03-16T23:00:10",
+          "modified": "2026-07-07T23:01:01",
+          "ga_date": "May CY2026",
+          "preview_date": "April CY2026",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=558685"
+        },
+        {
+          "id": 557681,
+          "title": "Microsoft Copilot (Microsoft 365): Intelligent Summaries in Copilot Dashboard",
+          "description": "Use intelligent summaries in Copilot Dashboard to quickly surface what’s working and where targeted attention can accelerate Copilot adoption. Intelligent summaries highlight key adoption trends to focus on areas of success. Suggested prompts enable deeper exploration of underlying trends and drivers.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-03-16T23:00:10",
+          "modified": "2026-07-07T23:01:01",
+          "ga_date": "August CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Viva",
+            "Microsoft Copilot (Microsoft 365)"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=557681"
+        },
+        {
+          "id": 558108,
+          "title": "Microsoft Teams: Catch up on conversations in Microsoft Teams mobile",
+          "description": "Catch up in Teams mobile provides a unified view of all directed and followed conversations across chats, meeting chats, channels and threads. The mobile-optimized card view supports swipe actions, helping you quickly review and triage lists of important items.",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2026-03-05T00:15:18",
+          "modified": "2026-07-07T23:01:01",
+          "ga_date": "May CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Android",
+            "iOS"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=558108"
+        },
+        {
+          "id": 557975,
+          "title": "Microsoft Teams: One-time email passcodes for external presenters in Teams events",
+          "description": "One-time email passcodes provide an easy way for tenant administrators and event organizers to verify anonymous, external presenters invited to their events. Anonymous external presenters will be shown with a \"Verified\" tag once completing the process. Based on admin settings, the event organizer will also have a set of options available to them that applies to all external presenters, providing the ability to control who is admitted to the meeting or allowing uninvited users with the link to be",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2026-03-04T00:00:25",
+          "modified": "2026-07-07T23:01:01",
+          "ga_date": "April CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Desktop"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Targeted Release"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=557975"
+        },
+        {
+          "id": 552598,
+          "title": "Microsoft Edge: Improvements to site permissions user interfaces",
+          "description": "To better align with user expectations, site permissions are changing to look and work both in context on a website that is requesting permissions and when navigating to permissions from Settings. On a website that is requesting permissions, there are changes to the Omnibox and the Page Info dialog and permissions will be easier to see and modify in Settings.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-02-13T00:15:26",
+          "modified": "2026-07-07T23:01:01",
+          "ga_date": "July CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Edge"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=552598"
+        },
+        {
+          "id": 557189,
+          "title": "Microsoft Purview: Insider Risk Management – Ability to preview content in Insider Risk Management Alerts",
+          "description": "Insider Risk Management is excited to announce the ability to preview content directly within an IRM alert without having to create a case. Users with appropriate permissions will be able to preview relevant files referenced directly within activity explorer in each alert.\n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables custo",
+          "status": "Rolling out",
+          "change_type": "updated",
+          "created": "2026-02-12T00:15:53",
+          "modified": "2026-07-07T23:01:01",
+          "ga_date": "July CY2026",
+          "preview_date": "April CY2026",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)",
+            "GCC",
+            "GCC High",
+            "DoD"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=557189"
+        },
+        {
+          "id": 526796,
+          "title": "Microsoft Purview: Information Protection- New Summary Metrics in Content Explorer for Unscanned Files and Classification History Details",
+          "description": "Enhance Content Explorer by introducing new summary metrics that provide better visibility into scanning and classification activities. This update will include:\n1. Unscanned Files Summary\nDisplays the count and percentage of files that have not been scanned for classification, helping admins identify gaps and take corrective action.\n2. Classification History Insights\nShows trends and details of classification changes over time, helping admins to discover the stale data in their organization",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2025-11-07T00:30:39",
+          "modified": "2026-07-07T23:01:01",
+          "ga_date": "November CY2026",
+          "preview_date": "July CY2026",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=526796"
+        },
+        {
+          "id": 486695,
+          "title": "Microsoft Copilot (Microsoft 365): Copilot Prompt Gallery - Company-wide prompt publishing",
+          "description": "Organizations can build their own collections of prompts that are tailored to their business needs and workflows and distribute these to all users within the tenant.",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2025-03-24T23:00:41",
+          "modified": "2026-07-07T23:01:01",
+          "ga_date": "June CY2026",
+          "preview_date": "",
+          "products": [
+            "Excel",
+            "Microsoft Copilot (Microsoft 365)",
+            "OneNote",
+            "PowerPoint",
+            "Word"
+          ],
+          "platforms": [
+            "Desktop",
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=486695"
+        },
         {
           "id": 567316,
           "title": "Outlook: Notification when not responding to most recent message of email thread",
@@ -835,32 +1552,6 @@
             "DoD"
           ],
           "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=564610"
-        },
-        {
-          "id": 562662,
-          "title": "Microsoft 365 app: New Copilot Notebooks design in the Microsoft 365 Copilot App",
-          "description": "The new Copilot Notebooks design in the Microsoft 365 Copilot app now lets users organize related chats, output creations, and references into a persistent AI workspace. Copilot uses the Notebook's accumulated context to ground responses, so work continues across sessions instead of starting over each time. While this is the quicker, light-weight Notebooks experience, you can still find the fuller, workspace-forward experience in OneNote.",
-          "status": "Rolling out",
-          "change_type": "updated",
-          "created": "2026-05-27T23:15:50",
-          "modified": "2026-07-06T23:00:50",
-          "ga_date": "July CY2026",
-          "preview_date": "June CY2026",
-          "products": [
-            "Microsoft 365 app"
-          ],
-          "platforms": [
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability",
-            "Preview",
-            "Targeted Release"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=562662"
         },
         {
           "id": 557982,
@@ -1214,7 +1905,7 @@
           "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=392839"
         }
       ],
-      "total_updates": 26,
+      "total_updates": 52,
       "error": null
     }
   },
