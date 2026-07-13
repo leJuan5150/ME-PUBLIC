@@ -1,61 +1,13 @@
 {
-  "generated_at": "2026-07-12T11:25:02.781416Z",
+  "generated_at": "2026-07-13T12:01:15.561245Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
         {
-          "creator": "This Story Till Now",
-          "handle": "@ThisStoryTillNow",
-          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "TrailRecon",
           "handle": "@TrailRecon",
           "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Ozark Overland Adventure",
-          "handle": "@OzarkOverlandAdventures",
-          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
-          "videos": [
-            {
-              "title": "Why is Montana Closed?",
-              "url": "https://www.youtube.com/watch?v=q0aXvH5m_44",
-              "published": "2026-07-10T22:00:32Z",
-              "description": "I explore the Gallatin National Forest in Montana in my Jeep Gladiator Rubicon and find multiple closed trails that change my plans.\n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHNYyUa\nAll Roads Taken - https://"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Epic Adventure Outfitters",
-          "handle": "@EpicAdventureOutfitters",
-          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
-          "videos": [
-            {
-              "title": "Canadian Diesel Heater that actually works...#rooftoptents #overlanding #jeep",
-              "url": "https://www.youtube.com/shorts/ogqshFBL5lc",
-              "published": "2026-07-11T19:00:00Z",
-              "description": ""
-            },
-            {
-              "title": "Diesel heater clicking is annoying ...#rooftoptents #overlanding #jeep",
-              "url": "https://www.youtube.com/shorts/S292zejgCrY",
-              "published": "2026-07-10T19:00:19Z",
-              "description": ""
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "VentureToRoam",
-          "handle": "@VentureToRoam",
-          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
           "videos": [],
           "error": null
         },
@@ -67,6 +19,20 @@
           "error": null
         },
         {
+          "creator": "Life Style Overland",
+          "handle": "@LifeStyleOverland",
+          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "VentureToRoam",
+          "handle": "@VentureToRoam",
+          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
+          "videos": [],
+          "error": null
+        },
+        {
           "creator": "LetsGetLost",
           "handle": "@LetsGetLost",
           "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
@@ -74,18 +40,52 @@
           "error": null
         },
         {
-          "creator": "Life Style Overland",
-          "handle": "@LifeStyleOverland",
-          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
+          "creator": "Ozark Overland Adventure",
+          "handle": "@OzarkOverlandAdventures",
+          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Epic Adventure Outfitters",
+          "handle": "@EpicAdventureOutfitters",
+          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
+          "videos": [
+            {
+              "title": "Which springs for a heavy overland build?...#SuspensionUpgrade #overlanding #jeep",
+              "url": "https://www.youtube.com/shorts/g4YsuDalsDQ",
+              "published": "2026-07-12T19:00:36Z",
+              "description": ""
+            },
+            {
+              "title": "Canadian Diesel Heater that actually works...#rooftoptents #overlanding #jeep",
+              "url": "https://www.youtube.com/shorts/ogqshFBL5lc",
+              "published": "2026-07-11T19:00:00Z",
+              "description": ""
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "This Story Till Now",
+          "handle": "@ThisStoryTillNow",
+          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
           "videos": [],
           "error": null
         }
       ],
       "power_platform": [
         {
-          "creator": "Matthew Devaney",
-          "handle": "@MatthewDevaney",
-          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
+          "creator": "Shane Young",
+          "handle": "@ShanesCows",
+          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "April Dunnam",
+          "handle": "@AprilDunnam",
+          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
           "videos": [],
           "error": null
         },
@@ -104,16 +104,9 @@
           "error": null
         },
         {
-          "creator": "Shane Young",
-          "handle": "@ShanesCows",
-          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "April Dunnam",
-          "handle": "@AprilDunnam",
-          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
+          "creator": "Matthew Devaney",
+          "handle": "@MatthewDevaney",
+          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
           "videos": [],
           "error": null
         }
@@ -123,34 +116,14 @@
           "creator": "Guy in a Cube",
           "handle": "@GuyInACube",
           "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
-          "videos": [
-            {
-              "title": "The real value of semantic models isn’t DAX, its understanding of the business",
-              "url": "https://www.youtube.com/shorts/6c-RpgwURtI",
-              "published": "2026-07-11T00:58:09Z",
-              "description": "Every Power BI semantic model contains critical business knowledge, calculations, and assumptions that are often locked inside the head of the person who built it. This walkthrough follows a real-world scenario where a report owner needs to update an executive dashboard without access to the original model author."
-            },
-            {
-              "title": "Power BI semantic models contain business logic locked inside the head of the person who built it",
-              "url": "https://www.youtube.com/shorts/auEOxOY0jDQ",
-              "published": "2026-07-10T14:14:09Z",
-              "description": "Every Power BI semantic model contains critical business knowledge, calculations, and assumptions that are often locked inside the head of the person who built it. This walkthrough follows a real-world scenario where a report owner needs to update an executive dashboard without access to the original model author."
-            }
-          ],
+          "videos": [],
           "error": null
         },
         {
           "creator": "Dewain Robinson",
           "handle": "@DewainRobinson",
           "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
-          "videos": [
-            {
-              "title": "I retired from Microsoft!",
-              "url": "https://www.youtube.com/shorts/MMWbFRDypVs",
-              "published": "2026-07-10T18:40:32Z",
-              "description": ""
-            }
-          ],
+          "videos": [],
           "error": null
         }
       ],
@@ -161,82 +134,22 @@
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
             {
+              "title": "Claude is quietly taking over your company's data #AI #Claude #Anthropic #data #enterprise",
+              "url": "https://www.youtube.com/shorts/EzVeeD_j8ko",
+              "published": "2026-07-13T03:00:31Z",
+              "description": "For decades the rule was simple: data is your edge. If you're serious, it's the thing nobody else has.\n\nSo it's worth sitting with what happens when you hand all of that data to a frontier model as context. Once Claude is living in your Slack as a team-level harness, sitting next to everything your team does, you are effectively renting your own context back to yourself. And the more useful it gets, the more impossible it becomes to rip out.\n\nThat's not an argument against using it. It's an argu"
+            },
+            {
+              "title": "Your Roadmap Is Why You're Losing to AI-Native Teams.",
+              "url": "https://www.youtube.com/watch?v=hYcOFTMesGc",
+              "published": "2026-07-12T16:00:37Z",
+              "description": "Full post w/ links to the tools:\nhttps://natesnewsletter.substack.com/p/ai-native-company-rules?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nAI made it cheap to build almost anything. Most companies still ship at the old pace, and it isn't because their AI is worse than Anthropic's or OpenAI's. The real difference is what they've moved out of meetings and documents and into working code.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: http"
+            },
+            {
               "title": "With AI, going slow is the dangerous move #AI #productivity #mindset #technology",
               "url": "https://www.youtube.com/shorts/CqNBsMlZKa4",
               "published": "2026-07-12T03:00:02Z",
               "description": "Think about learning to ride a bike. When you go slow, it is almost impossible to balance, and every wobble makes you want to slow down even more. Speed up, and the balance suddenly comes to you. Kids fight this instinct constantly. They are sure that slower means safer, when the opposite is true.\n\nAI works the same way. Hanging back and moving cautiously feels like the responsible choice, but it is the one that leaves you wobbling and falling behind. The steadiness comes from leaning in and goi"
-            },
-            {
-              "title": "The AI skill nobody talks about (and it isn't prompting) #AI #prompting #productivity #tech",
-              "url": "https://www.youtube.com/shorts/gROqcBXoz_c",
-              "published": "2026-07-11T03:00:30Z",
-              "description": "Two people sit down with the exact same chatbot on the exact same Tuesday. The first types a quick request for a slide deck, gets back something about eighty percent right, and spends the rest of the morning fixing it.\n\nThe second spends eleven minutes writing a real specification first, hands it off, and treats the model like an autonomous agent instead of a chat window. Then they go make coffee. They come back to a finished deck that hits every bar they set, and they do it five more times befo"
-            },
-            {
-              "title": "1.6M agents registered for OpenClaw and did NOTHING.",
-              "url": "https://www.youtube.com/watch?v=PRqiGS6fnIM",
-              "published": "2026-07-10T14:00:30Z",
-              "description": "Full post with the One Minute Test:\nhttps://natesnewsletter.substack.com/p/agent-shaped-work?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nMost people bought AI agents and never figured out what to point them at. This is the one-minute test that tells you whether a task belongs in a chat, a single agent, a team of agents, or nowhere near AI.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tikt"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Nate Herk",
-          "handle": "@NateHerk",
-          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-          "videos": [
-            {
-              "title": "OpenArt Director: The New Way to Make AI Videos",
-              "url": "https://www.youtube.com/shorts/4fKn9O-YhtI",
-              "published": "2026-07-11T17:00:36Z",
-              "description": "OpenArt just launched vibe directing. Direct an entire video just by chatting, describe it, refine it, swap characters, and Director rebuilds it while keeping voices and style consistent. Up to 5 min of cinematic video in one go. Go to my Instagram, DM me \"VIBE\" and I'll send it over. Link's in bio.\n\n#ad #openartpartner"
-            },
-            {
-              "title": "Claude Code for Non-Coders (6 Hour Course)",
-              "url": "https://www.youtube.com/watch?v=jdbOVepEtUE",
-              "published": "2026-07-11T13:02:58Z",
-              "description": "My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=claude-code-for-normal-people&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nThis is a complete beginner course on becoming AI native with Claude Code, no coding back"
-            },
-            {
-              "title": "ClickUp Brain2: The AI That Replaces All Your Software",
-              "url": "https://www.youtube.com/shorts/AZXV1zzuFuQ",
-              "published": "2026-07-11T00:30:25Z",
-              "description": "ClickUp Brain2 is like a supercomputer inside your workspace. Switch between AI models you already use, build 24/7 super agents you can tag right in ClickUp, and generate a full animated pitch deck from one prompt. \n\nUse code NATEHERKB2 for 15% off Biz+ (ends soon): https://clickup.com/ \n\n#ad"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Paul J Lipsky",
-          "handle": "@PaulJLipsky",
-          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
-          "videos": [
-            {
-              "title": "Claude Cowork Is Now On Mobile and Web (Here's How It Works)",
-              "url": "https://www.youtube.com/watch?v=kMy46Y8Cruc",
-              "published": "2026-07-11T13:00:28Z",
-              "description": "Claude Cowork now works on the web and your phone, but cloud tasks and local tasks behave differently. Here's how to sync Cowork tasks, access files on your computer remotely, and avoid starting a task in the wrong place.\n\nSome features in this video may not be available in your region or on your plan yet.\n\n0:00 Intro\n1:00 Claude Web vs Desktop\n2:06 How Cowork Tasks Sync\n2:50 Set Up Cloud Sync\n5:16 Accessing Local Files Remotely\n6:51 Cloud vs Local Tasks Explained\n7:46 Start a Remote-Ready Task\n"
-            },
-            {
-              "title": "Insane AI News Week: GPT 5.6, ChatGPT Work, Fable 5 Reset, Cowork Updates and More!",
-              "url": "https://www.youtube.com/watch?v=nEl81ecvs0I",
-              "published": "2026-07-10T13:00:16Z",
-              "description": "Note Pro: https://bit.ly/49DxspN\nNotePin S: https://bit.ly/449Srxk\n10% code: PJL10\n\nNote Pro on Amazon: https://amzn.to/4xfJdNm\nNotePin S: https://amzn.to/3ROT24A\n10% code: 9C8UXGPP\n\nAll the Fable Prompts: https://five-ways-ai-field-guide.pauljlipsky.chatgpt.site/\n\nOpenAI, Anthropic, xAI, and Meta all made major AI moves this week. Here’s what GPT-5.6, Fable 5, ChatGPT Work, ChatGPT Live, and the latest Claude Cowork changes actually mean for everyday users.\n\nThis video is sponsored. #Plaud #Not"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "AI Daily Brief",
-          "handle": "@AIDailyBrief",
-          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
-          "videos": [
-            {
-              "title": "How the 4 New Models Released This Week Will Change How You Work",
-              "url": "https://www.youtube.com/watch?v=ZX9dXdAL5IU",
-              "published": "2026-07-10T19:53:56Z",
-              "description": "Four major releases—GPT Live, Grok 4.5, Cognition SWE 1.7, and GPT‑5.6 Sol—signal an accelerated model cadence and growing specialization across AI. GPT Live introduces full‑duplex voice with background model orchestration for real‑time translation, tutoring, and conversational assistants. Grok 4.5 and Cognition SWE 1.7 prioritize cost‑efficient, high‑speed agentic coding and workflow automation while GPT‑5.6 Sol acts as a fast, practical workhorse contrasted with Fable's deeper reasoning.\n\nThe "
             }
           ],
           "error": null
@@ -268,16 +181,69 @@
           "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
           "videos": [
             {
+              "title": "Stop Using Fable 5 in Claude Code (It’s Holding You Back)",
+              "url": "https://www.youtube.com/watch?v=d9XCX0PcOq0",
+              "published": "2026-07-12T16:00:29Z",
+              "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes\n👀 Be the brand AI recommends: https://dub.sh/rankspot-yt\nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\nFable 5 is becoming an API-billed model, and the costs can add up quickly if you're not careful. This video breaks down exactly which tasks are worth paying Fable rates for, and which ones aren't. We'll walk through every setting you need to change to stop your bill from quietly run"
+            },
+            {
               "title": "12 Hidden Settings to Enable in Claude Code",
               "url": "https://www.youtube.com/shorts/gYpZQsokf8U",
               "published": "2026-07-11T19:39:08Z",
               "description": "Claude Code offers hundreds of settings, but which ones actually matter? In this video, I'll walk you through 12 simple, one-line changes you can make to revolutionize your workflow. Forget complex code—we're covering everything from getting essential notifications and managing permissions to optimizing model costs and taking control of your data privacy."
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "AI Daily Brief",
+          "handle": "@AIDailyBrief",
+          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Paul J Lipsky",
+          "handle": "@PaulJLipsky",
+          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
+          "videos": [
+            {
+              "title": "Claude Cowork Finally Clicked When I Learned This",
+              "url": "https://www.youtube.com/watch?v=szWBwfPX30M",
+              "published": "2026-07-12T13:00:04Z",
+              "description": "Try Claude Cowork: http://clau.de/paul-j-lipsky\n🔗 This video is sponsored by Anthropic.\n\nClaude Cowork setup prompt: https://docs.google.com/document/d/1fi1pSlkBjZzvZA9r2oa-Nwud_cjz48E8xYv5S05zVdc/edit?usp=sharing\n\nClaude Cowork feels completely different once you understand how it works with local files. This video shows how to build a simple Cowork hub with standing instructions and transparent memory so Claude can work the way you do without making you repeat yourself.\n\n\n0:00 Intro\n0:53 Chat "
             },
             {
-              "title": "I Rebuilt Hermes’s Best Feature in Claude Code (Steal This)",
-              "url": "https://www.youtube.com/watch?v=9CiOwbmOKdU",
-              "published": "2026-07-10T16:22:31Z",
-              "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes\n👀 Be the brand AI recommends: https://dub.sh/rankspot-yt\nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\nGrab the free setup plan here: https://scrapeshq.notion.site/i-gave-claude-code-hermes-s-best-feature-steal-this\n\nHermes Agent's most loved feature is its memory, which just happens to be Claude Code's biggest weakness. Instead of switching, I rebuilt Hermes's memory system inside Cl"
+              "title": "Claude Cowork Is Now On Mobile and Web (Here's How It Works)",
+              "url": "https://www.youtube.com/watch?v=kMy46Y8Cruc",
+              "published": "2026-07-11T13:00:28Z",
+              "description": "Claude Cowork now works on the web and your phone, but cloud tasks and local tasks behave differently. Here's how to sync Cowork tasks, access files on your computer remotely, and avoid starting a task in the wrong place.\n\nSome features in this video may not be available in your region or on your plan yet.\n\n0:00 Intro\n1:00 Claude Web vs Desktop\n2:06 How Cowork Tasks Sync\n2:50 Set Up Cloud Sync\n5:16 Accessing Local Files Remotely\n6:51 Cloud vs Local Tasks Explained\n7:46 Start a Remote-Ready Task\n"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Nate Herk",
+          "handle": "@NateHerk",
+          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+          "videos": [
+            {
+              "title": "Claude Code + Clay Makes Lead Generation Actually Fun",
+              "url": "https://www.youtube.com/watch?v=zyvdl__Ywfk",
+              "published": "2026-07-12T13:35:26Z",
+              "description": "Claim 2,000 FREE Clay credits here: https://bit.ly/4gzSl9L\nMy playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=claude-code-clay&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nFinding leads is the thing that blocks most"
+            },
+            {
+              "title": "OpenArt Director: The New Way to Make AI Videos",
+              "url": "https://www.youtube.com/shorts/4fKn9O-YhtI",
+              "published": "2026-07-11T17:00:36Z",
+              "description": "OpenArt just launched vibe directing. Direct an entire video just by chatting, describe it, refine it, swap characters, and Director rebuilds it while keeping voices and style consistent. Up to 5 min of cinematic video in one go. Go to my Instagram, DM me \"VIBE\" and I'll send it over. Link's in bio.\n\n#ad #openartpartner"
+            },
+            {
+              "title": "Claude Code for Non-Coders (6 Hour Course)",
+              "url": "https://www.youtube.com/watch?v=jdbOVepEtUE",
+              "published": "2026-07-11T13:02:58Z",
+              "description": "My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=claude-code-for-normal-people&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nThis is a complete beginner course on becoming AI native with Claude Code, no coding back"
             }
           ],
           "error": null
@@ -680,405 +646,8 @@
     "m365_roadmap": {
       "source_url": "https://www.microsoft.com/microsoft-365/roadmap",
       "data_url": "https://www.microsoft.com/releasecommunications/api/v1/m365",
-      "items": [
-        {
-          "id": 567468,
-          "title": "Microsoft Teams: Modernized Gallery view in Teams Rooms on Android",
-          "description": "The updated Gallery view in Teams Rooms on Android prioritizes video on the meeting stage, arranges participants in consistent aspect ratios, and minimizes movement of participant tiles on stage. Users can hide the room self-preview video and choose to see audio and video participants equally on stage, instead of prioritizing video participants. Admins can choose the default behavior using local device settings and the Pro Management portal.",
-          "status": "In development",
-          "change_type": "new",
-          "created": "2026-07-10T21:58:35",
-          "modified": "2026-07-10T21:58:35",
-          "ga_date": "July CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Teams"
-          ],
-          "platforms": [
-            "Android",
-            "Teams and Surface Devices"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)",
-            "GCC",
-            "GCC High",
-            "DoD"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567468"
-        },
-        {
-          "id": 566999,
-          "title": "Microsoft Copilot Studio: Enable express mode for flows invoked by an agent or app",
-          "description": "Express mode ensures agents and apps receive timely and reliable responses by dramatically accelerating flow run times. This reduces flow failures, improves user experience, and eliminates costly interruptions caused by timeout issues. Organizations benefit from more dependable automations, higher adoption, and smoother operational workflows.",
-          "status": "In development",
-          "change_type": "new",
-          "created": "2026-07-10T21:58:35",
-          "modified": "2026-07-10T21:58:35",
-          "ga_date": "November CY2026",
-          "preview_date": "November CY2025",
-          "products": [
-            "Microsoft Copilot (Microsoft 365)",
-            "Microsoft Copilot Studio"
-          ],
-          "platforms": [
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability",
-            "Preview"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=566999"
-        },
-        {
-          "id": 567305,
-          "title": "Microsoft Teams: Specify who has control of production tools in Teams meetings and events",
-          "description": "A new meeting option for Teams meetings with presenters and events that enables organizers to designate 'Who has control of production tools' during the event. Users defined here will have access to the controls in 'Manage What Attendees See' and the ‘Green Room'.",
-          "status": "In development",
-          "change_type": "updated",
-          "created": "2026-07-08T23:10:57",
-          "modified": "2026-07-10T21:58:35",
-          "ga_date": "August CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Teams"
-          ],
-          "platforms": [
-            "Desktop",
-            "Mac",
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability",
-            "Targeted Release"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)",
-            "GCC",
-            "GCC High",
-            "DoD"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567305"
-        },
-        {
-          "id": 567302,
-          "title": "Microsoft Teams: Ability for IT admins to customize the user notification messages for recording and transcription in calls",
-          "description": "This feature enables IT admins to customize a portion of the user notification messages for recording and transcription during Teams calls.",
-          "status": "In development",
-          "change_type": "updated",
-          "created": "2026-07-08T23:10:57",
-          "modified": "2026-07-10T21:58:35",
-          "ga_date": "August CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Teams",
-            "Microsoft Copilot (Microsoft 365)"
-          ],
-          "platforms": [
-            "Desktop",
-            "Mac",
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability",
-            "Targeted Release"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)",
-            "GCC",
-            "GCC High",
-            "DoD"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567302"
-        },
-        {
-          "id": 567301,
-          "title": "Microsoft Teams: New controls for quick views in the chat list",
-          "description": "The new chats and channels experience introduced quick views at the top of the chat and channels list. These are views into mentions, followed threads and more. This update allows users to choose when and how these quick views are shown. Users will have options such as always show, always hide and show only when unread. Users will also be able to collapse the quick views section.",
-          "status": "In development",
-          "change_type": "updated",
-          "created": "2026-07-08T23:10:57",
-          "modified": "2026-07-10T21:58:35",
-          "ga_date": "August CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Teams"
-          ],
-          "platforms": [
-            "Desktop",
-            "Mac",
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "GCC High",
-            "DoD"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567301"
-        },
-        {
-          "id": 565869,
-          "title": "Microsoft Teams: Personal message reminders for chat and channels",
-          "description": "Teams now lets you set and manage reminders directly on chat and channel messages, helping you keep track of important items. Create, update, complete, and delete reminders, track them in a dedicated Reminders view, and receive timely notifications when they become due. Reminders are private to each user and include message context, making them easy to revisit and act on when needed.",
-          "status": "In development",
-          "change_type": "updated",
-          "created": "2026-06-15T23:00:45",
-          "modified": "2026-07-10T21:58:35",
-          "ga_date": "September CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Teams"
-          ],
-          "platforms": [
-            "Android",
-            "Desktop",
-            "iOS",
-            "Mac",
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability",
-            "Targeted Release"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)",
-            "GCC",
-            "GCC High",
-            "DoD"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=565869"
-        },
-        {
-          "id": 564616,
-          "title": "Microsoft Purview: Data Loss Prevention - AI Powered Data Loss Prevention Policy Optimizer",
-          "description": "DLP Policy Optimizer uses AI to analyze your organization’s DLP policies, rule structure, and activity signals to identify optimization opportunities that are difficult to detect manually. It highlights overlapping rules, redundant conditions, misconfigurations, and sources of excessive noise, and presents prioritized recommendations with supporting evidence and suggested actions. This enables you to reduce false positives and alert noise, improve policy precision, and simplify policy management",
-          "status": "In development",
-          "change_type": "updated",
-          "created": "2026-06-02T23:15:28",
-          "modified": "2026-07-10T21:58:35",
-          "ga_date": "September CY2026",
-          "preview_date": "August CY2026",
-          "products": [
-            "Microsoft Purview"
-          ],
-          "platforms": [
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability",
-            "Preview"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=564616"
-        },
-        {
-          "id": 561491,
-          "title": "Outlook: Copilot Settings in classic Outlook for Windows",
-          "description": "You will now be able to access different Copilot settings directly in classic Outlook for Windows.",
-          "status": "Rolling out",
-          "change_type": "updated",
-          "created": "2026-05-06T23:15:10",
-          "modified": "2026-07-10T21:58:35",
-          "ga_date": "July CY2026",
-          "preview_date": "July CY2026",
-          "products": [
-            "Outlook"
-          ],
-          "platforms": [
-            "Desktop"
-          ],
-          "release_phase": [
-            "General Availability",
-            "Preview"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=561491"
-        },
-        {
-          "id": 545896,
-          "title": "Microsoft Copilot (Microsoft 365): Structured Document Generation with Forms",
-          "description": "Structured Document Generation with Forms enables organizations to create, manage, and generate standardized documents at scale with built-in governance and compliance in SharePoint. Business process owners can centrally build and maintain form-driven templates -- such as contracts, agreements, proposals, and HR documents -- ensuring content stays accurate and up to date. Users can then generate the right document every time by just filling out the form, without manual formatting, versioning iss",
-          "status": "In development",
-          "change_type": "updated",
-          "created": "2026-01-09T00:00:20",
-          "modified": "2026-07-10T21:58:35",
-          "ga_date": "September CY2026",
-          "preview_date": "",
-          "products": [
-            "SharePoint",
-            "Microsoft Copilot (Microsoft 365)"
-          ],
-          "platforms": [
-            "Desktop",
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability",
-            "Preview"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=545896"
-        },
-        {
-          "id": 494809,
-          "title": "Microsoft Copilot (Microsoft 365): Frontier and Microsoft agent user request approval flow in Microsoft 365 admin center",
-          "description": "For Admins, agents in the Frontier program can be managed through the Microsoft 365 Admin Center. They are listed under the agents & connectors tab in Copilot Control System, where you can view all agent inventory for your organization. Agents built by Microsoft and available in the Frontier program will be displayed in the Agent Store. This feature will support users to request these agents if blocked by organizational policies. Admins will have the opportunity to further approve and reject the",
-          "status": "Launched",
-          "change_type": "updated",
-          "created": "2025-06-05T23:00:34",
-          "modified": "2026-07-10T21:58:35",
-          "ga_date": "July CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Copilot (Microsoft 365)",
-            "Microsoft 365 admin center"
-          ],
-          "platforms": [
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=494809"
-        },
-        {
-          "id": 486840,
-          "title": "Outlook: Import calendars and contacts from PST file to mailbox in new Outlook for Windows",
-          "description": "With this update of support for .pst files (a.k.a. Outlook Data File) in the new Outlook for Windows, users will be able to import calendars and contacts from .pst file to mailbox. Future releases of new Outlook will expand the support for .pst file capabilities. #newoutlookforwindows #pstfilesupport.",
-          "status": "Launched",
-          "change_type": "updated",
-          "created": "2025-03-26T23:45:25",
-          "modified": "2026-07-10T21:58:35",
-          "ga_date": "July CY2026",
-          "preview_date": "",
-          "products": [
-            "Outlook"
-          ],
-          "platforms": [
-            "Desktop"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "GCC"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=486840"
-        },
-        {
-          "id": 486839,
-          "title": "Outlook: Import calendars and contacts from PST file to mailbox in new Outlook for Windows",
-          "description": "With this update of support for .pst files (a.k.a. Outlook Data File) in the new Outlook for Windows, users will be able to import calendars and contacts from .pst file to mailbox. Future releases of new Outlook will expand the support for .pst file capabilities. #newoutlookforwindows #pstfilesupport.",
-          "status": "Launched",
-          "change_type": "updated",
-          "created": "2025-03-25T23:45:28",
-          "modified": "2026-07-10T21:58:35",
-          "ga_date": "June CY2026",
-          "preview_date": "",
-          "products": [
-            "Outlook"
-          ],
-          "platforms": [
-            "Desktop"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=486839"
-        },
-        {
-          "id": 485756,
-          "title": "Outlook: Read-only access to contacts within a PST file in new Outlook for Windows",
-          "description": "With this update of support for .pst files (a.k.a. Outlook Data File) in the new Outlook for Windows, users will be able to browse and read contacts within a .pst file. Future releases of new Outlook will expand the support for .pst file capabilities. #newoutlookforwindows #pstfilesupport.",
-          "status": "Launched",
-          "change_type": "updated",
-          "created": "2025-03-18T23:15:13",
-          "modified": "2026-07-10T21:58:35",
-          "ga_date": "September CY2025",
-          "preview_date": "",
-          "products": [
-            "Outlook"
-          ],
-          "platforms": [
-            "Desktop"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "GCC"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=485756"
-        },
-        {
-          "id": 485740,
-          "title": "Outlook: Import emails from PST file to mailbox in new Outlook for Windows",
-          "description": "With this update of support for .pst files (a.k.a. Outlook Data File) in the new Outlook for Windows, users will be able to import emails from .pst file to mailbox. Future releases of new Outlook will expand the support for .pst file capabilities. #newoutlookforwindows #pstfilesupport.",
-          "status": "Launched",
-          "change_type": "updated",
-          "created": "2025-03-18T23:15:13",
-          "modified": "2026-07-10T21:58:35",
-          "ga_date": "April CY2026",
-          "preview_date": "",
-          "products": [
-            "Outlook"
-          ],
-          "platforms": [
-            "Desktop"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "GCC"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=485740"
-        },
-        {
-          "id": 480725,
-          "title": "SharePoint: AI citations analytics for documents and pages",
-          "description": "AI citations analytics will help you track the usage of SP documents, news and pages through copilot and AI agents. You will be able to see how often a page or a file is referenced in a copilot response. You can also get insights into SharePoint site content getting referenced in copilot responses aggregated at the site level.",
-          "status": "In development",
-          "change_type": "updated",
-          "created": "2025-02-14T00:15:58",
-          "modified": "2026-07-10T21:58:35",
-          "ga_date": "August CY2026",
-          "preview_date": "",
-          "products": [
-            "SharePoint"
-          ],
-          "platforms": [
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=480725"
-        }
-      ],
-      "total_updates": 15,
+      "items": [],
+      "total_updates": 0,
       "error": null
     }
   },
