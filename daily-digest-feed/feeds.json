@@ -1,21 +1,40 @@
 {
-  "generated_at": "2026-07-13T12:01:15.561245Z",
+  "generated_at": "2026-07-14T11:30:25.521003Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
         {
-          "creator": "TrailRecon",
-          "handle": "@TrailRecon",
-          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
+          "creator": "VentureToRoam",
+          "handle": "@VentureToRoam",
+          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
           "videos": [],
           "error": null
         },
         {
-          "creator": "Casey 250",
-          "handle": "@Casey250",
-          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
-          "videos": [],
+          "creator": "Epic Adventure Outfitters",
+          "handle": "@EpicAdventureOutfitters",
+          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
+          "videos": [
+            {
+              "title": "Jeep, Just Put a V8 in the Gladiator Already!",
+              "url": "https://www.youtube.com/watch?v=gqvUmke6CLI",
+              "published": "2026-07-14T04:28:25Z",
+              "description": "We love the Jeep Gladiator. Which is exactly why watching Jeep do so little with it drives us absolutely up the wall.\n#JeepGladiator #392 #offroad \n\nIn today’s episode Paul and The Ginger sit down and have an honest, occasionally exasperated, frequently hilarious conversation about the Gladiator. What it is. What it could be. And what on earth Jeep is actually doing with it.\n\nHere is the thing about the Gladiator. The platform is genuinely great. The wheelbase, the capability, the versatility… t"
+            },
+            {
+              "title": "Once you're over the limit of weight its a problem...#SuspensionUpgrade #overlanding #jeep",
+              "url": "https://www.youtube.com/shorts/IfcOdSrAMq4",
+              "published": "2026-07-13T19:00:30Z",
+              "description": ""
+            },
+            {
+              "title": "Which springs for a heavy overland build?...#SuspensionUpgrade #overlanding #jeep",
+              "url": "https://www.youtube.com/shorts/g4YsuDalsDQ",
+              "published": "2026-07-12T19:00:36Z",
+              "description": ""
+            }
+          ],
           "error": null
         },
         {
@@ -26,9 +45,23 @@
           "error": null
         },
         {
-          "creator": "VentureToRoam",
-          "handle": "@VentureToRoam",
-          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
+          "creator": "This Story Till Now",
+          "handle": "@ThisStoryTillNow",
+          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "videos": [
+            {
+              "title": "LONGEST Overland Route in TEXAS!",
+              "url": "https://www.youtube.com/watch?v=m94GBx4nB0c",
+              "published": "2026-07-13T16:00:29Z",
+              "description": "SUBSCRIBE TO TSTN MAGAZINE ($11.40 a month including delivery, no charge until we launch!): http://subscribe.tstnmag.com\n\nSign up with my link and save 20% on OnX Off-Road: https://bit.ly/onxoffroadtstn\n\nMERCH: http://www.tstn.shop\n\nFor our 4th Bucket Trip last year, I set out with @TrailRecon to Texas, where we were determined to answer the question - can you overland in Texas!? This is the movie version of that journey.\n\nSave 20% on XLANDR Sunglasses CODE: TSTN20 at checkout: https://bit.ly/42"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "TrailRecon",
+          "handle": "@TrailRecon",
+          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
           "videos": [],
           "error": null
         },
@@ -43,33 +76,20 @@
           "creator": "Ozark Overland Adventure",
           "handle": "@OzarkOverlandAdventures",
           "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Epic Adventure Outfitters",
-          "handle": "@EpicAdventureOutfitters",
-          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
           "videos": [
             {
-              "title": "Which springs for a heavy overland build?...#SuspensionUpgrade #overlanding #jeep",
-              "url": "https://www.youtube.com/shorts/g4YsuDalsDQ",
-              "published": "2026-07-12T19:00:36Z",
-              "description": ""
-            },
-            {
-              "title": "Canadian Diesel Heater that actually works...#rooftoptents #overlanding #jeep",
-              "url": "https://www.youtube.com/shorts/ogqshFBL5lc",
-              "published": "2026-07-11T19:00:00Z",
-              "description": ""
+              "title": "The Big Thing is a Big Deal!",
+              "url": "https://www.youtube.com/watch?v=lLkIi57t-fI",
+              "published": "2026-07-13T18:00:04Z",
+              "description": "We attend the Big Thing at the XOverland Ranch and are blown away!!\n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHNYyUa\nAll Roads Taken - https://www.allroadstaken.com\nMOORE Expo - https://mooreexpo.com \nBig Iro"
             }
           ],
           "error": null
         },
         {
-          "creator": "This Story Till Now",
-          "handle": "@ThisStoryTillNow",
-          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "creator": "Casey 250",
+          "handle": "@Casey250",
+          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
           "videos": [],
           "error": null
         }
@@ -79,6 +99,20 @@
           "creator": "Shane Young",
           "handle": "@ShanesCows",
           "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
+          "videos": [
+            {
+              "title": "From Free to Credits - Copilot Licensing Explained",
+              "url": "https://www.youtube.com/watch?v=MgMuQ-HMMos",
+              "published": "2026-07-13T12:30:22Z",
+              "description": "Trying to make sense of Microsoft's ever-changing Copilot licensing? You're not alone.\n\nIn this video, you'll get a practical walkthrough of how Microsoft's Copilot ecosystem is licensed today, including what is free, what requires a Microsoft 365 Copilot license, and which products now consume AI credits.\n\nYou'll learn:\n• What you get with free Copilot Chat included with Microsoft 365\n• What the Microsoft 365 Copilot license unlocks (including Work IQ)\n• How Copilot Cowork licensing works and w"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Lisa Crosbie",
+          "handle": "@LisaCrosbie",
+          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
           "videos": [],
           "error": null
         },
@@ -90,136 +124,49 @@
           "error": null
         },
         {
-          "creator": "Reza Dorrani",
-          "handle": "@RezaDorrani",
-          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Lisa Crosbie",
-          "handle": "@LisaCrosbie",
-          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "Matthew Devaney",
           "handle": "@MatthewDevaney",
           "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
           "videos": [],
           "error": null
+        },
+        {
+          "creator": "Reza Dorrani",
+          "handle": "@RezaDorrani",
+          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
+          "videos": [
+            {
+              "title": "Customize SharePoint List Forms with AI | Power Apps Canvas MCP Server (Full Tutorial)",
+              "url": "https://www.youtube.com/watch?v=lQxM9X2LcbE",
+              "published": "2026-07-13T12:00:29Z",
+              "description": "🚀 Customize SharePoint List Forms with AI using the Power Apps Canvas Apps Authoring MCP Server and Claude Code. Learn how to build a beautiful, modern SharePoint form experience with AI—from start to finish.\n\nIn this full tutorial, I take a standard SharePoint Asset Management list form and transform it into a modern Power Apps experience entirely using AI. Every enhancement—from the layout and styling to the navigation and Power Fx—is generated through natural language prompts using the Canvas"
+            }
+          ],
+          "error": null
         }
       ],
       "fabric_powerbi": [
-        {
-          "creator": "Guy in a Cube",
-          "handle": "@GuyInACube",
-          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
-          "videos": [],
-          "error": null
-        },
         {
           "creator": "Dewain Robinson",
           "handle": "@DewainRobinson",
           "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
           "videos": [],
           "error": null
+        },
+        {
+          "creator": "Guy in a Cube",
+          "handle": "@GuyInACube",
+          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
+          "videos": [],
+          "error": null
         }
       ],
       "ai": [
-        {
-          "creator": "NateBJones",
-          "handle": "@NateBJones",
-          "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
-          "videos": [
-            {
-              "title": "Claude is quietly taking over your company's data #AI #Claude #Anthropic #data #enterprise",
-              "url": "https://www.youtube.com/shorts/EzVeeD_j8ko",
-              "published": "2026-07-13T03:00:31Z",
-              "description": "For decades the rule was simple: data is your edge. If you're serious, it's the thing nobody else has.\n\nSo it's worth sitting with what happens when you hand all of that data to a frontier model as context. Once Claude is living in your Slack as a team-level harness, sitting next to everything your team does, you are effectively renting your own context back to yourself. And the more useful it gets, the more impossible it becomes to rip out.\n\nThat's not an argument against using it. It's an argu"
-            },
-            {
-              "title": "Your Roadmap Is Why You're Losing to AI-Native Teams.",
-              "url": "https://www.youtube.com/watch?v=hYcOFTMesGc",
-              "published": "2026-07-12T16:00:37Z",
-              "description": "Full post w/ links to the tools:\nhttps://natesnewsletter.substack.com/p/ai-native-company-rules?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nAI made it cheap to build almost anything. Most companies still ship at the old pace, and it isn't because their AI is worse than Anthropic's or OpenAI's. The real difference is what they've moved out of meetings and documents and into working code.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: http"
-            },
-            {
-              "title": "With AI, going slow is the dangerous move #AI #productivity #mindset #technology",
-              "url": "https://www.youtube.com/shorts/CqNBsMlZKa4",
-              "published": "2026-07-12T03:00:02Z",
-              "description": "Think about learning to ride a bike. When you go slow, it is almost impossible to balance, and every wobble makes you want to slow down even more. Speed up, and the balance suddenly comes to you. Kids fight this instinct constantly. They are sure that slower means safer, when the opposite is true.\n\nAI works the same way. Hanging back and moving cautiously feels like the responsible choice, but it is the one that leaves you wobbling and falling behind. The steadiness comes from leaning in and goi"
-            }
-          ],
-          "error": null
-        },
         {
           "creator": "Alex Finn",
           "handle": "@AlexFinn",
           "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
           "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Chase AI",
-          "handle": "@ChaseAI",
-          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
-          "videos": [
-            {
-              "title": "This Skill Turns Fable 5 & GPT 5.6 Into Web Design MONSTERS",
-              "url": "https://www.youtube.com/watch?v=KBH8P0z2AL8",
-              "published": "2026-07-11T17:42:39Z",
-              "description": "🚨Higgsfield: https://higgsfield.ai/s/cli-chase-h-ai-ejnlNI\n⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\n\nAnimated websites just became extremely easy with this skill that works with both claude code and the new GPT 5.6 Sol.\n\n\n⏰TIMESTAMPS:\n\n0:00 - Intro\n0:57 - The Skill\n2:36 - Demo\n9:18 - Outro\n\nRESOURCES FROM THIS VIDEO:\n➡️ Master"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Simon Scrapes",
-          "handle": "@SimonScrapes",
-          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
-          "videos": [
-            {
-              "title": "Stop Using Fable 5 in Claude Code (It’s Holding You Back)",
-              "url": "https://www.youtube.com/watch?v=d9XCX0PcOq0",
-              "published": "2026-07-12T16:00:29Z",
-              "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes\n👀 Be the brand AI recommends: https://dub.sh/rankspot-yt\nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\nFable 5 is becoming an API-billed model, and the costs can add up quickly if you're not careful. This video breaks down exactly which tasks are worth paying Fable rates for, and which ones aren't. We'll walk through every setting you need to change to stop your bill from quietly run"
-            },
-            {
-              "title": "12 Hidden Settings to Enable in Claude Code",
-              "url": "https://www.youtube.com/shorts/gYpZQsokf8U",
-              "published": "2026-07-11T19:39:08Z",
-              "description": "Claude Code offers hundreds of settings, but which ones actually matter? In this video, I'll walk you through 12 simple, one-line changes you can make to revolutionize your workflow. Forget complex code—we're covering everything from getting essential notifications and managing permissions to optimizing model costs and taking control of your data privacy."
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "AI Daily Brief",
-          "handle": "@AIDailyBrief",
-          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Paul J Lipsky",
-          "handle": "@PaulJLipsky",
-          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
-          "videos": [
-            {
-              "title": "Claude Cowork Finally Clicked When I Learned This",
-              "url": "https://www.youtube.com/watch?v=szWBwfPX30M",
-              "published": "2026-07-12T13:00:04Z",
-              "description": "Try Claude Cowork: http://clau.de/paul-j-lipsky\n🔗 This video is sponsored by Anthropic.\n\nClaude Cowork setup prompt: https://docs.google.com/document/d/1fi1pSlkBjZzvZA9r2oa-Nwud_cjz48E8xYv5S05zVdc/edit?usp=sharing\n\nClaude Cowork feels completely different once you understand how it works with local files. This video shows how to build a simple Cowork hub with standing instructions and transparent memory so Claude can work the way you do without making you repeat yourself.\n\n\n0:00 Intro\n0:53 Chat "
-            },
-            {
-              "title": "Claude Cowork Is Now On Mobile and Web (Here's How It Works)",
-              "url": "https://www.youtube.com/watch?v=kMy46Y8Cruc",
-              "published": "2026-07-11T13:00:28Z",
-              "description": "Claude Cowork now works on the web and your phone, but cloud tasks and local tasks behave differently. Here's how to sync Cowork tasks, access files on your computer remotely, and avoid starting a task in the wrong place.\n\nSome features in this video may not be available in your region or on your plan yet.\n\n0:00 Intro\n1:00 Claude Web vs Desktop\n2:06 How Cowork Tasks Sync\n2:50 Set Up Cloud Sync\n5:16 Accessing Local Files Remotely\n6:51 Cloud vs Local Tasks Explained\n7:46 Start a Remote-Ready Task\n"
-            }
-          ],
           "error": null
         },
         {
@@ -232,18 +179,112 @@
               "url": "https://www.youtube.com/watch?v=zyvdl__Ywfk",
               "published": "2026-07-12T13:35:26Z",
               "description": "Claim 2,000 FREE Clay credits here: https://bit.ly/4gzSl9L\nMy playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=claude-code-clay&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nFinding leads is the thing that blocks most"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Paul J Lipsky",
+          "handle": "@PaulJLipsky",
+          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
+          "videos": [
+            {
+              "title": "How To Master The New ChatGPT Work (Free Course)",
+              "url": "https://www.youtube.com/watch?v=mFysqIcP7So",
+              "published": "2026-07-13T13:00:06Z",
+              "description": "Download ChatGPT Work: https://chatgpt.com/download/\nThis video is not sponsored\n\nChatGPT Work can handle multi-step tasks with local files, plugins, scheduled workflows, a built-in browser, and Sites. This beginner tutorial shows you how to set it up, use its core tools, and understand when to choose Work instead of a regular ChatGPT chat.\n\nSome features in this video may not be available in your region or on your plan yet.\n\n0:00 Intro\n0:35 Getting Started\n1:39 Permissions and Settings\n3:33 Wor"
             },
             {
-              "title": "OpenArt Director: The New Way to Make AI Videos",
-              "url": "https://www.youtube.com/shorts/4fKn9O-YhtI",
-              "published": "2026-07-11T17:00:36Z",
-              "description": "OpenArt just launched vibe directing. Direct an entire video just by chatting, describe it, refine it, swap characters, and Director rebuilds it while keeping voices and style consistent. Up to 5 min of cinematic video in one go. Go to my Instagram, DM me \"VIBE\" and I'll send it over. Link's in bio.\n\n#ad #openartpartner"
+              "title": "Claude Cowork Finally Clicked When I Learned This",
+              "url": "https://www.youtube.com/watch?v=szWBwfPX30M",
+              "published": "2026-07-12T13:00:04Z",
+              "description": "Try Claude Cowork: http://clau.de/paul-j-lipsky\n🔗 This video is sponsored by @anthropic-ai \n\nClaude Cowork setup prompt: https://docs.google.com/document/d/1fi1pSlkBjZzvZA9r2oa-Nwud_cjz48E8xYv5S05zVdc/edit?usp=sharing\n\nClaude Cowork feels completely different once you understand how it works with local files. This video shows how to build a simple Cowork hub with standing instructions and transparent memory so Claude can work the way you do without making you repeat yourself.\n\n\n0:00 Intro\n0:53 C"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Chase AI",
+          "handle": "@ChaseAI",
+          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+          "videos": [
+            {
+              "title": "This Skill Turns Claude Into a Web Design MONSTER",
+              "url": "https://www.youtube.com/shorts/RXXRPyx6saQ",
+              "published": "2026-07-14T01:06:10Z",
+              "description": ""
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "NateBJones",
+          "handle": "@NateBJones",
+          "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
+          "videos": [
+            {
+              "title": "You can build your AI's memory just by talking. Here's the catch. #AI #aiagents #AImemory",
+              "url": "https://www.youtube.com/shorts/VOLWSC_XeZY",
+              "published": "2026-07-14T03:30:11Z",
+              "description": "A few months ago you could not do this. Today you can sit down, talk to the agent already on your computer, and it will build most of your own memory stack for you. I put it around eighty percent, and I have compared notes with other people building the same thing, so that is not a wild guess. The jump from February to now is genuinely wild.\n\nHere is the catch, and it is the whole reason the stack matters. An agent that is this good at acting on your intent will also act on the wrong version of "
             },
             {
-              "title": "Claude Code for Non-Coders (6 Hour Course)",
-              "url": "https://www.youtube.com/watch?v=jdbOVepEtUE",
-              "published": "2026-07-11T13:02:58Z",
-              "description": "My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=claude-code-for-normal-people&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nThis is a complete beginner course on becoming AI native with Claude Code, no coding back"
+              "title": "Your Next AI Subscription Shouldn't Be ChatGPT 5.6 Or Fable 5. It Should Be Both.",
+              "url": "https://www.youtube.com/watch?v=jOWXBzP6nNg",
+              "published": "2026-07-13T14:00:27Z",
+              "description": "Get Your Model Fit (Free). Tell it how you work, it hands you a model mix plus some \"think bigger\" prompts to give your work a boost: https://modelfit.natebjones.com/\n\nGPT-5.6 Sol is the dumber model on my benchmarks, and it is still the AI model I open every morning. Here is how to pick the model that fits how you actually work.\n\nFull post w/ Model Benchmarks:\nhttps://natesnewsletter.substack.com/p/pick-ai-model-how-you-work?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnSha"
+            },
+            {
+              "title": "Claude is quietly taking over your company's data #AI #Claude #Anthropic #data #enterprise",
+              "url": "https://www.youtube.com/shorts/EzVeeD_j8ko",
+              "published": "2026-07-13T03:00:31Z",
+              "description": "For decades the rule was simple: data is your edge. If you're serious, it's the thing nobody else has.\n\nSo it's worth sitting with what happens when you hand all of that data to a frontier model as context. Once Claude is living in your Slack as a team-level harness, sitting next to everything your team does, you are effectively renting your own context back to yourself. And the more useful it gets, the more impossible it becomes to rip out.\n\nThat's not an argument against using it. It's an argu"
+            },
+            {
+              "title": "Your Roadmap Is Why You're Losing to AI-Native Teams.",
+              "url": "https://www.youtube.com/watch?v=hYcOFTMesGc",
+              "published": "2026-07-12T16:00:37Z",
+              "description": "Full post w/ links to the tools:\nhttps://natesnewsletter.substack.com/p/ai-native-company-rules?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nAI made it cheap to build almost anything. Most companies still ship at the old pace, and it isn't because their AI is worse than Anthropic's or OpenAI's. The real difference is what they've moved out of meetings and documents and into working code.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: http"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Simon Scrapes",
+          "handle": "@SimonScrapes",
+          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
+          "videos": [
+            {
+              "title": "Claude Code Masterclass for People Who Don’t Code",
+              "url": "https://www.youtube.com/shorts/RtkBqSscpf8",
+              "published": "2026-07-14T09:00:52Z",
+              "description": "Claude Code is one of the most powerful tools for business automation, but it can be intimidating if you don't have a coding background. This is the complete guide for people who don't code, updated for 2026. Forget the confusing jargon; we're giving you the 20% of Claude Code's features that will deliver 80% of the value, all in plain English."
+            },
+            {
+              "title": "Stop Using Fable 5 in Claude Code (It’s Holding You Back)",
+              "url": "https://www.youtube.com/watch?v=d9XCX0PcOq0",
+              "published": "2026-07-12T16:00:29Z",
+              "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes\n👀 Be the brand AI recommends: https://dub.sh/rankspot-yt\nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\nFable 5 is becoming an API-billed model, and the costs can add up quickly if you're not careful. This video breaks down exactly which tasks are worth paying Fable rates for, and which ones aren't. We'll walk through every setting you need to change to stop your bill from quietly run"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "AI Daily Brief",
+          "handle": "@AIDailyBrief",
+          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
+          "videos": [
+            {
+              "title": "How to Help People Thrive with AI",
+              "url": "https://www.youtube.com/watch?v=bl76qV0xwec",
+              "published": "2026-07-13T23:09:01Z",
+              "description": "AI can eliminate tedious work, but its real promise is helping people stretch their capabilities and pursue things that weren’t possible before. From the risk of “AI brain fry” to Uber’s agentic pods, NLW explores how organizations can turn productivity gains into human growth and entirely new forms of work.\n\nThe AI Daily Brief helps you understand the most important news and discussions in AI. \nSubscribe to the podcast version of The AI Daily Brief wherever you listen: https://pod.link/16806336"
+            },
+            {
+              "title": "Anthropic Can Now Read Claude's Mind",
+              "url": "https://www.youtube.com/watch?v=TgOpdC2HrE8",
+              "published": "2026-07-13T13:58:26Z",
+              "description": "UN leaders called for a ban on autonomous weapons and introduced a child safety pledge to hold AI developers accountable. Anthropic revealed a J-Lens tool to read and edit Claude's private reasoning, exposing a small \"J-space\" of reportable concepts driving model decisions. Policy and market moves included Illinois' new AI audit law, China's chatbot limits, rapid growth in training-data firms, and debate over NVIDIA hardware timelines.\n\nThe AI Daily Brief helps you understand the most important "
             }
           ],
           "error": null
@@ -646,8 +687,594 @@
     "m365_roadmap": {
       "source_url": "https://www.microsoft.com/microsoft-365/roadmap",
       "data_url": "https://www.microsoft.com/releasecommunications/api/v1/m365",
-      "items": [],
-      "total_updates": 0,
+      "items": [
+        {
+          "id": 566302,
+          "title": "Microsoft Viva: Copilot Analytics - Insights in Cowork and WorkIQ spend and usage",
+          "description": "Insights into AI spend (Copilot credit usage) at a group or team level will be available in Viva Insights as a dashboard and in Advanced insights. The services in scope of this release are Cowork and Work IQ API. The dashboard experience is available to managers with at least 5 direct reports (scoped access), the Insights analysts, and Global administrators and is enabled by default to ensure immediate access to usage-based cost insights. For users to be able to use Cowork or WorkIQ API, your te",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2026-06-19T22:15:36",
+          "modified": "2026-07-13T23:07:14",
+          "ga_date": "June CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Viva",
+            "Microsoft Copilot (Microsoft 365)"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=566302"
+        },
+        {
+          "id": 564617,
+          "title": "Microsoft Purview: Information Protection - Rights Management connector – Certificate-based authentication",
+          "description": "The Microsoft Rights Management (RMS) connector is moving from shared-secret authentication to certificate-based authentication, improving its security posture. With this update, administrators configure their own Microsoft Entra app registration and certificate, then use the new PowerShell module to configure the certificate for each workload (Connector, Exchange, SharePoint, and FCI). New PowerShell cmdlets handle certificate import, registry configuration, private-key permissions, and validat",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-06-03T23:00:57",
+          "modified": "2026-07-13T23:07:14",
+          "ga_date": "September CY2026",
+          "preview_date": "July CY2026",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=564617"
+        },
+        {
+          "id": 561916,
+          "title": "Microsoft Purview: Data Loss Prevention - Granular classification error controls (Exchange online) ",
+          "description": "Granular Protections for Exchange Online is available in public preview. This release gives administrators fine-grained control to create DLP policies based on specific classification or text extraction failure types — such as timeout, throttling and other scan errors — rather than one blanket policy for all failure conditions.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-05-11T23:15:11",
+          "modified": "2026-07-13T23:07:14",
+          "ga_date": "August CY2026",
+          "preview_date": "July CY2026",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=561916"
+        },
+        {
+          "id": 561492,
+          "title": "Microsoft Purview: eDiscovery – Enhancement of Loop and Copilot Pages in Review and Export",
+          "description": "Improves eDiscovery workflows for Loop and Copilot pages by enabling full indexing of page content for keyword search within review sets and adding HTML format support for export from search.",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2026-05-06T23:15:10",
+          "modified": "2026-07-13T23:07:14",
+          "ga_date": "June CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)",
+            "GCC",
+            "GCC High",
+            "DoD"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=561492"
+        },
+        {
+          "id": 560325,
+          "title": "Microsoft Purview: Data Security Investigations – notification and improved search capabilities",
+          "description": "We're introducing notification capabilities and search improvements to Microsoft Purview Data Security Investigations. Investigators will receive notifications when key investigation events occur, such as when AI jobs complete or when new data is added to scope. Search improvements include enhanced query building to more easily identify potentially impacted data",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2026-04-16T23:15:53",
+          "modified": "2026-07-13T23:07:14",
+          "ga_date": "June CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=560325"
+        },
+        {
+          "id": 559613,
+          "title": "Microsoft Copilot (Microsoft 365): Copilot Chat can now better match search results from Scanned PDFs and from text inside images embedded in Word, Excel, and PowerPoint",
+          "description": "Copilot Chat can now better match search results from Scanned PDFs and from text that appears inside images embedded in Word, Excel, and PowerPoint files — such as scanned contracts in Word, screenshots of tables in Excel, or whiteboard photos in PowerPoint — content that was previously difficult to search and find.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-04-13T23:15:13",
+          "modified": "2026-07-13T23:07:14",
+          "ga_date": "August CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Copilot (Microsoft 365)"
+          ],
+          "platforms": [
+            "Android",
+            "Desktop",
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=559613"
+        },
+        {
+          "id": 558853,
+          "title": "Microsoft Teams: Entra passwordless resource account support for Teams Rooms on Windows devices",
+          "description": "Teams rooms on Windows supports Entra Resource Accounts for secure, passwordless sign-in that separates device and user identities. IT admins can migrate to Entra accounts easily with the migration wizard, and track progress using a dashboard in the Pro Management portal.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-04-08T23:00:03",
+          "modified": "2026-07-13T23:07:14",
+          "ga_date": "August CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Android",
+            "Teams and Surface Devices"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)",
+            "GCC",
+            "GCC High"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=558853"
+        },
+        {
+          "id": 557983,
+          "title": "SharePoint: Updates to SharePoint home sites",
+          "description": "SharePoint home sites are getting the following new updates - A resources web part, a new UX to customize the SharePoint app (Viva Connections) experience for Teams desktop and mobile and ability to set up a new home site in the SharePoint admin center. Additionally, the Announcements web part and a new layout for News web part will be available in all sites.",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2026-02-26T23:45:10",
+          "modified": "2026-07-13T23:07:14",
+          "ga_date": "April CY2026",
+          "preview_date": "",
+          "products": [
+            "SharePoint"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Targeted Release"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)",
+            "GCC",
+            "GCC High"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=557983"
+        },
+        {
+          "id": 512428,
+          "title": "Microsoft Copilot (Microsoft 365): Copilot connectors are available for U.S. Department of Defense environment",
+          "description": "Copilot connectors enable organizations to integrate content from  other external data sources into Microsoft Graph, improving Copilot’s intelligence, contextual responses, and content discoverability",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2026-01-30T23:15:49",
+          "modified": "2026-07-13T23:07:14",
+          "ga_date": "June CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft 365 admin center",
+            "Microsoft Copilot (Microsoft 365)"
+          ],
+          "platforms": [
+            "Desktop"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "DoD"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=512428"
+        },
+        {
+          "id": 553136,
+          "title": "Microsoft Copilot (Microsoft 365): Surveys Agent and Copilot Chat in Microsoft Forms",
+          "description": "Microsoft 365 Copilot Chat is now integrated in Microsoft Forms, including enabling the Surveys Agent from within Forms. Surveys Agent provides specialized capabilities to help with your form - from recommending and applying improvements to your form or quiz, to helping draft and send invitations, to analyzing your results. Surveys Agent is available to users with a Microsoft 365 Copilot license, and can be accessed by clicking the \"Copilot\" icon in Forms.",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2026-01-29T00:15:19",
+          "modified": "2026-07-13T23:07:14",
+          "ga_date": "May CY2026",
+          "preview_date": "",
+          "products": [
+            "Forms",
+            "Microsoft Copilot (Microsoft 365)"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=553136"
+        },
+        {
+          "id": 545013,
+          "title": "SharePoint: Microsoft 365 Archive in GCC-L",
+          "description": "Microsoft 365 Archive is designed to help organizations manage their inactive data efficiently. It allows you to move inactive SharePoint sites into a cold storage tier, which reduces storage costs while maintaining the same searchability, security, and compliance standards as active data. This feature is already available in Production and is now being released to GCC-L cloud.",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2026-01-22T00:00:09",
+          "modified": "2026-07-13T23:07:14",
+          "ga_date": "June CY2026",
+          "preview_date": "",
+          "products": [
+            "SharePoint"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "GCC"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=545013"
+        },
+        {
+          "id": 545063,
+          "title": "Microsoft Purview: Insider Risk Management- Insider risk management for agents",
+          "description": "As AI agents become deeply embedded in enterprise ecosystems, they are evolving beyond simple tools or workflows into a digital workforce. These agents can interpret intent, access and manipulate enterprise data, execute actions and even make real-time decisions. In many ways, they operate like human insiders only with machine-speed data processing capabilities. \n\nTo govern and protect these agents effectively, Microsoft Purview Insider Risk Management is being expanded to agents, with specific ",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-01-06T23:45:19",
+          "modified": "2026-07-13T23:07:14",
+          "ga_date": "October CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "GCC",
+            "GCC High",
+            "DoD"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=545063"
+        },
+        {
+          "id": 516032,
+          "title": "Microsoft Purview: Insider Risk Management-Insider risk management for agents",
+          "description": "As AI agents become deeply embedded in enterprise ecosystems, they are evolving beyond simple tools or workflows into a digital workforce. These agents can interpret intent, access and manipulate enterprise data, execute actions and even make real-time decisions. In many ways, they operate like human insiders only with machine-speed data processing capabilities. To govern and protect these agents effectively, Microsoft Purview Insider Risk Management is being expanded to agents, with specific in",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2025-12-11T00:00:03",
+          "modified": "2026-07-13T23:07:14",
+          "ga_date": "June CY2026",
+          "preview_date": "December CY2025",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=516032"
+        },
+        {
+          "id": 503587,
+          "title": "Microsoft Copilot (Microsoft 365): Admins can manage access more precisely with support for nested permissions in Jira, Confluence, and ServiceNow",
+          "description": "Support for hierarchical ACLs for SNOW, Confluence, Jira connectors.",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2025-12-04T00:00:38",
+          "modified": "2026-07-13T23:07:14",
+          "ga_date": "April CY2026",
+          "preview_date": "March CY2026",
+          "products": [
+            "Microsoft Copilot (Microsoft 365)"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=503587"
+        },
+        {
+          "id": 526796,
+          "title": "Microsoft Purview: Information Protection- New Summary Metrics in Content Explorer for Unscanned Files and Classification History Details",
+          "description": "Enhance Content Explorer by introducing new summary metrics that provide better visibility into scanning and classification activities. This update will include:\n1. Unscanned Files Summary\nDisplays the count and percentage of files that have not been scanned for classification, helping admins identify gaps and take corrective action.\n2. Classification History Insights\nShows trends and details of classification changes over time, helping admins to discover the stale data in their organization",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2025-11-07T00:30:39",
+          "modified": "2026-07-13T23:07:14",
+          "ga_date": "November CY2026",
+          "preview_date": "September CY2026",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=526796"
+        },
+        {
+          "id": 515144,
+          "title": "Microsoft Copilot (Microsoft 365): Engage private content in M365 Copilot",
+          "description": "Engage content from private communities and events will be used as grounding source for M365 Copilot. When a user queries in M365 Copilot, they will only be able to see content they are privileged to access.",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2025-11-05T00:00:26",
+          "modified": "2026-07-13T23:07:14",
+          "ga_date": "May CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Viva",
+            "Microsoft Copilot (Microsoft 365)"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=515144"
+        },
+        {
+          "id": 500872,
+          "title": "Microsoft Copilot (Microsoft 365): Export Copilot metrics in the Copilot Dashboard ",
+          "description": "This enables users to export row-level Copilot metrics from the Copilot Dashboard for reporting and deeper analysis.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2025-10-16T23:15:52",
+          "modified": "2026-07-13T23:07:14",
+          "ga_date": "August CY2026",
+          "preview_date": "December CY2025",
+          "products": [
+            "Microsoft Viva",
+            "Microsoft Copilot (Microsoft 365)"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=500872"
+        },
+        {
+          "id": 503563,
+          "title": "Microsoft 365 admin center: Organizational Messages now supports Action Segments",
+          "description": "Action Segments empowers IT Admins to target Organizational Messages using dynamic, pre-defined usage segments. This behavior-based targeting approach goes beyond existing static group definitions, ensuring messages reach the most relevant users.",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2025-10-06T23:00:40",
+          "modified": "2026-07-13T23:07:14",
+          "ga_date": "May CY2026",
+          "preview_date": "December CY2025",
+          "products": [
+            "Microsoft 365 admin center"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=503563"
+        },
+        {
+          "id": 496596,
+          "title": "Microsoft Copilot (Microsoft 365): Content Sources in Copilot Chat",
+          "description": "Users will able to select content sources on Copilot Chat. When users select content sources the responses generated will be limited to content from the selected sources.",
+          "status": "Rolling out",
+          "change_type": "updated",
+          "created": "2025-06-12T23:00:59",
+          "modified": "2026-07-13T23:07:14",
+          "ga_date": "July CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Copilot (Microsoft 365)"
+          ],
+          "platforms": [
+            "Desktop",
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=496596"
+        },
+        {
+          "id": 496371,
+          "title": "Outlook: add attachments while offline in the new Outlook for Windows",
+          "description": "We are adding more functionality to offline mode in the new Outlook for Windows. You will now be able to add attachments while drafting your email without an internet connection. #newoutlookforwindows",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2025-06-10T23:00:26",
+          "modified": "2026-07-13T23:07:14",
+          "ga_date": "October CY2025",
+          "preview_date": "",
+          "products": [
+            "Outlook"
+          ],
+          "platforms": [
+            "Desktop"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Targeted Release"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)",
+            "GCC"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=496371"
+        },
+        {
+          "id": 494839,
+          "title": "Microsoft Purview compliance portal: Scanner data export for custom reporting",
+          "description": "Learn about the state of your scanned repositories and create custom reports with the information protection scanner. Labeling, classification and protection actions on scanned files are stored in SQL tables that form a foundation to feed into custom reports.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2025-05-22T23:15:53",
+          "modified": "2026-07-13T23:07:14",
+          "ga_date": "September CY2026",
+          "preview_date": "May CY2026",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Desktop"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)",
+            "GCC",
+            "GCC High"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=494839"
+        },
+        {
+          "id": 381750,
+          "title": "Microsoft Purview compliance portal: Data Loss Prevention for endpoints - Optical character recognition (OCR) support for embedded images in endpoint",
+          "description": "This release will extend OCR support from standalone images (JPEG, JPG, PNG, BMP, TIFF, and PDF) to images embedded inside the following files and file types: Office files (XLSX, DOCX, PPTX), container files (zip, rar, 7z, and more), and PDF files. Image-only PDF files are already supported, and this this release will support hybrid PDF files containing images and searchable text. Updated May 20, 2026: We have paused rollout and will resume soon. Thank you for your patience.",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2024-02-28T00:45:58",
+          "modified": "2026-07-13T23:07:14",
+          "ga_date": "June CY2026",
+          "preview_date": "April CY2026",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=381750"
+        },
+        {
+          "id": 160008,
+          "title": "Microsoft Purview compliance portal: Data Loss Prevention - Optical character recognition (OCR) support for endpoint",
+          "description": "Optical character recognition (OCR) support will detect sensitive content in images and subsequently apply data loss prevention (DLP) policies to prevent exfiltration of that sensitive data on your Windows endpoint devices. This release supports key file types like JPG, JPEG, PNG, TIFF, BMP and PDF (image only PDF).",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2023-08-04T22:05:23",
+          "modified": "2026-07-13T23:07:14",
+          "ga_date": "October CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "GCC",
+            "GCC High",
+            "DoD"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=160008"
+        }
+      ],
+      "total_updates": 23,
       "error": null
     }
   },
