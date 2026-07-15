@@ -1,21 +1,20 @@
 {
-  "generated_at": "2026-07-14T11:30:25.521003Z",
+  "generated_at": "2026-07-15T11:31:18.628350Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
         {
-          "creator": "VentureToRoam",
-          "handle": "@VentureToRoam",
-          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "Epic Adventure Outfitters",
           "handle": "@EpicAdventureOutfitters",
           "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
           "videos": [
+            {
+              "title": "When do you use Air Bag suspension?...#SuspensionUpgrade #overlanding #jeep",
+              "url": "https://www.youtube.com/shorts/a0HfzB05VaA",
+              "published": "2026-07-14T19:00:01Z",
+              "description": ""
+            },
             {
               "title": "Jeep, Just Put a V8 in the Gladiator Already!",
               "url": "https://www.youtube.com/watch?v=gqvUmke6CLI",
@@ -27,35 +26,29 @@
               "url": "https://www.youtube.com/shorts/IfcOdSrAMq4",
               "published": "2026-07-13T19:00:30Z",
               "description": ""
-            },
-            {
-              "title": "Which springs for a heavy overland build?...#SuspensionUpgrade #overlanding #jeep",
-              "url": "https://www.youtube.com/shorts/g4YsuDalsDQ",
-              "published": "2026-07-12T19:00:36Z",
-              "description": ""
             }
           ],
           "error": null
         },
         {
-          "creator": "Life Style Overland",
-          "handle": "@LifeStyleOverland",
-          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
+          "creator": "VentureToRoam",
+          "handle": "@VentureToRoam",
+          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
           "videos": [],
           "error": null
         },
         {
-          "creator": "This Story Till Now",
-          "handle": "@ThisStoryTillNow",
-          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
-          "videos": [
-            {
-              "title": "LONGEST Overland Route in TEXAS!",
-              "url": "https://www.youtube.com/watch?v=m94GBx4nB0c",
-              "published": "2026-07-13T16:00:29Z",
-              "description": "SUBSCRIBE TO TSTN MAGAZINE ($11.40 a month including delivery, no charge until we launch!): http://subscribe.tstnmag.com\n\nSign up with my link and save 20% on OnX Off-Road: https://bit.ly/onxoffroadtstn\n\nMERCH: http://www.tstn.shop\n\nFor our 4th Bucket Trip last year, I set out with @TrailRecon to Texas, where we were determined to answer the question - can you overland in Texas!? This is the movie version of that journey.\n\nSave 20% on XLANDR Sunglasses CODE: TSTN20 at checkout: https://bit.ly/42"
-            }
-          ],
+          "creator": "LetsGetLost",
+          "handle": "@LetsGetLost",
+          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Casey 250",
+          "handle": "@Casey250",
+          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
+          "videos": [],
           "error": null
         },
         {
@@ -66,9 +59,9 @@
           "error": null
         },
         {
-          "creator": "LetsGetLost",
-          "handle": "@LetsGetLost",
-          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
+          "creator": "Life Style Overland",
+          "handle": "@LifeStyleOverland",
+          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
           "videos": [],
           "error": null
         },
@@ -87,14 +80,35 @@
           "error": null
         },
         {
-          "creator": "Casey 250",
-          "handle": "@Casey250",
-          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
-          "videos": [],
+          "creator": "This Story Till Now",
+          "handle": "@ThisStoryTillNow",
+          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "videos": [
+            {
+              "title": "LONGEST Overland Route in TEXAS!",
+              "url": "https://www.youtube.com/watch?v=m94GBx4nB0c",
+              "published": "2026-07-13T16:00:29Z",
+              "description": "SUBSCRIBE TO TSTN MAGAZINE ($11.40 a month including delivery, no charge until we launch!): http://subscribe.tstnmag.com\n\nSign up with my link and save 20% on OnX Off-Road: https://bit.ly/onxoffroadtstn\n\nMERCH: http://www.tstn.shop\n\nFor our 4th Bucket Trip last year, I set out with @TrailRecon to Texas, where we were determined to answer the question - can you overland in Texas!? This is the movie version of that journey.\n\nSave 20% on XLANDR Sunglasses CODE: TSTN20 at checkout: https://bit.ly/42"
+            }
+          ],
           "error": null
         }
       ],
       "power_platform": [
+        {
+          "creator": "Reza Dorrani",
+          "handle": "@RezaDorrani",
+          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
+          "videos": [
+            {
+              "title": "Customize SharePoint List Forms with AI | Power Apps Canvas MCP Server (Full Tutorial)",
+              "url": "https://www.youtube.com/watch?v=lQxM9X2LcbE",
+              "published": "2026-07-13T12:00:29Z",
+              "description": "🚀 Customize SharePoint List Forms with AI using the Power Apps Canvas Apps Authoring MCP Server and Claude Code. Learn how to build a beautiful, modern SharePoint form experience with AI—from start to finish.\n\nIn this full tutorial, I take a standard SharePoint Asset Management list form and transform it into a modern Power Apps experience entirely using AI. Every enhancement—from the layout and styling to the navigation and Power Fx—is generated through natural language prompts using the Canvas"
+            }
+          ],
+          "error": null
+        },
         {
           "creator": "Shane Young",
           "handle": "@ShanesCows",
@@ -110,6 +124,13 @@
           "error": null
         },
         {
+          "creator": "Matthew Devaney",
+          "handle": "@MatthewDevaney",
+          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
+          "videos": [],
+          "error": null
+        },
+        {
           "creator": "Lisa Crosbie",
           "handle": "@LisaCrosbie",
           "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
@@ -121,27 +142,6 @@
           "handle": "@AprilDunnam",
           "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
           "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Matthew Devaney",
-          "handle": "@MatthewDevaney",
-          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Reza Dorrani",
-          "handle": "@RezaDorrani",
-          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
-          "videos": [
-            {
-              "title": "Customize SharePoint List Forms with AI | Power Apps Canvas MCP Server (Full Tutorial)",
-              "url": "https://www.youtube.com/watch?v=lQxM9X2LcbE",
-              "published": "2026-07-13T12:00:29Z",
-              "description": "🚀 Customize SharePoint List Forms with AI using the Power Apps Canvas Apps Authoring MCP Server and Claude Code. Learn how to build a beautiful, modern SharePoint form experience with AI—from start to finish.\n\nIn this full tutorial, I take a standard SharePoint Asset Management list form and transform it into a modern Power Apps experience entirely using AI. Every enhancement—from the layout and styling to the navigation and Power Fx—is generated through natural language prompts using the Canvas"
-            }
-          ],
           "error": null
         }
       ],
@@ -157,7 +157,14 @@
           "creator": "Guy in a Cube",
           "handle": "@GuyInACube",
           "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
-          "videos": [],
+          "videos": [
+            {
+              "title": "We're Going to Barcelona! Join Us at FabCon + SQLCon Europe 2026",
+              "url": "https://www.youtube.com/watch?v=dat6FxSAxNM",
+              "published": "2026-07-14T14:00:35Z",
+              "description": "Ready to join Patrick and Adam in Barcelona?\n\n👉 Register here: https://aka.ms/fabconeu\n\n🎟️ Save €200 on your registration using the promo code:\nCUBE200\n\nWe'll be at FabCon + SQLCon Europe 2026, and we'd love to meet you in person. Whether you've chatted with us in the comments, joined a livestream, or watched Guy in a Cube for years, this is your chance to connect face-to-face with the community.\n\nFabCon + SQLCon Europe bring together thousands of data professionals for four days of learning, ne"
+            }
+          ],
           "error": null
         }
       ],
@@ -170,15 +177,41 @@
           "error": null
         },
         {
+          "creator": "NateBJones",
+          "handle": "@NateBJones",
+          "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
+          "videos": [
+            {
+              "title": "GLM 5.2 is great ... but #AI #GLM #Claude #OpenAI #Anthropic",
+              "url": "https://www.youtube.com/shorts/ZsN4hEtOxzs",
+              "published": "2026-07-15T03:00:04Z",
+              "description": "GLM 5.2 is genuinely, seriously good. It is free, and on most real work it matches or beats Claude. On paper, this is the model everyone should be running by Monday.\n\nBut. There are engineers spending eighty thousand dollars a week in tokens who could cut that bill overnight, and they are not switching. Anthropic and OpenAI keep growing revenue like GLM does not exist. That is the puzzle.\n\nI broke down why GLM 5.2 keeps losing this fight despite the price here: https://nateszerotoai.substack.com"
+            },
+            {
+              "title": "You can build your AI's memory just by talking. Here's the catch. #AI #aiagents #AImemory",
+              "url": "https://www.youtube.com/shorts/VOLWSC_XeZY",
+              "published": "2026-07-14T03:30:11Z",
+              "description": "A few months ago you could not do this. Today you can sit down, talk to the agent already on your computer, and it will build most of your own memory stack for you. I put it around eighty percent, and I have compared notes with other people building the same thing, so that is not a wild guess. The jump from February to now is genuinely wild.\n\nHere is the catch, and it is the whole reason the stack matters. An agent that is this good at acting on your intent will also act on the wrong version of "
+            },
+            {
+              "title": "Your Next AI Subscription Shouldn't Be ChatGPT 5.6 Or Fable 5. It Should Be Both.",
+              "url": "https://www.youtube.com/watch?v=jOWXBzP6nNg",
+              "published": "2026-07-13T14:00:27Z",
+              "description": "Get Your Model Fit (Free). Tell it how you work, it hands you a model mix plus some \"think bigger\" prompts to give your work a boost: https://modelfit.natebjones.com/\n\nGPT-5.6 Sol is the dumber model on my benchmarks, and it is still the AI model I open every morning. Here is how to pick the model that fits how you actually work.\n\nFull post w/ Model Benchmarks:\nhttps://natesnewsletter.substack.com/p/pick-ai-model-how-you-work?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnSha"
+            }
+          ],
+          "error": null
+        },
+        {
           "creator": "Nate Herk",
           "handle": "@NateHerk",
           "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
           "videos": [
             {
-              "title": "Claude Code + Clay Makes Lead Generation Actually Fun",
-              "url": "https://www.youtube.com/watch?v=zyvdl__Ywfk",
-              "published": "2026-07-12T13:35:26Z",
-              "description": "Claim 2,000 FREE Clay credits here: https://bit.ly/4gzSl9L\nMy playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=claude-code-clay&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nFinding leads is the thing that blocks most"
+              "title": "The $200K AI Job That Didn't Exist Last Year",
+              "url": "https://www.youtube.com/watch?v=eFOTQpbGcy8",
+              "published": "2026-07-14T12:19:51Z",
+              "description": "My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=200k-ai-job&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nThe $200K AI Job That Didn't Exist Last Year is real, and most people will miss it until it's too late. Twe"
             }
           ],
           "error": null
@@ -193,12 +226,6 @@
               "url": "https://www.youtube.com/watch?v=mFysqIcP7So",
               "published": "2026-07-13T13:00:06Z",
               "description": "Download ChatGPT Work: https://chatgpt.com/download/\nThis video is not sponsored\n\nChatGPT Work can handle multi-step tasks with local files, plugins, scheduled workflows, a built-in browser, and Sites. This beginner tutorial shows you how to set it up, use its core tools, and understand when to choose Work instead of a regular ChatGPT chat.\n\nSome features in this video may not be available in your region or on your plan yet.\n\n0:00 Intro\n0:35 Getting Started\n1:39 Permissions and Settings\n3:33 Wor"
-            },
-            {
-              "title": "Claude Cowork Finally Clicked When I Learned This",
-              "url": "https://www.youtube.com/watch?v=szWBwfPX30M",
-              "published": "2026-07-12T13:00:04Z",
-              "description": "Try Claude Cowork: http://clau.de/paul-j-lipsky\n🔗 This video is sponsored by @anthropic-ai \n\nClaude Cowork setup prompt: https://docs.google.com/document/d/1fi1pSlkBjZzvZA9r2oa-Nwud_cjz48E8xYv5S05zVdc/edit?usp=sharing\n\nClaude Cowork feels completely different once you understand how it works with local files. This video shows how to build a simple Cowork hub with standing instructions and transparent memory so Claude can work the way you do without making you repeat yourself.\n\n\n0:00 Intro\n0:53 C"
             }
           ],
           "error": null
@@ -209,42 +236,22 @@
           "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
           "videos": [
             {
+              "title": "Claude Can One shot animated websites with this skill",
+              "url": "https://www.youtube.com/shorts/6jNuGP5SdCM",
+              "published": "2026-07-15T02:51:57Z",
+              "description": ""
+            },
+            {
+              "title": "How I Turned Claude Into My Personal Assistant (Complete System)",
+              "url": "https://www.youtube.com/watch?v=gUv7VqcRzok",
+              "published": "2026-07-15T00:49:14Z",
+              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nTurning Claude into your personal assistant is one of the easiest ways to give yourself 5-10 hours back each week. In this video, I show you my setup so you can learn how to create it yourself.\n\n⏰TIMESTAMPS:\n\n0:00 - Intro\n1:07 - Productivity / Sales\n6:39 - Research\n12:44 - Content\n17:15"
+            },
+            {
               "title": "This Skill Turns Claude Into a Web Design MONSTER",
               "url": "https://www.youtube.com/shorts/RXXRPyx6saQ",
               "published": "2026-07-14T01:06:10Z",
               "description": ""
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "NateBJones",
-          "handle": "@NateBJones",
-          "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
-          "videos": [
-            {
-              "title": "You can build your AI's memory just by talking. Here's the catch. #AI #aiagents #AImemory",
-              "url": "https://www.youtube.com/shorts/VOLWSC_XeZY",
-              "published": "2026-07-14T03:30:11Z",
-              "description": "A few months ago you could not do this. Today you can sit down, talk to the agent already on your computer, and it will build most of your own memory stack for you. I put it around eighty percent, and I have compared notes with other people building the same thing, so that is not a wild guess. The jump from February to now is genuinely wild.\n\nHere is the catch, and it is the whole reason the stack matters. An agent that is this good at acting on your intent will also act on the wrong version of "
-            },
-            {
-              "title": "Your Next AI Subscription Shouldn't Be ChatGPT 5.6 Or Fable 5. It Should Be Both.",
-              "url": "https://www.youtube.com/watch?v=jOWXBzP6nNg",
-              "published": "2026-07-13T14:00:27Z",
-              "description": "Get Your Model Fit (Free). Tell it how you work, it hands you a model mix plus some \"think bigger\" prompts to give your work a boost: https://modelfit.natebjones.com/\n\nGPT-5.6 Sol is the dumber model on my benchmarks, and it is still the AI model I open every morning. Here is how to pick the model that fits how you actually work.\n\nFull post w/ Model Benchmarks:\nhttps://natesnewsletter.substack.com/p/pick-ai-model-how-you-work?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnSha"
-            },
-            {
-              "title": "Claude is quietly taking over your company's data #AI #Claude #Anthropic #data #enterprise",
-              "url": "https://www.youtube.com/shorts/EzVeeD_j8ko",
-              "published": "2026-07-13T03:00:31Z",
-              "description": "For decades the rule was simple: data is your edge. If you're serious, it's the thing nobody else has.\n\nSo it's worth sitting with what happens when you hand all of that data to a frontier model as context. Once Claude is living in your Slack as a team-level harness, sitting next to everything your team does, you are effectively renting your own context back to yourself. And the more useful it gets, the more impossible it becomes to rip out.\n\nThat's not an argument against using it. It's an argu"
-            },
-            {
-              "title": "Your Roadmap Is Why You're Losing to AI-Native Teams.",
-              "url": "https://www.youtube.com/watch?v=hYcOFTMesGc",
-              "published": "2026-07-12T16:00:37Z",
-              "description": "Full post w/ links to the tools:\nhttps://natesnewsletter.substack.com/p/ai-native-company-rules?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nAI made it cheap to build almost anything. Most companies still ship at the old pace, and it isn't because their AI is worse than Anthropic's or OpenAI's. The real difference is what they've moved out of meetings and documents and into working code.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: http"
             }
           ],
           "error": null
@@ -259,12 +266,6 @@
               "url": "https://www.youtube.com/shorts/RtkBqSscpf8",
               "published": "2026-07-14T09:00:52Z",
               "description": "Claude Code is one of the most powerful tools for business automation, but it can be intimidating if you don't have a coding background. This is the complete guide for people who don't code, updated for 2026. Forget the confusing jargon; we're giving you the 20% of Claude Code's features that will deliver 80% of the value, all in plain English."
-            },
-            {
-              "title": "Stop Using Fable 5 in Claude Code (It’s Holding You Back)",
-              "url": "https://www.youtube.com/watch?v=d9XCX0PcOq0",
-              "published": "2026-07-12T16:00:29Z",
-              "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes\n👀 Be the brand AI recommends: https://dub.sh/rankspot-yt\nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\nFable 5 is becoming an API-billed model, and the costs can add up quickly if you're not careful. This video breaks down exactly which tasks are worth paying Fable rates for, and which ones aren't. We'll walk through every setting you need to change to stop your bill from quietly run"
             }
           ],
           "error": null
@@ -274,6 +275,12 @@
           "handle": "@AIDailyBrief",
           "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
           "videos": [
+            {
+              "title": "How the Escalating AI Wars Benefit You",
+              "url": "https://www.youtube.com/watch?v=jZfJ2obqT-s",
+              "published": "2026-07-14T11:35:17Z",
+              "description": "Apple’s lawsuit against OpenAI signals an AI race expanding beyond models into hardware, efficiency and control. NLW explains how the escalating competition is producing better models, higher usage limits and lower costs for users—and why the opportunity may not last. In the headlines: the White House weighs action on Chinese open-source AI and the UAE gains greater access to advanced US chips.\nThe AI Daily Brief helps you understand the most important news and discussions in AI. \nSubscribe to t"
+            },
             {
               "title": "How to Help People Thrive with AI",
               "url": "https://www.youtube.com/watch?v=bl76qV0xwec",
@@ -688,6 +695,701 @@
       "source_url": "https://www.microsoft.com/microsoft-365/roadmap",
       "data_url": "https://www.microsoft.com/releasecommunications/api/v1/m365",
       "items": [
+        {
+          "id": 567671,
+          "title": "Planner: Planner Agent chat in Basic Plans",
+          "description": "Introducing built-in Planner Agent chat with natural language Q&A, smart task discovery, and in-plan task management.",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-07-14T22:41:38",
+          "modified": "2026-07-14T22:41:38",
+          "ga_date": "August CY2026",
+          "preview_date": "",
+          "products": [
+            "Planner",
+            "Microsoft Copilot (Microsoft 365)"
+          ],
+          "platforms": [
+            "Desktop",
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Targeted Release"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567671"
+        },
+        {
+          "id": 567669,
+          "title": "SharePoint: Enterprise store plugins in Copilot in SharePoint",
+          "description": "Copilot in SharePoint now supports plugins from your enterprise store. A plugin can bundle skills, MCP servers, and other capabilities that extend what Copilot can do. Any plugin made available to your organization, whether installed tenant-wide by an admin or added by you, works directly in Copilot in SharePoint, all governed by your M365 admin.\n\nFor example, your organization can publish a company-wide accessibility plugin once and have it work consistently across all agentic products, includi",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-07-14T22:41:38",
+          "modified": "2026-07-14T22:41:38",
+          "ga_date": "December CY2026",
+          "preview_date": "August CY2026",
+          "products": [
+            "SharePoint"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567669"
+        },
+        {
+          "id": 567668,
+          "title": "SharePoint: Personal Skills in Copilot in SharePoint",
+          "description": "Create your own personal skills in Copilot in SharePoint and use them anywhere you work. Personal skills travel with you across SharePoint sites and OneDrive—so a skill like document generation works everywhere without recreating it per site. You own your skills, saved as a markdown file in your OneDrive.",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-07-14T22:41:38",
+          "modified": "2026-07-14T22:41:38",
+          "ga_date": "December CY2026",
+          "preview_date": "August CY2026",
+          "products": [
+            "SharePoint"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567668"
+        },
+        {
+          "id": 567667,
+          "title": "Microsoft Viva: Copilot Analytics - Agent 365 Dashboard in Insights ",
+          "description": "Customers can now access their Agent 365 data through the Agent Dashboard in Copilot Analytics (Insights), enabling leaders to understand activity across all agents registered through Agent 365. Customers with Agent 365 and Copilot will now see the Agent 365 Dashboard with the ability to view historical data in Agent Dashboard.",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-07-14T22:41:38",
+          "modified": "2026-07-14T22:41:38",
+          "ga_date": "September CY2026",
+          "preview_date": "July CY2026",
+          "products": [
+            "Microsoft Viva"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567667"
+        },
+        {
+          "id": 567469,
+          "title": "Microsoft Teams: PowerPoint Live Light theme support",
+          "description": "Presenting PowerPoint slides in Teams just got better. PowerPoint Live now supports light mode, giving presenters the option to present in light, dark, classic, or high contrast mode based on their preferences and system settings.",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-07-14T22:41:38",
+          "modified": "2026-07-14T22:41:38",
+          "ga_date": "August CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Desktop",
+            "Mac",
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567469"
+        },
+        {
+          "id": 567467,
+          "title": "Microsoft Teams: Expand presenter visibility in 'Manage what attendees see' for Teams events",
+          "description": "Users will now be able to resize and expand the presenter panel in 'Manage what attendees see' options for Teams events. This feature helps make it easier to view, manage, and switch between presenters during events.",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-07-14T22:41:38",
+          "modified": "2026-07-14T22:41:38",
+          "ga_date": "August CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Android",
+            "Desktop",
+            "iOS",
+            "Mac"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567467"
+        },
+        {
+          "id": 567466,
+          "title": "Microsoft Teams: Teams events attendance and engagement report policy",
+          "description": "Teams events will soon have a separate attendance and engagement report policy from the \"CsTeamsMeetingPolicy\" attendance and engagement report policy. This will permit admins to allow Teams events organizers to access attendance and engagement reports, while restricting access to Teams meeting attendance and engagement reports.",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-07-14T22:41:38",
+          "modified": "2026-07-14T22:41:38",
+          "ga_date": "August CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Desktop"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567466"
+        },
+        {
+          "id": 567462,
+          "title": "Microsoft Teams: Enhanced live captions settings and right-side panel view",
+          "description": "We are improving the live captions experience in Microsoft Teams with new viewing layouts and streamlined configuration options. Users can now view live captions in a new right-side panel, in addition to the existing options of viewing them at the top or bottom of the screen, or popping them out into a separate window.\nWe are also making it easier to manage caption settings directly within the meeting. By clicking the existing gear icon in the live captions pane, users will see a consolidated me",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-07-14T22:41:38",
+          "modified": "2026-07-14T22:41:38",
+          "ga_date": "August CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Desktop",
+            "Mac"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)",
+            "GCC",
+            "GCC High",
+            "DoD"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567462"
+        },
+        {
+          "id": 567458,
+          "title": "Microsoft Teams: Multilingual recap available with translation button",
+          "description": "After meeting recap is automatically generated in the translation language chosen during the meeting, users can continue to change the language of the meeting recap after its generated.",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-07-14T22:41:38",
+          "modified": "2026-07-14T22:41:38",
+          "ga_date": "August CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams",
+            "Microsoft Copilot (Microsoft 365)"
+          ],
+          "platforms": [
+            "Android",
+            "iOS"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)",
+            "GCC",
+            "GCC High"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567458"
+        },
+        {
+          "id": 567457,
+          "title": "Microsoft Teams: View and manage auto attendant shared voicemails directly in the Queues app",
+          "description": "Calls to an Auto Attendant that are routed to voicemail will now appear directly within Queues app. This enables organizations to manage shared Auto Attendant voicemails in a centralized experience, making it easier for teams to track, triage, and respond to customer messages.",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-07-14T22:41:38",
+          "modified": "2026-07-14T22:41:38",
+          "ga_date": "August CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Desktop"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567457"
+        },
+        {
+          "id": 567300,
+          "title": "Microsoft Teams: Prevent presence transition to \"Do not disturb\" setting when screen sharing (GCC High, DoD)",
+          "description": "We're introducing a setting that allows users to opt-out of transitioning presence automatically to Do Not Disturb when presenting or screen sharing. This ensures that they can continue to receive calls, keeping them connected and responsive without manual presence adjustments.",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-07-14T22:41:38",
+          "modified": "2026-07-14T22:41:38",
+          "ga_date": "September CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Desktop",
+            "Mac"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "GCC High",
+            "DoD"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567300"
+        },
+        {
+          "id": 567298,
+          "title": "Microsoft Teams: External presenters can access production controls for Teams events",
+          "description": "Organizations can allow external presenters to manage Teams events by granting them access to production controls. Federated (B2B) and guest users can be specified in the \"Who has control of production tools\" setting, enabling trusted external presenters to run events and manage what attendees see. This feature supports organizations that work with third-party event producers and vendors.",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-07-14T22:41:38",
+          "modified": "2026-07-14T22:41:38",
+          "ga_date": "August CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Desktop",
+            "Mac"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567298"
+        },
+        {
+          "id": 564614,
+          "title": "Microsoft Teams: Meeting recap app",
+          "description": "The meeting recap app brings all your meeting recaps into one place, making it easier to find, filter, and catch up. Quick filters help you surface the right meetings instantly, while audio recap lets you efficiently review multiple meetings at once. You can also browse and revisit any recap from the past 30 days.",
+          "status": "Rolling out",
+          "change_type": "updated",
+          "created": "2026-06-05T22:00:28",
+          "modified": "2026-07-14T22:41:38",
+          "ga_date": "July CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Desktop",
+            "Mac",
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Targeted Release"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=564614"
+        },
+        {
+          "id": 562343,
+          "title": "Microsoft Purview: Data Lifecycle Management - Insights and policy recommendations on sensitive M365 data for better Data Security and Compliance posture",
+          "description": "Insights on sensitive M365 data (OneDrive and SharePoint) and recommendations on retention policies for customers to better govern their sensitive data.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-05-18T22:30:51",
+          "modified": "2026-07-14T22:41:38",
+          "ga_date": "September CY2026",
+          "preview_date": "August CY2026",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=562343"
+        },
+        {
+          "id": 561209,
+          "title": "Microsoft Purview: Data Lifecycle Management – Insights and policy recommendations on Microsoft Copilot and AI Apps interactions for better Data Security and Compliance posture",
+          "description": "Provide insights on Copilots and AI Apps usage and recommend retention policies for customers to govern their Copilots and AI App interactions.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-05-05T23:00:02",
+          "modified": "2026-07-14T22:41:38",
+          "ga_date": "September CY2026",
+          "preview_date": "August CY2026",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)",
+            "GCC",
+            "GCC High",
+            "DoD"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=561209"
+        },
+        {
+          "id": 561489,
+          "title": "Microsoft Purview: Data Security Investigations – Introducing OCR support",
+          "description": "Microsoft Purview Data Security Investigations (DSI) is extending our investigations by adding optical character recognition (OCR), extracting text from images and incorporating it into investigation data. This enables AI-powered deep content analysis to uncover data security risks that are often hidden within visual content.",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2026-05-04T23:00:45",
+          "modified": "2026-07-14T22:41:38",
+          "ga_date": "July CY2026",
+          "preview_date": "May CY2026",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=561489"
+        },
+        {
+          "id": 560057,
+          "title": "Microsoft Purview: Endpoint Data Loss Prevention: Add control to include or exclude Default file paths exclusions for Windows",
+          "description": "Previously customers would have system files either included or excluded manually configured. With this feature there is now a capability to provide this by default and have the option of including or excluding those paths. This list is managed by Microsoft to ensure accuracy and ease of management.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-04-29T23:15:48",
+          "modified": "2026-07-14T22:41:38",
+          "ga_date": "August CY2026",
+          "preview_date": "May CY2026",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=560057"
+        },
+        {
+          "id": 560595,
+          "title": "Microsoft Viva: Viva Glint - Copilot assisted commenting in Glint survey taking",
+          "description": "Viva Glint survey takers will be able to use a streamlined version of Microsoft Copilot in the Glint survey taking experience to help them rewrite their comments, helping survey takers feel more confident about the feedback they’re providing. By increasing perceived security through reducing identifiable writing patterns and minimizing the effort required to refine feedback, this experience can encourage greater participation, longer responses, and more candid comments, which can drive higher en",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-04-17T22:15:50",
+          "modified": "2026-07-14T22:41:38",
+          "ga_date": "September CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Viva"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)",
+            "GCC"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=560595"
+        },
+        {
+          "id": 560547,
+          "title": "Microsoft Teams: Report external users for security concerns in Teams",
+          "description": "Users can now report suspicious external users directly within Teams, alongside existing block actions. Reports are surfaced in the Teams admin center, giving admins visibility into potentially risky interactions and enabling them to investigate and take appropriate actions. This enhancement helps organizations respond faster to phishing, impersonation, and other external threats while leveraging end-user signals as an additional layer of protection.",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2026-04-17T22:15:50",
+          "modified": "2026-07-14T22:41:38",
+          "ga_date": "June CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Android",
+            "Desktop",
+            "iOS",
+            "Mac"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Targeted Release"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=560547"
+        },
+        {
+          "id": 560398,
+          "title": "Microsoft Purview: Endpoint Data Loss Prevention - Add support of hyperlinks in warn & block toast messages for Edge browser",
+          "description": "With this feature, data officers can now complete their coverage story by now embedding hyperlinks within toast messages for the Edge browser. When this rule is triggered, the end user will see a toast with a customized title and message with a hyperlink. This feature is useful when organizations need to direct users to a specific resource or a repository for more specific instruction (e.g. internal policy SharePoint site).",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2026-04-14T23:00:25",
+          "modified": "2026-07-14T22:41:38",
+          "ga_date": "May CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "GCC",
+            "GCC High",
+            "DoD"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=560398"
+        },
+        {
+          "id": 557191,
+          "title": "Microsoft Purview: Data Loss Prevention – Block External Domain/User action in DLP for SharePoint/OneDrive",
+          "description": "Block External Domain/User action in Microsoft Purview DLP for SharePoint and OneDrive, gives organizations stronger control over who can access sensitive files. With this enhancement, admins can configure DLP policies that block file access for specific external domains or individual users. This capability helps prevent unintended exposure by external users and supports enterprise compliance requirements.",
+          "status": "Rolling out",
+          "change_type": "updated",
+          "created": "2026-04-02T23:15:15",
+          "modified": "2026-07-14T22:41:38",
+          "ga_date": "July CY2026",
+          "preview_date": "April CY2026",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=557191"
+        },
+        {
+          "id": 558859,
+          "title": "Microsoft Purview: Data Lifecycle Management - Power Automate integration with records management ",
+          "description": "Initiate a Power Automate workflow when the item reaches the end of its retention period. For example, execute a complex disposition approval process or move the file to an archive.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-03-20T20:00:10",
+          "modified": "2026-07-14T22:41:38",
+          "ga_date": "January CY2027",
+          "preview_date": "",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "GCC",
+            "GCC High",
+            "DoD"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=558859"
+        },
+        {
+          "id": 558935,
+          "title": "Microsoft Viva: New Post Creation Experience in Viva Enage",
+          "description": "In Viva Engage, we've simplified how to create posts. The new post creation experience makes it easier and faster to share in Viva Engage with a cleaner, more intuitive publishing experience. It brings clearer layout, better accessibility, and smarter organization of tools—so you can focus on creating great posts without extra clicks or clutter.",
+          "status": "Rolling out",
+          "change_type": "updated",
+          "created": "2026-03-19T23:30:43",
+          "modified": "2026-07-14T22:41:38",
+          "ga_date": "May CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Viva"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=558935"
+        },
+        {
+          "id": 553218,
+          "title": "Microsoft Purview: Information Protection-Content Explorer – Enhanced Tag (SIT, Labels) Filter at UI Layer",
+          "description": "Introduces enhanced controls in Content Explorer’s UI, enabling scoped visibility and filtering of SIT and label data. This will help with content discoverability and governance.",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2026-01-30T00:15:33",
+          "modified": "2026-07-14T22:41:38",
+          "ga_date": "April CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "GCC",
+            "GCC High",
+            "DoD"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=553218"
+        },
+        {
+          "id": 531913,
+          "title": "Microsoft Copilot (Microsoft 365): Natural language support for Scheduling prompts",
+          "description": "This feature allows users to simply express their intention conversationally, and Copilot infers their intention and creates a scheduled prompt automatically. We are unfortunately unable to move forward with this feature. We apologize for the inconvenience.",
+          "status": "Cancelled",
+          "change_type": "updated",
+          "created": "2025-11-19T00:15:24",
+          "modified": "2026-07-14T22:41:38",
+          "ga_date": "June CY2026",
+          "preview_date": "November CY2025",
+          "products": [
+            "Microsoft Copilot (Microsoft 365)"
+          ],
+          "platforms": [
+            "Desktop",
+            "Mac",
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=531913"
+        },
+        {
+          "id": 523201,
+          "title": "Microsoft Purview: Purview Information Protection | Classifier Simulation Mode (Health Monitoring)",
+          "description": "Microsoft Purview introduces the Classifier Simulation Mode, the first phase of the broader Classifier Health Monitoring Platform. \n \nThis capability enables you to test, analyze, and optimize custom classifiers on production data before publishing them, hence offering a reliable means of verifying the effectiveness of classifiers before committing them to live environments.  \n\nCustom classifiers are powerful tools but can sometimes include inefficient regex patterns or overly broad logic, leadi",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2025-11-05T00:00:26",
+          "modified": "2026-07-14T22:41:38",
+          "ga_date": "November CY2026",
+          "preview_date": "October CY2026",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=523201"
+        },
+        {
+          "id": 486828,
+          "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Apply a retention policy to Microsoft Planner content  ",
+          "description": "Introducing Data lifecycle management capabilities for Microsoft Planner. Compliance admins can now create a retention policy to manage content located in Microsoft Planner such as tasks for plans associated with an Microsoft 365 Group.",
+          "status": "Rolling out",
+          "change_type": "updated",
+          "created": "2025-04-01T23:15:44",
+          "modified": "2026-07-14T22:41:38",
+          "ga_date": "July CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=486828"
+        },
         {
           "id": 566302,
           "title": "Microsoft Viva: Copilot Analytics - Insights in Cowork and WorkIQ spend and usage",
@@ -1274,7 +1976,7 @@
           "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=160008"
         }
       ],
-      "total_updates": 23,
+      "total_updates": 50,
       "error": null
     }
   },
