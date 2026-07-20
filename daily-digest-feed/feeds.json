@@ -1,34 +1,48 @@
 {
-  "generated_at": "2026-07-19T11:24:16.507427Z",
+  "generated_at": "2026-07-20T11:55:30.890774Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
+        {
+          "creator": "Life Style Overland",
+          "handle": "@LifeStyleOverland",
+          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "This Story Till Now",
+          "handle": "@ThisStoryTillNow",
+          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Ozark Overland Adventure",
+          "handle": "@OzarkOverlandAdventures",
+          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
+          "videos": [],
+          "error": null
+        },
         {
           "creator": "Epic Adventure Outfitters",
           "handle": "@EpicAdventureOutfitters",
           "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
           "videos": [
             {
+              "title": "Build like a tank tire carrier...#metalcloak #overlanding #jeep",
+              "url": "https://www.youtube.com/shorts/g5riGnhZDFQ",
+              "published": "2026-07-19T19:00:04Z",
+              "description": ""
+            },
+            {
               "title": "No vehicle frame is straight...#cars  #overlanding #jeep",
               "url": "https://www.youtube.com/shorts/4yNaLNJhTs8",
               "published": "2026-07-18T19:00:29Z",
               "description": ""
-            },
-            {
-              "title": "How did the Teraflex tire carrier hold up?...#teraflex  #overlanding #jeep",
-              "url": "https://www.youtube.com/shorts/MSvYQ_qrdoQ",
-              "published": "2026-07-17T19:00:07Z",
-              "description": ""
             }
           ],
-          "error": null
-        },
-        {
-          "creator": "VentureToRoam",
-          "handle": "@VentureToRoam",
-          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
-          "videos": [],
           "error": null
         },
         {
@@ -39,16 +53,16 @@
           "error": null
         },
         {
-          "creator": "TrailRecon",
-          "handle": "@TrailRecon",
-          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
+          "creator": "VentureToRoam",
+          "handle": "@VentureToRoam",
+          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
           "videos": [],
           "error": null
         },
         {
-          "creator": "Life Style Overland",
-          "handle": "@LifeStyleOverland",
-          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
+          "creator": "TrailRecon",
+          "handle": "@TrailRecon",
+          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
           "videos": [],
           "error": null
         },
@@ -65,34 +79,34 @@
             }
           ],
           "error": null
-        },
-        {
-          "creator": "This Story Till Now",
-          "handle": "@ThisStoryTillNow",
-          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Ozark Overland Adventure",
-          "handle": "@OzarkOverlandAdventures",
-          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
-          "videos": [
-            {
-              "title": "What is this? Rossmonster Baja 1 Year and 40k Miles Update",
-              "url": "https://www.youtube.com/watch?v=7igshNP5vzo",
-              "published": "2026-07-17T22:00:31Z",
-              "description": "We've had our Rossmonster Baja for over a year and put 40,000 miles on it. So how's it doing and do we still love it? Is it van life, rv life, overlanding?\n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHNYyUa\nAll"
-            }
-          ],
-          "error": null
         }
       ],
       "power_platform": [
         {
-          "creator": "Matthew Devaney",
-          "handle": "@MatthewDevaney",
-          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
+          "creator": "Shane Young",
+          "handle": "@ShanesCows",
+          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Reza Dorrani",
+          "handle": "@RezaDorrani",
+          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
+          "videos": [
+            {
+              "title": "NEW Power Automate Flow Agent MCP Server | Full Tutorial",
+              "url": "https://www.youtube.com/watch?v=25V_BBF4ymE",
+              "published": "2026-07-20T11:30:33Z",
+              "description": "Microsoft just released the new FlowAgent MCP server — a free, open-source Power Automate plugin that lets AI assistants like Claude Code and GitHub Copilot CLI build, edit, run, and debug your cloud flows for you. In this tutorial video, I put the flow MCP to the test!\n\nYou'll see me:\n▶ Run the Power Automate plugin from Microsoft's plugin marketplace\n▶ Build a complete flow from scratch — just by describing it in plain English\n▶ Edit and optimize an existing flow\n▶ Put it to the test and build"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "April Dunnam",
+          "handle": "@AprilDunnam",
+          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
           "videos": [],
           "error": null
         },
@@ -104,23 +118,9 @@
           "error": null
         },
         {
-          "creator": "Reza Dorrani",
-          "handle": "@RezaDorrani",
-          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "April Dunnam",
-          "handle": "@AprilDunnam",
-          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Shane Young",
-          "handle": "@ShanesCows",
-          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
+          "creator": "Matthew Devaney",
+          "handle": "@MatthewDevaney",
+          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
           "videos": [],
           "error": null
         }
@@ -143,12 +143,6 @@
               "url": "https://www.youtube.com/shorts/U6LlBd4b4zE",
               "published": "2026-07-19T01:00:16Z",
               "description": "Before you write another DAX measure, ask yourself this question. The fastest Power BI solution is often the one that doesn't need DAX at all."
-            },
-            {
-              "title": "Power BI Tips That Are “Absolutely Bananas”",
-              "url": "https://www.youtube.com/shorts/D06j3vbq6_4",
-              "published": "2026-07-17T20:00:35Z",
-              "description": "A collection of weird, underrated, and surprisingly useful Power BI tips you'll wish you knew sooner."
             }
           ],
           "error": null
@@ -161,22 +155,16 @@
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
             {
+              "title": "The real thing gating AI now isn't the technology #OpenAI #AI #AIregulation #AInews #tech",
+              "url": "https://www.youtube.com/shorts/F7bFbQSTPq8",
+              "published": "2026-07-20T03:00:38Z",
+              "description": "For two years the whole AI race was about one thing: who has the most compute and the best model. That story is quietly ending. The labs at the frontier are bumping into a different wall now, and it is not a technical one. It is political. When a government can decide whether and when your flagship model is allowed to ship, raw capability stops being the thing that wins, and access to permission becomes the real asset.\n\nThat is what the OpenAI government move is actually about. It is not goodwil"
+            },
+            {
               "title": "I Cut the Internet and Let AI Read the File I Could Never Upload. It Caught the Leak.",
               "url": "https://www.youtube.com/watch?v=5slsNizN6MQ",
               "published": "2026-07-19T05:00:22Z",
               "description": "Full post with a guide to clean sensitive documents: https://natesnewsletter.substack.com/p/run-ai-offline-private-files?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nHow to use AI on the files you can't upload: run a downloaded model on your own laptop, with the internet off, and grade what's actually safe to send. Microsoft is building this for enterprises. This is the version that fits on one machine.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack"
-            },
-            {
-              "title": "Applying for jobs stopped working. Here's the fix ⬇️ #ATS #careeradvice #jobmarket #AI",
-              "url": "https://www.youtube.com/shorts/5Ho0NYVhL14",
-              "published": "2026-07-18T03:30:14Z",
-              "description": "Here is the part the numbers do not tell you: you cannot win this by playing harder. More applications, better keywords, another resume rewrite. All of that just feeds the same broken machine faster, and it is why doing everything \"right\" still gets you nowhere.\n\nThe actual fix is to stop competing inside the pile at all. Instead of being one more document a filter throws out, you build something a hiring manager has to engage with directly, as a person, on your own terms. It is not networking h"
-            },
-            {
-              "title": "Codex vs Fable: Which AI Agent Picked the Better Problem?",
-              "url": "https://www.youtube.com/watch?v=uCWKXIyvM_8",
-              "published": "2026-07-17T14:00:33Z",
-              "description": "Full post w/ Guide + Automation Skill:\nhttps://natesnewsletter.substack.com/p/let-ai-pick-what-to-automate?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nAI agents are getting good enough to help pick the problem worth automating, not only run the task you hand them. I gave Fable and Codex the same open brief—inspect my real business and build the automation that matters—and they chose different problems.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack"
             }
           ],
           "error": null
@@ -185,38 +173,26 @@
           "creator": "Alex Finn",
           "handle": "@AlexFinn",
           "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
-          "videos": [
-            {
-              "title": "Do these 5 things in Claude Fable 5 NOW",
-              "url": "https://www.youtube.com/watch?v=rQUgUKnPsFs",
-              "published": "2026-07-17T20:09:43Z",
-              "description": "Fable 5 is incredible. Do these 5 things now before they disappear\n\nFULL Fable 5 bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/ \n\n\nTimestamps:\n0:00 Intro\n0:40 Operating systems\n"
-            }
-          ],
+          "videos": [],
           "error": null
         },
         {
           "creator": "Chase AI",
           "handle": "@ChaseAI",
           "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Paul J Lipsky",
+          "handle": "@PaulJLipsky",
+          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
           "videos": [
             {
-              "title": "Are the kimi k3 benchmarks just hype?",
-              "url": "https://www.youtube.com/shorts/p2gAORlaiPI",
-              "published": "2026-07-18T11:30:08Z",
-              "description": ""
-            },
-            {
-              "title": "kimi k3 vs fable 5 vs gpt 5.6 (frontend design)",
-              "url": "https://www.youtube.com/shorts/q2m913dzzxk",
-              "published": "2026-07-17T23:45:28Z",
-              "description": ""
-            },
-            {
-              "title": "Yes, the Kimi K3 Hype is Real",
-              "url": "https://www.youtube.com/watch?v=MeYdaNnXuHI",
-              "published": "2026-07-17T19:05:06Z",
-              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\n\nKimi K3 is posting better numbers than any open source AI model ever, and even beating out Fable 5 and GPT 5.6 in several benchmarks.\n\nIn this video, we dive into the numbers to make sense of this new entrant, and also pit it head to head versus the best the frontier labs have to offer"
+              "title": "Build Any App With Gemini Canvas",
+              "url": "https://www.youtube.com/watch?v=-ZTxheGwcu0",
+              "published": "2026-07-19T13:00:16Z",
+              "description": "Vibe Coding Guide: https://share.gemini.google/mz1Rhk5pA8ak\n\nLearn how to build apps and websites inside Gemini Canvas without writing code. This beginner tutorial covers better prompting, step-by-step app building, troubleshooting, sharing, and deployment.\n\n0:00 Intro\n0:35 Set Up Gemini Canvas\n1:08 What Is Vibe Coding?\n1:42 Five Vibe Coding Best Practices\n6:11 Build an App in Gemini Canvas\n8:11 Edit and Expand Your App\n11:50 More Apps and Websites You Can Build\n16:16 Share or Deploy Your App\n17"
             }
           ],
           "error": null
@@ -229,10 +205,23 @@
           "error": null
         },
         {
+          "creator": "AI Daily Brief",
+          "handle": "@AIDailyBrief",
+          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
+          "videos": [],
+          "error": null
+        },
+        {
           "creator": "Simon Scrapes",
           "handle": "@SimonScrapes",
           "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
           "videos": [
+            {
+              "title": "Stop Using Fable 5 in Claude Code (It’s Holding You Back)",
+              "url": "https://www.youtube.com/shorts/hVtwhasO988",
+              "published": "2026-07-19T23:02:06Z",
+              "description": "Fable 5 is becoming an API-billed model, and the costs can add up quickly if you're not careful. This video breaks down exactly which tasks are worth paying Fable rates for, and which ones aren't. We'll walk through every setting you need to change to stop your bill from quietly running away when you do use it."
+            },
             {
               "title": "I Rebuilt Hermes’s Best Feature in Claude Code (Steal This)",
               "url": "https://www.youtube.com/shorts/ATUSh810O_A",
@@ -241,169 +230,10 @@
             }
           ],
           "error": null
-        },
-        {
-          "creator": "AI Daily Brief",
-          "handle": "@AIDailyBrief",
-          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Paul J Lipsky",
-          "handle": "@PaulJLipsky",
-          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
-          "videos": [
-            {
-              "title": "AI News: NotebookLM's New Name; GPT 5.6 vs Fable; OpenAI Hardware; and More",
-              "url": "https://www.youtube.com/watch?v=tgoMkQxGOVw",
-              "published": "2026-07-17T13:00:40Z",
-              "description": "Get the iFLYTEK AINOTE 2:\nAmazon: https://amzn.to/4pskzWk\nOfficial store: https://iflytek.biz/4aUzpil\nYouTube: @theainote  https://www.youtube.com/@theainote\n#AINOTE #AINOTE2 #iFLYTEK #iFLYTEKAINOTE\n🔗 This video is sponsored. \n\nThis week's AI news covers NotebookLM's rebrand to Gemini Notebook, OpenAI's first hardware product, new Google AI updates, and the GPT-5.6 versus Fable 5 usage war.\n\n\n0:00 Intro\n0:54 NotebookLM Becomes Gemini Notebook\n4:49 OpenAI's First Hardware Product\n6:42 iFLYTEK AIN"
-            }
-          ],
-          "error": null
         }
       ]
     },
     "newsletters": {
-      "power_bi_weekly": {
-        "name": "Power BI Weekly",
-        "issue_number": 366,
-        "issue_date": null,
-        "url": "https://powerbiweekly.info/issue-366.html",
-        "is_new": false,
-        "sections": {
-          "Issue 366": [
-            {
-              "title": "VNET Data Gateway Autoscaling",
-              "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/VNET-Data-Gateway-Autoscaling-Preview/ba-p/5281553"
-            },
-            {
-              "title": "write good descriptions for semantic model columns and measures",
-              "url": "https://tabulareditor.com/blog/writing-good-descriptions-for-semantic-model-columns-and-measures"
-            },
-            {
-              "title": "no-code Power BI report authoring using GitHub Copilot, the Fabric Skills Report Authoring skill, and the Power BI Desktop Bridge",
-              "url": "https://www.youtube.com/watch?v=LdAl8Ar7E5M"
-            },
-            {
-              "title": "workspace topology patterns for Microsoft Fabric",
-              "url": "https://endjin.com/blog/fabric-workspace-topology-patterns"
-            },
-            {
-              "title": "dynamic formatting by hierarchy level using ISINSCOPE and ISATLEVEL",
-              "url": "https://www.sqlbi.com/articles/dynamic-formatting-by-hierarchy-level-with-isinscope-and-isatlevel/"
-            },
-            {
-              "title": "the benefits of using Direct Lake mode in Power BI",
-              "url": "https://blog.crossjoin.co.uk/2026/07/12/the-benefits-of-using-direct-lake-mode-in-power-bi/"
-            }
-          ],
-          "Data Prep": [
-            {
-              "title": "Developing the Semantic Model For Microsoft Fabric App",
-              "url": "https://www.youtube.com/watch?v=QTXt_zhZCX8"
-            }
-          ],
-          "Data Modeling": [
-            {
-              "title": "Writing good descriptions for semantic model columns and measures",
-              "url": "https://tabulareditor.com/blog/writing-good-descriptions-for-semantic-model-columns-and-measures"
-            },
-            {
-              "title": "Optimising DAX: Model Design Comparisons and Testing Tips",
-              "url": "https://endjin.com/blog/optimising-dax-model-design-comparisons"
-            },
-            {
-              "title": "Power BI + Claude: Análisis de Estado de Resultados con IA (DAX desde cero) [Spanish]",
-              "url": "https://www.youtube.com/watch?v=LEaCOd7iIGc"
-            },
-            {
-              "title": "The Power BI Expert Is GONE. Now What?",
-              "url": "https://www.youtube.com/watch?v=GtcBK0-z6_M"
-            },
-            {
-              "title": "DAX vs Excel Formulas: What’s the Real Difference?",
-              "url": "https://www.selectdistinct.co.uk/2026/07/08/dax-vs-excel-formulas-whats-the-real-difference/"
-            }
-          ],
-          "Report Authoring and Interactivity": [
-            {
-              "title": "Power BI Desktop Bridge – Creating Power BI Reports Using the New Bridge and Codex",
-              "url": "https://www.flip-design.de/?p=1643&utm_source=rss&utm_medium=rss&utm_campaign=power-bi-desktop-bridge-creating-power-bi-reports-using-the-new-bridge-and-codex"
-            },
-            {
-              "title": "No-Code Power BI Report Authoring — GitHub Copilot + Fabric Skills + Power BI Desktop Bridge",
-              "url": "https://www.youtube.com/watch?v=LdAl8Ar7E5M"
-            },
-            {
-              "title": "Dynamic formatting by hierarchy level with ISINSCOPE and ISATLEVEL",
-              "url": "https://www.sqlbi.com/articles/dynamic-formatting-by-hierarchy-level-with-isinscope-and-isatlevel/"
-            },
-            {
-              "title": "Power BI Alt Text UDF Library – Release v1.1.0",
-              "url": "https://smart-frames.co.uk/2026/07/11/power-bi-alt-text-udf-library-release-v1-1-0/"
-            },
-            {
-              "title": "PBIX A11y Bytes Episode: Alt Text in Power BI",
-              "url": "https://smart-frames.co.uk/2026/07/14/pbix-a11y-bytes-episode-alt-text-in-power-bi/"
-            },
-            {
-              "title": "Power BI SVG Bars & Gauges Just Got Better - Part 2 (Advanced DAX Tricks) 🔥",
-              "url": "https://www.youtube.com/watch?v=617ufrmWYZU"
-            },
-            {
-              "title": "The Power BI Chart That Shows Your 80/20 Instantly (ABC Analysis)",
-              "url": "https://www.youtube.com/watch?v=lvUELVwxdMI"
-            },
-            {
-              "title": "How to Create a KPI Card Visual in Power BI (New Card Visual 2026)",
-              "url": "https://www.youtube.com/watch?v=n2yPAnXrJiw"
-            },
-            {
-              "title": "Secret Behind Professional Dashboards",
-              "url": "https://goodly.co.in/secret-behind-professional-dashboards/"
-            },
-            {
-              "title": "I Built a Full Power BI Report Using ONLY Claude AI (New Microsoft Authoring Agents Skills)",
-              "url": "https://www.youtube.com/watch?v=oIzuGgNEH-0"
-            },
-            {
-              "title": "How to Aggregate Values by Month or Week on a Continuous Date Axis in Power BI",
-              "url": "https://www.youtube.com/watch?v=-uHB0_6lDyc"
-            }
-          ],
-          "Deployment, Security and Operations": [
-            {
-              "title": "VNET Data Gateway Autoscaling (Preview)",
-              "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/VNET-Data-Gateway-Autoscaling-Preview/ba-p/5281553"
-            },
-            {
-              "title": "The Benefits Of Using Direct Lake Mode In Power BI",
-              "url": "https://blog.crossjoin.co.uk/2026/07/12/the-benefits-of-using-direct-lake-mode-in-power-bi/"
-            },
-            {
-              "title": "Microsoft Fabric Workspace Topology Patterns",
-              "url": "https://endjin.com/blog/fabric-workspace-topology-patterns"
-            }
-          ],
-          "General": [
-            {
-              "title": "🎙️ Fabric Insider Ep. 10 — AI & The Next Evolution of Power BI | Mohammad Ali | Microsoft Fabric",
-              "url": "https://www.youtube.com/watch?v=jpGtEvKty-k"
-            },
-            {
-              "title": "What is the Future of Power BI?",
-              "url": "https://www.youtube.com/watch?v=IpqKv0TzHoA"
-            },
-            {
-              "title": "App Usage in Fabric - Ep.543 - Power BI tips",
-              "url": "https://www.youtube.com/watch?v=bcM8HRfLE_c"
-            }
-          ]
-        },
-        "error": null
-      },
       "power_platform_weekly": {
         "name": "Power Platform Weekly",
         "issue_number": 270,
@@ -605,6 +435,144 @@
           ]
         },
         "error": null
+      },
+      "power_bi_weekly": {
+        "name": "Power BI Weekly",
+        "issue_number": 366,
+        "issue_date": null,
+        "url": "https://powerbiweekly.info/issue-366.html",
+        "is_new": false,
+        "sections": {
+          "Issue 366": [
+            {
+              "title": "VNET Data Gateway Autoscaling",
+              "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/VNET-Data-Gateway-Autoscaling-Preview/ba-p/5281553"
+            },
+            {
+              "title": "write good descriptions for semantic model columns and measures",
+              "url": "https://tabulareditor.com/blog/writing-good-descriptions-for-semantic-model-columns-and-measures"
+            },
+            {
+              "title": "no-code Power BI report authoring using GitHub Copilot, the Fabric Skills Report Authoring skill, and the Power BI Desktop Bridge",
+              "url": "https://www.youtube.com/watch?v=LdAl8Ar7E5M"
+            },
+            {
+              "title": "workspace topology patterns for Microsoft Fabric",
+              "url": "https://endjin.com/blog/fabric-workspace-topology-patterns"
+            },
+            {
+              "title": "dynamic formatting by hierarchy level using ISINSCOPE and ISATLEVEL",
+              "url": "https://www.sqlbi.com/articles/dynamic-formatting-by-hierarchy-level-with-isinscope-and-isatlevel/"
+            },
+            {
+              "title": "the benefits of using Direct Lake mode in Power BI",
+              "url": "https://blog.crossjoin.co.uk/2026/07/12/the-benefits-of-using-direct-lake-mode-in-power-bi/"
+            }
+          ],
+          "Data Prep": [
+            {
+              "title": "Developing the Semantic Model For Microsoft Fabric App",
+              "url": "https://www.youtube.com/watch?v=QTXt_zhZCX8"
+            }
+          ],
+          "Data Modeling": [
+            {
+              "title": "Writing good descriptions for semantic model columns and measures",
+              "url": "https://tabulareditor.com/blog/writing-good-descriptions-for-semantic-model-columns-and-measures"
+            },
+            {
+              "title": "Optimising DAX: Model Design Comparisons and Testing Tips",
+              "url": "https://endjin.com/blog/optimising-dax-model-design-comparisons"
+            },
+            {
+              "title": "Power BI + Claude: Análisis de Estado de Resultados con IA (DAX desde cero) [Spanish]",
+              "url": "https://www.youtube.com/watch?v=LEaCOd7iIGc"
+            },
+            {
+              "title": "The Power BI Expert Is GONE. Now What?",
+              "url": "https://www.youtube.com/watch?v=GtcBK0-z6_M"
+            },
+            {
+              "title": "DAX vs Excel Formulas: What’s the Real Difference?",
+              "url": "https://www.selectdistinct.co.uk/2026/07/08/dax-vs-excel-formulas-whats-the-real-difference/"
+            }
+          ],
+          "Report Authoring and Interactivity": [
+            {
+              "title": "Power BI Desktop Bridge – Creating Power BI Reports Using the New Bridge and Codex",
+              "url": "https://www.flip-design.de/?p=1643&utm_source=rss&utm_medium=rss&utm_campaign=power-bi-desktop-bridge-creating-power-bi-reports-using-the-new-bridge-and-codex"
+            },
+            {
+              "title": "No-Code Power BI Report Authoring — GitHub Copilot + Fabric Skills + Power BI Desktop Bridge",
+              "url": "https://www.youtube.com/watch?v=LdAl8Ar7E5M"
+            },
+            {
+              "title": "Dynamic formatting by hierarchy level with ISINSCOPE and ISATLEVEL",
+              "url": "https://www.sqlbi.com/articles/dynamic-formatting-by-hierarchy-level-with-isinscope-and-isatlevel/"
+            },
+            {
+              "title": "Power BI Alt Text UDF Library – Release v1.1.0",
+              "url": "https://smart-frames.co.uk/2026/07/11/power-bi-alt-text-udf-library-release-v1-1-0/"
+            },
+            {
+              "title": "PBIX A11y Bytes Episode: Alt Text in Power BI",
+              "url": "https://smart-frames.co.uk/2026/07/14/pbix-a11y-bytes-episode-alt-text-in-power-bi/"
+            },
+            {
+              "title": "Power BI SVG Bars & Gauges Just Got Better - Part 2 (Advanced DAX Tricks) 🔥",
+              "url": "https://www.youtube.com/watch?v=617ufrmWYZU"
+            },
+            {
+              "title": "The Power BI Chart That Shows Your 80/20 Instantly (ABC Analysis)",
+              "url": "https://www.youtube.com/watch?v=lvUELVwxdMI"
+            },
+            {
+              "title": "How to Create a KPI Card Visual in Power BI (New Card Visual 2026)",
+              "url": "https://www.youtube.com/watch?v=n2yPAnXrJiw"
+            },
+            {
+              "title": "Secret Behind Professional Dashboards",
+              "url": "https://goodly.co.in/secret-behind-professional-dashboards/"
+            },
+            {
+              "title": "I Built a Full Power BI Report Using ONLY Claude AI (New Microsoft Authoring Agents Skills)",
+              "url": "https://www.youtube.com/watch?v=oIzuGgNEH-0"
+            },
+            {
+              "title": "How to Aggregate Values by Month or Week on a Continuous Date Axis in Power BI",
+              "url": "https://www.youtube.com/watch?v=-uHB0_6lDyc"
+            }
+          ],
+          "Deployment, Security and Operations": [
+            {
+              "title": "VNET Data Gateway Autoscaling (Preview)",
+              "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/VNET-Data-Gateway-Autoscaling-Preview/ba-p/5281553"
+            },
+            {
+              "title": "The Benefits Of Using Direct Lake Mode In Power BI",
+              "url": "https://blog.crossjoin.co.uk/2026/07/12/the-benefits-of-using-direct-lake-mode-in-power-bi/"
+            },
+            {
+              "title": "Microsoft Fabric Workspace Topology Patterns",
+              "url": "https://endjin.com/blog/fabric-workspace-topology-patterns"
+            }
+          ],
+          "General": [
+            {
+              "title": "🎙️ Fabric Insider Ep. 10 — AI & The Next Evolution of Power BI | Mohammad Ali | Microsoft Fabric",
+              "url": "https://www.youtube.com/watch?v=jpGtEvKty-k"
+            },
+            {
+              "title": "What is the Future of Power BI?",
+              "url": "https://www.youtube.com/watch?v=IpqKv0TzHoA"
+            },
+            {
+              "title": "App Usage in Fabric - Ep.543 - Power BI tips",
+              "url": "https://www.youtube.com/watch?v=bcM8HRfLE_c"
+            }
+          ]
+        },
+        "error": null
       }
     },
     "release_plans": {
@@ -617,443 +585,8 @@
     "m365_roadmap": {
       "source_url": "https://www.microsoft.com/microsoft-365/roadmap",
       "data_url": "https://www.microsoft.com/releasecommunications/api/v1/m365",
-      "items": [
-        {
-          "id": 567893,
-          "title": "Microsoft Viva: Copilot Analytics - Agent 365 dashboard for managers",
-          "description": "Managers in organizations can now access their Agent 365 data through the Agent Dashboard in Copilot Analytics (Insights), enabling them to understand activity across all agents registered through Agent 365. Customers with Agent 365 and Copilot will now see the Agent 365 Dashboard with the ability to view historical data in Agent Dashboard.",
-          "status": "In development",
-          "change_type": "new",
-          "created": "2026-07-17T22:12:56",
-          "modified": "2026-07-17T22:12:56",
-          "ga_date": "August CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Viva"
-          ],
-          "platforms": [
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)",
-            "GCC"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567893"
-        },
-        {
-          "id": 567890,
-          "title": "Microsoft Purview: Information Protection - Auto-labeling scale increase for SharePoint and OneDrive",
-          "description": "We are increasing the maximum auto-labeling capacity for SharePoint and OneDrive from 100,000 up to 500,000 files per tenant per day. This helps organizations label and protect more of their data at rest, faster, closing labeling gaps across existing content. With sensitivity labels and protection settings applied to more files sooner, organizations can better prepare their data estate for Microsoft 365 Copilot with greater confidence.",
-          "status": "In development",
-          "change_type": "new",
-          "created": "2026-07-17T22:12:56",
-          "modified": "2026-07-17T22:12:56",
-          "ga_date": "August CY2026",
-          "preview_date": "September CY2026",
-          "products": [
-            "Microsoft Purview"
-          ],
-          "platforms": [
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability",
-            "Preview"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567890"
-        },
-        {
-          "id": 567888,
-          "title": "Outlook: All Day events to show up more clearly in the Mail module Calendar Preview",
-          "description": "We're making it easier to tell when receiving meeting invites that conflict with scheduled Out of Office time or Busy All Day events, on Outlook Web and Outlook for Windows.",
-          "status": "In development",
-          "change_type": "new",
-          "created": "2026-07-17T22:12:56",
-          "modified": "2026-07-17T22:12:56",
-          "ga_date": "August CY2026",
-          "preview_date": "",
-          "products": [
-            "Outlook"
-          ],
-          "platforms": [
-            "Desktop",
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)",
-            "GCC"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567888"
-        },
-        {
-          "id": 567884,
-          "title": "Microsoft Teams: External phone call routing (GCC High, DoD)",
-          "description": "External call routing will provide users the ability to redirect all external phone calls to either voicemail or their unanswered settings.",
-          "status": "In development",
-          "change_type": "new",
-          "created": "2026-07-17T22:12:56",
-          "modified": "2026-07-17T22:12:56",
-          "ga_date": "September CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Teams"
-          ],
-          "platforms": [
-            "Desktop",
-            "Mac"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "GCC High",
-            "DoD"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567884"
-        },
-        {
-          "id": 567670,
-          "title": "Microsoft Copilot (Microsoft 365): Use Agent 365 agents within Microsoft 365 Copilot Chat and Declarative Agents",
-          "description": "Agents that are published to Agents 365 are already managed in the Microsoft 365 Admin Center. If the agent implements the Agent2Agent protocol, it can be used as a connected agent for the agents that users build in Agent Builder or Copilot Studio.",
-          "status": "In development",
-          "change_type": "new",
-          "created": "2026-07-17T22:12:56",
-          "modified": "2026-07-17T22:12:56",
-          "ga_date": "August CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Copilot (Microsoft 365)"
-          ],
-          "platforms": [
-            "Android",
-            "Desktop",
-            "iOS",
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567670"
-        },
-        {
-          "id": 567304,
-          "title": "Microsoft Teams: Explicit recording and transcription consent for PSTN participants now available in GCC High and DoD",
-          "description": "We are introducing explicit recording and transcription consent support for PSTN participants joining Microsoft Teams meetings in GCC High and DoD environments. This feature is already available in Public and GCC clouds and is now being extended to sovereign environments. After this rollout, when a meeting is being recorded or transcribed, PSTN participants will be prompted to provide explicit consent before they can unmute and participate. If consent is not provided, participants will remain mu",
-          "status": "In development",
-          "change_type": "updated",
-          "created": "2026-07-16T23:08:19",
-          "modified": "2026-07-17T22:12:56",
-          "ga_date": "August CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Teams"
-          ],
-          "platforms": [
-            "Android",
-            "Desktop",
-            "iOS",
-            "Mac",
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "GCC High",
-            "DoD"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567304"
-        },
-        {
-          "id": 567469,
-          "title": "Microsoft Teams: PowerPoint Live Light theme support",
-          "description": "Presenting PowerPoint slides in Teams just got better. PowerPoint Live now supports light mode, giving presenters the option to present in light, dark, classic, or high contrast mode based on their preferences and system settings.",
-          "status": "In development",
-          "change_type": "updated",
-          "created": "2026-07-14T22:41:38",
-          "modified": "2026-07-17T22:12:56",
-          "ga_date": "August CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Teams"
-          ],
-          "platforms": [
-            "Desktop",
-            "Mac",
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability",
-            "Targeted Release"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)",
-            "GCC",
-            "GCC High",
-            "DoD"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567469"
-        },
-        {
-          "id": 567315,
-          "title": "Planner: Capabilities in Microsoft Cowork",
-          "description": "You’ll soon be able to bring your Microsoft Planner into Microsoft Cowork. In Cowork, you can view, create, and update your plans, buckets, goals, and tasks without switching apps. Cowork goes a step further by helping you execute your Planner tasks across Microsoft 365, such as drafting and sending emails, scheduling meetings, posting updates to Teams, and working with files. It can then write progress back to Planner with your approval. You can move from planning your work to getting it done i",
-          "status": "In development",
-          "change_type": "updated",
-          "created": "2026-07-07T23:01:01",
-          "modified": "2026-07-17T22:12:56",
-          "ga_date": "September CY2026",
-          "preview_date": "",
-          "products": [
-            "Planner",
-            "Microsoft Copilot (Microsoft 365)"
-          ],
-          "platforms": [
-            "Desktop",
-            "Teams and Surface Devices",
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567315"
-        },
-        {
-          "id": 565870,
-          "title": "Microsoft Purview: Data Loss Prevention - Data Loss Prevention to safeguard sensitive information from external web search in Microsoft 356 Copilot and Copilot Chat",
-          "description": "We are expanding Microsoft Purview DLP for Microsoft 365 Copilot and Copilot Chat to safeguard web searches containing sensitive data. This real-time control helps organizations mitigate data leakage and oversharing risks by preventing Microsoft 365 Copilot and Copilot Chat from using sensitive data for external web search.",
-          "status": "In development",
-          "change_type": "updated",
-          "created": "2026-06-26T22:01:51",
-          "modified": "2026-07-17T22:12:56",
-          "ga_date": "July CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Purview"
-          ],
-          "platforms": [
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "GCC",
-            "GCC High",
-            "DoD"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=565870"
-        },
-        {
-          "id": 560320,
-          "title": "Microsoft Teams: Breakout rooms up to 1,000 Attendees in Teams meetings",
-          "description": "Organizers can now use breakout rooms in Teams meetings with up to 1,000 attendees, enabling more interactive sessions, smaller group discussions, and improved audience engagement without compromising scale or performance.",
-          "status": "Rolling out",
-          "change_type": "updated",
-          "created": "2026-04-15T22:45:13",
-          "modified": "2026-07-17T22:12:56",
-          "ga_date": "July CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Teams"
-          ],
-          "platforms": [
-            "Desktop",
-            "Mac"
-          ],
-          "release_phase": [
-            "General Availability",
-            "Targeted Release"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)",
-            "GCC",
-            "GCC High",
-            "DoD"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=560320"
-        },
-        {
-          "id": 557970,
-          "title": "Microsoft Teams: Centralized notification settings for channels",
-          "description": "Centralized notification settings streamline channel notification setup and management. Available in Teams settings, users have a single place to review and adjust notifications for all visible channels, instead of managing each individually.",
-          "status": "In development",
-          "change_type": "updated",
-          "created": "2026-02-27T23:15:13",
-          "modified": "2026-07-17T22:12:56",
-          "ga_date": "September CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Teams"
-          ],
-          "platforms": [
-            "Desktop",
-            "Mac"
-          ],
-          "release_phase": [
-            "General Availability",
-            "Targeted Release"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=557970"
-        },
-        {
-          "id": 557255,
-          "title": "Microsoft Purview: Data Loss Prevention to prevent Microsoft 365 Copilot processing content with sensitivity labels supports all storage locations",
-          "description": "The Microsoft Purview Data Loss Prevention policy to restrict Microsoft 365 Copilot processing sensitive files in Word, Excel, and PowerPoint will now apply regardless of file storage location.",
-          "status": "Launched",
-          "change_type": "updated",
-          "created": "2026-02-13T00:15:26",
-          "modified": "2026-07-17T22:12:56",
-          "ga_date": "April CY2026",
-          "preview_date": "",
-          "products": [
-            "Excel",
-            "Microsoft 365",
-            "PowerPoint",
-            "Word",
-            "Microsoft Copilot (Microsoft 365)",
-            "Microsoft Purview"
-          ],
-          "platforms": [
-            "Android",
-            "Desktop",
-            "iOS",
-            "Mac"
-          ],
-          "release_phase": [
-            "Current Channel",
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)",
-            "GCC"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=557255"
-        },
-        {
-          "id": 547834,
-          "title": "Microsoft Teams: Events in Meet app in Teams",
-          "description": "Users can now use the Teams Meet app to discover events across their organization, track what important events are upcoming, and plan and organize their own professional events.",
-          "status": "Rolling out",
-          "change_type": "updated",
-          "created": "2026-02-04T19:00:58",
-          "modified": "2026-07-17T22:12:56",
-          "ga_date": "February CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Teams"
-          ],
-          "platforms": [
-            "Desktop",
-            "Mac",
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability",
-            "Targeted Release"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=547834"
-        },
-        {
-          "id": 542181,
-          "title": "Microsoft Copilot (Microsoft 365): Agent Mode in Excel for GCC",
-          "description": "Edit with Copilot lets you build and edit workbooks side by side with Copilot. When you're updating budgets, creating financial models, or analyzing data, Agent Mode uses Excel's most powerful tools like tables, charts, PivotTables, and formulas to help you get the job done.",
-          "status": "In development",
-          "change_type": "updated",
-          "created": "2025-12-17T00:15:13",
-          "modified": "2026-07-17T22:12:56",
-          "ga_date": "October CY2026",
-          "preview_date": "",
-          "products": [
-            "Excel",
-            "Microsoft Copilot (Microsoft 365)"
-          ],
-          "platforms": [
-            "Desktop",
-            "Mac",
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "GCC"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=542181"
-        },
-        {
-          "id": 522096,
-          "title": "Microsoft Purview: Integration with Entra GSA Internet Access to enable sensitive file filtering at the network layer",
-          "description": "Extend Microsoft Purview Data Loss Prevention (DLP) policies to filter sensitive files at the network layer by integrating with Entra Global Secure Access Internet Access. This integration enables organizations to intercept and inspect files at the network layer and enforce restrictive actions based on DLP policy conditions. It helps prevent sensitive data from being shared with untrusted cloud applications through browsers, apps, APIs, add-ins, and more - including generative AI platforms, clou",
-          "status": "In development",
-          "change_type": "updated",
-          "created": "2025-10-30T23:15:09",
-          "modified": "2026-07-17T22:12:56",
-          "ga_date": "September CY2026",
-          "preview_date": "November CY2025",
-          "products": [
-            "Microsoft Information Protection",
-            "Microsoft Purview"
-          ],
-          "platforms": [
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability",
-            "Preview"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=522096"
-        },
-        {
-          "id": 503553,
-          "title": "Microsoft 365 Admin Center: Authoritative content management for Microsoft 365 Copilot Search",
-          "description": "Specify and manage SharePoint sites deemed as authoritative content to enhance their relevance and ranking in Microsoft 365 Copilot Search. In the Microsoft 365 admin center, under Copilot > Search > Authoritative content, add and manage up to 100 SharePoint sites. #copilotcontrolsystem",
-          "status": "In development",
-          "change_type": "updated",
-          "created": "2025-09-25T23:15:43",
-          "modified": "2026-07-17T22:12:56",
-          "ga_date": "September CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft 365 admin center"
-          ],
-          "platforms": [
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=503553"
-        }
-      ],
-      "total_updates": 16,
+      "items": [],
+      "total_updates": 0,
       "error": null
     }
   },
