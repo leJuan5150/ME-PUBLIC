@@ -1,16 +1,9 @@
 {
-  "generated_at": "2026-07-20T11:55:30.890774Z",
+  "generated_at": "2026-07-21T11:35:14.218371Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
-        {
-          "creator": "Life Style Overland",
-          "handle": "@LifeStyleOverland",
-          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
-          "videos": [],
-          "error": null
-        },
         {
           "creator": "This Story Till Now",
           "handle": "@ThisStoryTillNow",
@@ -22,33 +15,20 @@
           "creator": "Ozark Overland Adventure",
           "handle": "@OzarkOverlandAdventures",
           "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Epic Adventure Outfitters",
-          "handle": "@EpicAdventureOutfitters",
-          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
           "videos": [
             {
-              "title": "Build like a tank tire carrier...#metalcloak #overlanding #jeep",
-              "url": "https://www.youtube.com/shorts/g5riGnhZDFQ",
-              "published": "2026-07-19T19:00:04Z",
-              "description": ""
-            },
-            {
-              "title": "No vehicle frame is straight...#cars  #overlanding #jeep",
-              "url": "https://www.youtube.com/shorts/4yNaLNJhTs8",
-              "published": "2026-07-18T19:00:29Z",
-              "description": ""
+              "title": "Stranded in Montana",
+              "url": "https://www.youtube.com/watch?v=5FytVKX_lPg",
+              "published": "2026-07-20T16:00:12Z",
+              "description": "Things aren't going well in Montana as we are stuck here for 2 weeks trying to make the best of it. \n\nOpen Road 4WD - https://openroad4wd.com\n\nTire Deflators - https://amzn.to/4hgUTd2\n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount - "
             }
           ],
           "error": null
         },
         {
-          "creator": "LetsGetLost",
-          "handle": "@LetsGetLost",
-          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
+          "creator": "Life Style Overland",
+          "handle": "@LifeStyleOverland",
+          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
           "videos": [],
           "error": null
         },
@@ -60,6 +40,20 @@
           "error": null
         },
         {
+          "creator": "Casey 250",
+          "handle": "@Casey250",
+          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "LetsGetLost",
+          "handle": "@LetsGetLost",
+          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
+          "videos": [],
+          "error": null
+        },
+        {
           "creator": "TrailRecon",
           "handle": "@TrailRecon",
           "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
@@ -67,28 +61,33 @@
           "error": null
         },
         {
-          "creator": "Casey 250",
-          "handle": "@Casey250",
-          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
+          "creator": "Epic Adventure Outfitters",
+          "handle": "@EpicAdventureOutfitters",
+          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
           "videos": [
             {
-              "title": "My New Ford Ranger Raptor Is Absolute Overkill (But Is It A Real Overland Platform?)",
-              "url": "https://www.youtube.com/watch?v=OAJx-lpoHMw",
-              "published": "2026-07-18T20:00:03Z",
-              "description": "The Ford Ranger Raptor has been highly praised as an incredible out-of-the-box truck. But there is a massive difference between reading a marketing spec sheet and actually living with one. Now that it is finally home, the honeymoon phase is over.\n\nIn this unfiltered, full tour of the 2024 Ranger Raptor, we are skipping the dealership sales pitch and doing a complete walk-around. From the twin-turbo V6 and factory Fox live-valve shocks to the real-world clearance and under body engineering, we ar"
+              "title": "5 Things That Could Save Your Jeep. And Maybe You.",
+              "url": "https://www.youtube.com/watch?v=cEPEF9NcrcE",
+              "published": "2026-07-20T20:00:35Z",
+              "description": "You can build the most capable Jeep on the planet, but if you head out on an adventure without the right gear inside the cab, none of it matters when things go sideways. And things do go sideways.\n\n#JeepLife #JeepGear #Overlanding #OffRoad \n\nIn this episode Paul and The Ginger walk through the five things that should be inside every Jeep before you leave the driveway. \nNot mods. Not suspension. Not tires. \nThe stuff you pack in the cab, doors closed, that could save your trip, your rig, and poss"
+            },
+            {
+              "title": "Don't trust some companies...#MadeInChina #overlanding #jeep",
+              "url": "https://www.youtube.com/shorts/WTxP-lNZT9k",
+              "published": "2026-07-20T19:00:39Z",
+              "description": ""
+            },
+            {
+              "title": "Build like a tank tire carrier...#metalcloak #overlanding #jeep",
+              "url": "https://www.youtube.com/shorts/g5riGnhZDFQ",
+              "published": "2026-07-19T19:00:04Z",
+              "description": ""
             }
           ],
           "error": null
         }
       ],
       "power_platform": [
-        {
-          "creator": "Shane Young",
-          "handle": "@ShanesCows",
-          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
-          "videos": [],
-          "error": null
-        },
         {
           "creator": "Reza Dorrani",
           "handle": "@RezaDorrani",
@@ -104,10 +103,24 @@
           "error": null
         },
         {
-          "creator": "April Dunnam",
-          "handle": "@AprilDunnam",
-          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
+          "creator": "Matthew Devaney",
+          "handle": "@MatthewDevaney",
+          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
           "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Shane Young",
+          "handle": "@ShanesCows",
+          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
+          "videos": [
+            {
+              "title": "Stop Creating AI Slop & Dribble! Learn the Right Way to Use Copilot",
+              "url": "https://www.youtube.com/watch?v=aMyYa_D-3Vs",
+              "published": "2026-07-20T13:38:50Z",
+              "description": "AI can generate more words faster than ever, but are those words actually creating value? In this video, you’ll learn the difference between AI Slop, AI Dribble, and AI Boost.\nAnd how to make sure tools like Microsoft Copilot improve your work instead of making it longer, noisier, or less accurate.\n\nYou’ll see what happens when three useful bullet points become a giant “professional” email, only for the recipient to ask Copilot to turn it back into bullet points. You’ll also see why a perfectly "
+            }
+          ],
           "error": null
         },
         {
@@ -118,9 +131,9 @@
           "error": null
         },
         {
-          "creator": "Matthew Devaney",
-          "handle": "@MatthewDevaney",
-          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
+          "creator": "April Dunnam",
+          "handle": "@AprilDunnam",
+          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
           "videos": [],
           "error": null
         }
@@ -139,10 +152,10 @@
           "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
           "videos": [
             {
-              "title": "Stop Reaching for DAX First in Power BI",
-              "url": "https://www.youtube.com/shorts/U6LlBd4b4zE",
-              "published": "2026-07-19T01:00:16Z",
-              "description": "Before you write another DAX measure, ask yourself this question. The fastest Power BI solution is often the one that doesn't need DAX at all."
+              "title": "Save a Ridiculous Number of Clicks in Power BI",
+              "url": "https://www.youtube.com/shorts/oj3FYdML2d8",
+              "published": "2026-07-20T16:30:09Z",
+              "description": "Stop wasting time with repetitive clicks. This Power BI shortcut will make your workflow dramatically faster."
             }
           ],
           "error": null
@@ -150,23 +163,10 @@
       ],
       "ai": [
         {
-          "creator": "NateBJones",
-          "handle": "@NateBJones",
-          "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
-          "videos": [
-            {
-              "title": "The real thing gating AI now isn't the technology #OpenAI #AI #AIregulation #AInews #tech",
-              "url": "https://www.youtube.com/shorts/F7bFbQSTPq8",
-              "published": "2026-07-20T03:00:38Z",
-              "description": "For two years the whole AI race was about one thing: who has the most compute and the best model. That story is quietly ending. The labs at the frontier are bumping into a different wall now, and it is not a technical one. It is political. When a government can decide whether and when your flagship model is allowed to ship, raw capability stops being the thing that wins, and access to permission becomes the real asset.\n\nThat is what the OpenAI government move is actually about. It is not goodwil"
-            },
-            {
-              "title": "I Cut the Internet and Let AI Read the File I Could Never Upload. It Caught the Leak.",
-              "url": "https://www.youtube.com/watch?v=5slsNizN6MQ",
-              "published": "2026-07-19T05:00:22Z",
-              "description": "Full post with a guide to clean sensitive documents: https://natesnewsletter.substack.com/p/run-ai-offline-private-files?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nHow to use AI on the files you can't upload: run a downloaded model on your own laptop, with the internet off, and grade what's actually safe to send. Microsoft is building this for enterprises. This is the version that fits on one machine.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack"
-            }
-          ],
+          "creator": "Chase AI",
+          "handle": "@ChaseAI",
+          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+          "videos": [],
           "error": null
         },
         {
@@ -177,10 +177,17 @@
           "error": null
         },
         {
-          "creator": "Chase AI",
-          "handle": "@ChaseAI",
-          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
-          "videos": [],
+          "creator": "Nate Herk",
+          "handle": "@NateHerk",
+          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+          "videos": [
+            {
+              "title": "Why Your AI Offer Isn't Selling, and How to Fix That",
+              "url": "https://www.youtube.com/watch?v=8MEJen0nblQ",
+              "published": "2026-07-20T13:50:32Z",
+              "description": "Try ClickUp free for a month, then 15% off Biz plan w/ code NATEHERKB2: https://clickup.com/\nMy playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=nate-b-jones-pod&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nI sat dow"
+            }
+          ],
           "error": null
         },
         {
@@ -198,10 +205,29 @@
           "error": null
         },
         {
-          "creator": "Nate Herk",
-          "handle": "@NateHerk",
-          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-          "videos": [],
+          "creator": "NateBJones",
+          "handle": "@NateBJones",
+          "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
+          "videos": [
+            {
+              "title": "Stop building AI agents that just click buttons #AI #aiagents #automation #productivity #AItools",
+              "url": "https://www.youtube.com/shorts/D64_UhhSj6A",
+              "published": "2026-07-21T03:00:31Z",
+              "description": "Most agent demos show you the wrong magic trick. Watch, it clicked send. Watch, it booked the meeting. That is the easy part. You could always click send. What actually eats your week is everything that happens before the click: digging through a messy folder, making sense of a denial letter, pulling the right numbers out of a pile of unstructured junk that was never meant to be read quickly.\n\nThat is the part worth automating. An agent earns its place when it takes the bureaucratic mess and tur"
+            },
+            {
+              "title": "China's K3 Model Reveals the Problem With Open Weights",
+              "url": "https://www.youtube.com/watch?v=2ZpZhsjoUK4",
+              "published": "2026-07-20T14:00:15Z",
+              "description": "My benchmarks: https://unlock-ai.natebjones.com/benchmarks/kimi-k3?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nFull post:\nhttps://natesnewsletter.substack.com/p/kimi-k3-open-weights-cost?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nKimi K3 is Moonshot's new open-weight AI model, and it complicates the story that Chinese open models are cheap, efficient, and closing the gap on the frontier. Here's what it actually costs to run, "
+            },
+            {
+              "title": "The real thing gating AI now isn't the technology #OpenAI #AI #AIregulation #AInews #tech",
+              "url": "https://www.youtube.com/shorts/F7bFbQSTPq8",
+              "published": "2026-07-20T03:00:38Z",
+              "description": "For two years the whole AI race was about one thing: who has the most compute and the best model. That story is quietly ending. The labs at the frontier are bumping into a different wall now, and it is not a technical one. It is political. When a government can decide whether and when your flagship model is allowed to ship, raw capability stops being the thing that wins, and access to permission becomes the real asset.\n\nThat is what the OpenAI government move is actually about. It is not goodwil"
+            }
+          ],
           "error": null
         },
         {
@@ -217,16 +243,16 @@
           "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
           "videos": [
             {
+              "title": "Claude Cowork Just Went Fully Hands-Off (Scheduled Tasks V2)",
+              "url": "https://www.youtube.com/shorts/vqxOFKTsxSE",
+              "published": "2026-07-20T19:44:57Z",
+              "description": "Tired of complex automation setups? Claude Code's new scheduled tasks feature lets you automate repeating business processes directly in the cloud, no server or technical skills required. In this video, I'll show you how this game-changing update works by walking through real-world accounting examples and building a subscription audit task from scratch. Learn how to set up your own automations that run even when your laptop is shut."
+            },
+            {
               "title": "Stop Using Fable 5 in Claude Code (It’s Holding You Back)",
               "url": "https://www.youtube.com/shorts/hVtwhasO988",
               "published": "2026-07-19T23:02:06Z",
               "description": "Fable 5 is becoming an API-billed model, and the costs can add up quickly if you're not careful. This video breaks down exactly which tasks are worth paying Fable rates for, and which ones aren't. We'll walk through every setting you need to change to stop your bill from quietly running away when you do use it."
-            },
-            {
-              "title": "I Rebuilt Hermes’s Best Feature in Claude Code (Steal This)",
-              "url": "https://www.youtube.com/shorts/ATUSh810O_A",
-              "published": "2026-07-18T14:11:30Z",
-              "description": "Hermes Agent's most loved feature is its memory, which just happens to be Claude Code's biggest weakness. Instead of switching, I rebuilt Hermes's memory system inside Claude Code in just 10 minutes, keeping the best parts and fixing its flaws. In this video, you'll learn how to build an agent that remembers a decision from six months ago, tells you the exact conversation it came from, and runs on your existing Claude Code plan."
             }
           ],
           "error": null
@@ -585,8 +611,577 @@
     "m365_roadmap": {
       "source_url": "https://www.microsoft.com/microsoft-365/roadmap",
       "data_url": "https://www.microsoft.com/releasecommunications/api/v1/m365",
-      "items": [],
-      "total_updates": 0,
+      "items": [
+        {
+          "id": 567895,
+          "title": "OneNote: Multimodal capture in Copilot Notebooks (Android)",
+          "description": "Multimodal capture enables users to transcribe audio, take images, and type notes in a single session. Copilot then creates a structured Copilot Page with insights and user-captured content, saved to a user-selected Copilot Notebook. Designed for capturing offline work moments—including in-person conversations, whiteboard sessions, and personal notes. This capability is already generally available on OneNote for iPhone and iPad.",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-07-20T22:37:15",
+          "modified": "2026-07-20T22:37:15",
+          "ga_date": "September CY2026",
+          "preview_date": "August CY2026",
+          "products": [
+            "OneNote",
+            "Microsoft Copilot (Microsoft 365)"
+          ],
+          "platforms": [
+            "Android"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567895"
+        },
+        {
+          "id": 567894,
+          "title": "Microsoft Copilot Studio: Share Autonomous Agents to End Users (Run-Only)",
+          "description": "Previously, autonomous agents could only be used and managed by makers, limiting their reach to the people who needed them. Run-only sharing enables makers to securely share autonomous agents with end users, allowing users to benefit from agent-driven automation without requiring edit permissions or ownership. This extends autonomous agent capabilities to a broader audience while maintaining governance and control.",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-07-20T22:37:15",
+          "modified": "2026-07-20T22:37:15",
+          "ga_date": "January CY2027",
+          "preview_date": "August CY2026",
+          "products": [
+            "Microsoft Copilot Studio"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567894"
+        },
+        {
+          "id": 567891,
+          "title": "Microsoft Copilot (Microsoft 365): Power BI integration in M365 Copilot",
+          "description": "This release enables M365 Copilot to reason over Power BI enterprise data and returns grounded answers directly from Power BI reports and semantic models. Users can ask natural‑language questions and receive accurate answers.",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-07-20T22:37:15",
+          "modified": "2026-07-20T22:37:15",
+          "ga_date": "August CY2026",
+          "preview_date": "June CY2026",
+          "products": [
+            "Microsoft Copilot (Microsoft 365)"
+          ],
+          "platforms": [
+            "Android",
+            "Desktop",
+            "iOS",
+            "Mac",
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)",
+            "GCC",
+            "GCC High",
+            "DoD"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567891"
+        },
+        {
+          "id": 567889,
+          "title": "SharePoint: Flexible Section Authoring Improvements",
+          "description": "We've enhanced Flexible Sections in SharePoint Pages to make page layout creation more intuitive and predictable. Authors can now use visual column layout guides that mirror familiar sections, keep gridlines and layout guides visible while editing, and convert existing sections into Flexible Sections with a single click while preserving content placement. These improvements help authors create richer page designs with greater confidence and consistency across desktop, mobile, and email experienc",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-07-20T22:37:15",
+          "modified": "2026-07-20T22:37:15",
+          "ga_date": "August CY2026",
+          "preview_date": "",
+          "products": [
+            "SharePoint"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Targeted Release"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567889"
+        },
+        {
+          "id": 567883,
+          "title": "Microsoft Teams: Unified Agent and App Installation Management Across Microsoft 365 and Teams Admin Center",
+          "description": "Administrators using the Microsoft 365 admin center and Teams admin center will be able to apply app and agent installation changes once and have them consistently enforced across Teams, Outlook, and Microsoft 365 Copilot. Previously, installation changes made in the Microsoft 365 admin center only applied to Outlook and Microsoft 365, while changes made in the Teams admin center only applied to Teams. With this update, app and agent installation is unified across all supported surfaces, enablin",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-07-20T22:37:15",
+          "modified": "2026-07-20T22:37:15",
+          "ga_date": "August CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Desktop"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567883"
+        },
+        {
+          "id": 567466,
+          "title": "Microsoft Teams: Teams events attendance and engagement report policy",
+          "description": "Teams events will soon have a separate attendance and engagement report policy from the \"CsTeamsMeetingPolicy\" attendance and engagement report policy. This will permit admins to allow Teams events organizers to access attendance and engagement reports, while restricting access to Teams meeting attendance and engagement reports.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-07-14T22:41:38",
+          "modified": "2026-07-20T22:37:15",
+          "ga_date": "August CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Desktop"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)",
+            "GCC"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567466"
+        },
+        {
+          "id": 565131,
+          "title": "Microsoft Teams: Multi-line Calling on Teams Mobile",
+          "description": "Make and receive calls using multiple assigned phone numbers directly from your mobile device - choose the right line for every call, with unified call history and seamless switching across all your lines.",
+          "status": "Rolling out",
+          "change_type": "updated",
+          "created": "2026-06-04T23:15:54",
+          "modified": "2026-07-20T22:37:15",
+          "ga_date": "July CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Android",
+            "iOS"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=565131"
+        },
+        {
+          "id": 564606,
+          "title": "Microsoft Copilot (Microsoft 365): Declarative agents with Actions available in GCC High and DoD",
+          "description": "Declarative Agents with Actions enable Microsoft 365 Copilot to take real-world actions by invoking APIs, plugins, and enterprise workflows directly within the chat experience. Using custom actions, declarative agents can call external systems, execute operations, and retrieve or update data, moving beyond Q&A to full task completion. These actions are powered through API plugins, MCP tools, and enterprise connectors, allowing seamless integration with line-of-business applications and services.",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2026-05-27T23:15:50",
+          "modified": "2026-07-20T22:37:15",
+          "ga_date": "June CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Copilot (Microsoft 365)"
+          ],
+          "platforms": [
+            "Desktop",
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "GCC High",
+            "DoD"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=564606"
+        },
+        {
+          "id": 561912,
+          "title": "Microsoft Teams: Shared & Delegate Mailbox Scheduling for Events",
+          "description": "Empower Chiefs of Staff and delegated roles to efficiently organize events on behalf of leaders or teams using shared or delegated mailboxes. By sending trusted invites from the chosen mailbox, this capability ensures consistent identity, improved trust, and smoother event setup.",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2026-05-15T22:00:42",
+          "modified": "2026-07-20T22:37:15",
+          "ga_date": "June CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Desktop",
+            "Mac"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Targeted Release"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=561912"
+        },
+        {
+          "id": 561915,
+          "title": "Microsoft Teams: Save your event as template to reuse event configurations",
+          "description": "Organizers for Teams events instances will now be able to reuse their event configurations in the Events app in Teams. Organizers can save these configurations as a template in the Events app to use again for future Teams events.",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2026-05-13T23:00:44",
+          "modified": "2026-07-20T22:37:15",
+          "ga_date": "June CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Desktop"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Targeted Release"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=561915"
+        },
+        {
+          "id": 561552,
+          "title": "Microsoft Purview: Data Loss Prevention to restrict processing external emails in Microsoft 365 Copilot and Copilot Chat",
+          "description": "We are expanding Microsoft Purview DLP for Microsoft 365 Copilot and Copilot Chat to safeguard risks from external emails. This real-time control helps organizations mitigate data risks by preventing Microsoft 365 Copilot and Chat from processing emails from senders external to your organization.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-05-12T23:00:33",
+          "modified": "2026-07-20T22:37:15",
+          "ga_date": "January CY2027",
+          "preview_date": "June CY2026",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=561552"
+        },
+        {
+          "id": 561647,
+          "title": "Microsoft Teams: Room availability signal for Teams events",
+          "description": "In the Events app in Teams, Teams events organizers will now be able to see if the chosen room or space they have selected for their event is available at the designated time or not. This feature is available for any Teams event organizer with a Teams Enterprise license.",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2026-05-08T22:15:03",
+          "modified": "2026-07-20T22:37:15",
+          "ga_date": "June CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Desktop"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Targeted Release"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=561647"
+        },
+        {
+          "id": 561208,
+          "title": "Microsoft Purview: Data Lifecycle Management – Archive OneDrive and SharePoint files under retention",
+          "description": "Retention based file archiving moves inactive content to low-cost storage, lowering costs without compromising on Compliance - while keeping data discoverable and Copilot results highly relevant.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-05-05T23:00:02",
+          "modified": "2026-07-20T22:37:15",
+          "ga_date": "September CY2026",
+          "preview_date": "August CY2026",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=561208"
+        },
+        {
+          "id": 558853,
+          "title": "Microsoft Teams: Entra passwordless resource account support for Teams Rooms on Windows devices",
+          "description": "Teams rooms on Windows supports Entra Resource Accounts for secure, passwordless sign-in that separates device and user identities. IT admins can migrate to Entra accounts easily with the migration wizard, and track progress using a dashboard in the Pro Management portal.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-04-08T23:00:03",
+          "modified": "2026-07-20T22:37:15",
+          "ga_date": "August CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Android",
+            "Teams and Surface Devices"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=558853"
+        },
+        {
+          "id": 558681,
+          "title": "Microsoft Purview: Data Loss Prevention – Enrich Defender alerts Graph API with DLP event data",
+          "description": "Enhance current API infrastructure to provide easy and simple way for customers to export data to integrate with SIEM tools, create automated workflows and generate customizable reports. Today alert data is present in Graph API and DLP rule match event details are present in Management API. This work enriches the graph API with DLP event data to make correlation and integration easy for customers.",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2026-03-13T22:00:48",
+          "modified": "2026-07-20T22:37:15",
+          "ga_date": "June CY2026",
+          "preview_date": "May CY2026",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=558681"
+        },
+        {
+          "id": 557683,
+          "title": "Microsoft Purview: Insider Risk Management- Data Security Triage Agent in IRM Enhancements",
+          "description": "The Data Security Triage Agent in Insider Risk Management is deploying enhancements such as improved user risk and activity explorer pattern summaries to support improved investigation accuracy, context, and decision quality. \n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and ",
+          "status": "Rolling out",
+          "change_type": "updated",
+          "created": "2026-02-24T00:15:57",
+          "modified": "2026-07-20T22:37:15",
+          "ga_date": "June CY2026",
+          "preview_date": "March CY2026",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=557683"
+        },
+        {
+          "id": 553220,
+          "title": "SharePoint: Admin policy for expiring \"People in your organization\" links",
+          "description": "Administrators can now set organization-wide policies to automatically expire \"People in your organization\" sharing links after a specified period. This helps organizations maintain tighter control over internal content sharing by ensuring links don't remain active indefinitely. Configure expiration timeframes that align with your organization's data governance requirements—whether that's 30 days, 90 days, or a custom period.",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2026-02-06T00:00:51",
+          "modified": "2026-07-20T22:37:15",
+          "ga_date": "March CY2026",
+          "preview_date": "",
+          "products": [
+            "OneDrive",
+            "SharePoint"
+          ],
+          "platforms": [
+            "Android",
+            "Desktop",
+            "iOS",
+            "Mac",
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)",
+            "GCC",
+            "GCC High",
+            "DoD"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=553220"
+        },
+        {
+          "id": 547731,
+          "title": "Microsoft Copilot (Microsoft 365): Business Justification for Copilot License Requests",
+          "description": "When requesting a Microsoft 365 Copilot license, users can now provide a business justification explaining why they need Copilot. This context is shown to admins during review, helping them make faster, more informed approval decisions and supporting governance and audit needs. Updated July 20, 2026: We have decided to rollback this change and will not be moving forward with it at this time. We apologize for any inconvenience.",
+          "status": "Cancelled",
+          "change_type": "updated",
+          "created": "2026-01-21T00:15:51",
+          "modified": "2026-07-20T22:37:15",
+          "ga_date": "May CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft 365 admin center",
+            "Microsoft Copilot (Microsoft 365)"
+          ],
+          "platforms": [
+            "Desktop",
+            "Mac",
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=547731"
+        },
+        {
+          "id": 523213,
+          "title": "Microsoft Teams: Teams frontline BYOD onboarding wizard",
+          "description": "Simplify frontline onboarding with an improved Teams mobile experience on personal devices. Workers can easily download and start using the Teams mobile app on their own device in compliance with organizational security policies, reducing the need for manager assistance and IT support. Updated July 20, 2026: We have decided not to move forward with this change at this time. We apologize for any inconvenience.",
+          "status": "Cancelled",
+          "change_type": "updated",
+          "created": "2025-11-04T00:00:10",
+          "modified": "2026-07-20T22:37:15",
+          "ga_date": "August CY2026",
+          "preview_date": "November CY2025",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Desktop"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=523213"
+        },
+        {
+          "id": 503144,
+          "title": "Microsoft Copilot (Microsoft 365): Domain exclusion for web grounding",
+          "description": "This feature will allow admins to specify a limited set of sites to exclude from web grounding in M365 Copilot and Copilot Chat #copilotcontrolsystem",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2025-09-10T23:15:44",
+          "modified": "2026-07-20T22:37:15",
+          "ga_date": "June CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Copilot (Microsoft 365)"
+          ],
+          "platforms": [
+            "Desktop",
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=503144"
+        },
+        {
+          "id": 422324,
+          "title": "OneNote: Summary and Q&A in OneNote Mobile with Copilot (Iphone)",
+          "description": "With this new Summary feature in OneNote mobile, you can create a short and fluent summary of your longer pages which will help to consume relevant information faster. With the Question and Answer at your fingertips, you can get real-time answers to your queries directly within your notes, enhancing your ability to access and utilize information quickly and effectively. We inadvertently marked this item as rolling out and now have updated it to be accurate.  We apologize for any inconvenience.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2024-10-22T23:00:59",
+          "modified": "2026-07-20T22:37:15",
+          "ga_date": "August CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Copilot (Microsoft 365)",
+            "OneNote"
+          ],
+          "platforms": [
+            "iOS"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=422324"
+        },
+        {
+          "id": 422323,
+          "title": "OneNote: Summary and Q&A in OneNote Mobile with Copilot (Android)",
+          "description": "With this new Summary feature in OneNote mobile, you can create a short and fluent summary of your longer pages which will help to consume relevant information faster. With the Question and Answer at your fingertips, you can get real-time answers to your queries directly within your notes, enhancing your ability to access and utilize information quickly and effectively.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2024-10-22T23:00:59",
+          "modified": "2026-07-20T22:37:15",
+          "ga_date": "August CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Copilot (Microsoft 365)",
+            "OneNote"
+          ],
+          "platforms": [
+            "Android"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=422323"
+        }
+      ],
+      "total_updates": 22,
       "error": null
     }
   },
