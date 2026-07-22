@@ -1,9 +1,63 @@
 {
-  "generated_at": "2026-07-21T11:35:14.218371Z",
+  "generated_at": "2026-07-22T11:35:24.283992Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
+        {
+          "creator": "Epic Adventure Outfitters",
+          "handle": "@EpicAdventureOutfitters",
+          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
+          "videos": [
+            {
+              "title": "What gear ratio should you run? #jeep #gears #overlanding #4x4",
+              "url": "https://www.youtube.com/shorts/swYcBdDueqg",
+              "published": "2026-07-21T21:00:35Z",
+              "description": ""
+            },
+            {
+              "title": "5 Things That Could Save Your Jeep. And Maybe You.",
+              "url": "https://www.youtube.com/watch?v=cEPEF9NcrcE",
+              "published": "2026-07-20T20:00:35Z",
+              "description": "You can build the most capable Jeep on the planet, but if you head out on an adventure without the right gear inside the cab, none of it matters when things go sideways. And things do go sideways.\n\n#JeepLife #JeepGear #Overlanding #OffRoad \n\nIn this episode Paul and The Ginger walk through the five things that should be inside every Jeep before you leave the driveway. \nNot mods. Not suspension. Not tires. \nThe stuff you pack in the cab, doors closed, that could save your trip, your rig, and poss"
+            },
+            {
+              "title": "Don't trust some companies...#MadeInChina #overlanding #jeep",
+              "url": "https://www.youtube.com/shorts/WTxP-lNZT9k",
+              "published": "2026-07-20T19:00:39Z",
+              "description": ""
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "VentureToRoam",
+          "handle": "@VentureToRoam",
+          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
+          "videos": [
+            {
+              "title": "I FOUND an AXE MURDER Massacre site in the Idaho Backcountry",
+              "url": "https://www.youtube.com/watch?v=cKs17jHSb5I",
+              "published": "2026-07-21T17:00:06Z",
+              "description": "Support my Partners:\nK-Suspension: https://geni.us/Ksuspension\nJoin our Patreon! https://www.patreon.com/c/venture2roam\nSave 20% on OnX Offroad: https://geni.us/OnXOffroad V2R20\n\nI found the site of an Axe Murder Massacre in the Idaho Backcountry. I venture out to one of Idaho's most remote areas to track the story of Lloyd Magruder, who was killed by axes back in 1863. His killers tried to sneak away, but were brought back by Lloyd's good friend Hill Beachy. They were all tried and convicted of"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "TrailRecon",
+          "handle": "@TrailRecon",
+          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Life Style Overland",
+          "handle": "@LifeStyleOverland",
+          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
+          "videos": [],
+          "error": null
+        },
         {
           "creator": "This Story Till Now",
           "handle": "@ThisStoryTillNow",
@@ -26,20 +80,6 @@
           "error": null
         },
         {
-          "creator": "Life Style Overland",
-          "handle": "@LifeStyleOverland",
-          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "VentureToRoam",
-          "handle": "@VentureToRoam",
-          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "Casey 250",
           "handle": "@Casey250",
           "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
@@ -52,63 +92,9 @@
           "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
           "videos": [],
           "error": null
-        },
-        {
-          "creator": "TrailRecon",
-          "handle": "@TrailRecon",
-          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Epic Adventure Outfitters",
-          "handle": "@EpicAdventureOutfitters",
-          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
-          "videos": [
-            {
-              "title": "5 Things That Could Save Your Jeep. And Maybe You.",
-              "url": "https://www.youtube.com/watch?v=cEPEF9NcrcE",
-              "published": "2026-07-20T20:00:35Z",
-              "description": "You can build the most capable Jeep on the planet, but if you head out on an adventure without the right gear inside the cab, none of it matters when things go sideways. And things do go sideways.\n\n#JeepLife #JeepGear #Overlanding #OffRoad \n\nIn this episode Paul and The Ginger walk through the five things that should be inside every Jeep before you leave the driveway. \nNot mods. Not suspension. Not tires. \nThe stuff you pack in the cab, doors closed, that could save your trip, your rig, and poss"
-            },
-            {
-              "title": "Don't trust some companies...#MadeInChina #overlanding #jeep",
-              "url": "https://www.youtube.com/shorts/WTxP-lNZT9k",
-              "published": "2026-07-20T19:00:39Z",
-              "description": ""
-            },
-            {
-              "title": "Build like a tank tire carrier...#metalcloak #overlanding #jeep",
-              "url": "https://www.youtube.com/shorts/g5riGnhZDFQ",
-              "published": "2026-07-19T19:00:04Z",
-              "description": ""
-            }
-          ],
-          "error": null
         }
       ],
       "power_platform": [
-        {
-          "creator": "Reza Dorrani",
-          "handle": "@RezaDorrani",
-          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
-          "videos": [
-            {
-              "title": "NEW Power Automate Flow Agent MCP Server | Full Tutorial",
-              "url": "https://www.youtube.com/watch?v=25V_BBF4ymE",
-              "published": "2026-07-20T11:30:33Z",
-              "description": "Microsoft just released the new FlowAgent MCP server — a free, open-source Power Automate plugin that lets AI assistants like Claude Code and GitHub Copilot CLI build, edit, run, and debug your cloud flows for you. In this tutorial video, I put the flow MCP to the test!\n\nYou'll see me:\n▶ Run the Power Automate plugin from Microsoft's plugin marketplace\n▶ Build a complete flow from scratch — just by describing it in plain English\n▶ Edit and optimize an existing flow\n▶ Put it to the test and build"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Matthew Devaney",
-          "handle": "@MatthewDevaney",
-          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
-          "videos": [],
-          "error": null
-        },
         {
           "creator": "Shane Young",
           "handle": "@ShanesCows",
@@ -121,6 +107,20 @@
               "description": "AI can generate more words faster than ever, but are those words actually creating value? In this video, you’ll learn the difference between AI Slop, AI Dribble, and AI Boost.\nAnd how to make sure tools like Microsoft Copilot improve your work instead of making it longer, noisier, or less accurate.\n\nYou’ll see what happens when three useful bullet points become a giant “professional” email, only for the recipient to ask Copilot to turn it back into bullet points. You’ll also see why a perfectly "
             }
           ],
+          "error": null
+        },
+        {
+          "creator": "Reza Dorrani",
+          "handle": "@RezaDorrani",
+          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Matthew Devaney",
+          "handle": "@MatthewDevaney",
+          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
+          "videos": [],
           "error": null
         },
         {
@@ -140,13 +140,6 @@
       ],
       "fabric_powerbi": [
         {
-          "creator": "Dewain Robinson",
-          "handle": "@DewainRobinson",
-          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "Guy in a Cube",
           "handle": "@GuyInACube",
           "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
@@ -159,28 +152,27 @@
             }
           ],
           "error": null
+        },
+        {
+          "creator": "Dewain Robinson",
+          "handle": "@DewainRobinson",
+          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
+          "videos": [],
+          "error": null
         }
       ],
       "ai": [
-        {
-          "creator": "Chase AI",
-          "handle": "@ChaseAI",
-          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Alex Finn",
-          "handle": "@AlexFinn",
-          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
-          "videos": [],
-          "error": null
-        },
         {
           "creator": "Nate Herk",
           "handle": "@NateHerk",
           "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
           "videos": [
+            {
+              "title": "Huge ChatGPT Update You Need to See!",
+              "url": "https://www.youtube.com/shorts/c1TWmKILaeM",
+              "published": "2026-07-21T13:00:33Z",
+              "description": "Big news! 🚀\n\nChatGPT Work is available today in ChatGPT on web and mobile for Pro, Enterprise, and Edu, with Plus and Business rolling out over the next few days. In the ChatGPT desktop app, Chat, Work, and Codex are available on every plan, including Free, and is available globally to download on Windows and Mac.\n\n💻 How to get it:\nGo to chatgpt.com/download to get the app for your computer!\n\n🔗 Link in bio for 7-days!\n\n@ChatGPT #ChatGPT_Partner"
+            },
             {
               "title": "Why Your AI Offer Isn't Selling, and How to Fix That",
               "url": "https://www.youtube.com/watch?v=8MEJen0nblQ",
@@ -191,17 +183,24 @@
           "error": null
         },
         {
-          "creator": "Paul J Lipsky",
-          "handle": "@PaulJLipsky",
-          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
+          "creator": "Chase AI",
+          "handle": "@ChaseAI",
+          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
           "videos": [
             {
-              "title": "Build Any App With Gemini Canvas",
-              "url": "https://www.youtube.com/watch?v=-ZTxheGwcu0",
-              "published": "2026-07-19T13:00:16Z",
-              "description": "Vibe Coding Guide: https://share.gemini.google/mz1Rhk5pA8ak\n\nLearn how to build apps and websites inside Gemini Canvas without writing code. This beginner tutorial covers better prompting, step-by-step app building, troubleshooting, sharing, and deployment.\n\n0:00 Intro\n0:35 Set Up Gemini Canvas\n1:08 What Is Vibe Coding?\n1:42 Five Vibe Coding Best Practices\n6:11 Build an App in Gemini Canvas\n8:11 Edit and Expand Your App\n11:50 More Apps and Websites You Can Build\n16:16 Share or Deploy Your App\n17"
+              "title": "Move Over Loop Engineering, Graph Engineering Is Now Here",
+              "url": "https://www.youtube.com/watch?v=Joqh7Tui9B8",
+              "published": "2026-07-21T23:33:17Z",
+              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nIs the loop engineering era already over?\n\nGraph engineering is the latest AI buzzword and in this video I break down what it is, how it works, and if you should even care (you should).\n\n\n⏰TIMESTAMPS:\n0:00 - Intro\n0:38 - Loops vs Graphs\n3:41 - Graph Engineering\n6:53 - Use Cases\n9:51 - O"
             }
           ],
+          "error": null
+        },
+        {
+          "creator": "Alex Finn",
+          "handle": "@AlexFinn",
+          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
+          "videos": [],
           "error": null
         },
         {
@@ -209,6 +208,12 @@
           "handle": "@NateBJones",
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
+            {
+              "title": "Yes, AI agents hallucinate. Here's how mine caught itself. Get the multi-agent system below ⬇️",
+              "url": "https://www.youtube.com/shorts/fKJ_hlvqM2o",
+              "published": "2026-07-22T03:00:26Z",
+              "description": "Everyone's first objection to AI agents is the same, and it is a fair one. They hallucinate. You cannot trust them. So you end up hovering over every step, checking the work, and at that point you may as well have done it yourself.\n\nHere is the thing that changes the math. The fix for an agent you cannot trust is not a smarter single agent. It is a second agent whose only job is to check the first one, and a third that checks that. When one of mine made something up, another one caught it and co"
+            },
             {
               "title": "Stop building AI agents that just click buttons #AI #aiagents #automation #productivity #AItools",
               "url": "https://www.youtube.com/shorts/D64_UhhSj6A",
@@ -219,22 +224,9 @@
               "title": "China's K3 Model Reveals the Problem With Open Weights",
               "url": "https://www.youtube.com/watch?v=2ZpZhsjoUK4",
               "published": "2026-07-20T14:00:15Z",
-              "description": "My benchmarks: https://unlock-ai.natebjones.com/benchmarks/kimi-k3?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nFull post:\nhttps://natesnewsletter.substack.com/p/kimi-k3-open-weights-cost?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nKimi K3 is Moonshot's new open-weight AI model, and it complicates the story that Chinese open models are cheap, efficient, and closing the gap on the frontier. Here's what it actually costs to run, "
-            },
-            {
-              "title": "The real thing gating AI now isn't the technology #OpenAI #AI #AIregulation #AInews #tech",
-              "url": "https://www.youtube.com/shorts/F7bFbQSTPq8",
-              "published": "2026-07-20T03:00:38Z",
-              "description": "For two years the whole AI race was about one thing: who has the most compute and the best model. That story is quietly ending. The labs at the frontier are bumping into a different wall now, and it is not a technical one. It is political. When a government can decide whether and when your flagship model is allowed to ship, raw capability stops being the thing that wins, and access to permission becomes the real asset.\n\nThat is what the OpenAI government move is actually about. It is not goodwil"
+              "description": "Full post:\nhttps://natesnewsletter.substack.com/p/kimi-k3-open-weights-cost?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nKimi K3 is Moonshot's new open-weight AI model, and it complicates the story that Chinese open models are cheap, efficient, and closing the gap on the frontier. Here's what it actually costs to run, and what it means for OpenAI, Anthropic, and the future of open source.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: htt"
             }
           ],
-          "error": null
-        },
-        {
-          "creator": "AI Daily Brief",
-          "handle": "@AIDailyBrief",
-          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
-          "videos": [],
           "error": null
         },
         {
@@ -247,12 +239,34 @@
               "url": "https://www.youtube.com/shorts/vqxOFKTsxSE",
               "published": "2026-07-20T19:44:57Z",
               "description": "Tired of complex automation setups? Claude Code's new scheduled tasks feature lets you automate repeating business processes directly in the cloud, no server or technical skills required. In this video, I'll show you how this game-changing update works by walking through real-world accounting examples and building a subscription audit task from scratch. Learn how to set up your own automations that run even when your laptop is shut."
-            },
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Paul J Lipsky",
+          "handle": "@PaulJLipsky",
+          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
+          "videos": [
             {
-              "title": "Stop Using Fable 5 in Claude Code (It’s Holding You Back)",
-              "url": "https://www.youtube.com/shorts/hVtwhasO988",
-              "published": "2026-07-19T23:02:06Z",
-              "description": "Fable 5 is becoming an API-billed model, and the costs can add up quickly if you're not careful. This video breaks down exactly which tasks are worth paying Fable rates for, and which ones aren't. We'll walk through every setting you need to change to stop your bill from quietly running away when you do use it."
+              "title": "The Secret Way I'm Using ChatGPT Sites to 10x My Productivity",
+              "url": "https://www.youtube.com/watch?v=1uAetuID7u0",
+              "published": "2026-07-21T13:00:21Z",
+              "description": "Free ChatGPT Sites prompt guide: https://chatgpt-sites-prompt-guide.pauljlipsky.chatgpt.site\n\nChatGPT Sites can turn a short prompt into a hosted website, private dashboard, booking form, or shared tool with persistent data. Here’s how to publish your first site and five practical ways to use it.\n\nSome features in this video may not be available in your region or on your plan yet.\n\n0:00 Intro\n0:40 Build \n3:45 Daily Dashboard\n5:57 Prompting Tips\n6:54 Email Triage Dashboard\n8:36 Health Dashboard\n1"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "AI Daily Brief",
+          "handle": "@AIDailyBrief",
+          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
+          "videos": [
+            {
+              "title": "Is Kimi K3 Really Fable Class",
+              "url": "https://www.youtube.com/watch?v=lmQqiWQF_8I",
+              "published": "2026-07-21T20:11:26Z",
+              "description": "Moonshot’s Kimi K3 is the strongest open-weight model yet, with benchmarks approaching Fable 5 and GPT-5.6. But early testing reveals major limitations in reliability, speed, and cost. NLW examines whether K3 lives up to the hype—and what it means for open models, AI safety, and the US-China race.\n\nThe AI Daily Brief helps you understand the most important news and discussions in AI. \nSubscribe to the podcast version of The AI Daily Brief wherever you listen: https://pod.link/1680633614\nGet it a"
             }
           ],
           "error": null
@@ -260,203 +274,85 @@
       ]
     },
     "newsletters": {
-      "power_platform_weekly": {
-        "name": "Power Platform Weekly",
-        "issue_number": 270,
-        "issue_date": "2026-06-29",
-        "url": "https://www.ppweekly.com/p/power-platform-weekly-issue-270",
-        "is_new": false,
-        "sections": {
-          "📰 Articles": [
-            {
-              "title": "Are We Replacing Clicks With Prompts?",
-              "url": "https://crmkeeper.com/2026/06/23/are-we-replacing-clicks-with-prompts/"
-            },
-            {
-              "title": "Create A Segment For People Searching On Your Website",
-              "url": "https://meganvwalker.com/create-a-segment-searching-on-your-website/"
-            },
-            {
-              "title": "How to Set Up Verbatim Knowledge Responses in Dynamics 365",
-              "url": "https://d365goddess.com/verbatim-responses"
-            },
-            {
-              "title": "AI Agent Johan is on Fire, NL vs Tunisia two in a row?",
-              "url": "https://jscheper.com/ai-agent-johan-is-on-fire-nl-vs-tunisia-two-in-a-row/"
-            },
-            {
-              "title": "Optimizing Prompt Columns in Microsoft Dataverse with Filters: Part 2",
-              "url": "https://www.inogic.com/blog/2026/06/optimizing-prompt-columns-in-microsoft-dataverse-with-filters-part-2/"
-            },
-            {
-              "title": "Running Dataverse MCP Server in non-Microsoft clients",
-              "url": "https://nullpointer.se/dv-mcp-non-microsoft.html"
-            }
-          ],
-          "🎙️ Podcasts": [
-            {
-              "title": "Microsoft Mechanics Podcast",
-              "url": "https://microsoftmechanics.libsyn.com/find-and-fix-app-issues-azure-copilot-observability-agent"
-            },
-            {
-              "title": "M365 Nuggets Podcast",
-              "url": "https://creators.spotify.com/pod/profile/ragnarheil/episodes/Stop-Putting-Governance-in-Charge-of-Adoption-e3l8nbp"
-            },
-            {
-              "title": "Unresolved Dependencies Podcast",
-              "url": "https://player.fm/series/unresolved-dependencies/ep-8-thats-what-satya-said"
-            }
-          ],
-          "📅 Events & Webinars": [
-            {
-              "title": "European Power Platform Conference",
-              "url": "https://espc.tech/conference/eppc-2026/"
-            },
-            {
-              "title": "HELish Summit",
-              "url": "https://www.helishsummit.fi/"
-            },
-            {
-              "title": "Nordic Summit",
-              "url": "https://nordicsummit.info/"
-            },
-            {
-              "title": "Directions for Enterprise",
-              "url": "https://www.directionsforpartners.com/enterprise2026"
-            },
-            {
-              "title": "Scottish Summit",
-              "url": "https://scottishsummit.com/"
-            },
-            {
-              "title": "Community Summit North America",
-              "url": "https://www.summitna.com/"
-            },
-            {
-              "title": "Directions EMEA",
-              "url": "https://www.directionsforpartners.com/emea2026"
-            },
-            {
-              "title": "Power Platform Community Conference",
-              "url": "https://powerplatformconf.com/"
-            }
-          ],
-          "💙 Out of the Blue": [
-            {
-              "title": "Building reliable voice agents: A practical guide",
-              "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/building-reliable-voice-agents-a-practical-guide/"
-            },
-            {
-              "title": "Microsoft Entra ID single sign-on for the Denodo connector in Power BI (Preview)",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Microsoft-Entra-ID-single-sign-on-for-the-Denodo-connector-in/ba-p/5193376"
-            },
-            {
-              "title": "Protect once, enforce everywhere: Protection policies for Power BI (Generally Available)",
-              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Protect-once-enforce-everywhere-Protection-policies-for-Power-BI/ba-p/5223932"
-            }
-          ],
-          "📺 Videos": [
-            {
-              "title": "Environment-aware Office Scripts for different SharePoint sites and Power Platform environments",
-              "url": "https://www.youtube.com/watch?v=iX_pEcxRtF8"
-            },
-            {
-              "title": "Copilot Studio | Multi-Agent Architecture with Child, Connected and Foundry Agents (Part - 13)",
-              "url": "https://www.youtube.com/watch?v=h1BofRgVN0U"
-            },
-            {
-              "title": "Copilot Studio Integration helps you on your Flows on D365 F&O",
-              "url": "https://www.youtube.com/watch?v=1wW3QzsBVJo"
-            }
-          ]
-        },
-        "error": null
-      },
       "power_platform_dev_weekly": {
         "name": "Power Platform Dev Weekly",
-        "issue_number": 296,
-        "issue_date": "2026-06-24",
-        "url": "https://www.ppdevweekly.com/p/296",
-        "is_new": false,
+        "issue_number": 297,
+        "issue_date": "2026-07-22",
+        "url": "https://www.ppdevweekly.com/p/297",
+        "is_new": true,
         "sections": {
           "🥇 Cover Story": [
             {
-              "title": "Vibe Coding My Own Power Platform Admin Center",
-              "url": "https://dev.to/wyattdave/vibe-coding-my-own-power-platform-admin-center-29eh"
+              "title": "MCP with Entra auth + Copilot & Cowork",
+              "url": "https://nullpointer.se/copilot-cowork-oauth.html"
             }
           ],
           "💎 Model Driven Apps & Dataverse": [
             {
-              "title": "Why SQL4CDS Record Counts May Not Match Advanced Find for Date Filters (Dataverse / Dynamics 365)",
-              "url": "https://nishantrana.me/2026/06/18/why-sql4cds-record-counts-may-not-match-advanced-find-for-date-filters-dataverse-dynamics-365/"
+              "title": "Ditch the Power Apps maker portal!",
+              "url": "https://readyxrm.blog/2026/07/16/ditch-the-power-apps-maker-portal/"
             },
             {
-              "title": "What ‘pac solution pack’ Ships to Production",
-              "url": "https://automatevalue.com/blog/what-pac-solution-pack-ships-to-production/"
+              "title": "Power Platform Admin V2 - Create Rule Set Explained",
+              "url": "https://www.mattcollinsjones.co.uk/single-post/power-platform-admin-v2-create-rule-set-explained"
+            }
+          ],
+          "😎 Power Automate": [
+            {
+              "title": "How To Get A Docusign Signature In Power Automate",
+              "url": "https://www.matthewdevaney.com/how-to-get-a-docusign-signature-in-power-automate/"
             },
             {
-              "title": "How to Perform CRUD Operations in Microsoft Dataverse with Python – Part II",
-              "url": "https://www.inogic.com/blog/2026/06/how-to-perform-crud-operations-in-microsoft-dataverse-with-python-part-ii/"
+              "title": "Power Automate Cloud Flow Failing with 403 Forbidden on a Dataverse Action",
+              "url": "https://linnzawwin.blogspot.com/2026/07/power-automate-cloud-flow-failing-with.html"
             }
           ],
           "🤖 Copilot & Agents": [
             {
-              "title": "How To Fuzzy Search Dataverse Tables In Copilot Studio",
-              "url": "https://www.matthewdevaney.com/how-to-fuzzy-search-dataverse-tables-in-copilot-studio/"
+              "title": "Part 1",
+              "url": "https://holgerimbery.blog/copilot-studio-orchestration-part1"
             },
             {
-              "title": "Transform Raw Data into Visual Insights in Copilot Studio with a Single Skill!",
-              "url": "https://dev.to/balagmadhu/transform-raw-data-into-visual-insights-in-copilot-studio-with-a-single-skill-1h25"
+              "title": "Part 2",
+              "url": "https://holgerimbery.blog/copilot-studio-orchestration-part2"
             },
             {
-              "title": "Automating Copilot Studio Evaluations",
-              "url": "https://platformsofpower.net/automating-copilot-studio-evaluations/"
+              "title": "Part 3",
+              "url": "https://holgerimbery.blog/copilot-studio-orchestration-part3"
             },
             {
-              "title": "MCP vs MCP Server: What’s the Difference?",
-              "url": "https://rajeevpentyala.com/2026/06/18/mcp-vs-mcp-server-whats-the-difference/"
-            }
-          ],
-          "🚀 Code-Only": [
+              "title": "GPT-5.6 Is Missing in Copilot Cowork? Turn On This Admin Setting",
+              "url": "https://flowaltdelete.ca/2026/07/20/enable-gpt-5-6-copilot-cowork-openai-subprocessor/"
+            },
             {
-              "title": "Power Apps Code App | Environment Config Mismatch Error",
-              "url": "https://rajeevpentyala.com/2026/06/18/power-apps-code-app-environment-config-mismatch-error/"
+              "title": "Navigating the New Copilot Studio: A “Good, Bad, and Nitty-Gritty” First Look",
+              "url": "https://dev.to/balagmadhu/navigating-the-new-copilot-studio-a-good-bad-and-nitty-gritty-first-look-1843"
             }
           ],
           "👍 Everything else in Power Platform": [
             {
-              "title": "New bulk delete options come to Dataverse",
-              "url": "https://markcarrington.dev/2026/06/22/new-bulk-delete-options-come-to-dataverse/"
-            }
-          ],
-          "👩‍💻 Dev to the Core": [
-            {
-              "title": "PPTB - Bulk Data Studio",
-              "url": "https://linked365.blog/bulkdatastudio/"
+              "title": "Retrieve All One-to-Many Relationships and Cascade Delete Behavior for a Dataverse Table Using C#",
+              "url": "https://nishantrana.me/2026/07/07/retrieve-all-one-to-many-relationships-and-cascade-delete-behavior-for-a-dataverse-table-using-c/"
             }
           ],
           "🎮 Other Interesting Articles": [
             {
-              "title": "AI-900 vs AI-901",
-              "url": "https://ukcrm.wordpress.com/2026/06/09/ai-900-vs-ai-901/"
+              "title": "The All New Copilot Studio",
+              "url": "https://dev.to/wyattdave/the-all-new-copilot-studio-734"
+            },
+            {
+              "title": "Automation vs. Agentic AI: choosing the right approach",
+              "url": "https://netwiseglobal.com/blog/automation-vs-agentic-ai-choosing-the-right-approach/"
             }
           ],
           "📺 Videos": [
             {
-              "title": "Power Widgets Deep Dives - Episode 1 - FetchXML Builder with Jonas Rapp",
-              "url": "https://www.youtube.com/watch?v=tuFusj6zHRU"
+              "title": "Stop Creating AI Slop & Dribble! Learn the Right Way to Use Copilot",
+              "url": "https://www.youtube.com/watch?v=aMyYa_D-3Vs"
             },
             {
-              "title": "How to Replace Autonomous Agents with Workflows",
-              "url": "https://www.youtube.com/watch?v=nv3MUuciu_g"
-            },
-            {
-              "title": "The FUTURE of Copilot Studio is HERE (New Agents Preview)",
-              "url": "https://www.youtube.com/watch?v=aX4bcDPTmPY"
-            },
-            {
-              "title": "AI Is Expensive: 15 Ways to Cut Agent Costs",
-              "url": "https://www.youtube.com/watch?v=r6WBSTuB3Yo"
+              "title": "Power Platform ToolBox - Release v1.2.3",
+              "url": "https://www.youtube.com/watch?v=IxeOrQ-Ra9Y"
             }
           ]
         },
@@ -599,6 +495,118 @@
           ]
         },
         "error": null
+      },
+      "power_platform_weekly": {
+        "name": "Power Platform Weekly",
+        "issue_number": 270,
+        "issue_date": "2026-06-29",
+        "url": "https://www.ppweekly.com/p/power-platform-weekly-issue-270",
+        "is_new": false,
+        "sections": {
+          "📰 Articles": [
+            {
+              "title": "Are We Replacing Clicks With Prompts?",
+              "url": "https://crmkeeper.com/2026/06/23/are-we-replacing-clicks-with-prompts/"
+            },
+            {
+              "title": "Create A Segment For People Searching On Your Website",
+              "url": "https://meganvwalker.com/create-a-segment-searching-on-your-website/"
+            },
+            {
+              "title": "How to Set Up Verbatim Knowledge Responses in Dynamics 365",
+              "url": "https://d365goddess.com/verbatim-responses"
+            },
+            {
+              "title": "AI Agent Johan is on Fire, NL vs Tunisia two in a row?",
+              "url": "https://jscheper.com/ai-agent-johan-is-on-fire-nl-vs-tunisia-two-in-a-row/"
+            },
+            {
+              "title": "Optimizing Prompt Columns in Microsoft Dataverse with Filters: Part 2",
+              "url": "https://www.inogic.com/blog/2026/06/optimizing-prompt-columns-in-microsoft-dataverse-with-filters-part-2/"
+            },
+            {
+              "title": "Running Dataverse MCP Server in non-Microsoft clients",
+              "url": "https://nullpointer.se/dv-mcp-non-microsoft.html"
+            }
+          ],
+          "🎙️ Podcasts": [
+            {
+              "title": "Microsoft Mechanics Podcast",
+              "url": "https://microsoftmechanics.libsyn.com/find-and-fix-app-issues-azure-copilot-observability-agent"
+            },
+            {
+              "title": "M365 Nuggets Podcast",
+              "url": "https://creators.spotify.com/pod/profile/ragnarheil/episodes/Stop-Putting-Governance-in-Charge-of-Adoption-e3l8nbp"
+            },
+            {
+              "title": "Unresolved Dependencies Podcast",
+              "url": "https://player.fm/series/unresolved-dependencies/ep-8-thats-what-satya-said"
+            }
+          ],
+          "📅 Events & Webinars": [
+            {
+              "title": "European Power Platform Conference",
+              "url": "https://espc.tech/conference/eppc-2026/"
+            },
+            {
+              "title": "HELish Summit",
+              "url": "https://www.helishsummit.fi/"
+            },
+            {
+              "title": "Nordic Summit",
+              "url": "https://nordicsummit.info/"
+            },
+            {
+              "title": "Directions for Enterprise",
+              "url": "https://www.directionsforpartners.com/enterprise2026"
+            },
+            {
+              "title": "Scottish Summit",
+              "url": "https://scottishsummit.com/"
+            },
+            {
+              "title": "Community Summit North America",
+              "url": "https://www.summitna.com/"
+            },
+            {
+              "title": "Directions EMEA",
+              "url": "https://www.directionsforpartners.com/emea2026"
+            },
+            {
+              "title": "Power Platform Community Conference",
+              "url": "https://powerplatformconf.com/"
+            }
+          ],
+          "💙 Out of the Blue": [
+            {
+              "title": "Building reliable voice agents: A practical guide",
+              "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/building-reliable-voice-agents-a-practical-guide/"
+            },
+            {
+              "title": "Microsoft Entra ID single sign-on for the Denodo connector in Power BI (Preview)",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Microsoft-Entra-ID-single-sign-on-for-the-Denodo-connector-in/ba-p/5193376"
+            },
+            {
+              "title": "Protect once, enforce everywhere: Protection policies for Power BI (Generally Available)",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Protect-once-enforce-everywhere-Protection-policies-for-Power-BI/ba-p/5223932"
+            }
+          ],
+          "📺 Videos": [
+            {
+              "title": "Environment-aware Office Scripts for different SharePoint sites and Power Platform environments",
+              "url": "https://www.youtube.com/watch?v=iX_pEcxRtF8"
+            },
+            {
+              "title": "Copilot Studio | Multi-Agent Architecture with Child, Connected and Foundry Agents (Part - 13)",
+              "url": "https://www.youtube.com/watch?v=h1BofRgVN0U"
+            },
+            {
+              "title": "Copilot Studio Integration helps you on your Flows on D365 F&O",
+              "url": "https://www.youtube.com/watch?v=1wW3QzsBVJo"
+            }
+          ]
+        },
+        "error": null
       }
     },
     "release_plans": {
@@ -612,6 +620,478 @@
       "source_url": "https://www.microsoft.com/microsoft-365/roadmap",
       "data_url": "https://www.microsoft.com/releasecommunications/api/v1/m365",
       "items": [
+        {
+          "id": 568075,
+          "title": "Microsoft Purview: Data Loss Prevention - Data Security for non-Microsoft connected apps",
+          "description": "Microsoft Purview Data Loss Prevention and Information Protection Auto-labeling capabilities now extend to non-Microsoft connected apps (e.g., Google Workspace, Box, Dropbox, Salesforce, ServiceNow, Amazon Web Services, and Cisco Webex). The conditions and actions supported for each of these applications vary.",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-07-21T22:37:32",
+          "modified": "2026-07-21T22:37:32",
+          "ga_date": "September CY2026",
+          "preview_date": "July CY2026",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=568075"
+        },
+        {
+          "id": 566351,
+          "title": "PowerPoint: Create on brand presentations with additional brand assets",
+          "description": "Seamlessly access your brand colors, images, icons, logos and more right within PowerPoint to create on-brand presentations.",
+          "status": "Rolling out",
+          "change_type": "updated",
+          "created": "2026-06-25T23:15:45",
+          "modified": "2026-07-21T22:37:32",
+          "ga_date": "July CY2026",
+          "preview_date": "",
+          "products": [
+            "PowerPoint"
+          ],
+          "platforms": [
+            "Desktop",
+            "Mac",
+            "Web"
+          ],
+          "release_phase": [
+            "Current Channel",
+            "General Availability",
+            "Targeted Release"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=566351"
+        },
+        {
+          "id": 566313,
+          "title": "OneDrive: Document library views now available in OneDrive",
+          "description": "Users can now work with SharePoint document library views directly from OneDrive. In addition to switching between existing views, users can create and manage views to customize how library content is organized and displayed. This helps teams surface the information that matters most while staying within the OneDrive experience.",
+          "status": "Rolling out",
+          "change_type": "updated",
+          "created": "2026-06-18T23:00:06",
+          "modified": "2026-07-21T22:37:32",
+          "ga_date": "July CY2026",
+          "preview_date": "",
+          "products": [
+            "OneDrive"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Targeted Release"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=566313"
+        },
+        {
+          "id": 565028,
+          "title": "OneDrive: New Shortcuts folder option when adding shortcuts",
+          "description": "OneDrive makes it easy to add shortcuts to the files and folders you use most. Now you can choose to keep those shortcuts neatly together in one place instead of mixed in with everything else. When you add a shortcut, you can send it to a dedicated \"Shortcuts\" folder rather than your OneDrive root. The folder is created automatically the first time you use it and is easy to spot, with a distinct color and building icon. The Shortcuts folder behaves like any other folder—move it, rename it, share",
+          "status": "Rolling out",
+          "change_type": "updated",
+          "created": "2026-06-03T23:00:57",
+          "modified": "2026-07-21T22:37:32",
+          "ga_date": "July CY2026",
+          "preview_date": "",
+          "products": [
+            "OneDrive"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)",
+            "GCC",
+            "GCC High",
+            "DoD"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=565028"
+        },
+        {
+          "id": 564805,
+          "title": "Microsoft 365 admin center: Organizational Data – Granular access policy controls for custom attributes",
+          "description": "We are introducing enhanced access policy management for Organizational Data in Microsoft 365. This update enables admins to release custom attributes to specific users or groups, rather than broadly to all employees or all managers. This provides a more conservative default approach for managing sensitive organizational data, while also supporting staged rollout of new attributes. Additionally, admins can configure whether leaders and managers are permitted to share non-public data with Workfor",
+          "status": "Rolling out",
+          "change_type": "updated",
+          "created": "2026-06-01T23:15:29",
+          "modified": "2026-07-21T22:37:32",
+          "ga_date": "July CY2026",
+          "preview_date": "June CY2026",
+          "products": [
+            "Microsoft 365 admin center"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=564805"
+        },
+        {
+          "id": 561550,
+          "title": "Microsoft Teams: Proximity join support for presenters in Teams events from Teams Rooms on Windows and Android",
+          "description": "Presenters can take advantage of proximity join with Teams Rooms on Windows or Android for fast, effortless connection to nearby room systems during Teams events, such as town halls, webinars, and structured meetings. This feature enables seamless live presentations.",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2026-05-05T23:00:02",
+          "modified": "2026-07-21T22:37:32",
+          "ga_date": "June CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Android",
+            "Desktop",
+            "iOS",
+            "Teams and Surface Devices"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)",
+            "GCC",
+            "GCC High"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=561550"
+        },
+        {
+          "id": 560321,
+          "title": "Microsoft Teams: Meeting toolbar redesigned",
+          "description": "You can now customize the meeting toolbar by pinning, unpinning, and reordering controls to match how you work. Raise Hand is grouped under Reactions to reduce mis-clicks, and Leave is clearly separated on the right. It may feel different at first, but it’s designed to be faster and easier to use.",
+          "status": "Rolling out",
+          "change_type": "updated",
+          "created": "2026-04-17T22:15:50",
+          "modified": "2026-07-21T22:37:32",
+          "ga_date": "July CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Desktop",
+            "Mac"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Targeted Release"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)",
+            "GCC",
+            "GCC High",
+            "DoD"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=560321"
+        },
+        {
+          "id": 558853,
+          "title": "Microsoft Teams: Entra passwordless resource account support for Teams Rooms on Windows devices",
+          "description": "Teams rooms on Windows supports Entra Resource Accounts for secure, passwordless sign-in that separates device and user identities. IT admins can migrate to Entra accounts easily with the migration wizard, and track progress using a dashboard in the Pro Management portal.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-04-08T23:00:03",
+          "modified": "2026-07-21T22:37:32",
+          "ga_date": "August CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Android",
+            "Teams and Surface Devices"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)",
+            "GCC",
+            "GCC High"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=558853"
+        },
+        {
+          "id": 559605,
+          "title": "Microsoft Teams: Improved organization for muted and meeting chats",
+          "description": "Microsoft Teams automatically organizes your chats with new built in sections that help reduce clutter and keep conversations easy to find. Muted chats (on by default) are grouped together in a dedicated area, while meeting chats (off by default) can be collected into a single section for quick access. You’re always in control, as each section can be turned on or off based on your preferences. The new Meeting chats section will replace the Meeting chats filter, that was previously available at t",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-04-01T23:15:50",
+          "modified": "2026-07-21T22:37:32",
+          "ga_date": "August CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Android",
+            "Desktop",
+            "iOS",
+            "Mac",
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)",
+            "GCC",
+            "GCC High",
+            "DoD"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=559605"
+        },
+        {
+          "id": 558547,
+          "title": "Microsoft Purview: Data Security Investigations – analyze files tied to endpoint DLP alerts",
+          "description": "Speed up analysis of exfiltrated content by launching Data Security Investigations (DSI) from endpoint Data Loss Prevention (DLP) alerts. In DSI, define your endpoint DLP query (for example, time range, users, and endpoints). DSI then automatically gathers the related files that triggered the alerts for review (for example, UserA downloaded a file on 3/1/2026).",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-03-12T23:00:54",
+          "modified": "2026-07-21T22:37:32",
+          "ga_date": "August CY2026",
+          "preview_date": "June CY2026",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=558547"
+        },
+        {
+          "id": 557190,
+          "title": "Microsoft Purview: Data Loss Prevention – File Quarantine Action in DLP for SharePoint/OneDrive",
+          "description": "File Quarantine action in Microsoft Purview DLP for SharePoint and OneDrive, enables stronger, immediate protection for sensitive data. When a DLP policy is triggered, the File Quarantine action automatically moves the file to a restricted, admin‑controlled & defined quarantine location—instantly removing access for all users while preserving the file for review and investigation. This capability helps organizations contain data‑exposure risks, prevents further sharing or misuse, and delivers a ",
+          "status": "Rolling out",
+          "change_type": "updated",
+          "created": "2026-03-12T23:00:54",
+          "modified": "2026-07-21T22:37:32",
+          "ga_date": "July CY2026",
+          "preview_date": "March CY2026",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=557190"
+        },
+        {
+          "id": 555855,
+          "title": "Microsoft Teams: Camera view switching in multi-camera Teams Rooms on Windows",
+          "description": "When in a meeting with another Teams Rooms on Windows that has multiple cameras, you can switch camera views in that room via the participant panel on the console, or video tile on a touch board, to optimize your views.",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2026-02-06T23:00:02",
+          "modified": "2026-07-21T22:37:32",
+          "ga_date": "June CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Desktop",
+            "Teams and Surface Devices"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "GCC High",
+            "DoD"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=555855"
+        },
+        {
+          "id": 541830,
+          "title": "Microsoft Teams: Branded Meeting Reactions",
+          "description": "With new branded reactions, organizations can now extend their visual identity directly into meetings. IT admins simply upload custom reaction icons reflecting brand elements or event themes, and these instantly become available for meeting participants.  A simple way to create more cohesive, on-brand meeting experiences.",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2025-12-16T00:15:28",
+          "modified": "2026-07-21T22:37:32",
+          "ga_date": "May CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Desktop"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Targeted Release"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=541830"
+        },
+        {
+          "id": 537281,
+          "title": "Microsoft Copilot (Microsoft 365): [Copilot Search] [Copilot Search] Copilot Chat available when using Copilot Search",
+          "description": "Copilot Chat will be available for Microsoft 365 Copilot users from the side pane on the right-hand side when using Copilot Search in the Microsoft 365 Copilot app. This allows users to engage with Copilot while browsing universal search without switching pages or losing context.",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2025-12-11T00:00:03",
+          "modified": "2026-07-21T22:37:32",
+          "ga_date": "April CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Copilot (Microsoft 365)"
+          ],
+          "platforms": [
+            "Desktop",
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=537281"
+        },
+        {
+          "id": 512429,
+          "title": "Microsoft Copilot (Microsoft 365): Seamless Search and Chat Integration",
+          "description": "Microsoft 365 Chat brings the power of conversational AI directly into Microsoft 365 Copilot Search, enabling users to move effortlessly from finding information to acting on it. Search results become the foundation for contextual chat, allowing you to ask follow-up questions, synthesize insights, and generate content—all in one unified experience. This integration reduces workflow fragmentation, accelerates decision-making, and delivers a more intuitive way to interact with your organization’s ",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2025-10-08T23:15:04",
+          "modified": "2026-07-21T22:37:32",
+          "ga_date": "March CY2026",
+          "preview_date": "January CY2026",
+          "products": [
+            "Microsoft 365 app",
+            "Microsoft Copilot (Microsoft 365)"
+          ],
+          "platforms": [
+            "Desktop",
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=512429"
+        },
+        {
+          "id": 499898,
+          "title": "Microsoft Copilot (Microsoft 365): Viva Engage - Agents in communities",
+          "description": "Agents in Viva Engage communities supports communities by answering questions, facilitating knowledge sharing, citing sources, and scaling expertise.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2025-09-18T16:15:27",
+          "modified": "2026-07-21T22:37:32",
+          "ga_date": "September CY2026",
+          "preview_date": "September CY2025",
+          "products": [
+            "Microsoft Viva",
+            "Microsoft Copilot (Microsoft 365)"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=499898"
+        },
+        {
+          "id": 498923,
+          "title": "Viva Glint - Action Taking Analysis Report",
+          "description": "Introduction of a new report that provides transparency into platform activity by dashboard users. Metrics such as report views, Team Conversations completed, Focus Areas created, and more will be visible and filterable with this report.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2025-07-24T23:15:15",
+          "modified": "2026-07-21T22:37:32",
+          "ga_date": "October CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Viva"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=498923"
+        },
+        {
+          "id": 480722,
+          "title": "Microsoft Viva: Introducing the New Republish Feature in Viva Amplify",
+          "description": "We’re excited to launch Republish, a new feature that keeps your content fresh, extends its reach, and maximizes engagement across SharePoint, Viva Engage, Outlook, and Teams. Update existing published content in a few clicks, re-share key messages to new audiences or channels, correct errors and refine your messaging —all without starting from scratch. Republish in Viva Amplify makes content management effortless.",
+          "status": "Cancelled",
+          "change_type": "updated",
+          "created": "2025-02-20T00:15:26",
+          "modified": "2026-07-21T22:37:32",
+          "ga_date": "April CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Viva"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=480722"
+        },
         {
           "id": 567895,
           "title": "OneNote: Multimodal capture in Copilot Notebooks (Android)",
@@ -947,31 +1427,6 @@
           "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=561208"
         },
         {
-          "id": 558853,
-          "title": "Microsoft Teams: Entra passwordless resource account support for Teams Rooms on Windows devices",
-          "description": "Teams rooms on Windows supports Entra Resource Accounts for secure, passwordless sign-in that separates device and user identities. IT admins can migrate to Entra accounts easily with the migration wizard, and track progress using a dashboard in the Pro Management portal.",
-          "status": "In development",
-          "change_type": "updated",
-          "created": "2026-04-08T23:00:03",
-          "modified": "2026-07-20T22:37:15",
-          "ga_date": "August CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Teams"
-          ],
-          "platforms": [
-            "Android",
-            "Teams and Surface Devices"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=558853"
-        },
-        {
           "id": 558681,
           "title": "Microsoft Purview: Data Loss Prevention – Enrich Defender alerts Graph API with DLP event data",
           "description": "Enhance current API infrastructure to provide easy and simple way for customers to export data to integrate with SIEM tools, create automated workflows and generate customizable reports. Today alert data is present in Graph API and DLP rule match event details are present in Management API. This work enriches the graph API with DLP event data to make correlation and integration easy for customers.",
@@ -1181,7 +1636,7 @@
           "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=422323"
         }
       ],
-      "total_updates": 22,
+      "total_updates": 39,
       "error": null
     }
   },
