@@ -1,9 +1,63 @@
 {
-  "generated_at": "2026-07-24T11:33:20.024513Z",
+  "generated_at": "2026-07-25T11:26:28.165535Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
+        {
+          "creator": "Ozark Overland Adventure",
+          "handle": "@OzarkOverlandAdventures",
+          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
+          "videos": [
+            {
+              "title": "You've Never Seen Moab Like This - All 5 Days of the Moab Adventure Trail",
+              "url": "https://www.youtube.com/watch?v=iL5FjMKOR4c",
+              "published": "2026-07-24T22:00:34Z",
+              "description": "We created a 5 day overlanding route that circles Moab taking you through BLM and National Forest that few people visit. This is all 5 days of the Moab Adventure Trail.\n\nMoab Adventure Trail GPX File - https://drive.google.com/file/d/1MJX8a8Ah6gdi-jTkFKJK_f4gm5LYu9M1/view?usp=sharing\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHN"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Epic Adventure Outfitters",
+          "handle": "@EpicAdventureOutfitters",
+          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
+          "videos": [
+            {
+              "title": "The Eco-Diesel is a whole different animal..#jeep #gears #overlanding #4x4",
+              "url": "https://www.youtube.com/shorts/wJt5FTewBZk",
+              "published": "2026-07-24T21:00:35Z",
+              "description": ""
+            },
+            {
+              "title": "Why the 2.0L Turbo Might Be the Best Jeep Engine You Can Buy - The Hotline Ep.4",
+              "url": "https://www.youtube.com/watch?v=y_D4Qog3owA",
+              "published": "2026-07-24T20:00:23Z",
+              "description": "Everyone obsesses over the 392. But what if the smartest engine in the entire Jeep lineup is the one nobody is bragging about?\n\nWelcome back to The Hotline: where your comments become real answers with no fluff and no BS. This episode Paul and The Ginger take on one of the best questions we have gotten in a while, straight from the comment section, about whether the 2.0 turbo can actually hold its own out on the trail.\n\n#JeepLife  #Overlanding #OffRoad\n\nCan the 2.0L keep up with the bigger motor"
+            },
+            {
+              "title": "If you're serious, get 4.56 gears or 5.13's..#jeep #gears #overlanding #4x4",
+              "url": "https://www.youtube.com/shorts/q8JGV-E7Ad8",
+              "published": "2026-07-23T21:00:36Z",
+              "description": ""
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "LetsGetLost",
+          "handle": "@LetsGetLost",
+          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Life Style Overland",
+          "handle": "@LifeStyleOverland",
+          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
+          "videos": [],
+          "error": null
+        },
         {
           "creator": "TrailRecon",
           "handle": "@TrailRecon",
@@ -15,6 +69,13 @@
           "creator": "This Story Till Now",
           "handle": "@ThisStoryTillNow",
           "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "VentureToRoam",
+          "handle": "@VentureToRoam",
+          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
           "videos": [],
           "error": null
         },
@@ -31,70 +92,23 @@
             }
           ],
           "error": null
-        },
-        {
-          "creator": "Life Style Overland",
-          "handle": "@LifeStyleOverland",
-          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "VentureToRoam",
-          "handle": "@VentureToRoam",
-          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Epic Adventure Outfitters",
-          "handle": "@EpicAdventureOutfitters",
-          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
-          "videos": [
-            {
-              "title": "If you're serious, get 4.56 gears or 5.13's..#jeep #gears #overlanding #4x4",
-              "url": "https://www.youtube.com/shorts/q8JGV-E7Ad8",
-              "published": "2026-07-23T21:00:36Z",
-              "description": ""
-            },
-            {
-              "title": "The 2.0L spanks the v6..#jeep #gears #overlanding #4x4",
-              "url": "https://www.youtube.com/shorts/SAK7C3GFAJM",
-              "published": "2026-07-22T21:00:15Z",
-              "description": ""
-            },
-            {
-              "title": "Are These AEV Jeep Diff Sliders The Best You Can Buy?",
-              "url": "https://www.youtube.com/watch?v=SPnl0rP1hSQ",
-              "published": "2026-07-22T20:00:30Z",
-              "description": "You do not have to be rock crawling to smash a diff. And The Ginger will show you exactly why that cast lip on your front and rear differential is the weak point waiting to ruin your day.\n\nWelcome back to the shop! The Ginger is refreshing the AEV-equipped two door, installing a set of AEV stamped steel diff sliders, and giving his ongoing thoughts on that AEV suspension and high steer setup he has been living with for the last few weeks.\n\n#JeepLife #AEV  #JeepProtection \n\nHere is the honest rea"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "LetsGetLost",
-          "handle": "@LetsGetLost",
-          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Ozark Overland Adventure",
-          "handle": "@OzarkOverlandAdventures",
-          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
-          "videos": [
-            {
-              "title": "Don't Make This Overlanding Mistake!",
-              "url": "https://www.youtube.com/watch?v=VHN2oieZoJ4",
-              "published": "2026-07-22T16:00:36Z",
-              "description": "Don't make this key mistake when traveling to remote locations in your overland rig, van or RV.\n\nElite 300: https://reurl.cc/0moNMM\nCode: OZARK8OFF (8% off for Elite 300)\n#bluetti#powerstation#elite300#RVPowerVibe\n\nIf you are interested in a hemi conversion for your Jeep, click here... \nhttps://wkf.ms/4pz5xgD?Source=Ozark%20Overland\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our spon"
-            }
-          ],
-          "error": null
         }
       ],
       "power_platform": [
+        {
+          "creator": "Matthew Devaney",
+          "handle": "@MatthewDevaney",
+          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Reza Dorrani",
+          "handle": "@RezaDorrani",
+          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
+          "videos": [],
+          "error": null
+        },
         {
           "creator": "Lisa Crosbie",
           "handle": "@LisaCrosbie",
@@ -103,9 +117,9 @@
           "error": null
         },
         {
-          "creator": "Matthew Devaney",
-          "handle": "@MatthewDevaney",
-          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
+          "creator": "Shane Young",
+          "handle": "@ShanesCows",
+          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
           "videos": [],
           "error": null
         },
@@ -122,54 +136,20 @@
             }
           ],
           "error": null
-        },
-        {
-          "creator": "Shane Young",
-          "handle": "@ShanesCows",
-          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Reza Dorrani",
-          "handle": "@RezaDorrani",
-          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
-          "videos": [],
-          "error": null
         }
       ],
       "fabric_powerbi": [
-        {
-          "creator": "Guy in a Cube",
-          "handle": "@GuyInACube",
-          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
-          "videos": [
-            {
-              "title": "What Depends on Your #PowerBI Measure?",
-              "url": "https://www.youtube.com/shorts/NQx-HXpzFrs",
-              "published": "2026-07-24T11:00:36Z",
-              "description": "Yooo! 🙌 start taking your data skills to the next level and join fellow data professionals in our community THE CUBE: https://www.guyinacube.com"
-            },
-            {
-              "title": "A Measure Isn’t Just a Formula in #PowerBI",
-              "url": "https://www.youtube.com/shorts/l8_8HUthxQg",
-              "published": "2026-07-23T11:00:10Z",
-              "description": "Yooo! 🙌 start taking your data skills to the next level and join fellow data professionals in our community THE CUBE: https://www.guyinacube.com"
-            },
-            {
-              "title": "How to Change a Measure in Power BI SAFELY",
-              "url": "https://www.youtube.com/watch?v=4nGEx1qnoBw",
-              "published": "2026-07-23T11:00:08Z",
-              "description": "Learn how to identify and manage dependencies when changing a core measure in Power BI semantic models to avoid breaking business logic and reports.\n\nChanging a core measure like revenue in Power BI is more complex than editing a formula because it affects many dependent calculations and business definitions. This video demonstrates how to find all direct and indirect dependencies of a measure using Power BI Desktop and Fabric Copilot, ensuring you understand the full impact before making change"
-            }
-          ],
-          "error": null
-        },
         {
           "creator": "Dewain Robinson",
           "handle": "@DewainRobinson",
           "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
           "videos": [
+            {
+              "title": "Inside A Plugin - Agents, Skills, & Workflows - GitHub Copilot and Claude",
+              "url": "https://www.youtube.com/watch?v=qDvsGI4q8-M",
+              "published": "2026-07-24T19:57:20Z",
+              "description": "In this video I go over the capabilities and structure of a Plugin for coding agents such as GitHub Copilot and Claude Code.  We explore the differences in plugins and workflows.  How to leverage agents, skills, and hooks to create reusable assets that you can share with others to make your coding agents even more powerful."
+            },
             {
               "title": "Physical AI: Manipulating Atoms, Not Bits",
               "url": "https://www.youtube.com/shorts/4RbIt349X50",
@@ -190,45 +170,143 @@
             }
           ],
           "error": null
-        }
-      ],
-      "ai": [
+        },
         {
-          "creator": "NateBJones",
-          "handle": "@NateBJones",
-          "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
+          "creator": "Guy in a Cube",
+          "handle": "@GuyInACube",
+          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
           "videos": [
             {
-              "title": "OpenAI's AI broke loose in Hugging Face. Their defense? A Chinese model.",
-              "url": "https://www.youtube.com/watch?v=X-h3qWWoZiE",
-              "published": "2026-07-23T19:47:48Z",
-              "description": "OpenAI ran an internal cybersecurity test on its most capable AI models. The models broke out of the test, reached the open internet, and accessed Hugging Face production systems to steal the answer key. Here's what actually happened and why it changes how we think about AI safety.\n\nMy Links 🔗\n- 👉🏻 Newsletter: https://natesnewsletter.substack.com/\n- 👉🏻 X: https://x.com/natebjones\n- 👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n- 👉🏻 Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's real"
-            },
-            {
-              "title": "What if AI isn't the problem anymore? #AI #productivity #AItransformation #futureofwork #aitools",
-              "url": "https://www.youtube.com/shorts/WWvb_S6AQr0",
-              "published": "2026-07-23T03:00:26Z",
-              "description": "Most people bought AI and then pointed it at the exact same to-do list they had two years ago. The emails still get written, just faster. The decks still get built, just cheaper. It feels like progress, and the tools genuinely are better, so it is easy to call that a transformation.\n\nBut look closely and nothing actually changed except the speed. Same tasks, same outputs, same shape of the work. When execution gets this cheap, doing your old list faster is the least interesting thing you can do "
-            },
-            {
-              "title": "The AI Slop Problem Nobody's Talking About | Substack CEO Interview",
-              "url": "https://www.youtube.com/watch?v=m_ZyTNmCDeY",
-              "published": "2026-07-22T17:00:11Z",
-              "description": "Substack just shipped AI detection, and I sat down with co-founder and CEO Chris Best to talk about what a detector can and cannot see in your writing.\n\nFull post:\nhttps://natesnewsletter.substack.com/p/ai-detection-ideas-not-words?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n👉🏻 Instagram: https://www.instagram.com/nate.b"
+              "title": "What Depends on Your #PowerBI Measure?",
+              "url": "https://www.youtube.com/shorts/NQx-HXpzFrs",
+              "published": "2026-07-24T11:00:36Z",
+              "description": "Yooo! 🙌 start taking your data skills to the next level and join fellow data professionals in our community THE CUBE: https://www.guyinacube.com"
             }
           ],
           "error": null
-        },
+        }
+      ],
+      "ai": [
         {
           "creator": "Alex Finn",
           "handle": "@AlexFinn",
           "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
           "videos": [
             {
-              "title": "Prompting is dead. Here is how you create loops",
-              "url": "https://www.youtube.com/watch?v=FRGLToHAtgc",
-              "published": "2026-07-22T16:52:43Z",
-              "description": "Thanks to Hubspot for supporting the channel! Check out the Claude Code Playbook here: https://clickhubspot.com/b7cb86\n\nFULL loop engineering bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nSign up for my free newsletter: https://www.shipitweekly.com/\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbu"
+              "title": "Claude Opus 5 DESTROYS Fable 5",
+              "url": "https://www.youtube.com/watch?v=Vh1v2VSroes",
+              "published": "2026-07-24T19:40:51Z",
+              "description": "Claude Opus 5 DOMINATES Claude Fable 5. Here's why\n\nFULL Opus 5 bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nSign up for my free newsletter: https://www.shipitweekly.com/\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/ \n\nTimestamps:\n0:00 Intro\n1:40 Opus 5 testing vs Fable\n6:19 Deal breake"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "NateBJones",
+          "handle": "@NateBJones",
+          "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
+          "videos": [
+            {
+              "title": "Why does everything look the same now? #AI #creativity #marketing #futureofwork #AItools",
+              "url": "https://www.youtube.com/shorts/nYL2tunaHxA",
+              "published": "2026-07-25T04:30:32Z",
+              "description": "You have probably felt this without putting words to it. Everything coming out of AI is competent and clean and completely forgettable, and it all rhymes. Your post, the post right under it, the thing your competitor shipped, they could swap bylines and no one would notice. The reflex is to blame the tool, so people go shopping for a better model, and the sameness follows them there too.\n\nHere is what actually happened. AI drove the cost of producing things to almost nothing, and the moment exec"
+            },
+            {
+              "title": "How to Use AI on Files You're Not Allowed to Upload",
+              "url": "https://www.youtube.com/watch?v=EuVvLwWZ5wc",
+              "published": "2026-07-24T14:00:31Z",
+              "description": "How to use AI on sensitive files you can't upload. I built an on-device Mac app that strips what a model doesn't need and rebuilds a clean copy, so your private data never leaves your computer.\n\nGet Airlock: https://natesnewsletter.substack.com/p/use-ai-sensitive-files?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n👉🏻 Insta"
+            },
+            {
+              "title": "OpenAI's AI broke loose in Hugging Face. Their defense? A Chinese model.",
+              "url": "https://www.youtube.com/watch?v=X-h3qWWoZiE",
+              "published": "2026-07-23T19:47:48Z",
+              "description": "OpenAI ran an internal cybersecurity test on its most capable AI models. The models broke out of the test, reached the open internet, and accessed Hugging Face production systems to steal the answer key. Here's what actually happened and why it changes how we think about AI safety.\n\nMy Links 🔗\n- 👉🏻 Newsletter: https://natesnewsletter.substack.com/\n- 👉🏻 X: https://x.com/natebjones\n- 👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n- 👉🏻 Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's real"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Chase AI",
+          "handle": "@ChaseAI",
+          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+          "videos": [
+            {
+              "title": "these opus 5 benchmarks are stupid",
+              "url": "https://www.youtube.com/shorts/oofWirP7COk",
+              "published": "2026-07-24T18:30:18Z",
+              "description": ""
+            },
+            {
+              "title": "Opus 5 Just Dropped and Its Numbers Are Legit INSANE",
+              "url": "https://www.youtube.com/watch?v=Txse8Ux69Qg",
+              "published": "2026-07-24T17:34:17Z",
+              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nOpus 5 is live and its basically Fable at half the cost.\n\nRESOURCES FROM THIS VIDEO:\n➡️ Master Claude Code: https://www.skool.com/chase-ai\n➡️ My Website: https://www.chaseai.io\n➡️ Opus 5 Article: https://www.anthropic.com/news/claude-opus-5\n\n#claudecode"
+            },
+            {
+              "title": "the only two claude frontend design skills worth your time",
+              "url": "https://www.youtube.com/shorts/NWDuC-w1lwA",
+              "published": "2026-07-24T02:15:25Z",
+              "description": ""
+            },
+            {
+              "title": "3 Steps To Fix Claudes Design Problem",
+              "url": "https://www.youtube.com/shorts/K2_qHRcbNtU",
+              "published": "2026-07-23T22:19:06Z",
+              "description": ""
+            },
+            {
+              "title": "Turn Claude Into A Design GENIUS In 3 Simple Steps",
+              "url": "https://www.youtube.com/watch?v=7FU98O0JLHs",
+              "published": "2026-07-23T16:53:38Z",
+              "description": "🟡Higgsfield: https://higgsfield.ai/s/mcp-chase-h-ai-ohgbot \n⚡Master Claude Code: https://www.skool.com/chase-ai\n🔥FREE community: https://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nLets defeat AI slop and learn how to actually inject taste in our Claude Code web design.\n\n\n⏰TIMESTAMPS:\n0:00 - Intro\n0:59 - Step 1\n3:55 - Step 2\n9:58 - Step 3\n22:05 - Outro\n\nRESOURCES FROM THIS VIDEO:\n➡️ Master Claude Code: https://www.skool.com/chase-ai\n➡️ My Website: h"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Nate Herk",
+          "handle": "@NateHerk",
+          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+          "videos": [
+            {
+              "title": "I Tested Opus 5 vs. Fable 5. What You Need to Know.",
+              "url": "https://www.youtube.com/watch?v=2J3uX8iRNng",
+              "published": "2026-07-24T23:38:15Z",
+              "description": "My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=Opus-5-vs-Fable-5&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nClaude Opus 5 is benchmarking above Fable 5 on a lot of coding tasks at half the cost per token, so I"
+            },
+            {
+              "title": "Claude Opus 5 is Going to Save You Money",
+              "url": "https://www.youtube.com/watch?v=k7VI66CkKEY",
+              "published": "2026-07-24T17:45:21Z",
+              "description": "My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=Opus-5&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\nClaude Opus 5 just dropped and the benchmarks show that it’s better that Fable 5 AND half the cost. \n\nSo I'm curr"
+            },
+            {
+              "title": "5 Hacks to Instantly Level Up Your AI OS",
+              "url": "https://www.youtube.com/watch?v=Ek1NBfnnTH0",
+              "published": "2026-07-23T22:33:25Z",
+              "description": "$1000 FREE Hyperagent credits and my ROAST skill: https://hyperagent.com/marketplace/s/ccs01KWCXR3W4_XRNS6AAXVZBT0617?utm_source=youtube&amp;utm_medium=influencer&amp;utm_campaign=NATE-HA&amp;promo=NATE-HA\nMy playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=AI-OS-5-Tips&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/n"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Paul J Lipsky",
+          "handle": "@PaulJLipsky",
+          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
+          "videos": [
+            {
+              "title": "Opus 5 Is Here: It Beats Fable 🤯",
+              "url": "https://www.youtube.com/watch?v=CYXUB4GspHg",
+              "published": "2026-07-24T18:45:20Z",
+              "description": "Claude Opus 5 is now included with all Claude plans, including Claude Pro, and my launch-day tests show it getting surprisingly close to Fable 5 for knowledge work, landing pages, scripts, and motion graphics. Here’s what changed, where it wins, and why it may become my new default Claude model.\n\n0:00 Intro\n0:23 Opus 5 Plans and Availability\n0:50 Opus 5 vs Fable 5\n1:41 Benchmarks and Knowledge Work\n3:17 My First Opus 5 Tests\n4:34 Build Your Own AI Benchmark\n5:25 Claude Design Comparison\n5:48 Lau"
+            },
+            {
+              "title": "AI News: NotebookLM Folders; New Models (Kimi, Gemini, Grok); Rogue AI Models + More",
+              "url": "https://www.youtube.com/watch?v=HhF8A1MUc4c",
+              "published": "2026-07-24T13:00:11Z",
+              "description": "Build and publish full-stack apps and websites by chatting with AppLLM by Abacus AI for $10 a month: https://appllm.abacus.ai/kjy\n\nThis week's AI news covers Kimi K3, Grok 4.5, the new Gemini Flash models, OpenAI's escaped-model security test, Gemini Notebook Collections, ChatGPT desktop updates, and Claude's record-a-Skill feature.\n\n🔗 This video is sponsored by AppLLM by Abacus AI.\n\n0:00 Intro\n1:05 Kimi K3, Grok 4.5, and Gemini Flash\n5:22 AppLLM by Abacus AI\n6:52 Opus 5 and Gemini 4 Rumors\n9:45"
             }
           ],
           "error": null
@@ -243,52 +321,6 @@
               "url": "https://www.youtube.com/watch?v=9QSumbWubZ4",
               "published": "2026-07-23T14:45:00Z",
               "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes\n👀 Be the brand AI recommends: https://dub.sh/rankspot-yt\nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\nClaude can now use software without any APIs or MCPs with this latest update! In this video, I'll show you how the new 'Record a Skill' feature works with a live demo. Watch as I teach Claude how to set up an Instagram DM lead magnet in ManyChat - a task that previously had to be do"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Chase AI",
-          "handle": "@ChaseAI",
-          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
-          "videos": [
-            {
-              "title": "the only two claude frontend design skills worth your time",
-              "url": "https://www.youtube.com/shorts/NWDuC-w1lwA",
-              "published": "2026-07-24T02:15:25Z",
-              "description": ""
-            },
-            {
-              "title": "3 Steps To Fix Claudes Design Problem",
-              "url": "https://www.youtube.com/shorts/K2_qHRcbNtU",
-              "published": "2026-07-23T22:19:06Z",
-              "description": ""
-            },
-            {
-              "title": "3 Ways To Fix Claude Code's #1 Web Design Problem",
-              "url": "https://www.youtube.com/watch?v=7FU98O0JLHs",
-              "published": "2026-07-23T16:53:38Z",
-              "description": "🟡Higgsfield: https://higgsfield.ai/s/mcp-chase-h-ai-ohgbot \n⚡Master Claude Code: https://www.skool.com/chase-ai\n🔥FREE community: https://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nLets defeat AI slop and learn how to actually inject taste in our Claude Code web design.\n\n\n⏰TIMESTAMPS:\n0:00 - Intro\n0:59 - Step 1\n3:55 - Step 2\n9:58 - Step 3\n22:05 - Outro\n\nRESOURCES FROM THIS VIDEO:\n➡️ Master Claude Code: https://www.skool.com/chase-ai\n➡️ My Website: h"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Nate Herk",
-          "handle": "@NateHerk",
-          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-          "videos": [
-            {
-              "title": "5 Hacks to Instantly Level Up Your AI OS",
-              "url": "https://www.youtube.com/watch?v=Ek1NBfnnTH0",
-              "published": "2026-07-23T22:33:25Z",
-              "description": "$1000 FREE Hyperagent credits and my ROAST skill: https://hyperagent.com/marketplace/s/ccs01KWCXR3W4_XRNS6AAXVZBT0617?utm_source=youtube&amp;utm_medium=influencer&amp;utm_campaign=NATE-HA&amp;promo=NATE-HA\nMy playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=AI-OS-5-Tips&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/n"
-            },
-            {
-              "title": "How I’d Make Money with Claude if my life depended on it",
-              "url": "https://www.youtube.com/watch?v=vY0EzTP-7EA",
-              "published": "2026-07-22T13:00:46Z",
-              "description": "My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=make-money-with-claude&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nIn this video, I'll go over how I'd make money with Claude if my life depended on it, because th"
             }
           ],
           "error": null
@@ -309,110 +341,13 @@
               "url": "https://www.youtube.com/watch?v=YweN5PUyGgc",
               "published": "2026-07-23T12:36:56Z",
               "description": "An unreleased OpenAI model reportedly escaped its testing environment, exploited a zero-day, and broke into Hugging Face while trying to beat a benchmark—offering a startling preview of GPT-6’s capabilities and risks. In the headlines: new Gemini models, the model-router boom, Substack’s AI crackdown, and proposed sanctions against Chinese labs.\n\nThe AI Daily Brief helps you understand the most important news and discussions in AI. \nSubscribe to the podcast version of The AI Daily Brief wherever"
-            },
-            {
-              "title": "The Self Driving Company",
-              "url": "https://www.youtube.com/watch?v=dSNiH5idj3o",
-              "published": "2026-07-23T00:49:06Z",
-              "description": "Replit says its internal agents have nearly tripled engineering output without sacrificing quality—but the bigger story is how AI is beginning to reshape the entire company. NLW explores what it takes to build a self-driving organization, from connecting agents across business systems to creating loops that continuously turn goals and customer feedback into action.\n\nThe AI Daily Brief helps you understand the most important news and discussions in AI. \nSubscribe to the podcast version of The AI "
             }
           ],
-          "error": null
-        },
-        {
-          "creator": "Paul J Lipsky",
-          "handle": "@PaulJLipsky",
-          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
-          "videos": [],
           "error": null
         }
       ]
     },
     "newsletters": {
-      "power_platform_dev_weekly": {
-        "name": "Power Platform Dev Weekly",
-        "issue_number": 297,
-        "issue_date": "2026-07-22",
-        "url": "https://www.ppdevweekly.com/p/297",
-        "is_new": false,
-        "sections": {
-          "🥇 Cover Story": [
-            {
-              "title": "MCP with Entra auth + Copilot & Cowork",
-              "url": "https://nullpointer.se/copilot-cowork-oauth.html"
-            }
-          ],
-          "💎 Model Driven Apps & Dataverse": [
-            {
-              "title": "Ditch the Power Apps maker portal!",
-              "url": "https://readyxrm.blog/2026/07/16/ditch-the-power-apps-maker-portal/"
-            },
-            {
-              "title": "Power Platform Admin V2 - Create Rule Set Explained",
-              "url": "https://www.mattcollinsjones.co.uk/single-post/power-platform-admin-v2-create-rule-set-explained"
-            }
-          ],
-          "😎 Power Automate": [
-            {
-              "title": "How To Get A Docusign Signature In Power Automate",
-              "url": "https://www.matthewdevaney.com/how-to-get-a-docusign-signature-in-power-automate/"
-            },
-            {
-              "title": "Power Automate Cloud Flow Failing with 403 Forbidden on a Dataverse Action",
-              "url": "https://linnzawwin.blogspot.com/2026/07/power-automate-cloud-flow-failing-with.html"
-            }
-          ],
-          "🤖 Copilot & Agents": [
-            {
-              "title": "Part 1",
-              "url": "https://holgerimbery.blog/copilot-studio-orchestration-part1"
-            },
-            {
-              "title": "Part 2",
-              "url": "https://holgerimbery.blog/copilot-studio-orchestration-part2"
-            },
-            {
-              "title": "Part 3",
-              "url": "https://holgerimbery.blog/copilot-studio-orchestration-part3"
-            },
-            {
-              "title": "GPT-5.6 Is Missing in Copilot Cowork? Turn On This Admin Setting",
-              "url": "https://flowaltdelete.ca/2026/07/20/enable-gpt-5-6-copilot-cowork-openai-subprocessor/"
-            },
-            {
-              "title": "Navigating the New Copilot Studio: A “Good, Bad, and Nitty-Gritty” First Look",
-              "url": "https://dev.to/balagmadhu/navigating-the-new-copilot-studio-a-good-bad-and-nitty-gritty-first-look-1843"
-            }
-          ],
-          "👍 Everything else in Power Platform": [
-            {
-              "title": "Retrieve All One-to-Many Relationships and Cascade Delete Behavior for a Dataverse Table Using C#",
-              "url": "https://nishantrana.me/2026/07/07/retrieve-all-one-to-many-relationships-and-cascade-delete-behavior-for-a-dataverse-table-using-c/"
-            }
-          ],
-          "🎮 Other Interesting Articles": [
-            {
-              "title": "The All New Copilot Studio",
-              "url": "https://dev.to/wyattdave/the-all-new-copilot-studio-734"
-            },
-            {
-              "title": "Automation vs. Agentic AI: choosing the right approach",
-              "url": "https://netwiseglobal.com/blog/automation-vs-agentic-ai-choosing-the-right-approach/"
-            }
-          ],
-          "📺 Videos": [
-            {
-              "title": "Stop Creating AI Slop & Dribble! Learn the Right Way to Use Copilot",
-              "url": "https://www.youtube.com/watch?v=aMyYa_D-3Vs"
-            },
-            {
-              "title": "Power Platform ToolBox - Release v1.2.3",
-              "url": "https://www.youtube.com/watch?v=IxeOrQ-Ra9Y"
-            }
-          ]
-        },
-        "error": null
-      },
       "power_platform_weekly": {
         "name": "Power Platform Weekly",
         "issue_number": 270,
@@ -520,6 +455,90 @@
             {
               "title": "Copilot Studio Integration helps you on your Flows on D365 F&O",
               "url": "https://www.youtube.com/watch?v=1wW3QzsBVJo"
+            }
+          ]
+        },
+        "error": null
+      },
+      "power_platform_dev_weekly": {
+        "name": "Power Platform Dev Weekly",
+        "issue_number": 297,
+        "issue_date": "2026-07-22",
+        "url": "https://www.ppdevweekly.com/p/297",
+        "is_new": false,
+        "sections": {
+          "🥇 Cover Story": [
+            {
+              "title": "MCP with Entra auth + Copilot & Cowork",
+              "url": "https://nullpointer.se/copilot-cowork-oauth.html"
+            }
+          ],
+          "💎 Model Driven Apps & Dataverse": [
+            {
+              "title": "Ditch the Power Apps maker portal!",
+              "url": "https://readyxrm.blog/2026/07/16/ditch-the-power-apps-maker-portal/"
+            },
+            {
+              "title": "Power Platform Admin V2 - Create Rule Set Explained",
+              "url": "https://www.mattcollinsjones.co.uk/single-post/power-platform-admin-v2-create-rule-set-explained"
+            }
+          ],
+          "😎 Power Automate": [
+            {
+              "title": "How To Get A Docusign Signature In Power Automate",
+              "url": "https://www.matthewdevaney.com/how-to-get-a-docusign-signature-in-power-automate/"
+            },
+            {
+              "title": "Power Automate Cloud Flow Failing with 403 Forbidden on a Dataverse Action",
+              "url": "https://linnzawwin.blogspot.com/2026/07/power-automate-cloud-flow-failing-with.html"
+            }
+          ],
+          "🤖 Copilot & Agents": [
+            {
+              "title": "Part 1",
+              "url": "https://holgerimbery.blog/copilot-studio-orchestration-part1"
+            },
+            {
+              "title": "Part 2",
+              "url": "https://holgerimbery.blog/copilot-studio-orchestration-part2"
+            },
+            {
+              "title": "Part 3",
+              "url": "https://holgerimbery.blog/copilot-studio-orchestration-part3"
+            },
+            {
+              "title": "GPT-5.6 Is Missing in Copilot Cowork? Turn On This Admin Setting",
+              "url": "https://flowaltdelete.ca/2026/07/20/enable-gpt-5-6-copilot-cowork-openai-subprocessor/"
+            },
+            {
+              "title": "Navigating the New Copilot Studio: A “Good, Bad, and Nitty-Gritty” First Look",
+              "url": "https://dev.to/balagmadhu/navigating-the-new-copilot-studio-a-good-bad-and-nitty-gritty-first-look-1843"
+            }
+          ],
+          "👍 Everything else in Power Platform": [
+            {
+              "title": "Retrieve All One-to-Many Relationships and Cascade Delete Behavior for a Dataverse Table Using C#",
+              "url": "https://nishantrana.me/2026/07/07/retrieve-all-one-to-many-relationships-and-cascade-delete-behavior-for-a-dataverse-table-using-c/"
+            }
+          ],
+          "🎮 Other Interesting Articles": [
+            {
+              "title": "The All New Copilot Studio",
+              "url": "https://dev.to/wyattdave/the-all-new-copilot-studio-734"
+            },
+            {
+              "title": "Automation vs. Agentic AI: choosing the right approach",
+              "url": "https://netwiseglobal.com/blog/automation-vs-agentic-ai-choosing-the-right-approach/"
+            }
+          ],
+          "📺 Videos": [
+            {
+              "title": "Stop Creating AI Slop & Dribble! Learn the Right Way to Use Copilot",
+              "url": "https://www.youtube.com/watch?v=aMyYa_D-3Vs"
+            },
+            {
+              "title": "Power Platform ToolBox - Release v1.2.3",
+              "url": "https://www.youtube.com/watch?v=IxeOrQ-Ra9Y"
             }
           ]
         },
@@ -667,253 +686,90 @@
     "release_plans": {
       "source_url": "https://releaseplans.net/",
       "data_url": "https://releaseplans.net/data/release-plans.json",
-      "products": {
-        "Power Apps": [
-          {
-            "feature_name": "Enable online mode to access Dataverse for canvas apps",
-            "product": "Power Apps",
-            "product_group": "Building modern apps",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "07/23/2026",
-            "enabled_for": "Users by admins, makers, or analysts",
-            "description": "Access the latest Dataverse data instantly in your offline-first canvas apps. No more waiting for syncs. Switch to online mode when connected and get real-time updates, so you can work faster and accomplish more every hour.",
-            "preview_date": "08/01/2026",
-            "ga_date": "09/01/2026"
-          },
-          {
-            "feature_name": "Supervise autonomous agents with agent feed",
-            "product": "Power Apps",
-            "product_group": "Building modern apps",
-            "status": "In Preview",
-            "release_wave": "",
-            "last_updated": "07/23/2026",
-            "enabled_for": "Users by admins, makers, or analysts",
-            "description": "Agent feed empowers businesses to confidently adopt autonomous agents by providing real-time visibility and control over agent activity inside model-driven apps in Power Apps. Users can oversee agent decisions, intervene when necessary, and ensure alignment with business rules and compliance standards. Whether managing financial transactions, handling sensitive data, or navigating legal workflows, agent feed acts as a safeguard that minimizes risk while maximizing operational efficiency. By shif",
-            "preview_date": "01/31/2026",
-            "ga_date": ""
-          },
-          {
-            "feature_name": "Enforce modern look across model-driven apps",
-            "product": "Power Apps",
-            "product_group": "Building modern apps",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "07/23/2026",
-            "enabled_for": "Users, automatically",
-            "description": "Making the modern look universal gives you a consistent, accessible, and modern experience. Organizations benefit from simplified governance, reduced support overhead, and reliable rollout of UX improvements across environments, freeing admins and makers to focus on solutions rather than maintaining UI exceptions.",
-            "preview_date": "",
-            "ga_date": "04/01/2026"
-          },
-          {
-            "feature_name": "Use streamlined header and navigation for better viewing",
-            "product": "Power Apps",
-            "product_group": "Building modern apps",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "07/23/2026",
-            "enabled_for": "Users by admins, makers, or analysts",
-            "description": "The refreshed header and navigation experience provides a cleaner, more efficient layout across the app shell, forms, and views. These updates help you work efficiently by increasing your working area on forms and views, reducing the time you spend navigating pages, and aligning the experience with the latest Microsoft 365 design patterns.",
-            "preview_date": "05/15/2025",
-            "ga_date": "08/01/2026"
-          },
-          {
-            "feature_name": "Discover what&#39;s driving engagement with the Usage page",
-            "product": "Power Apps",
-            "product_group": "Enable enterprise scale",
-            "status": "GA",
-            "release_wave": "2026 release wave 2",
-            "last_updated": "07/23/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "The Usage page in the Power Platform admin center highlights high-impact resources so organizations can quickly see what’s delivering value and where to focus investment.",
-            "preview_date": "12/11/2025",
-            "ga_date": "12/01/2026"
-          }
-        ],
-        "Power Pages": [
-          {
-            "feature_name": "Support Power BI embed token v2 for Power Pages",
-            "product": "Power Pages",
-            "product_group": "Design studio",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "07/23/2026",
-            "enabled_for": "Users by admins, makers, or analysts",
-            "description": "You can unlock advanced Power BI scenarios in Power Pages by using Embed Token v2, including paginated reports and data lake–backed models. This lets you deliver richer analytics experiences, support enterprise reporting needs, and confidently use Power Pages for high‑value, data‑driven applications.",
-            "preview_date": "",
-            "ga_date": "07/15/2026"
-          },
-          {
-            "feature_name": "Unify Power Pages authorization by merging web role with Dataverse security role",
-            "product": "Power Pages",
-            "product_group": "Design studio",
-            "status": "GA",
-            "release_wave": "2026 release wave 2",
-            "last_updated": "07/23/2026",
-            "enabled_for": "Users by admins, makers, or analysts",
-            "description": "You'll strengthen security and simplify user management by centralizing authorization in Dataverse. This means fewer redundant checks in Power Pages, reducing complexity and improving performance. Businesses gain consistent access control, enhanced auditing for compliance, and faster data operations, all without additional configuration or migration. The result is lower operational overhead, improved governance, and better scalability.",
-            "preview_date": "07/08/2026",
-            "ga_date": "11/01/2026"
-          },
-          {
-            "feature_name": "Use Power Pages MCP server capabilities",
-            "product": "Power Pages",
-            "product_group": "Power Pages Copilot",
-            "status": "GA",
-            "release_wave": "2026 release wave 2",
-            "last_updated": "07/23/2026",
-            "enabled_for": "Users by admins, makers, or analysts",
-            "description": "Power Pages MCP server empowers you to transform site data and operations into structured tools for AI assistants, enabling natural language interactions for updates and queries. This means faster workflows, less manual effort, and improved user experiences, helping your teams save time and stay productive.",
-            "preview_date": "01/30/2026",
-            "ga_date": "12/01/2026"
-          },
-          {
-            "feature_name": "Build Power Pages sites faster with AI coding tools",
-            "product": "Power Pages",
-            "product_group": "Professional developer experiences",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "07/23/2026",
-            "enabled_for": "Users, automatically",
-            "description": "Pro-developers can now accelerate Power Pages site development by leveraging AI that truly understands the platform. Unlike generic generative AI code generation tools, these skills are purpose-built for Power Pages; it comprehends web roles, table permissions, web APIs, and other platform-specific components out of the box. This deep integration means fewer iterations, less manual correction, and faster time-to-production.",
-            "preview_date": "02/28/2026",
-            "ga_date": "05/29/2026"
-          },
-          {
-            "feature_name": "Control Power Pages components using client APIs",
-            "product": "Power Pages",
-            "product_group": "Professional developer experiences",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "07/23/2026",
-            "enabled_for": "Users, automatically",
-            "description": "This feature empowers you to create richer, interactive Power Pages experiences without complex server-side logic. By using client-side APIs for forms, lists, and authentication, you’ll customize faster, control UI dynamically, and handle real-time data with ease. This means delivering tailored experiences, improving usability, and accelerating development, all while keeping your sites secure and consistent.",
-            "preview_date": "11/01/2025",
-            "ga_date": "08/01/2026"
-          }
-        ],
-        "Power Automate": [
-          {
-            "feature_name": "View property value expanded inline in new cloud flow designer",
-            "product": "Power Automate",
-            "product_group": "Cloud flows",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "07/23/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "You can be more efficient when authoring or debugging flows by using the inline view to examine property values from multiple steps at once without needing to select each step separately.",
-            "preview_date": "",
-            "ga_date": "06/30/2026"
-          },
-          {
-            "feature_name": "Configure notifications for desktop flow checker in admin portal",
-            "product": "Power Automate",
-            "product_group": "Desktop flows",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "07/23/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "As an administrator, you need a clear way to track quality issues across the desktop flows in your environment. But today you only discover problems when they cause run failures or support escalations. With configurable notifications in the admin portal, you choose which rule violations trigger alerts and what parameters apply to each notification type. You stay ahead of quality risks, enforce governance standards across makers, and reduce the time you spend reacting to issues across environment",
-            "preview_date": "",
-            "ga_date": "07/16/2026"
-          },
-          {
-            "feature_name": "Measure time and cost savings for desktop flows",
-            "product": "Power Automate",
-            "product_group": "Desktop flows",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "07/23/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "This feature is designed for teams that want to demonstrate the business impact of desktop automation. It lets you automatically calculate time and cost savings compared to pre-automation processes, without relying on manual tracking or spreadsheets. These insights help you clearly show return on investment, justify automation initiatives, and communicate value to business stakeholders and Centers of Excellence.",
-            "preview_date": "",
-            "ga_date": "07/16/2026"
-          },
-          {
-            "feature_name": "Debug flows using variable default values",
-            "product": "Power Automate",
-            "product_group": "Desktop flows",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "07/23/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "This feature is for makers who build and maintain complex desktop flows. You can test and troubleshoot flows faster by setting variable default values directly in the designer, instead of restarting runs or manually preparing inputs each time. This reduces debugging time, lowers frustration, and helps you iterate more confidently when working with conditional logic and complex scenarios.",
-            "preview_date": "",
-            "ga_date": "06/23/2026"
-          },
-          {
-            "feature_name": "Encrypt and decrypt data with PGP",
-            "product": "Power Automate",
-            "product_group": "Desktop flows",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "07/23/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "This feature is for organizations that exchange sensitive data with partners using Pretty Good Privacy (PGP) standards. You can automatically encrypt and decrypt data using PGP keys, reducing manual handling and human error. This helps you meet security and compliance requirements, speed up integrations with external systems, and avoid building and maintaining custom PGP solutions.",
-            "preview_date": "",
-            "ga_date": "07/16/2026"
-          }
-        ],
-        "Microsoft Dataverse": [
-          {
-            "feature_name": "Chat and reason over Dataverse business data in Microsoft 365 Copilot",
-            "product": "Microsoft Dataverse",
-            "product_group": "Enable AI powered business workflows in Work IQ with Dataverse",
-            "status": "In Preview",
-            "release_wave": "",
-            "last_updated": "07/23/2026",
-            "enabled_for": "Users by admins, makers, or analysts",
-            "description": "Allow Microsoft 365 Copilot users to search and reason over Microsoft Dataverse business data in Microsoft 365 Copilot.",
-            "preview_date": "06/22/2026",
-            "ga_date": ""
-          },
-          {
-            "feature_name": "Enhance Dataverse record descriptions for Copilot /mention",
-            "product": "Microsoft Dataverse",
-            "product_group": "Improved enterprise experiences in Power Platform",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "07/23/2026",
-            "enabled_for": "Users by admins, makers, or analysts",
-            "description": "Enables Microsoft 365 Copilot to surface business data with meaningful context, reducing confusion from generic labels and helping users quickly identify the right records to drive faster workflows and more reliable decision-making.",
-            "preview_date": "07/08/2026",
-            "ga_date": "08/01/2026"
-          },
-          {
-            "feature_name": "Discover, build, customize, and extend with management MCP server",
-            "product": "Microsoft Dataverse",
-            "product_group": "Microsoft 365 collaboration",
-            "status": "GA",
-            "release_wave": "2026 release wave 2",
-            "last_updated": "07/23/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "The management Model Context Protocol (MCP) server gives developers and system integrators a central API-based foundation to discover and build custom MCP servers. Through a single environment scoped endpoint, teams can find Microsoft certified or internal MCP servers, search across 1,470 connector actions and APIs, and create new or customized MCP servers with the exact tools their agents need. This capability reduces redundant development and enables a flexible, secure path from prototype to p",
-            "preview_date": "03/30/2026",
-            "ga_date": "12/01/2026"
-          }
-        ],
-        "Microsoft Power Platform governance and administration": [
-          {
-            "feature_name": "Manage agent security with enhanced admin controls",
-            "product": "Microsoft Power Platform governance and administration",
-            "product_group": "Security and compliance",
-            "status": "GA",
-            "release_wave": "2026 release wave 1",
-            "last_updated": "07/23/2026",
-            "enabled_for": "Admins, makers, marketers, or analysts, automatically",
-            "description": "By using new governance controls, you can guide Copilot and agent development in your tenants, enforce governance policies that match your organizational requirements, and unlock new innovation opportunities.",
-            "preview_date": "05/31/2026",
-            "ga_date": "09/01/2026"
-          }
-        ]
-      },
-      "total_updates": 19,
+      "products": {},
+      "total_updates": 0,
       "error": null
     },
     "m365_roadmap": {
       "source_url": "https://www.microsoft.com/microsoft-365/roadmap",
       "data_url": "https://www.microsoft.com/releasecommunications/api/v1/m365",
       "items": [
+        {
+          "id": 567466,
+          "title": "Microsoft Teams: Teams events attendance and engagement report policy",
+          "description": "Teams events will soon have a separate attendance and engagement report policy from the \"CsTeamsMeetingPolicy\" attendance and engagement report policy. This will permit admins to allow Teams events organizers to access attendance and engagement reports, while restricting access to Teams meeting attendance and engagement reports.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-07-14T22:41:38",
+          "modified": "2026-07-24T22:00:08",
+          "ga_date": "September CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Desktop"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)",
+            "GCC"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567466"
+        },
+        {
+          "id": 560324,
+          "title": "Microsoft Purview: Data Lifecycle Management - DLM Meter Change",
+          "description": "Data Lifecycle Management (DLM) billing will be based on the volume of data retained. For example, any number of non‑Microsoft 365 generative AI prompts and responses that collectively amount to 1 GB of retained data will be billed at $0.25 per GB per month (equivalent to ~$0.0082 per GB per day). In the updated model, DLM is billed based on the total volume of text messages managed by a DLM policy. Each non‑Microsoft 365 generative AI prompt and response is treated as an individual text message",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-05-15T22:00:42",
+          "modified": "2026-07-24T22:00:08",
+          "ga_date": "October CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=560324"
+        },
+        {
+          "id": 553219,
+          "title": "Microsoft 365: New profile cards for buildings, rooms and desks ",
+          "description": "Buildings, rooms and desks that are added to the Places directory will have new profile cards, accessible from Copilot Chat and across other Microsoft 365 entry points.",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2026-01-30T23:15:49",
+          "modified": "2026-07-24T22:00:08",
+          "ga_date": "June CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft 365",
+            "Microsoft 365 app",
+            "Microsoft Copilot (Microsoft 365)"
+          ],
+          "platforms": [
+            "Desktop",
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=553219"
+        },
         {
           "id": 568073,
           "title": "Microsoft Viva: Campaigns in SharePoint",
@@ -1243,146 +1099,9 @@
             "Worldwide (Standard Multi-Tenant)"
           ],
           "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=502541"
-        },
-        {
-          "id": 568074,
-          "title": "SharePoint: Cross-post SharePoint News to Engage",
-          "description": "This feature allows SharePoint News authors to distribute posts to an Engage community or storyline while preserving full fidelity rendering and a unified conversation experience. SharePoint News post will appear consistently in Engage across feeds, digests, Outlook, Teams, desktop, web and mobile apps. When distributed, the SharePoint News comments module is replaced with the richer Engage conversation module, ensuring a single, shared discussion thread across surfaces.",
-          "status": "In development",
-          "change_type": "new",
-          "created": "2026-07-22T22:41:54",
-          "modified": "2026-07-22T22:41:54",
-          "ga_date": "September CY2026",
-          "preview_date": "",
-          "products": [
-            "SharePoint",
-            "Microsoft Viva"
-          ],
-          "platforms": [
-            "Android",
-            "Desktop",
-            "iOS",
-            "Mac",
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=568074"
-        },
-        {
-          "id": 567007,
-          "title": "Outlook: New Copilot entry point in Classic Outlook",
-          "description": "We've introduced a new experience for Copilot in the apps—a consistent entry point across apps that sits above your work and understands the context beneath it. Rather than scattering touchpoints across the interface, it anchors Copilot as one connected system across Microsoft 365, surfacing relevant actions that help you stay in flow. With this release, we are rolling out this new experience - already available across other Outlook endpoints, as well as in Word, Excel and PowerPoint - to classi",
-          "status": "In development",
-          "change_type": "new",
-          "created": "2026-07-22T22:41:54",
-          "modified": "2026-07-22T22:41:54",
-          "ga_date": "August CY2026",
-          "preview_date": "",
-          "products": [
-            "Outlook",
-            "Microsoft Copilot (Microsoft 365)"
-          ],
-          "platforms": [
-            "Desktop"
-          ],
-          "release_phase": [
-            "Current Channel",
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)",
-            "GCC",
-            "GCC High",
-            "DoD"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567007"
-        },
-        {
-          "id": 566201,
-          "title": "Microsoft Teams: Block all identified external bots automatically from joining your meetings",
-          "description": "Extending the admin controls provided for managing external AI bots and regulating their access to your meetings, we are adding the option to automatically block all identified bots.",
-          "status": "In development",
-          "change_type": "updated",
-          "created": "2026-06-22T23:00:47",
-          "modified": "2026-07-22T22:41:54",
-          "ga_date": "September CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Teams"
-          ],
-          "platforms": [
-            "Android",
-            "Desktop",
-            "iOS",
-            "Mac",
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability",
-            "Targeted Release"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)",
-            "GCC"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=566201"
-        },
-        {
-          "id": 560707,
-          "title": "Microsoft Purview: Information Protection – Auto-labeling Simulation Evaluation",
-          "description": "This feature will be cancelled: Microsoft has decided not to move forward with the Auto-labeling Simulation Evaluation feature as previously planned. Following a product strategy review, the feature is no longer scheduled for Public Preview or General Availability, and development efforts have shifted to other classification and labeling investments. We apologize for any inconvenience.",
-          "status": "Cancelled",
-          "change_type": "updated",
-          "created": "2026-05-20T23:15:13",
-          "modified": "2026-07-22T22:41:54",
-          "ga_date": "June CY2026",
-          "preview_date": "May CY2026",
-          "products": [
-            "Microsoft Purview"
-          ],
-          "platforms": [
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability",
-            "Preview"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=560707"
-        },
-        {
-          "id": 503772,
-          "title": "Microsoft Copilot (Microsoft 365): [Copilot Extensibility] Users in DoD will be able to use custom engine agents",
-          "description": "Users in DoD will be able to use custom engine agents.",
-          "status": "In development",
-          "change_type": "updated",
-          "created": "2025-10-23T23:00:40",
-          "modified": "2026-07-22T22:41:54",
-          "ga_date": "July CY2025",
-          "preview_date": "",
-          "products": [
-            "Microsoft Copilot (Microsoft 365)"
-          ],
-          "platforms": [
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "DoD"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=503772"
         }
       ],
-      "total_updates": 18,
+      "total_updates": 16,
       "error": null
     }
   },
