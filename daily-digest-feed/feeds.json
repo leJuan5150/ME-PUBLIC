@@ -1,9 +1,63 @@
 {
-  "generated_at": "2026-07-25T11:26:28.165535Z",
+  "generated_at": "2026-07-26T11:28:21.217968Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
+        {
+          "creator": "This Story Till Now",
+          "handle": "@ThisStoryTillNow",
+          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Life Style Overland",
+          "handle": "@LifeStyleOverland",
+          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
+          "videos": [
+            {
+              "title": "Alaska Adventure - Overlanding the Arctic in a 4Runner and GX460",
+              "url": "https://www.youtube.com/watch?v=o02RV0huyDo",
+              "published": "2026-07-25T16:38:14Z",
+              "description": "Ride along as we explore Alaska in a Toyota 4Runner and Lexus GX460. Our first trail quickly becomes a challenge as winter keeps an icy grasp on the land but we find a few hidden gems to make up for it as we drive our way to the Arctic!\n\nDalton Highway - Rugged Adventure\nhttps://youtu.be/bylR4Yholrg?si=ic-37r4o36de9Kqj\n\nSupport the Channel:\nhttps://lso.link/support"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Casey 250",
+          "handle": "@Casey250",
+          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Epic Adventure Outfitters",
+          "handle": "@EpicAdventureOutfitters",
+          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
+          "videos": [
+            {
+              "title": "They knew they had more torque..#jeep #gears #overlanding #4x4",
+              "url": "https://www.youtube.com/shorts/UHDNGo38oqk",
+              "published": "2026-07-25T21:00:07Z",
+              "description": ""
+            },
+            {
+              "title": "The Eco-Diesel is a whole different animal..#jeep #gears #overlanding #4x4",
+              "url": "https://www.youtube.com/shorts/wJt5FTewBZk",
+              "published": "2026-07-24T21:00:35Z",
+              "description": ""
+            },
+            {
+              "title": "Why the 2.0L Turbo Might Be the Best Jeep Engine You Can Buy - The Hotline Ep.4",
+              "url": "https://www.youtube.com/watch?v=y_D4Qog3owA",
+              "published": "2026-07-24T20:00:23Z",
+              "description": "Everyone obsesses over the 392. But what if the smartest engine in the entire Jeep lineup is the one nobody is bragging about?\n\nWelcome back to The Hotline: where your comments become real answers with no fluff and no BS. This episode Paul and The Ginger take on one of the best questions we have gotten in a while, straight from the comment section, about whether the 2.0 turbo can actually hold its own out on the trail.\n\n#JeepLife  #Overlanding #OffRoad\n\nCan the 2.0L keep up with the bigger motor"
+            }
+          ],
+          "error": null
+        },
         {
           "creator": "Ozark Overland Adventure",
           "handle": "@OzarkOverlandAdventures",
@@ -19,42 +73,9 @@
           "error": null
         },
         {
-          "creator": "Epic Adventure Outfitters",
-          "handle": "@EpicAdventureOutfitters",
-          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
-          "videos": [
-            {
-              "title": "The Eco-Diesel is a whole different animal..#jeep #gears #overlanding #4x4",
-              "url": "https://www.youtube.com/shorts/wJt5FTewBZk",
-              "published": "2026-07-24T21:00:35Z",
-              "description": ""
-            },
-            {
-              "title": "Why the 2.0L Turbo Might Be the Best Jeep Engine You Can Buy - The Hotline Ep.4",
-              "url": "https://www.youtube.com/watch?v=y_D4Qog3owA",
-              "published": "2026-07-24T20:00:23Z",
-              "description": "Everyone obsesses over the 392. But what if the smartest engine in the entire Jeep lineup is the one nobody is bragging about?\n\nWelcome back to The Hotline: where your comments become real answers with no fluff and no BS. This episode Paul and The Ginger take on one of the best questions we have gotten in a while, straight from the comment section, about whether the 2.0 turbo can actually hold its own out on the trail.\n\n#JeepLife  #Overlanding #OffRoad\n\nCan the 2.0L keep up with the bigger motor"
-            },
-            {
-              "title": "If you're serious, get 4.56 gears or 5.13's..#jeep #gears #overlanding #4x4",
-              "url": "https://www.youtube.com/shorts/q8JGV-E7Ad8",
-              "published": "2026-07-23T21:00:36Z",
-              "description": ""
-            }
-          ],
-          "error": null
-        },
-        {
           "creator": "LetsGetLost",
           "handle": "@LetsGetLost",
           "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Life Style Overland",
-          "handle": "@LifeStyleOverland",
-          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
           "videos": [],
           "error": null
         },
@@ -66,35 +87,28 @@
           "error": null
         },
         {
-          "creator": "This Story Till Now",
-          "handle": "@ThisStoryTillNow",
-          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "VentureToRoam",
           "handle": "@VentureToRoam",
           "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
           "videos": [],
           "error": null
-        },
-        {
-          "creator": "Casey 250",
-          "handle": "@Casey250",
-          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
-          "videos": [
-            {
-              "title": "Building The Ultimate Ford Ranger Raptor - Part 1: First Mods",
-              "url": "https://www.youtube.com/watch?v=QrGWqYGjeRw",
-              "published": "2026-07-23T22:00:02Z",
-              "description": "The Ford Ranger Raptor build officially begins! 🦖 In part one of our Ultimate Build series, we’re tackling the \"must-have\" first mods to get this truck trail-ready—from essential paint protection to a brand-new Alu-Cab setup.\n\n❄️ Grab your ICECO VL45 PLUS Today: https://bit.ly/4uxEEvm\n\nCaAPL35 - https://www.amazon.ca/dp/B0D73QHDTV?maas=maas_adg_44C1BF452A9B4BC8A17C9A7562CE85F2_afap_abs&amp;ref_=aa_maas&amp;tag=maas\n\nICECO Summer Sale is underway (Up to 15% sitewide) on https://icecofreezer.com/C"
-            }
-          ],
-          "error": null
         }
       ],
       "power_platform": [
+        {
+          "creator": "Lisa Crosbie",
+          "handle": "@LisaCrosbie",
+          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "April Dunnam",
+          "handle": "@AprilDunnam",
+          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
+          "videos": [],
+          "error": null
+        },
         {
           "creator": "Matthew Devaney",
           "handle": "@MatthewDevaney",
@@ -110,35 +124,21 @@
           "error": null
         },
         {
-          "creator": "Lisa Crosbie",
-          "handle": "@LisaCrosbie",
-          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "Shane Young",
           "handle": "@ShanesCows",
           "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
           "videos": [],
           "error": null
-        },
-        {
-          "creator": "April Dunnam",
-          "handle": "@AprilDunnam",
-          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
-          "videos": [
-            {
-              "title": "Copilot Cowork Master Class Coming Up",
-              "url": "https://www.youtube.com/shorts/tYQkztM9uLY",
-              "published": "2026-07-23T23:29:07Z",
-              "description": "Copilot Cowork can do much more than answer questions, it can take on complex, multi-step work. But because it uses Copilot Credits, choosing the right use cases matters.\n\nIn my live Microsoft Copilot Cowork Masterclass, we’ll explore:\n\n✅ When to use Cowork vs. Microsoft 365 Copilot\n✅ Which tasks are worth delegating\n✅ Custom skills, plugins and connected services\n✅ Guided, hands-on labs using practical workplace scenarios\n\nJoin me live on July 31 and see exactly where Copilot Cowork fits—and wh"
-            }
-          ],
-          "error": null
         }
       ],
       "fabric_powerbi": [
+        {
+          "creator": "Guy in a Cube",
+          "handle": "@GuyInACube",
+          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
+          "videos": [],
+          "error": null
+        },
         {
           "creator": "Dewain Robinson",
           "handle": "@DewainRobinson",
@@ -149,38 +149,6 @@
               "url": "https://www.youtube.com/watch?v=qDvsGI4q8-M",
               "published": "2026-07-24T19:57:20Z",
               "description": "In this video I go over the capabilities and structure of a Plugin for coding agents such as GitHub Copilot and Claude Code.  We explore the differences in plugins and workflows.  How to leverage agents, skills, and hooks to create reusable assets that you can share with others to make your coding agents even more powerful."
-            },
-            {
-              "title": "Physical AI: Manipulating Atoms, Not Bits",
-              "url": "https://www.youtube.com/shorts/4RbIt349X50",
-              "published": "2026-07-24T05:00:36Z",
-              "description": "Is physical AI the future of robotics?\n\nPhysical AI manipulates atoms, not just bits. Imagine robots helping the aging population in daily tasks! As countries face demographic challenges, this technology could be a game-changer. Are you ready for a world where humanoid robots assist us?\n\n#PhysicalAI\n#Robotics\n#FutureTech"
-            },
-            {
-              "title": "AI Governance: The Missing Conversation",
-              "url": "https://www.youtube.com/shorts/cJOHkfM_wwk",
-              "published": "2026-07-23T22:20:15Z",
-              "description": "What should AI be? 🤔\n\nThe conversation around responsible and ethical AI is lacking. We need public discourse on where AI is headed. The Pope has even shared his thoughts on this topic, and it's crucial for everyone to consider. Let's discuss what we want AI to become, because nobody wants a future with Terminators!\n\nWhat are your thoughts on the future of AI?\n\n#AI #EthicalAI #PublicDiscourse"
-            },
-            {
-              "title": "The Agent Dudecast EP8 Uli Homann",
-              "url": "https://www.youtube.com/watch?v=CpmlhkoDOA4",
-              "published": "2026-07-23T22:09:01Z",
-              "description": "Dewain introduces his career transition and new role at Dynamic Communities, followed by a discussion with Uli about their initial meeting and relationship building. They delve into career progression, mentorship, and the importance of governance in AI. The conversation then explores model optimization, routing, and the challenges of operating AI at scale. The conversation delves into the key aspects of scaling AI, focusing on identity, observability, and the role of MCP as an enablement and con"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Guy in a Cube",
-          "handle": "@GuyInACube",
-          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
-          "videos": [
-            {
-              "title": "What Depends on Your #PowerBI Measure?",
-              "url": "https://www.youtube.com/shorts/NQx-HXpzFrs",
-              "published": "2026-07-24T11:00:36Z",
-              "description": "Yooo! 🙌 start taking your data skills to the next level and join fellow data professionals in our community THE CUBE: https://www.guyinacube.com"
             }
           ],
           "error": null
@@ -217,50 +185,6 @@
               "url": "https://www.youtube.com/watch?v=EuVvLwWZ5wc",
               "published": "2026-07-24T14:00:31Z",
               "description": "How to use AI on sensitive files you can't upload. I built an on-device Mac app that strips what a model doesn't need and rebuilds a clean copy, so your private data never leaves your computer.\n\nGet Airlock: https://natesnewsletter.substack.com/p/use-ai-sensitive-files?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n👉🏻 Insta"
-            },
-            {
-              "title": "OpenAI's AI broke loose in Hugging Face. Their defense? A Chinese model.",
-              "url": "https://www.youtube.com/watch?v=X-h3qWWoZiE",
-              "published": "2026-07-23T19:47:48Z",
-              "description": "OpenAI ran an internal cybersecurity test on its most capable AI models. The models broke out of the test, reached the open internet, and accessed Hugging Face production systems to steal the answer key. Here's what actually happened and why it changes how we think about AI safety.\n\nMy Links 🔗\n- 👉🏻 Newsletter: https://natesnewsletter.substack.com/\n- 👉🏻 X: https://x.com/natebjones\n- 👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n- 👉🏻 Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's real"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Chase AI",
-          "handle": "@ChaseAI",
-          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
-          "videos": [
-            {
-              "title": "these opus 5 benchmarks are stupid",
-              "url": "https://www.youtube.com/shorts/oofWirP7COk",
-              "published": "2026-07-24T18:30:18Z",
-              "description": ""
-            },
-            {
-              "title": "Opus 5 Just Dropped and Its Numbers Are Legit INSANE",
-              "url": "https://www.youtube.com/watch?v=Txse8Ux69Qg",
-              "published": "2026-07-24T17:34:17Z",
-              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nOpus 5 is live and its basically Fable at half the cost.\n\nRESOURCES FROM THIS VIDEO:\n➡️ Master Claude Code: https://www.skool.com/chase-ai\n➡️ My Website: https://www.chaseai.io\n➡️ Opus 5 Article: https://www.anthropic.com/news/claude-opus-5\n\n#claudecode"
-            },
-            {
-              "title": "the only two claude frontend design skills worth your time",
-              "url": "https://www.youtube.com/shorts/NWDuC-w1lwA",
-              "published": "2026-07-24T02:15:25Z",
-              "description": ""
-            },
-            {
-              "title": "3 Steps To Fix Claudes Design Problem",
-              "url": "https://www.youtube.com/shorts/K2_qHRcbNtU",
-              "published": "2026-07-23T22:19:06Z",
-              "description": ""
-            },
-            {
-              "title": "Turn Claude Into A Design GENIUS In 3 Simple Steps",
-              "url": "https://www.youtube.com/watch?v=7FU98O0JLHs",
-              "published": "2026-07-23T16:53:38Z",
-              "description": "🟡Higgsfield: https://higgsfield.ai/s/mcp-chase-h-ai-ohgbot \n⚡Master Claude Code: https://www.skool.com/chase-ai\n🔥FREE community: https://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nLets defeat AI slop and learn how to actually inject taste in our Claude Code web design.\n\n\n⏰TIMESTAMPS:\n0:00 - Intro\n0:59 - Step 1\n3:55 - Step 2\n9:58 - Step 3\n22:05 - Outro\n\nRESOURCES FROM THIS VIDEO:\n➡️ Master Claude Code: https://www.skool.com/chase-ai\n➡️ My Website: h"
             }
           ],
           "error": null
@@ -275,18 +199,6 @@
               "url": "https://www.youtube.com/watch?v=2J3uX8iRNng",
               "published": "2026-07-24T23:38:15Z",
               "description": "My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=Opus-5-vs-Fable-5&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nClaude Opus 5 is benchmarking above Fable 5 on a lot of coding tasks at half the cost per token, so I"
-            },
-            {
-              "title": "Claude Opus 5 is Going to Save You Money",
-              "url": "https://www.youtube.com/watch?v=k7VI66CkKEY",
-              "published": "2026-07-24T17:45:21Z",
-              "description": "My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=Opus-5&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\nClaude Opus 5 just dropped and the benchmarks show that it’s better that Fable 5 AND half the cost. \n\nSo I'm curr"
-            },
-            {
-              "title": "5 Hacks to Instantly Level Up Your AI OS",
-              "url": "https://www.youtube.com/watch?v=Ek1NBfnnTH0",
-              "published": "2026-07-23T22:33:25Z",
-              "description": "$1000 FREE Hyperagent credits and my ROAST skill: https://hyperagent.com/marketplace/s/ccs01KWCXR3W4_XRNS6AAXVZBT0617?utm_source=youtube&amp;utm_medium=influencer&amp;utm_campaign=NATE-HA&amp;promo=NATE-HA\nMy playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=AI-OS-5-Tips&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/n"
             }
           ],
           "error": null
@@ -312,15 +224,35 @@
           "error": null
         },
         {
+          "creator": "Chase AI",
+          "handle": "@ChaseAI",
+          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+          "videos": [
+            {
+              "title": "these opus 5 benchmarks are stupid",
+              "url": "https://www.youtube.com/shorts/oofWirP7COk",
+              "published": "2026-07-24T18:30:18Z",
+              "description": ""
+            },
+            {
+              "title": "Opus 5 Just Dropped and Its Numbers Are Legit INSANE",
+              "url": "https://www.youtube.com/watch?v=Txse8Ux69Qg",
+              "published": "2026-07-24T17:34:17Z",
+              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nOpus 5 is live and its basically Fable at half the cost.\n\nRESOURCES FROM THIS VIDEO:\n➡️ Master Claude Code: https://www.skool.com/chase-ai\n➡️ My Website: https://www.chaseai.io\n➡️ Opus 5 Article: https://www.anthropic.com/news/claude-opus-5\n\n#claudecode"
+            }
+          ],
+          "error": null
+        },
+        {
           "creator": "Simon Scrapes",
           "handle": "@SimonScrapes",
           "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
           "videos": [
             {
-              "title": "Anthropic Just Solved Claude Cowork’s Biggest Limitation (Goodbye MCP)",
-              "url": "https://www.youtube.com/watch?v=9QSumbWubZ4",
-              "published": "2026-07-23T14:45:00Z",
-              "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes\n👀 Be the brand AI recommends: https://dub.sh/rankspot-yt\nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\nClaude can now use software without any APIs or MCPs with this latest update! In this video, I'll show you how the new 'Record a Skill' feature works with a live demo. Watch as I teach Claude how to set up an Instagram DM lead magnet in ManyChat - a task that previously had to be do"
+              "title": "5 Claude Cowork Scheduled Tasks (For Business Owners With No Time)",
+              "url": "https://www.youtube.com/watch?v=UfN4l2yCT54",
+              "published": "2026-07-25T16:59:43Z",
+              "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes\n👀 Be the brand AI recommends: https://dub.sh/rankspot-yt\nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\nGrab the skills to set these up (free): https://app.notion.com/p/scrapeshq/5-Claude-Cowork-Scheduled-Tasks-For-Business-Owners-With-No-Time-3a87821711818063b221caaa2b411ca4\n\nClaude's scheduled tasks are a game-changer, allowing your business to run on autopilot. In this tutorial, yo"
             }
           ],
           "error": null
@@ -331,16 +263,16 @@
           "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
           "videos": [
             {
-              "title": "A Field Guide to AI Freakouts",
-              "url": "https://www.youtube.com/watch?v=rGd91f4ohZk",
-              "published": "2026-07-24T02:49:53Z",
-              "description": "Coverage of allegations that Chinese labs used industrial-scale model distillation to produce Kimi K‑3 and calls for sanctions. Analysis of investor fears about cheaper models undercutting OpenAI and Anthropic, circular financing risks, and runaway CapEx. Examination of inference bottlenecks, data center constraints, alternative architectures, and why recurring market FUD may temper a systemic bubble.\n\nThe AI Daily Brief helps you understand the most important news and discussions in AI. \nSubscr"
+              "title": "How to Get the Most Out of Fable 5 and GPT 5.6 Sol",
+              "url": "https://www.youtube.com/watch?v=69JMFDFuI3A",
+              "published": "2026-07-25T19:00:06Z",
+              "description": "Fable 5 and GPT‑5.6 Sol require new prompting patterns: explicit boundaries, iterative steering, and matching compute and effort to the task. Best practices include deleting repeated instructions, giving concrete directives, using voice dictation for richer context, and setting measurable quality bars. Higher-impact use comes from onboarding models with deep context, treating unknowns as collaboration points, and running automated loops until success criteria are met.\n\nThe AI Daily Brief helps y"
             },
             {
-              "title": "Just How Good is GPT 6 Going to Be",
-              "url": "https://www.youtube.com/watch?v=YweN5PUyGgc",
-              "published": "2026-07-23T12:36:56Z",
-              "description": "An unreleased OpenAI model reportedly escaped its testing environment, exploited a zero-day, and broke into Hugging Face while trying to beat a benchmark—offering a startling preview of GPT-6’s capabilities and risks. In the headlines: new Gemini models, the model-router boom, Substack’s AI crackdown, and proposed sanctions against Chinese labs.\n\nThe AI Daily Brief helps you understand the most important news and discussions in AI. \nSubscribe to the podcast version of The AI Daily Brief wherever"
+              "title": "Why AI Hasn't Increased Unemployment, According to Anthropic",
+              "url": "https://www.youtube.com/watch?v=niPCJO0Cdss",
+              "published": "2026-07-25T15:04:06Z",
+              "description": "Anthropic’s head of economics argues that AI is still augmenting workers rather than replacing them—and that expertise becomes more valuable as AI handles more tasks. NLW examines the evidence, the warning signs in junior hiring, and why the story executives tell themselves about AI could shape its impact on work. In the headlines: Stripe’s reported $10 billion pursuit of OpenRouter, the booming model-routing race, and Microsoft’s push toward cheaper in-house models.\n\nThe AI Daily Brief helps yo"
             }
           ],
           "error": null
@@ -348,6 +280,90 @@
       ]
     },
     "newsletters": {
+      "power_platform_dev_weekly": {
+        "name": "Power Platform Dev Weekly",
+        "issue_number": 297,
+        "issue_date": "2026-07-22",
+        "url": "https://www.ppdevweekly.com/p/297",
+        "is_new": false,
+        "sections": {
+          "🥇 Cover Story": [
+            {
+              "title": "MCP with Entra auth + Copilot & Cowork",
+              "url": "https://nullpointer.se/copilot-cowork-oauth.html"
+            }
+          ],
+          "💎 Model Driven Apps & Dataverse": [
+            {
+              "title": "Ditch the Power Apps maker portal!",
+              "url": "https://readyxrm.blog/2026/07/16/ditch-the-power-apps-maker-portal/"
+            },
+            {
+              "title": "Power Platform Admin V2 - Create Rule Set Explained",
+              "url": "https://www.mattcollinsjones.co.uk/single-post/power-platform-admin-v2-create-rule-set-explained"
+            }
+          ],
+          "😎 Power Automate": [
+            {
+              "title": "How To Get A Docusign Signature In Power Automate",
+              "url": "https://www.matthewdevaney.com/how-to-get-a-docusign-signature-in-power-automate/"
+            },
+            {
+              "title": "Power Automate Cloud Flow Failing with 403 Forbidden on a Dataverse Action",
+              "url": "https://linnzawwin.blogspot.com/2026/07/power-automate-cloud-flow-failing-with.html"
+            }
+          ],
+          "🤖 Copilot & Agents": [
+            {
+              "title": "Part 1",
+              "url": "https://holgerimbery.blog/copilot-studio-orchestration-part1"
+            },
+            {
+              "title": "Part 2",
+              "url": "https://holgerimbery.blog/copilot-studio-orchestration-part2"
+            },
+            {
+              "title": "Part 3",
+              "url": "https://holgerimbery.blog/copilot-studio-orchestration-part3"
+            },
+            {
+              "title": "GPT-5.6 Is Missing in Copilot Cowork? Turn On This Admin Setting",
+              "url": "https://flowaltdelete.ca/2026/07/20/enable-gpt-5-6-copilot-cowork-openai-subprocessor/"
+            },
+            {
+              "title": "Navigating the New Copilot Studio: A “Good, Bad, and Nitty-Gritty” First Look",
+              "url": "https://dev.to/balagmadhu/navigating-the-new-copilot-studio-a-good-bad-and-nitty-gritty-first-look-1843"
+            }
+          ],
+          "👍 Everything else in Power Platform": [
+            {
+              "title": "Retrieve All One-to-Many Relationships and Cascade Delete Behavior for a Dataverse Table Using C#",
+              "url": "https://nishantrana.me/2026/07/07/retrieve-all-one-to-many-relationships-and-cascade-delete-behavior-for-a-dataverse-table-using-c/"
+            }
+          ],
+          "🎮 Other Interesting Articles": [
+            {
+              "title": "The All New Copilot Studio",
+              "url": "https://dev.to/wyattdave/the-all-new-copilot-studio-734"
+            },
+            {
+              "title": "Automation vs. Agentic AI: choosing the right approach",
+              "url": "https://netwiseglobal.com/blog/automation-vs-agentic-ai-choosing-the-right-approach/"
+            }
+          ],
+          "📺 Videos": [
+            {
+              "title": "Stop Creating AI Slop & Dribble! Learn the Right Way to Use Copilot",
+              "url": "https://www.youtube.com/watch?v=aMyYa_D-3Vs"
+            },
+            {
+              "title": "Power Platform ToolBox - Release v1.2.3",
+              "url": "https://www.youtube.com/watch?v=IxeOrQ-Ra9Y"
+            }
+          ]
+        },
+        "error": null
+      },
       "power_platform_weekly": {
         "name": "Power Platform Weekly",
         "issue_number": 270,
@@ -455,90 +471,6 @@
             {
               "title": "Copilot Studio Integration helps you on your Flows on D365 F&O",
               "url": "https://www.youtube.com/watch?v=1wW3QzsBVJo"
-            }
-          ]
-        },
-        "error": null
-      },
-      "power_platform_dev_weekly": {
-        "name": "Power Platform Dev Weekly",
-        "issue_number": 297,
-        "issue_date": "2026-07-22",
-        "url": "https://www.ppdevweekly.com/p/297",
-        "is_new": false,
-        "sections": {
-          "🥇 Cover Story": [
-            {
-              "title": "MCP with Entra auth + Copilot & Cowork",
-              "url": "https://nullpointer.se/copilot-cowork-oauth.html"
-            }
-          ],
-          "💎 Model Driven Apps & Dataverse": [
-            {
-              "title": "Ditch the Power Apps maker portal!",
-              "url": "https://readyxrm.blog/2026/07/16/ditch-the-power-apps-maker-portal/"
-            },
-            {
-              "title": "Power Platform Admin V2 - Create Rule Set Explained",
-              "url": "https://www.mattcollinsjones.co.uk/single-post/power-platform-admin-v2-create-rule-set-explained"
-            }
-          ],
-          "😎 Power Automate": [
-            {
-              "title": "How To Get A Docusign Signature In Power Automate",
-              "url": "https://www.matthewdevaney.com/how-to-get-a-docusign-signature-in-power-automate/"
-            },
-            {
-              "title": "Power Automate Cloud Flow Failing with 403 Forbidden on a Dataverse Action",
-              "url": "https://linnzawwin.blogspot.com/2026/07/power-automate-cloud-flow-failing-with.html"
-            }
-          ],
-          "🤖 Copilot & Agents": [
-            {
-              "title": "Part 1",
-              "url": "https://holgerimbery.blog/copilot-studio-orchestration-part1"
-            },
-            {
-              "title": "Part 2",
-              "url": "https://holgerimbery.blog/copilot-studio-orchestration-part2"
-            },
-            {
-              "title": "Part 3",
-              "url": "https://holgerimbery.blog/copilot-studio-orchestration-part3"
-            },
-            {
-              "title": "GPT-5.6 Is Missing in Copilot Cowork? Turn On This Admin Setting",
-              "url": "https://flowaltdelete.ca/2026/07/20/enable-gpt-5-6-copilot-cowork-openai-subprocessor/"
-            },
-            {
-              "title": "Navigating the New Copilot Studio: A “Good, Bad, and Nitty-Gritty” First Look",
-              "url": "https://dev.to/balagmadhu/navigating-the-new-copilot-studio-a-good-bad-and-nitty-gritty-first-look-1843"
-            }
-          ],
-          "👍 Everything else in Power Platform": [
-            {
-              "title": "Retrieve All One-to-Many Relationships and Cascade Delete Behavior for a Dataverse Table Using C#",
-              "url": "https://nishantrana.me/2026/07/07/retrieve-all-one-to-many-relationships-and-cascade-delete-behavior-for-a-dataverse-table-using-c/"
-            }
-          ],
-          "🎮 Other Interesting Articles": [
-            {
-              "title": "The All New Copilot Studio",
-              "url": "https://dev.to/wyattdave/the-all-new-copilot-studio-734"
-            },
-            {
-              "title": "Automation vs. Agentic AI: choosing the right approach",
-              "url": "https://netwiseglobal.com/blog/automation-vs-agentic-ai-choosing-the-right-approach/"
-            }
-          ],
-          "📺 Videos": [
-            {
-              "title": "Stop Creating AI Slop & Dribble! Learn the Right Way to Use Copilot",
-              "url": "https://www.youtube.com/watch?v=aMyYa_D-3Vs"
-            },
-            {
-              "title": "Power Platform ToolBox - Release v1.2.3",
-              "url": "https://www.youtube.com/watch?v=IxeOrQ-Ra9Y"
             }
           ]
         },
@@ -769,339 +701,9 @@
             "Worldwide (Standard Multi-Tenant)"
           ],
           "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=553219"
-        },
-        {
-          "id": 568073,
-          "title": "Microsoft Viva: Campaigns in SharePoint",
-          "description": "Campaigns in SharePoint (site campaigns) is a new capability that brings Viva Amplify’ s campaign management natively into SharePoint. Corporate communications teams now have a unified place to create, distribute, and measure their news without leaving the platform where their news content already lives. This feature applies only to Amplify users as of now. This is a complementary way to create lighter weight campaigns inside a SharePoint site as a way to organize your SharePoint news posts and ",
-          "status": "In development",
-          "change_type": "new",
-          "created": "2026-07-23T23:27:16",
-          "modified": "2026-07-23T23:27:16",
-          "ga_date": "August CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Viva"
-          ],
-          "platforms": [
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability",
-            "Targeted Release"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=568073"
-        },
-        {
-          "id": 567883,
-          "title": "Microsoft Teams: Unified Agent and App Installation Management Across Microsoft 365 and Teams Admin Center",
-          "description": "Administrators using the Microsoft 365 admin center and Teams admin center will be able to apply app and agent installation changes once and have them consistently enforced across Teams, Outlook, and Microsoft 365 Copilot. Previously, installation changes made in the Microsoft 365 admin center only applied to Outlook and Microsoft 365, while changes made in the Teams admin center only applied to Teams. With this update, app and agent installation is unified across all supported surfaces, enablin",
-          "status": "In development",
-          "change_type": "updated",
-          "created": "2026-07-20T22:37:15",
-          "modified": "2026-07-23T23:27:16",
-          "ga_date": "August CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Teams"
-          ],
-          "platforms": [
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567883"
-        },
-        {
-          "id": 566470,
-          "title": "Microsoft Viva: Insights for GitHub Copilot spend and usage",
-          "description": "AI spend and usage insights for GitHub Copilot will be available on Viva Insights for managers with at least 5 direct reports (scoped access), Global analysts and Microsoft Global administrators. They can track spend and make data-driven decisions for AI spend and usage in GitHub Copilot. The dashboard is enabled by default to ensure immediate access.",
-          "status": "Launched",
-          "change_type": "updated",
-          "created": "2026-06-23T23:15:39",
-          "modified": "2026-07-23T23:27:16",
-          "ga_date": "July CY2026",
-          "preview_date": "July CY2026",
-          "products": [
-            "Microsoft Viva",
-            "Microsoft Copilot (Microsoft 365)"
-          ],
-          "platforms": [
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability",
-            "Preview"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=566470"
-        },
-        {
-          "id": 565905,
-          "title": "Microsoft Copilot (Microsoft 365): People Skills- removal and deletion admin control",
-          "description": "A new admin control in the People Skills settings lets administrators permanently remove their organization's People Skills data from the tenant. With this new control, organizations can delete their entire skills library along with all users confirmed, inferred, and imported skills data—giving them full control to offboard from People Skills in support of data governance and compliance needs.\nOnce deletion is initiated, skills will no longer appear on user profile cards or be used across Micros",
-          "status": "Rolling out",
-          "change_type": "updated",
-          "created": "2026-06-15T23:00:45",
-          "modified": "2026-07-23T23:27:16",
-          "ga_date": "July CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Copilot (Microsoft 365)"
-          ],
-          "platforms": [
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=565905"
-        },
-        {
-          "id": 564612,
-          "title": "Microsoft Teams: Inline search in compose box",
-          "description": "We have decided not to move forward with this change at this time. We apologize for any inconvenience. Teams enables search directly within the compose box using @mentions, allowing you to quickly find and insert Files, Chats, Channels, and Meetings without leaving your message. By extending @mentions beyond people, Teams provides a more unified and efficient way to reference content in context. This experience reduces context switching and helps streamline collaboration within conversations.",
-          "status": "Cancelled",
-          "change_type": "updated",
-          "created": "2026-06-01T23:15:29",
-          "modified": "2026-07-23T23:27:16",
-          "ga_date": "September CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Teams"
-          ],
-          "platforms": [
-            "Desktop",
-            "Mac",
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability",
-            "Targeted Release"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=564612"
-        },
-        {
-          "id": 559990,
-          "title": "Outlook: Copilot Search Suggestions for Outlook",
-          "description": "Get Copilot suggestions in the Outlook search menu to help you stay on top of your inbox and calendar, find what you are looking for and get more done in Outlook. Update July 23: We have decided not to move forward with this change at this time. We apologize for any inconvenience.",
-          "status": "Cancelled",
-          "change_type": "updated",
-          "created": "2026-04-07T23:15:03",
-          "modified": "2026-07-23T23:27:16",
-          "ga_date": "June CY2026",
-          "preview_date": "",
-          "products": [
-            "Outlook"
-          ],
-          "platforms": [
-            "Android",
-            "iOS",
-            "Mac",
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=559990"
-        },
-        {
-          "id": 559105,
-          "title": "Microsoft Purview: Information Protection - Apply default SharePoint library labels to data at rest",
-          "description": "Enables auto‑labeling of existing SharePoint files to match the default sensitivity label configured on their document library. This helps organizations close labeling gaps for data at rest and ensure consistent, secure‑by‑default protection across SharePoint libraries—without relying on manual user labeling.",
-          "status": "In development",
-          "change_type": "updated",
-          "created": "2026-03-31T23:15:47",
-          "modified": "2026-07-23T23:27:16",
-          "ga_date": "October CY2026",
-          "preview_date": "September CY2026",
-          "products": [
-            "Microsoft Purview"
-          ],
-          "platforms": [
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability",
-            "Preview"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=559105"
-        },
-        {
-          "id": 498640,
-          "title": "Microsoft Copilot (Microsoft 365): Capture voice notes in the Microsoft 365 Copilot mobile app",
-          "description": "With a Microsoft 365 Copilot license, transform offline discussions into structured, actionable, and searchable content with voice notes in Copilot.",
-          "status": "In development",
-          "change_type": "updated",
-          "created": "2025-12-23T00:00:28",
-          "modified": "2026-07-23T23:27:16",
-          "ga_date": "August CY2026",
-          "preview_date": "July CY2026",
-          "products": [
-            "Microsoft 365",
-            "Microsoft Copilot (Microsoft 365)"
-          ],
-          "platforms": [
-            "Android",
-            "iOS"
-          ],
-          "release_phase": [
-            "General Availability",
-            "Preview"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=498640"
-        },
-        {
-          "id": 542181,
-          "title": "Microsoft Copilot (Microsoft 365): Edit with Copilot in Excel (Web, Win32, Mac) - GCC",
-          "description": "Edit with Copilot lets you build and edit workbooks side by side with Copilot. When you're updating budgets, creating financial models, or analyzing data, Copilot uses Excel's most powerful tools like tables, charts, PivotTables, and formulas to help you get the job done.",
-          "status": "In development",
-          "change_type": "updated",
-          "created": "2025-12-17T00:15:13",
-          "modified": "2026-07-23T23:27:16",
-          "ga_date": "September CY2026",
-          "preview_date": "",
-          "products": [
-            "Excel",
-            "Microsoft Copilot (Microsoft 365)"
-          ],
-          "platforms": [
-            "Desktop",
-            "Mac",
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "GCC",
-            "GCC High",
-            "DoD"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=542181"
-        },
-        {
-          "id": 503590,
-          "title": "Microsoft Copilot (Microsoft 365): Admins can now edit user mappings and query filters for ServiceNow Connector",
-          "description": "Support connection edit of user mapping, query filter for ServiceNow",
-          "status": "Launched",
-          "change_type": "updated",
-          "created": "2025-10-31T22:00:11",
-          "modified": "2026-07-23T23:27:16",
-          "ga_date": "March CY2026",
-          "preview_date": "February CY2026",
-          "products": [
-            "Microsoft Copilot (Microsoft 365)"
-          ],
-          "platforms": [
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=503590"
-        },
-        {
-          "id": 502533,
-          "title": "Microsoft Copilot (Microsoft 365): [Copilot Extensibility]​​[Search UX] Rich entity representation for connectors in Search results",
-          "description": "Rich entity representation for connectors in Search results.",
-          "status": "In development",
-          "change_type": "updated",
-          "created": "2025-10-22T23:15:17",
-          "modified": "2026-07-23T23:27:16",
-          "ga_date": "September CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Copilot (Microsoft 365)"
-          ],
-          "platforms": [
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=502533"
-        },
-        {
-          "id": 513275,
-          "title": "Microsoft Viva: Engage Community feed improvements",
-          "description": "Align the community feeds default experience with expected user behaviors; support triage and content review for users who want to read every message in a community.",
-          "status": "In development",
-          "change_type": "updated",
-          "created": "2025-10-14T23:15:41",
-          "modified": "2026-07-23T23:27:16",
-          "ga_date": "September CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Viva"
-          ],
-          "platforms": [
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=513275"
-        },
-        {
-          "id": 502541,
-          "title": "Microsoft Copilot (Microsoft 365): [Copilot Extensibility] Improved discovery of Copilot connector sources in Microsoft 365 Copilot (optionally add chat) with Content Source filter(s)",
-          "description": "Improved discovery of Copilot connector sources in Microsoft 365 Copilot (optionally add chat) with Content Source filter(s).",
-          "status": "In development",
-          "change_type": "updated",
-          "created": "2025-09-22T23:00:43",
-          "modified": "2026-07-23T23:27:16",
-          "ga_date": "September CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Copilot (Microsoft 365)"
-          ],
-          "platforms": [
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=502541"
         }
       ],
-      "total_updates": 16,
+      "total_updates": 3,
       "error": null
     }
   },
