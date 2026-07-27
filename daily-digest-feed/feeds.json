@@ -1,13 +1,55 @@
 {
-  "generated_at": "2026-07-26T11:28:21.217968Z",
+  "generated_at": "2026-07-27T12:03:30.832084Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
         {
+          "creator": "VentureToRoam",
+          "handle": "@VentureToRoam",
+          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "LetsGetLost",
+          "handle": "@LetsGetLost",
+          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
+          "videos": [],
+          "error": null
+        },
+        {
           "creator": "This Story Till Now",
           "handle": "@ThisStoryTillNow",
           "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "videos": [
+            {
+              "title": "I Almost Rolled My Jeep on This Obstacle (Close Call!)",
+              "url": "https://www.youtube.com/watch?v=nvHzkPc98iE",
+              "published": "2026-07-26T02:16:30Z",
+              "description": "Sign up with my link and save 20% on OnX Off-Road: https://bit.ly/onxoffroadtstn\nFor more information on OnX SOS: https://www.onxmaps.com/sos/user-guide\n\nSUBSCRIBE TO TSTN MAGAZINE ($11.40 a month including delivery, no charge until we launch!): http://subscribe.tstnmag.com\n\nMERCH: http://www.tstn.shop\n\nMORE OF MY GEAR:\nYankum Ropes Recovery Gear 10% off: https://yankum.com/discount/TSTN?afmc=qj\nSave 20% on XLANDR Sunglasses CODE: TSTN20 at checkout: https://bit.ly/42ThhBt\nTitan Fuel Tanks: http"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Ozark Overland Adventure",
+          "handle": "@OzarkOverlandAdventures",
+          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Casey 250",
+          "handle": "@Casey250",
+          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "TrailRecon",
+          "handle": "@TrailRecon",
+          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
           "videos": [],
           "error": null
         },
@@ -26,75 +68,41 @@
           "error": null
         },
         {
-          "creator": "Casey 250",
-          "handle": "@Casey250",
-          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "Epic Adventure Outfitters",
           "handle": "@EpicAdventureOutfitters",
           "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
           "videos": [
             {
+              "title": "Make sure the guy doing your gears, knows what he's doing..#jeep #gears #overlanding #4x4",
+              "url": "https://www.youtube.com/shorts/upbQuNVMMdk",
+              "published": "2026-07-26T21:00:31Z",
+              "description": ""
+            },
+            {
               "title": "They knew they had more torque..#jeep #gears #overlanding #4x4",
               "url": "https://www.youtube.com/shorts/UHDNGo38oqk",
               "published": "2026-07-25T21:00:07Z",
               "description": ""
-            },
-            {
-              "title": "The Eco-Diesel is a whole different animal..#jeep #gears #overlanding #4x4",
-              "url": "https://www.youtube.com/shorts/wJt5FTewBZk",
-              "published": "2026-07-24T21:00:35Z",
-              "description": ""
-            },
-            {
-              "title": "Why the 2.0L Turbo Might Be the Best Jeep Engine You Can Buy - The Hotline Ep.4",
-              "url": "https://www.youtube.com/watch?v=y_D4Qog3owA",
-              "published": "2026-07-24T20:00:23Z",
-              "description": "Everyone obsesses over the 392. But what if the smartest engine in the entire Jeep lineup is the one nobody is bragging about?\n\nWelcome back to The Hotline: where your comments become real answers with no fluff and no BS. This episode Paul and The Ginger take on one of the best questions we have gotten in a while, straight from the comment section, about whether the 2.0 turbo can actually hold its own out on the trail.\n\n#JeepLife  #Overlanding #OffRoad\n\nCan the 2.0L keep up with the bigger motor"
             }
           ],
-          "error": null
-        },
-        {
-          "creator": "Ozark Overland Adventure",
-          "handle": "@OzarkOverlandAdventures",
-          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
-          "videos": [
-            {
-              "title": "You've Never Seen Moab Like This - All 5 Days of the Moab Adventure Trail",
-              "url": "https://www.youtube.com/watch?v=iL5FjMKOR4c",
-              "published": "2026-07-24T22:00:34Z",
-              "description": "We created a 5 day overlanding route that circles Moab taking you through BLM and National Forest that few people visit. This is all 5 days of the Moab Adventure Trail.\n\nMoab Adventure Trail GPX File - https://drive.google.com/file/d/1MJX8a8Ah6gdi-jTkFKJK_f4gm5LYu9M1/view?usp=sharing\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHN"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "LetsGetLost",
-          "handle": "@LetsGetLost",
-          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "TrailRecon",
-          "handle": "@TrailRecon",
-          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "VentureToRoam",
-          "handle": "@VentureToRoam",
-          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
-          "videos": [],
           "error": null
         }
       ],
       "power_platform": [
+        {
+          "creator": "Matthew Devaney",
+          "handle": "@MatthewDevaney",
+          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
+          "videos": [
+            {
+              "title": "How To Orchestrate Chat Without Topics In New Copilot Studio",
+              "url": "https://www.youtube.com/watch?v=aZdKeVdiNys",
+              "published": "2026-07-26T22:17:22Z",
+              "description": "The agent that we are going to be building together today is called the restaurant crew member agent. And the conversation that we're going to orchestrate is ordering food at a fast food restaurant.\n\nIn the classic Copilot Studio experience you can do this using topics to join together a series of questions and answers in a structured format and the agent just follows it like a workflow. Well guess what, I don't see topics in the new Copilots Studio experience, in fact they're not here at all. \n"
+            }
+          ],
+          "error": null
+        },
         {
           "creator": "Lisa Crosbie",
           "handle": "@LisaCrosbie",
@@ -110,17 +118,17 @@
           "error": null
         },
         {
-          "creator": "Matthew Devaney",
-          "handle": "@MatthewDevaney",
-          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "Reza Dorrani",
           "handle": "@RezaDorrani",
           "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
-          "videos": [],
+          "videos": [
+            {
+              "title": "Power Automate Performance Trick: Replace Apply to Each with XPath",
+              "url": "https://www.youtube.com/watch?v=kYsbuTawDvQ",
+              "published": "2026-07-27T11:30:20Z",
+              "description": "One of the most common Power Automate patterns is using Apply to Each simply to calculate totals, averages, or other summary values.\n\nWhile it works, it often introduces unnecessary actions and makes your flows more complex than they need to be.\n\nIn this tutorial, I'll show you a simple performance technique using XPath that can replace many aggregation loops with a single expression. We'll build everything step by step, understand how XPath works, and apply the same pattern to both HTTP API res"
+            }
+          ],
           "error": null
         },
         {
@@ -145,10 +153,10 @@
           "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
           "videos": [
             {
-              "title": "Inside A Plugin - Agents, Skills, & Workflows - GitHub Copilot and Claude",
-              "url": "https://www.youtube.com/watch?v=qDvsGI4q8-M",
-              "published": "2026-07-24T19:57:20Z",
-              "description": "In this video I go over the capabilities and structure of a Plugin for coding agents such as GitHub Copilot and Claude Code.  We explore the differences in plugins and workflows.  How to leverage agents, skills, and hooks to create reusable assets that you can share with others to make your coding agents even more powerful."
+              "title": "AI Governance: Industry Consensus Needed",
+              "url": "https://www.youtube.com/shorts/bA1Fpy4dKZA",
+              "published": "2026-07-27T05:00:28Z",
+              "description": "How do you manage governance across multiple vendors?\n\nAs a customer, navigating between vertical and horizontal vendors can be tricky. You need a clear view of your agents' performance and costs. Luckily, industry standards like open telemetry are paving the way for better observability in governance.\n\nWant to learn more about effective governance strategies? Check out the full video!\n\n#Governance #Observability #TechTrends"
             }
           ],
           "error": null
@@ -156,69 +164,21 @@
       ],
       "ai": [
         {
-          "creator": "Alex Finn",
-          "handle": "@AlexFinn",
-          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
-          "videos": [
-            {
-              "title": "Claude Opus 5 DESTROYS Fable 5",
-              "url": "https://www.youtube.com/watch?v=Vh1v2VSroes",
-              "published": "2026-07-24T19:40:51Z",
-              "description": "Claude Opus 5 DOMINATES Claude Fable 5. Here's why\n\nFULL Opus 5 bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nSign up for my free newsletter: https://www.shipitweekly.com/\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/ \n\nTimestamps:\n0:00 Intro\n1:40 Opus 5 testing vs Fable\n6:19 Deal breake"
-            }
-          ],
-          "error": null
-        },
-        {
           "creator": "NateBJones",
           "handle": "@NateBJones",
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
             {
-              "title": "Why does everything look the same now? #AI #creativity #marketing #futureofwork #AItools",
-              "url": "https://www.youtube.com/shorts/nYL2tunaHxA",
-              "published": "2026-07-25T04:30:32Z",
-              "description": "You have probably felt this without putting words to it. Everything coming out of AI is competent and clean and completely forgettable, and it all rhymes. Your post, the post right under it, the thing your competitor shipped, they could swap bylines and no one would notice. The reflex is to blame the tool, so people go shopping for a better model, and the sameness follows them there too.\n\nHere is what actually happened. AI drove the cost of producing things to almost nothing, and the moment exec"
+              "title": "Everyone's watching the wrong AI scoreboard #AI #OpenAI #AInews #tech #bigtech",
+              "url": "https://www.youtube.com/shorts/NRCFWQC6Mx4",
+              "published": "2026-07-27T03:00:11Z",
+              "description": "For two years, one number ran the entire AI industry: who has the best model this month. Every launch, every earnings call, every leak got scored against it, and that scoreboard justified the biggest capital buildout in the history of technology. It was not irrational. The model race was real and it produced real jumps.\n\nBut the tell is what the leaders are doing now. When the companies at the front quietly stop competing on the thing everyone else is still measuring, the game has already moved."
             },
             {
-              "title": "How to Use AI on Files You're Not Allowed to Upload",
-              "url": "https://www.youtube.com/watch?v=EuVvLwWZ5wc",
-              "published": "2026-07-24T14:00:31Z",
-              "description": "How to use AI on sensitive files you can't upload. I built an on-device Mac app that strips what a model doesn't need and rebuilds a clean copy, so your private data never leaves your computer.\n\nGet Airlock: https://natesnewsletter.substack.com/p/use-ai-sensitive-files?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n👉🏻 Insta"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Nate Herk",
-          "handle": "@NateHerk",
-          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-          "videos": [
-            {
-              "title": "I Tested Opus 5 vs. Fable 5. What You Need to Know.",
-              "url": "https://www.youtube.com/watch?v=2J3uX8iRNng",
-              "published": "2026-07-24T23:38:15Z",
-              "description": "My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=Opus-5-vs-Fable-5&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nClaude Opus 5 is benchmarking above Fable 5 on a lot of coding tasks at half the cost per token, so I"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Paul J Lipsky",
-          "handle": "@PaulJLipsky",
-          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
-          "videos": [
-            {
-              "title": "Opus 5 Is Here: It Beats Fable 🤯",
-              "url": "https://www.youtube.com/watch?v=CYXUB4GspHg",
-              "published": "2026-07-24T18:45:20Z",
-              "description": "Claude Opus 5 is now included with all Claude plans, including Claude Pro, and my launch-day tests show it getting surprisingly close to Fable 5 for knowledge work, landing pages, scripts, and motion graphics. Here’s what changed, where it wins, and why it may become my new default Claude model.\n\n0:00 Intro\n0:23 Opus 5 Plans and Availability\n0:50 Opus 5 vs Fable 5\n1:41 Benchmarks and Knowledge Work\n3:17 My First Opus 5 Tests\n4:34 Build Your Own AI Benchmark\n5:25 Claude Design Comparison\n5:48 Lau"
-            },
-            {
-              "title": "AI News: NotebookLM Folders; New Models (Kimi, Gemini, Grok); Rogue AI Models + More",
-              "url": "https://www.youtube.com/watch?v=HhF8A1MUc4c",
-              "published": "2026-07-24T13:00:11Z",
-              "description": "Build and publish full-stack apps and websites by chatting with AppLLM by Abacus AI for $10 a month: https://appllm.abacus.ai/kjy\n\nThis week's AI news covers Kimi K3, Grok 4.5, the new Gemini Flash models, OpenAI's escaped-model security test, Gemini Notebook Collections, ChatGPT desktop updates, and Claude's record-a-Skill feature.\n\n🔗 This video is sponsored by AppLLM by Abacus AI.\n\n0:00 Intro\n1:05 Kimi K3, Grok 4.5, and Gemini Flash\n5:22 AppLLM by Abacus AI\n6:52 Opus 5 and Gemini 4 Rumors\n9:45"
+              "title": "You Can Hand One AI Agent Your Worst Recurring Task. It Cleared 60% Of Mine.",
+              "url": "https://www.youtube.com/watch?v=7pqRRxrdr0c",
+              "published": "2026-07-26T17:00:16Z",
+              "description": "How to give an AI agent a real job: start with the customer support problem your team keeps fixing by hand. We closed 51 of 52 support issues, then rebuilt the process so our biggest category stopped happening at all.\n\nHow to find the first problem your agent should solve (guide):  https://natesnewsletter.substack.com/p/first-ai-agent-use-case?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https"
             }
           ],
           "error": null
@@ -227,32 +187,40 @@
           "creator": "Chase AI",
           "handle": "@ChaseAI",
           "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Nate Herk",
+          "handle": "@NateHerk",
+          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
           "videos": [
             {
-              "title": "these opus 5 benchmarks are stupid",
-              "url": "https://www.youtube.com/shorts/oofWirP7COk",
-              "published": "2026-07-24T18:30:18Z",
-              "description": ""
-            },
-            {
-              "title": "Opus 5 Just Dropped and Its Numbers Are Legit INSANE",
-              "url": "https://www.youtube.com/watch?v=Txse8Ux69Qg",
-              "published": "2026-07-24T17:34:17Z",
-              "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nOpus 5 is live and its basically Fable at half the cost.\n\nRESOURCES FROM THIS VIDEO:\n➡️ Master Claude Code: https://www.skool.com/chase-ai\n➡️ My Website: https://www.chaseai.io\n➡️ Opus 5 Article: https://www.anthropic.com/news/claude-opus-5\n\n#claudecode"
+              "title": "This AI Technology Will Replace Millions (Here's How to Prepare)",
+              "url": "https://www.youtube.com/watch?v=Ums8suyAG1A",
+              "published": "2026-07-26T14:52:32Z",
+              "description": "My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=this-ai-technology-will-replace-millions&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nAgentic AI is already doing 60% of the tasks inside companies and hundreds of "
             }
           ],
           "error": null
         },
         {
-          "creator": "Simon Scrapes",
-          "handle": "@SimonScrapes",
-          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
+          "creator": "Alex Finn",
+          "handle": "@AlexFinn",
+          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Paul J Lipsky",
+          "handle": "@PaulJLipsky",
+          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
           "videos": [
             {
-              "title": "5 Claude Cowork Scheduled Tasks (For Business Owners With No Time)",
-              "url": "https://www.youtube.com/watch?v=UfN4l2yCT54",
-              "published": "2026-07-25T16:59:43Z",
-              "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes\n👀 Be the brand AI recommends: https://dub.sh/rankspot-yt\nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\nGrab the skills to set these up (free): https://app.notion.com/p/scrapeshq/5-Claude-Cowork-Scheduled-Tasks-For-Business-Owners-With-No-Time-3a87821711818063b221caaa2b411ca4\n\nClaude's scheduled tasks are a game-changer, allowing your business to run on autopilot. In this tutorial, yo"
+              "title": "This Is The Genspark SecondBrain - It Remembers Everything",
+              "url": "https://www.youtube.com/watch?v=FWsL5rKVfZg",
+              "published": "2026-07-26T13:00:05Z",
+              "description": "Get 10% off the Genspark SecondBrain Note: https://shop.genspark.ai/s/pauljlipsky\n\n🔗 This video is sponsored by @GensparkProduct\n\nThe SecondBrain Note records meetings, calls, and ideas, then turns them into connected memory inside Genspark’s SecondBrain. In this video, I test the hardware, connect my data, and use Super Agent to turn that memory into finished work.\n\n0:00 Intro\n0:30 Why most note-taking systems fail\n0:59 SecondBrain Note hardware\n2:22 Recording meetings, calls, and ideas\n3:10 Ho"
             }
           ],
           "error": null
@@ -276,94 +244,30 @@
             }
           ],
           "error": null
+        },
+        {
+          "creator": "Simon Scrapes",
+          "handle": "@SimonScrapes",
+          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
+          "videos": [
+            {
+              "title": "5 Claude Cowork Scheduled Tasks (For Business Owners With No Time)",
+              "url": "https://www.youtube.com/shorts/LNo5N4QsT4s",
+              "published": "2026-07-27T07:19:10Z",
+              "description": "Claude's scheduled tasks are a game-changer, allowing your business to run on autopilot. In this tutorial, you'll walk away with five practical, time-saving tasks you can set up today, from invoice reconciliation to competitor monitoring. You'll learn the core concept of loop engineering and gain the skills to automate any custom workflow in your business."
+            },
+            {
+              "title": "5 Claude Cowork Scheduled Tasks (For Business Owners With No Time)",
+              "url": "https://www.youtube.com/watch?v=UfN4l2yCT54",
+              "published": "2026-07-25T16:59:43Z",
+              "description": "🚀 Build agentic systems that run your business: https://skool.com/scrapes\n👀 Be the brand AI recommends: https://dub.sh/rankspot-yt\nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\nGrab the skills to set these up (free): https://app.notion.com/p/scrapeshq/5-Claude-Cowork-Scheduled-Tasks-For-Business-Owners-With-No-Time-3a87821711818063b221caaa2b411ca4\n\nClaude's scheduled tasks are a game-changer, allowing your business to run on autopilot. In this tutorial, yo"
+            }
+          ],
+          "error": null
         }
       ]
     },
     "newsletters": {
-      "power_platform_dev_weekly": {
-        "name": "Power Platform Dev Weekly",
-        "issue_number": 297,
-        "issue_date": "2026-07-22",
-        "url": "https://www.ppdevweekly.com/p/297",
-        "is_new": false,
-        "sections": {
-          "🥇 Cover Story": [
-            {
-              "title": "MCP with Entra auth + Copilot & Cowork",
-              "url": "https://nullpointer.se/copilot-cowork-oauth.html"
-            }
-          ],
-          "💎 Model Driven Apps & Dataverse": [
-            {
-              "title": "Ditch the Power Apps maker portal!",
-              "url": "https://readyxrm.blog/2026/07/16/ditch-the-power-apps-maker-portal/"
-            },
-            {
-              "title": "Power Platform Admin V2 - Create Rule Set Explained",
-              "url": "https://www.mattcollinsjones.co.uk/single-post/power-platform-admin-v2-create-rule-set-explained"
-            }
-          ],
-          "😎 Power Automate": [
-            {
-              "title": "How To Get A Docusign Signature In Power Automate",
-              "url": "https://www.matthewdevaney.com/how-to-get-a-docusign-signature-in-power-automate/"
-            },
-            {
-              "title": "Power Automate Cloud Flow Failing with 403 Forbidden on a Dataverse Action",
-              "url": "https://linnzawwin.blogspot.com/2026/07/power-automate-cloud-flow-failing-with.html"
-            }
-          ],
-          "🤖 Copilot & Agents": [
-            {
-              "title": "Part 1",
-              "url": "https://holgerimbery.blog/copilot-studio-orchestration-part1"
-            },
-            {
-              "title": "Part 2",
-              "url": "https://holgerimbery.blog/copilot-studio-orchestration-part2"
-            },
-            {
-              "title": "Part 3",
-              "url": "https://holgerimbery.blog/copilot-studio-orchestration-part3"
-            },
-            {
-              "title": "GPT-5.6 Is Missing in Copilot Cowork? Turn On This Admin Setting",
-              "url": "https://flowaltdelete.ca/2026/07/20/enable-gpt-5-6-copilot-cowork-openai-subprocessor/"
-            },
-            {
-              "title": "Navigating the New Copilot Studio: A “Good, Bad, and Nitty-Gritty” First Look",
-              "url": "https://dev.to/balagmadhu/navigating-the-new-copilot-studio-a-good-bad-and-nitty-gritty-first-look-1843"
-            }
-          ],
-          "👍 Everything else in Power Platform": [
-            {
-              "title": "Retrieve All One-to-Many Relationships and Cascade Delete Behavior for a Dataverse Table Using C#",
-              "url": "https://nishantrana.me/2026/07/07/retrieve-all-one-to-many-relationships-and-cascade-delete-behavior-for-a-dataverse-table-using-c/"
-            }
-          ],
-          "🎮 Other Interesting Articles": [
-            {
-              "title": "The All New Copilot Studio",
-              "url": "https://dev.to/wyattdave/the-all-new-copilot-studio-734"
-            },
-            {
-              "title": "Automation vs. Agentic AI: choosing the right approach",
-              "url": "https://netwiseglobal.com/blog/automation-vs-agentic-ai-choosing-the-right-approach/"
-            }
-          ],
-          "📺 Videos": [
-            {
-              "title": "Stop Creating AI Slop & Dribble! Learn the Right Way to Use Copilot",
-              "url": "https://www.youtube.com/watch?v=aMyYa_D-3Vs"
-            },
-            {
-              "title": "Power Platform ToolBox - Release v1.2.3",
-              "url": "https://www.youtube.com/watch?v=IxeOrQ-Ra9Y"
-            }
-          ]
-        },
-        "error": null
-      },
       "power_platform_weekly": {
         "name": "Power Platform Weekly",
         "issue_number": 270,
@@ -471,6 +375,90 @@
             {
               "title": "Copilot Studio Integration helps you on your Flows on D365 F&O",
               "url": "https://www.youtube.com/watch?v=1wW3QzsBVJo"
+            }
+          ]
+        },
+        "error": null
+      },
+      "power_platform_dev_weekly": {
+        "name": "Power Platform Dev Weekly",
+        "issue_number": 297,
+        "issue_date": "2026-07-22",
+        "url": "https://www.ppdevweekly.com/p/297",
+        "is_new": false,
+        "sections": {
+          "🥇 Cover Story": [
+            {
+              "title": "MCP with Entra auth + Copilot & Cowork",
+              "url": "https://nullpointer.se/copilot-cowork-oauth.html"
+            }
+          ],
+          "💎 Model Driven Apps & Dataverse": [
+            {
+              "title": "Ditch the Power Apps maker portal!",
+              "url": "https://readyxrm.blog/2026/07/16/ditch-the-power-apps-maker-portal/"
+            },
+            {
+              "title": "Power Platform Admin V2 - Create Rule Set Explained",
+              "url": "https://www.mattcollinsjones.co.uk/single-post/power-platform-admin-v2-create-rule-set-explained"
+            }
+          ],
+          "😎 Power Automate": [
+            {
+              "title": "How To Get A Docusign Signature In Power Automate",
+              "url": "https://www.matthewdevaney.com/how-to-get-a-docusign-signature-in-power-automate/"
+            },
+            {
+              "title": "Power Automate Cloud Flow Failing with 403 Forbidden on a Dataverse Action",
+              "url": "https://linnzawwin.blogspot.com/2026/07/power-automate-cloud-flow-failing-with.html"
+            }
+          ],
+          "🤖 Copilot & Agents": [
+            {
+              "title": "Part 1",
+              "url": "https://holgerimbery.blog/copilot-studio-orchestration-part1"
+            },
+            {
+              "title": "Part 2",
+              "url": "https://holgerimbery.blog/copilot-studio-orchestration-part2"
+            },
+            {
+              "title": "Part 3",
+              "url": "https://holgerimbery.blog/copilot-studio-orchestration-part3"
+            },
+            {
+              "title": "GPT-5.6 Is Missing in Copilot Cowork? Turn On This Admin Setting",
+              "url": "https://flowaltdelete.ca/2026/07/20/enable-gpt-5-6-copilot-cowork-openai-subprocessor/"
+            },
+            {
+              "title": "Navigating the New Copilot Studio: A “Good, Bad, and Nitty-Gritty” First Look",
+              "url": "https://dev.to/balagmadhu/navigating-the-new-copilot-studio-a-good-bad-and-nitty-gritty-first-look-1843"
+            }
+          ],
+          "👍 Everything else in Power Platform": [
+            {
+              "title": "Retrieve All One-to-Many Relationships and Cascade Delete Behavior for a Dataverse Table Using C#",
+              "url": "https://nishantrana.me/2026/07/07/retrieve-all-one-to-many-relationships-and-cascade-delete-behavior-for-a-dataverse-table-using-c/"
+            }
+          ],
+          "🎮 Other Interesting Articles": [
+            {
+              "title": "The All New Copilot Studio",
+              "url": "https://dev.to/wyattdave/the-all-new-copilot-studio-734"
+            },
+            {
+              "title": "Automation vs. Agentic AI: choosing the right approach",
+              "url": "https://netwiseglobal.com/blog/automation-vs-agentic-ai-choosing-the-right-approach/"
+            }
+          ],
+          "📺 Videos": [
+            {
+              "title": "Stop Creating AI Slop & Dribble! Learn the Right Way to Use Copilot",
+              "url": "https://www.youtube.com/watch?v=aMyYa_D-3Vs"
+            },
+            {
+              "title": "Power Platform ToolBox - Release v1.2.3",
+              "url": "https://www.youtube.com/watch?v=IxeOrQ-Ra9Y"
             }
           ]
         },
@@ -625,85 +613,8 @@
     "m365_roadmap": {
       "source_url": "https://www.microsoft.com/microsoft-365/roadmap",
       "data_url": "https://www.microsoft.com/releasecommunications/api/v1/m365",
-      "items": [
-        {
-          "id": 567466,
-          "title": "Microsoft Teams: Teams events attendance and engagement report policy",
-          "description": "Teams events will soon have a separate attendance and engagement report policy from the \"CsTeamsMeetingPolicy\" attendance and engagement report policy. This will permit admins to allow Teams events organizers to access attendance and engagement reports, while restricting access to Teams meeting attendance and engagement reports.",
-          "status": "In development",
-          "change_type": "updated",
-          "created": "2026-07-14T22:41:38",
-          "modified": "2026-07-24T22:00:08",
-          "ga_date": "September CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Teams"
-          ],
-          "platforms": [
-            "Desktop"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)",
-            "GCC"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567466"
-        },
-        {
-          "id": 560324,
-          "title": "Microsoft Purview: Data Lifecycle Management - DLM Meter Change",
-          "description": "Data Lifecycle Management (DLM) billing will be based on the volume of data retained. For example, any number of non‑Microsoft 365 generative AI prompts and responses that collectively amount to 1 GB of retained data will be billed at $0.25 per GB per month (equivalent to ~$0.0082 per GB per day). In the updated model, DLM is billed based on the total volume of text messages managed by a DLM policy. Each non‑Microsoft 365 generative AI prompt and response is treated as an individual text message",
-          "status": "In development",
-          "change_type": "updated",
-          "created": "2026-05-15T22:00:42",
-          "modified": "2026-07-24T22:00:08",
-          "ga_date": "October CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Purview"
-          ],
-          "platforms": [
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=560324"
-        },
-        {
-          "id": 553219,
-          "title": "Microsoft 365: New profile cards for buildings, rooms and desks ",
-          "description": "Buildings, rooms and desks that are added to the Places directory will have new profile cards, accessible from Copilot Chat and across other Microsoft 365 entry points.",
-          "status": "Launched",
-          "change_type": "updated",
-          "created": "2026-01-30T23:15:49",
-          "modified": "2026-07-24T22:00:08",
-          "ga_date": "June CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft 365",
-            "Microsoft 365 app",
-            "Microsoft Copilot (Microsoft 365)"
-          ],
-          "platforms": [
-            "Desktop",
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=553219"
-        }
-      ],
-      "total_updates": 3,
+      "items": [],
+      "total_updates": 0,
       "error": null
     }
   },
