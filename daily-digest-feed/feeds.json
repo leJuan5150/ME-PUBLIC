@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-04T11:43:46.587546Z",
+  "generated_at": "2026-08-05T11:41:13.854138Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
         {
-          "creator": "Life Style Overland",
-          "handle": "@LifeStyleOverland",
-          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
+          "creator": "VentureToRoam",
+          "handle": "@VentureToRoam",
+          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
           "videos": [],
           "error": null
         },
@@ -26,6 +26,46 @@
           "error": null
         },
         {
+          "creator": "LetsGetLost",
+          "handle": "@LetsGetLost",
+          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Epic Adventure Outfitters",
+          "handle": "@EpicAdventureOutfitters",
+          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
+          "videos": [
+            {
+              "title": "These Are Questions To Ask Before You Lift Your Jeep #jeep #offroad #suspension",
+              "url": "https://www.youtube.com/shorts/e5puZjxshec",
+              "published": "2026-08-04T19:00:37Z",
+              "description": ""
+            },
+            {
+              "title": "Jeep Is Bringing Back the Scrambler. Did They Already Screw It Up?",
+              "url": "https://www.youtube.com/watch?v=SAdQLafwLtE",
+              "published": "2026-08-03T20:00:19Z",
+              "description": "The Scrambler is coming back. After decades, Jeep is finally reviving one of the most beloved names in its history. So naturally, the internet is already worried Jeep is going to find a way to mess it up.\n\nPaul brings the facts on the Stellantis roadmap and The Ginger brings the honest, unfiltered opinions on what the new Scrambler could be, what it should be, and whether Jeep is already off to a rocky start.\n\n#JeepScrambler  #JeepGladiator #Stellantis \n\nHere is where things stand. At Stellantis"
+            },
+            {
+              "title": "On Road Quality Driving Jeep Lifts Cost More #jeep #offroad #suspension",
+              "url": "https://www.youtube.com/shorts/NYRWQFvoST0",
+              "published": "2026-08-03T20:00:00Z",
+              "description": ""
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Casey 250",
+          "handle": "@Casey250",
+          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
+          "videos": [],
+          "error": null
+        },
+        {
           "creator": "Ozark Overland Adventure",
           "handle": "@OzarkOverlandAdventures",
           "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
@@ -40,20 +80,6 @@
           "error": null
         },
         {
-          "creator": "Casey 250",
-          "handle": "@Casey250",
-          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "LetsGetLost",
-          "handle": "@LetsGetLost",
-          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "TrailRecon",
           "handle": "@TrailRecon",
           "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
@@ -61,47 +87,14 @@
           "error": null
         },
         {
-          "creator": "VentureToRoam",
-          "handle": "@VentureToRoam",
-          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
+          "creator": "Life Style Overland",
+          "handle": "@LifeStyleOverland",
+          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
           "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Epic Adventure Outfitters",
-          "handle": "@EpicAdventureOutfitters",
-          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
-          "videos": [
-            {
-              "title": "Jeep Is Bringing Back the Scrambler. Did They Already Screw It Up?",
-              "url": "https://www.youtube.com/watch?v=SAdQLafwLtE",
-              "published": "2026-08-03T20:00:19Z",
-              "description": "The Scrambler is coming back. After decades, Jeep is finally reviving one of the most beloved names in its history. So naturally, the internet is already worried Jeep is going to find a way to mess it up.\n\nPaul brings the facts on the Stellantis roadmap and The Ginger brings the honest, unfiltered opinions on what the new Scrambler could be, what it should be, and whether Jeep is already off to a rocky start.\n\n#JeepScrambler  #JeepGladiator #Stellantis \n\nHere is where things stand. At Stellantis"
-            },
-            {
-              "title": "On Road Quality Driving Jeep Lifts Cost More #jeep #offroad #suspension",
-              "url": "https://www.youtube.com/shorts/NYRWQFvoST0",
-              "published": "2026-08-03T20:00:00Z",
-              "description": ""
-            },
-            {
-              "title": "Why Not Just Get A Cheap Spacer Lift? #jeep #offroad #suspension",
-              "url": "https://www.youtube.com/shorts/Bno0yZrAjsQ",
-              "published": "2026-08-02T20:00:17Z",
-              "description": ""
-            }
-          ],
           "error": null
         }
       ],
       "power_platform": [
-        {
-          "creator": "Lisa Crosbie",
-          "handle": "@LisaCrosbie",
-          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
-          "videos": [],
-          "error": null
-        },
         {
           "creator": "Shane Young",
           "handle": "@ShanesCows",
@@ -110,10 +103,17 @@
           "error": null
         },
         {
-          "creator": "April Dunnam",
-          "handle": "@AprilDunnam",
-          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
-          "videos": [],
+          "creator": "Lisa Crosbie",
+          "handle": "@LisaCrosbie",
+          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
+          "videos": [
+            {
+              "title": "Copilot Studio's New GitHub Copilot Harness Explained",
+              "url": "https://www.youtube.com/watch?v=TikbZYsY7nU",
+              "published": "2026-08-04T11:44:46Z",
+              "description": "Microsoft has announced a major change to Copilot Studio, introducing the GitHub Copilot Harness, and it's much more than a new designer or a refreshed user experience.\n\nCopilot Studio can now build modern agents using the new GitHub Copilot harness, the same underlying orchestration layer used by Microsoft's most advanced AI agents. This changes how agents are built, what they're capable of, and how makers should think about business process automation going forward.\n\nIn this video, I break dow"
+            }
+          ],
           "error": null
         },
         {
@@ -136,34 +136,41 @@
             }
           ],
           "error": null
+        },
+        {
+          "creator": "April Dunnam",
+          "handle": "@AprilDunnam",
+          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
+          "videos": [],
+          "error": null
         }
       ],
       "fabric_powerbi": [
+        {
+          "creator": "Guy in a Cube",
+          "handle": "@GuyInACube",
+          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
+          "videos": [],
+          "error": null
+        },
         {
           "creator": "Dewain Robinson",
           "handle": "@DewainRobinson",
           "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
           "videos": [
             {
+              "title": "Uli Homann's Career Journey",
+              "url": "https://www.youtube.com/shorts/aLv86-0Aa5c",
+              "published": "2026-08-05T05:00:26Z",
+              "description": "From support to sales: how experiences shape your career!\n\nI started in SQL Server support, seeing only what breaks. Then I shifted to pre-sales, learning to sell the product. This journey taught me to explain capabilities and explore possibilities.\n\nCurious about how experiences can transform your career?\n\n#CareerJourney\n#SQLServer\n#Sales"
+            },
+            {
               "title": "The Salmon Shirt Debate",
               "url": "https://www.youtube.com/shorts/HCM8hf5z7jw",
               "published": "2026-08-04T05:00:22Z",
               "description": "Did I just call your shirt orange? 😅\n\nUli and I had a hilarious mix-up about shirt colors that spiraled into a fun event! From salmon stickers to unforgettable moments, this is how a simple comment turned into a memorable experience.\n\nWhat color do you see?\n\n#ColorMixUp\n#FunnyMoments\n#EventStories"
-            },
-            {
-              "title": "Norm Judah: A Stand-Up Guy",
-              "url": "https://www.youtube.com/shorts/2DnAuQobrV8",
-              "published": "2026-08-03T05:00:41Z",
-              "description": "Meet Norm Dwayne: a true leader and inspiration!\n\nNorm led events and training at Microsoft, shaping many careers. His dedication is unmatched!\nWhen faced with challenges, like a busing issue in Vegas, he chose to stand in line with everyone else.\nThat's the mark of a great human!\n\nWhat qualities do you value in a leader?\n\n#Leadership #Inspiration #Microsoft"
             }
           ],
-          "error": null
-        },
-        {
-          "creator": "Guy in a Cube",
-          "handle": "@GuyInACube",
-          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
-          "videos": [],
           "error": null
         }
       ],
@@ -181,6 +188,12 @@
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
             {
+              "title": "What AI privacy advice always misses",
+              "url": "https://www.youtube.com/shorts/s6UhfGdwhrM",
+              "published": "2026-08-05T03:00:23Z",
+              "description": "Every privacy training says the same thing: do not paste sensitive information into AI. Fine. It is correct. It is also where the advice stops, and that is exactly where your real problem starts.\n\nBecause the work does not go away. The contract still needs a risk review. The performance review still needs writing. You can talk your thoughts into a dictation tool, but it still has to be organized into something usable. Sensitive work is still work. So when the only \"safe\" option on offer is to do"
+            },
+            {
               "title": "Are Chinese AI models actually catching up?",
               "url": "https://www.youtube.com/shorts/LnIJ-F1nWMw",
               "published": "2026-08-04T03:00:26Z",
@@ -191,18 +204,6 @@
               "url": "https://www.youtube.com/watch?v=MtcUDEklLLo",
               "published": "2026-08-03T14:00:22Z",
               "description": "Apple's AI strategy and Leopold Aschenbrenner's forced portfolio sale are the two artificial intelligence stories of 2026, and they answer the same question from opposite ends. Being right about AI matters less than being able to wait for it.\n\nFull post:\nhttps://natesnewsletter.substack.com/p/ai-bet-leverage-timing?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok"
-            },
-            {
-              "title": "Don't tell AI what to do in 2026. Do this instead #AI #aiagents #Codex #Fable5 #automation",
-              "url": "https://www.youtube.com/shorts/TRIO7lBfgNQ",
-              "published": "2026-08-03T03:00:31Z",
-              "description": "For a couple of years the whole skill was writing a better prompt. You brought the problem, the AI brought the words. That is already outdated. The 2026 version is to hand the AI the problem-finding itself.\n\nHere is what that looks like in practice. Instead of telling it what to fix, I turned it loose. Look at my files, read my Slacks, study how my business actually runs, and then come back and tell me what is worth automating and how. No prompt to perfect, no task to hand it. It has to notice t"
-            },
-            {
-              "title": "If OpenAI And Anthropic Are Discouraging You, You're Probably A Level 1 Builder.",
-              "url": "https://www.youtube.com/watch?v=lewY_0sJaWg",
-              "published": "2026-08-02T17:00:00Z",
-              "description": "The 5 levels of AI building, and how to tell which one you are on. A practical framework for AI builders deciding what to work on next.\n\nFull post:\nhttps://natesnewsletter.substack.com/p/5-levels-ai-building?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n👉🏻 Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really ha"
             }
           ],
           "error": null
@@ -212,6 +213,18 @@
           "handle": "@ChaseAI",
           "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
           "videos": [
+            {
+              "title": "The #1 Claude skill for design just got upgraded",
+              "url": "https://www.youtube.com/shorts/A_J0AyKXilk",
+              "published": "2026-08-05T03:15:40Z",
+              "description": ""
+            },
+            {
+              "title": "The Skill Fixes One of Claudes Biggest Weaknesses",
+              "url": "https://www.youtube.com/shorts/6ydH45pA23I",
+              "published": "2026-08-04T20:18:18Z",
+              "description": ""
+            },
             {
               "title": "The #1 Claude Code Design Skill Just Got a HUGE Upgrade",
               "url": "https://www.youtube.com/watch?v=RVeCbPg0liw",
@@ -234,20 +247,6 @@
           "error": null
         },
         {
-          "creator": "AI Daily Brief",
-          "handle": "@AIDailyBrief",
-          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
-          "videos": [
-            {
-              "title": "How a $30B Hedge Fund Implosion Will Effect AI",
-              "url": "https://www.youtube.com/watch?v=-BFKpd24vP0",
-              "published": "2026-08-03T13:21:51Z",
-              "description": "OpenAI and Anthropic reported jaw‑dropping ARR growth, signaling surging token demand and a shift from seat‑based to consumption‑based business models. Hyperscaler capex and off‑balance‑sheet data‑center debt expose financing risks without mirroring 2008 systemic mechanisms. The collapse of the highly leveraged hedge fund Situational Awareness and Citadel’s takeover show how leverage and forced selling can amplify market moves while long‑term AI demand persists.\n\nThe AI Daily Brief helps you und"
-            }
-          ],
-          "error": null
-        },
-        {
           "creator": "Paul J Lipsky",
           "handle": "@PaulJLipsky",
           "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
@@ -257,12 +256,6 @@
               "url": "https://www.youtube.com/watch?v=EocWrqXXq_8",
               "published": "2026-08-03T13:00:26Z",
               "description": "Try @shutterstock today\n #ad #Shutterstock #NeverStartFromScratch\n\nWatch me turn one rough idea into a complete, launch-ready marketing campaign using the Shutterstock app inside ChatGPT, Shutterstock's AI Editor, AI Video Generator, and Unlimited downloads subscription.\n\n🔗 This video is sponsored by @shutterstock\n\n0:00 Intro\n0:45 Build the Campaign in ChatGPT\n1:14 Shutterstock App in ChatGPT\n2:01 Customize With the AI Editor\n3:17 Create a Video From the Image"
-            },
-            {
-              "title": "Gemini Notebook Full Course: Master “NotebookLM” in 45 Minutes",
-              "url": "https://www.youtube.com/watch?v=WexPjiptQXU",
-              "published": "2026-08-02T13:00:26Z",
-              "description": "https://notebooklm.google.com/\n\nMaster Gemini Notebook, formerly NotebookLM, from the ground up. This complete beginner course covers sources, grounded chat, Studio outputs, advanced research, data analysis, sharing, and Gemini integration.\n\n0:00 Intro\n0:59 Gemini Notebook Dashboard\n3:57 Create a Notebook and Add Sources\n8:31 Customize and Chat With Sources\n14:43 Studio: Audio, Slides, Video and More\n27:30 Review, Edit and Export Studio Content\n32:50 Organize Your Notebook Dashboard\n35:42 Advanc"
             }
           ],
           "error": null
@@ -275,10 +268,43 @@
           "error": null
         },
         {
+          "creator": "AI Daily Brief",
+          "handle": "@AIDailyBrief",
+          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
+          "videos": [
+            {
+              "title": "Everything You Need to Know about AI Tokens",
+              "url": "https://www.youtube.com/watch?v=dSNgCgQYYFY",
+              "published": "2026-08-04T21:00:06Z",
+              "description": "In this Operator's edition, Nufar Gaspar explains what AI tokens actually are, why costs can spiral in agentic workflows, and how to distinguish valuable usage from waste. Learn how to measure cost per successful task, eliminate “tokens that spin,” choose the right models and protect the experimentation that creates real value.\n\nThe AI Daily Brief helps you understand the most important news and discussions in AI. \nSubscribe to the podcast version of The AI Daily Brief wherever you listen: https"
+            },
+            {
+              "title": "How Significant Are AI's Latest Math Breakthroughs?",
+              "url": "https://www.youtube.com/watch?v=nWdL7fvOUXA",
+              "published": "2026-08-04T12:59:31Z",
+              "description": "OpenAI Astra reportedly produced Lean-certified proofs solving ten longstanding mathematical problems for roughly $2,000 in token costs. Debate centers on scientific-discovery acceleration, verification bottlenecks as experts struggle to validate advanced proofs, and potential upheaval in mathematical careers. Related headlines cover agent escape incidents, hyperscaler investments in AI, and the emergence of ultra-cost-efficient small models reshaping deployment economics.\n\nThe AI Daily Brief he"
+            },
+            {
+              "title": "How a $30B Hedge Fund Implosion Will Effect AI",
+              "url": "https://www.youtube.com/watch?v=-BFKpd24vP0",
+              "published": "2026-08-03T13:21:51Z",
+              "description": "OpenAI and Anthropic reported jaw‑dropping ARR growth, signaling surging token demand and a shift from seat‑based to consumption‑based business models. Hyperscaler capex and off‑balance‑sheet data‑center debt expose financing risks without mirroring 2008 systemic mechanisms. The collapse of the highly leveraged hedge fund Situational Awareness and Citadel’s takeover show how leverage and forced selling can amplify market moves while long‑term AI demand persists.\n\nThe AI Daily Brief helps you und"
+            }
+          ],
+          "error": null
+        },
+        {
           "creator": "Nate Herk",
           "handle": "@NateHerk",
           "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-          "videos": [],
+          "videos": [
+            {
+              "title": "5000 Hours of Building AI in Just 17 Minutes",
+              "url": "https://www.youtube.com/watch?v=7WZ6XldxX0U",
+              "published": "2026-08-04T12:54:44Z",
+              "description": "My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=5000-hours-of-building-with-ai&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nEverything I've Learned After 5,000 Hours of Building with AI: these are the exact lesso"
+            }
+          ],
           "error": null
         }
       ]
@@ -643,6 +669,626 @@
       "data_url": "https://www.microsoft.com/releasecommunications/api/v1/m365",
       "items": [
         {
+          "id": 568791,
+          "title": "Planner: Refreshed experience and new capabilities",
+          "description": "Microsoft Planner will be updated with a cleaner, more modern interface, improved navigation, responsive layouts, and a more consistent experience across Planner in Teams and Planner for the web. This update also introduces Goals in basic plans.",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-08-04T22:45:42",
+          "modified": "2026-08-04T22:45:42",
+          "ga_date": "September CY2026",
+          "preview_date": "",
+          "products": [
+            "Planner"
+          ],
+          "platforms": [
+            "Desktop",
+            "Mac",
+            "Teams and Surface Devices",
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "GCC"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=568791"
+        },
+        {
+          "id": 568785,
+          "title": "Microsoft Purview: Adaptive Scope evaluation control with recipient and site owner lifecycle status",
+          "description": "Microsoft Purview Adaptive Scopes will provide administrators with explicit control over lifecycle-state evaluation for recipients and site owners, helping ensure policy targeting and scope membership remain aligned with organizational requirements.",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-08-04T22:45:42",
+          "modified": "2026-08-04T22:45:42",
+          "ga_date": "October CY2026",
+          "preview_date": "September CY2026",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=568785"
+        },
+        {
+          "id": 568782,
+          "title": "Microsoft Teams: Teams Admin Center - Single pane for monitoring & troubleshooting for meetings and calls across the organisation",
+          "description": "Administrators can monitor meeting and call health across the organization, uncover recurring patterns, and proactively troubleshoot issues impacting users in both active and completed meetings and calls.",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-08-04T22:45:42",
+          "modified": "2026-08-04T22:45:42",
+          "ga_date": "September CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Desktop"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)",
+            "GCC"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=568782"
+        },
+        {
+          "id": 568781,
+          "title": "Microsoft Teams: Proximity join support for attendees in Teams events from Teams Rooms on Windows and Android",
+          "description": "Attendees can take advantage of proximity join with Teams Rooms on Windows and/or Android for fast, effortless connection to nearby room systems during Teams events, such as town halls, webinars, and structured meetings.",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-08-04T22:45:42",
+          "modified": "2026-08-04T22:45:42",
+          "ga_date": "September CY2026",
+          "preview_date": "September CY2026",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Android",
+            "Desktop",
+            "iOS",
+            "Teams and Surface Devices"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=568781"
+        },
+        {
+          "id": 568763,
+          "title": "Microsoft Viva: Viva Engage: New left navigation controls — collapse, resize, increased favorites cap, and reorder favorites capabilities",
+          "description": "We're introducing a set of left-navigation improvements in Viva Engage on the web that give people more control over their navigation pane. These are additive, user-driven changes — users can collapse the left nav, resize its width, favorite up to 50 communities, and drag to reorder their favorited communities. None of these changes alter which destinations appear in the navigation. These enhancements are applicable to all surfaces that have the Engage left navigation menu - Web, and the Engage ",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-08-04T22:45:42",
+          "modified": "2026-08-04T22:45:42",
+          "ga_date": "August CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Viva"
+          ],
+          "platforms": [
+            "Desktop",
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=568763"
+        },
+        {
+          "id": 568760,
+          "title": "Outlook: Filter Messages by Events",
+          "description": "You can now filter your messages for calendar invitations. Simply go to the filter and select Events from the drop down.",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-08-04T22:45:42",
+          "modified": "2026-08-04T22:45:42",
+          "ga_date": "August CY2026",
+          "preview_date": "",
+          "products": [
+            "Outlook"
+          ],
+          "platforms": [
+            "Android",
+            "iOS"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)",
+            "GCC",
+            "GCC High"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=568760"
+        },
+        {
+          "id": 568079,
+          "title": "Outlook: Insert Signature Image from OneDrive",
+          "description": "Users can now insert images into their email signature directly from OneDrive, in addition to the device photo library.",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-08-04T22:45:42",
+          "modified": "2026-08-04T22:45:42",
+          "ga_date": "August CY2026",
+          "preview_date": "",
+          "products": [
+            "Outlook"
+          ],
+          "platforms": [
+            "Android",
+            "iOS"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=568079"
+        },
+        {
+          "id": 566856,
+          "title": "Microsoft Teams: Additional health signals available for Teams Rooms on Android on Pro Management Portal",
+          "description": "Expanded Pro Management Portal (PMP) health monitoring for Teams Rooms on Android by surfacing device health signals including storage health, Teams meeting app, calendar sync, secondary display health and network. When issues are detected, PMP will automatically generate actionable alerts and support ticket creation workflows, enabling IT administrators to proactively identify and triage room health issues before they impact meeting experiences.",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-08-04T22:45:42",
+          "modified": "2026-08-04T22:45:42",
+          "ga_date": "October CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Android"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=566856"
+        },
+        {
+          "id": 562996,
+          "title": "Microsoft Copilot (Microsoft 365): Copilot memory in Researcher",
+          "description": "Copilot memory within Researcher brings forward relevant context from your past interactions—helping ground insights, personalize outputs, and reduce repetitive setup as you explore complex topics.",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-08-04T22:45:42",
+          "modified": "2026-08-04T22:45:42",
+          "ga_date": "November CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Copilot (Microsoft 365)"
+          ],
+          "platforms": [
+            "Desktop",
+            "Mac",
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=562996"
+        },
+        {
+          "id": 566858,
+          "title": "Microsoft Teams: Clearer text highlighting in dark mode",
+          "description": "We've improved how highlighted text looks when composing messages in dark mode, giving you a more consistent editing experience.",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-08-03T22:55:03",
+          "modified": "2026-08-04T22:45:42",
+          "ga_date": "September CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Desktop",
+            "Mac"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Targeted Release"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=566858"
+        },
+        {
+          "id": 565215,
+          "title": "Microsoft Teams: Automatic recording and transcription for Teams Call Queues",
+          "description": "Administrators can enable automatic recording and transcription for Teams call queues. When enabled, calls answered by calling representatives are automatically recorded without manual action. Admins configure the feature per queue via Teams admin center or PowerShell, with controls for recording, transcription and agent access to recordings. Recordings are stored in SharePoint and available through the Queues app call history. Note: Queues app requires a Teams Premium license.",
+          "status": "Rolling out",
+          "change_type": "updated",
+          "created": "2026-06-09T20:46:16",
+          "modified": "2026-08-04T22:45:42",
+          "ga_date": "August CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Desktop",
+            "Mac"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Targeted Release"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)",
+            "GCC"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=565215"
+        },
+        {
+          "id": 561035,
+          "title": "Microsoft Edge: Allow M365 authentication popups in work profiles",
+          "description": "When users are signed in with a work account, some Microsoft 365 sites (for example, microsoft.com, cloud.microsoft, and microsoft365.com) may open authentication pop-up windows to Microsoft sign-in endpoints such as login.microsoftonline.com, login.live.com, or login.microsoft.com. These pop-ups are required to complete sign-in. Microsoft Edge now allows authentication pop-up windows from Microsoft first party services by default. Admins can control availability to this feature using the M365Au",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-05-12T23:00:33",
+          "modified": "2026-08-04T22:45:42",
+          "ga_date": "September CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Edge"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=561035"
+        },
+        {
+          "id": 561652,
+          "title": "Microsoft Edge: v.151 - Passkey Sync for Enterprise Users",
+          "description": "Microsoft Edge is introducing support for passkey synchronization for enterprise users, enabling secure, passwordless authentication across devices. Passkeys created in Edge can now be synced seamlessly, improving sign-in experience while maintaining strong security standards.",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2026-05-07T23:15:02",
+          "modified": "2026-08-04T22:45:42",
+          "ga_date": "July CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Edge"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=561652"
+        },
+        {
+          "id": 561208,
+          "title": "Microsoft Purview: Data Lifecycle Management – Archive SharePoint files under retention",
+          "description": "We are introducing file archiving support in SharePoint Online, utilizing this feature administrators can seamlessly include archiving actions within their existing data retention policies. This means that, in addition to keeping or deleting data, admins can now leverage Purview DLM to archive files according to organizational requirements, ensuring comprehensive governance across all stages of the content lifecycle in SharePoint Online. Retention based file archiving moves inactive content to l",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-05-05T23:00:02",
+          "modified": "2026-08-04T22:45:42",
+          "ga_date": "September CY2026",
+          "preview_date": "August CY2026",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=561208"
+        },
+        {
+          "id": 561488,
+          "title": "Microsoft Copilot (Microsoft 365): Simplified design for the Microsoft 365 Copilot app",
+          "description": "A refreshed design for the Microsoft 365 Copilot web and desktop app simplifies the user experience to drive engagement with Copilot. This includes updates to the chat home screen, chat response layout, and navigation pane.",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2026-05-04T23:00:45",
+          "modified": "2026-08-04T22:45:42",
+          "ga_date": "June CY2026",
+          "preview_date": "May CY2026",
+          "products": [
+            "Microsoft Copilot (Microsoft 365)"
+          ],
+          "platforms": [
+            "Desktop",
+            "Mac",
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=561488"
+        },
+        {
+          "id": 561032,
+          "title": "Microsoft Purview: Data Loss Prevention – New Guided Experience to Diagnose and Resolve DLP Issues",
+          "description": "We’re introducing a new guided diagnostics experience to help users understand why their DLP policies may not be behaving as expected. This experience provides a clear summary of why a DLP action was taken on a document, including which policies were triggered, the order of evaluation, and detailed insights into which conditions evaluated as true or false.\nFor Microsoft 365 E5 customers, the experience also includes Copilot-powered insights and tailored recommendations to accelerate troubleshoot",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-04-24T22:00:04",
+          "modified": "2026-08-04T22:45:42",
+          "ga_date": "October CY2026",
+          "preview_date": "September CY2026",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=561032"
+        },
+        {
+          "id": 559989,
+          "title": "Outlook: Copilot now provides concise summaries with Outlook search results",
+          "description": "Get answers to queries quickly with Copilot's concise AI summaries at the top of Outlook search results. Users can dig deeper by opening Copilot chat directly from the Copilot summary card.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-04-17T22:15:50",
+          "modified": "2026-08-04T22:45:42",
+          "ga_date": "July CY2026",
+          "preview_date": "",
+          "products": [
+            "Outlook",
+            "Microsoft Copilot (Microsoft 365)"
+          ],
+          "platforms": [
+            "Android",
+            "iOS",
+            "Mac",
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=559989"
+        },
+        {
+          "id": 558853,
+          "title": "Microsoft Teams: Entra passwordless resource account support for Teams Rooms on Windows and Android devices",
+          "description": "Teams rooms on Windows and Android, Panels and Teams Phones now supports Entra Resource Accounts for secure, passwordless sign-in that separates device and user identities. IT admins can migrate to Entra accounts easily with the migration wizard, and track progress using a dashboard in the Pro Management portal.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-04-08T23:00:03",
+          "modified": "2026-08-04T22:45:42",
+          "ga_date": "August CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Android",
+            "Teams and Surface Devices"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)",
+            "GCC",
+            "GCC High"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=558853"
+        },
+        {
+          "id": 558538,
+          "title": "Microsoft Copilot (Microsoft 365): Critique in Researcher",
+          "description": "Responses are generated by GPT and Claude working together, with GPT drafting an initial response and Claude reviewing for increased response accuracy, completeness, and citation integrity.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-03-30T16:15:57",
+          "modified": "2026-08-04T22:45:42",
+          "ga_date": "December CY2026",
+          "preview_date": "March CY2026",
+          "products": [
+            "Microsoft Copilot (Microsoft 365)"
+          ],
+          "platforms": [
+            "Desktop",
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=558538"
+        },
+        {
+          "id": 553213,
+          "title": "Microsoft Copilot (Microsoft 365): Researcher Council",
+          "description": "Council in Researcher runs multiple leading AI models from different providers in parallel in one place, so you can quickly compare outputs and see consensus vs. conflict) to make high-stakes decisions with greater confidence—without switching tools.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-03-30T16:15:57",
+          "modified": "2026-08-04T22:45:42",
+          "ga_date": "December CY2026",
+          "preview_date": "March CY2026",
+          "products": [
+            "Microsoft Copilot (Microsoft 365)"
+          ],
+          "platforms": [
+            "Desktop",
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview",
+            "Targeted Release"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=553213"
+        },
+        {
+          "id": 557558,
+          "title": "Microsoft Defender for Office 365: Localized Default Mark and Notify Email Template",
+          "description": "Enabling localization for the default Mark and Notify email template used in admin review and automation flows for user reported messages. This ensures end users receive review outcome notifications in their preferred language, improving understanding, trust, and participation in email reporting within Microsoft Defender for Office 365.",
+          "status": "Rolling out",
+          "change_type": "updated",
+          "created": "2026-02-25T00:15:23",
+          "modified": "2026-08-04T22:45:42",
+          "ga_date": "June CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Defender for Office 365"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)",
+            "GCC",
+            "GCC High",
+            "DoD"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=557558"
+        },
+        {
+          "id": 547834,
+          "title": "Microsoft Teams: Events in Meet app in Teams",
+          "description": "Users can now use the Teams Meet app to discover events across their organization, track what important events are upcoming, and plan and organize their own professional events.",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2026-02-04T19:00:58",
+          "modified": "2026-08-04T22:45:42",
+          "ga_date": "February CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Desktop",
+            "Mac",
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Targeted Release"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=547834"
+        },
+        {
+          "id": 513278,
+          "title": "Planner: Available in Outlook",
+          "description": "Planner in Outlook brings all your tasks, plans, and the new Planner Agent directly into your inbox, so you can manage work where you already work.",
+          "status": "Rolling out",
+          "change_type": "updated",
+          "created": "2025-11-18T17:15:10",
+          "modified": "2026-08-04T22:45:42",
+          "ga_date": "August CY2026",
+          "preview_date": "",
+          "products": [
+            "Planner"
+          ],
+          "platforms": [
+            "Desktop",
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=513278"
+        },
+        {
+          "id": 522616,
+          "title": "Microsoft Copilot (Microsoft 365): Ask Copilot about highlighted response content",
+          "description": "Highlight a sentence, paragraph, or table from the response and ask Copilot to work only on that selection. Get focused explanations, concise summaries, quick translations, or next steps for the exact passage you’re reviewing—no more over broad answers. Your selection is previewed in the prompt so you can edit before you send. It’s a faster, more controlled way to get help right where you’re working.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2025-10-31T22:00:11",
+          "modified": "2026-08-04T22:45:42",
+          "ga_date": "August CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Copilot (Microsoft 365)"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=522616"
+        },
+        {
           "id": 568366,
           "title": "Microsoft Edge: Automatically unsubscribe users from notifications sent by scam and malicious sites",
           "description": "Microsoft Edge now helps further protect users from malicious web notifications. When a notification leads users to a site that Microsoft Defender SmartScreen blocks as a scam, phishing, or malware page, Edge automatically stops that source from sending users further notifications and lets users know. Users can review and restore any of these sites anytime under edge://settings/privacy/sitePermissions/allPermissions/notifications.",
@@ -739,31 +1385,6 @@
             "GCC"
           ],
           "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567320"
-        },
-        {
-          "id": 566858,
-          "title": "Microsoft Teams: Clearer text highlighting in dark mode",
-          "description": "We've improved how highlighted text looks when composing messages in dark mode, giving you a more consistent editing experience.",
-          "status": "In development",
-          "change_type": "new",
-          "created": "2026-08-03T22:55:03",
-          "modified": "2026-08-03T22:55:03",
-          "ga_date": "September CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Teams"
-          ],
-          "platforms": [
-            "Desktop",
-            "Mac"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=566858"
         },
         {
           "id": 567465,
@@ -1069,31 +1690,6 @@
           "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=555852"
         },
         {
-          "id": 513278,
-          "title": "Planner: Available in Outlook",
-          "description": "Planner in Outlook brings all your tasks, plans, and the new Planner Agent directly into your inbox, so you can manage work where you already work.",
-          "status": "In development",
-          "change_type": "updated",
-          "created": "2025-11-18T17:15:10",
-          "modified": "2026-08-03T22:55:03",
-          "ga_date": "July CY2026",
-          "preview_date": "",
-          "products": [
-            "Planner"
-          ],
-          "platforms": [
-            "Desktop",
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=513278"
-        },
-        {
           "id": 495002,
           "title": "Microsoft Teams: Slash commands for apps ",
           "description": "You can now interact with your favorite apps directly from Teams chat and channels compose box using slash commands.  Type / and start interacting with Apps and Agents, invoke workflows and more.",
@@ -1120,7 +1716,7 @@
           "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=495002"
         }
       ],
-      "total_updates": 18,
+      "total_updates": 40,
       "error": null
     }
   },
