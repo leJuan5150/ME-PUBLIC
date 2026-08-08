@@ -14,6 +14,8 @@ YOUTUBE_SOURCES: dict[str, list[dict]] = {
         {"name": "Ozark Overland Adventure", "handle": "@OzarkOverlandAdventures",  "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg"},
         {"name": "TrailRecon",               "handle": "@TrailRecon",               "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw"},
         {"name": "Epic Adventure Outfitters","handle": "@EpicAdventureOutfitters",  "channel_id": "UCjtrDgtexm4QwKkxI8frtFA"},
+        {"name": "Lil and Jake",             "handle": "@lilandjake",               "channel_id": "UCI5nuVPmxCt4VwSprm-gpAg"},
+        {"name": "Craving.Outdoors",         "handle": "@Craving.Outdoors",         "channel_id": "UCzHx4YhJTwZ_HG_D-Q1lpSA"},
     ],
     "power_platform": [
         {"name": "Matthew Devaney", "handle": "@MatthewDevaney", "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w"},
@@ -21,10 +23,16 @@ YOUTUBE_SOURCES: dict[str, list[dict]] = {
         {"name": "Lisa Crosbie",    "handle": "@LisaCrosbie",    "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg"},
         {"name": "Reza Dorrani",    "handle": "@RezaDorrani",    "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw"},
         {"name": "April Dunnam",    "handle": "@AprilDunnam",    "channel_id": "UCz_x76EBX5UXsV27drGNh6w"},
+        {"name": "DamoBird365",     "handle": "@DamoBird365",    "channel_id": "UC-NCKrEw6CM8fidaIk-yrUQ"},
+        {"name": "Sean Astrakhan",  "handle": "@Untethered365",  "channel_id": "UCEYgG-Fw0ghmP1Vnw_M3oGQ"},
+        {"name": "Bright Ideas Agency", "handle": "@brightideasagency", "channel_id": "UCnv9vvr7tQVQ07iSe4rZgWQ"},
+        {"name": "Daniel Anderson", "handle": "@DanielAndersonAU", "channel_id": "UCsYYpxfrYrZaKwFPGM7shtQ"},
+        {"name": "Power Squared",   "handle": "@PowerSquared",   "channel_id": "UCoDxmKfgtkGeXezviLXUGIw"},
     ],
     "fabric_powerbi": [
         {"name": "Guy in a Cube",    "handle": "@GuyInACube",    "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w"},
-        {"name": "Dewain Robinson",  "handle": "@DewainRobinson","channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug"},
+        {"name": "RADACAD",          "handle": "@RADACAD",       "channel_id": "UCsOfIwAXj1fT6LDqEDEAb4g"},
+        {"name": "How to Power BI",  "handle": "@HowtoPowerBI",  "channel_id": "UCcfngi7_ASuo5jdWX0bNauQ"},
     ],
     "ai": [
         {"name": "NateBJones",    "handle": "@NateBJones",    "channel_id": "UC0C-17n9iuUQPylguM1d-lQ"},
@@ -34,6 +42,8 @@ YOUTUBE_SOURCES: dict[str, list[dict]] = {
         {"name": "Paul J Lipsky", "handle": "@PaulJLipsky",   "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw"},
         {"name": "Simon Scrapes",   "handle": "@SimonScrapes",    "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA"},
         {"name": "AI Daily Brief", "handle": "@AIDailyBrief",   "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA"},
+        {"name": "John Savill's Technical Training", "handle": "@NTFAQGuy", "channel_id": "UCpIn7ox7j7bH_OFj7tYouOQ"},
+        {"name": "Dewain Robinson", "handle": "@DewainRobinson", "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug"},
     ],
 }
 
