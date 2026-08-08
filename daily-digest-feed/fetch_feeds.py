@@ -40,6 +40,9 @@ USER_AGENT = (
     "Chrome/124.0.0.0 Safari/537.36"
 )
 OUTPUT_PATH = Path(__file__).parent / "feeds.json"
+# Dated copies (feeds-YYYY-MM-DD.json) exist so the URL *path* changes daily —
+# defeats path-keyed HTTP caches (e.g. Cowork's fetch proxy) that ignore query strings.
+DATED_RETENTION_DAYS = 7
 
 logging.basicConfig(
     level=logging.INFO,
@@ -741,10 +744,24 @@ def main() -> int:
     rm = feed["sources"].get("m365_roadmap", {})
     total_items += len(rm.get("items", []))
 
-    OUTPUT_PATH.write_text(
-        json.dumps(feed, indent=2, ensure_ascii=False) + "\n",
-        encoding="utf-8",
-    )
+    payload = json.dumps(feed, indent=2, ensure_ascii=False) + "\n"
+    OUTPUT_PATH.write_text(payload, encoding="utf-8")
+
+    # Dated copy for cache-proof fetching, plus pruning of expired copies.
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    dated_path = OUTPUT_PATH.parent / f"feeds-{today}.json"
+    dated_path.write_text(payload, encoding="utf-8")
+    prune_cutoff = datetime.now(timezone.utc) - timedelta(days=DATED_RETENTION_DAYS)
+    for old_file in sorted(OUTPUT_PATH.parent.glob("feeds-????-??-??.json")):
+        try:
+            file_date = datetime.strptime(old_file.stem, "feeds-%Y-%m-%d").replace(
+                tzinfo=timezone.utc
+            )
+        except ValueError:
+            continue
+        if file_date < prune_cutoff:
+            old_file.unlink()
+            log.info("pruned expired dated copy: %s", old_file.name)
 
     elapsed = time.time() - start
     log.info(
