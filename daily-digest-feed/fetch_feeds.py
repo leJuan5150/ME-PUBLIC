@@ -751,6 +751,21 @@ def main() -> int:
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     dated_path = OUTPUT_PATH.parent / f"feeds-{today}.json"
     dated_path.write_text(payload, encoding="utf-8")
+
+    # Pointer file at a FIXED url. Cowork's fetch tool only retrieves URLs that
+    # appear verbatim in the conversation, so the agent fetches this stable URL
+    # first; its content surfaces today's dated URL, making that fetchable too.
+    pointer = {
+        "url": (
+            "https://raw.githubusercontent.com/leJuan5150/ME-PUBLIC/main/"
+            f"daily-digest-feed/feeds-{today}.json"
+        ),
+        "date": today,
+        "generated_at": feed["generated_at"],
+    }
+    (OUTPUT_PATH.parent / "latest.json").write_text(
+        json.dumps(pointer, indent=2) + "\n", encoding="utf-8"
+    )
     prune_cutoff = datetime.now(timezone.utc) - timedelta(days=DATED_RETENTION_DAYS)
     for old_file in sorted(OUTPUT_PATH.parent.glob("feeds-????-??-??.json")):
         try:
