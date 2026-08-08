@@ -1,9 +1,37 @@
 {
-  "generated_at": "2026-08-08T20:35:09.608046Z",
+  "generated_at": "2026-08-08T20:35:52.581719Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
+        {
+          "creator": "TrailRecon",
+          "handle": "@TrailRecon",
+          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
+          "videos": [
+            {
+              "title": "There's Still Gold in These Mountains, If You Can Get There",
+              "url": "https://www.youtube.com/watch?v=yXWIu_h6hG4",
+              "published": "2026-08-07T22:00:27Z",
+              "description": "The gold rush trail ends at the top of British Columbia — but it made us work for every mile.\n\nPart two of our BC adventure picks up where we left off: waking up beside Quesnel Forks, a gold rush ghost town older than Canada itself. From there, my good friend Shaun from The Story Till Now and I follow a 90-mile backroad through the mountains to Barkerville — the town built by Billy Barker's 1862 gold strike, now the largest living-history museum in western North America. Along the way we try our"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Life Style Overland",
+          "handle": "@LifeStyleOverland",
+          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "LetsGetLost",
+          "handle": "@LetsGetLost",
+          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
+          "videos": [],
+          "error": null
+        },
         {
           "creator": "Ozark Overland Adventure",
           "handle": "@OzarkOverlandAdventures",
@@ -25,37 +53,10 @@
           "error": null
         },
         {
-          "creator": "Epic Adventure Outfitters",
-          "handle": "@EpicAdventureOutfitters",
-          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
-          "videos": [
-            {
-              "title": "Don't Over Inflate Your Off Road Tires Factory PSI Is For Factory Tires #tires #offroad #jeep",
-              "url": "https://www.youtube.com/shorts/AHxlvziCdZI",
-              "published": "2026-08-08T19:00:12Z",
-              "description": ""
-            },
-            {
-              "title": "Unless You're Snow Wheeling You Don't Really Need To Go Below 10 PSI #offroad #jeep",
-              "url": "https://www.youtube.com/shorts/0LiTAPs0A10",
-              "published": "2026-08-07T19:00:14Z",
-              "description": ""
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "TrailRecon",
-          "handle": "@TrailRecon",
-          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
-          "videos": [
-            {
-              "title": "There's Still Gold in These Mountains, If You Can Get There",
-              "url": "https://www.youtube.com/watch?v=yXWIu_h6hG4",
-              "published": "2026-08-07T22:00:27Z",
-              "description": "The gold rush trail ends at the top of British Columbia — but it made us work for every mile.\n\nPart two of our BC adventure picks up where we left off: waking up beside Quesnel Forks, a gold rush ghost town older than Canada itself. From there, my good friend Shaun from The Story Till Now and I follow a 90-mile backroad through the mountains to Barkerville — the town built by Billy Barker's 1862 gold strike, now the largest living-history museum in western North America. Along the way we try our"
-            }
-          ],
+          "creator": "This Story Till Now",
+          "handle": "@ThisStoryTillNow",
+          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "videos": [],
           "error": null
         },
         {
@@ -100,6 +101,26 @@
           "error": null
         },
         {
+          "creator": "Epic Adventure Outfitters",
+          "handle": "@EpicAdventureOutfitters",
+          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
+          "videos": [
+            {
+              "title": "Don't Over Inflate Your Off Road Tires Factory PSI Is For Factory Tires #tires #offroad #jeep",
+              "url": "https://www.youtube.com/shorts/AHxlvziCdZI",
+              "published": "2026-08-08T19:00:12Z",
+              "description": ""
+            },
+            {
+              "title": "Unless You're Snow Wheeling You Don't Really Need To Go Below 10 PSI #offroad #jeep",
+              "url": "https://www.youtube.com/shorts/0LiTAPs0A10",
+              "published": "2026-08-07T19:00:14Z",
+              "description": ""
+            }
+          ],
+          "error": null
+        },
+        {
           "creator": "Lil and Jake",
           "handle": "@lilandjake",
           "channel_id": "UCI5nuVPmxCt4VwSprm-gpAg",
@@ -112,44 +133,9 @@
             }
           ],
           "error": null
-        },
-        {
-          "creator": "LetsGetLost",
-          "handle": "@LetsGetLost",
-          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Life Style Overland",
-          "handle": "@LifeStyleOverland",
-          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "This Story Till Now",
-          "handle": "@ThisStoryTillNow",
-          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
-          "videos": [],
-          "error": null
         }
       ],
       "power_platform": [
-        {
-          "creator": "Shane Young",
-          "handle": "@ShanesCows",
-          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Lisa Crosbie",
-          "handle": "@LisaCrosbie",
-          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
-          "videos": [],
-          "error": null
-        },
         {
           "creator": "Matthew Devaney",
           "handle": "@MatthewDevaney",
@@ -158,9 +144,30 @@
           "error": null
         },
         {
+          "creator": "Bright Ideas Agency",
+          "handle": "@brightideasagency",
+          "channel_id": "UCnv9vvr7tQVQ07iSe4rZgWQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "April Dunnam",
+          "handle": "@AprilDunnam",
+          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
+          "videos": [],
+          "error": null
+        },
+        {
           "creator": "Reza Dorrani",
           "handle": "@RezaDorrani",
           "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Shane Young",
+          "handle": "@ShanesCows",
+          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
           "videos": [],
           "error": null
         },
@@ -185,13 +192,6 @@
           "error": null
         },
         {
-          "creator": "Bright Ideas Agency",
-          "handle": "@brightideasagency",
-          "channel_id": "UCnv9vvr7tQVQ07iSe4rZgWQ",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "Daniel Anderson",
           "handle": "@DanielAndersonAU",
           "channel_id": "UCsYYpxfrYrZaKwFPGM7shtQ",
@@ -203,6 +203,13 @@
               "description": "Copilot in SharePoint just closed the loop this August. Three features shipped together and they stack — live-linked HTML dashboards built off Microsoft Lists, page buttons that launch a Copilot prompt in one click, and a polished skill creation flow that turns the good prompt into a site Skill for your whole team.\n\nIn this video I walk through all three features with a working demo. An executive dashboard built from a work tracker List with 132 items, then I add 3 more items to the List, refres"
             }
           ],
+          "error": null
+        },
+        {
+          "creator": "Lisa Crosbie",
+          "handle": "@LisaCrosbie",
+          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
+          "videos": [],
           "error": null
         },
         {
@@ -225,36 +232,9 @@
           "channel_id": "UCoDxmKfgtkGeXezviLXUGIw",
           "videos": [],
           "error": null
-        },
-        {
-          "creator": "April Dunnam",
-          "handle": "@AprilDunnam",
-          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
-          "videos": [],
-          "error": null
         }
       ],
       "fabric_powerbi": [
-        {
-          "creator": "RADACAD",
-          "handle": "@RADACAD",
-          "channel_id": "UCsOfIwAXj1fT6LDqEDEAb4g",
-          "videos": [
-            {
-              "title": "PBIP PBIR & Agentic AI Development in Power BI | Fabric Insider Ep. 14",
-              "url": "https://www.youtube.com/watch?v=-YH-Yue_pPY",
-              "published": "2026-08-07T04:47:47Z",
-              "description": "PBIP and PBIR are becoming the default project format for Power BI. And they are the foundation for something much bigger — agentic AI development directly inside Power BI.\n\nIn this episode of Fabric Insider, I sit down with Rui Romano — from the Power BI team at Microsoft, working on agentic development and the PBIP/PBIR project format — for a deep dive into what these formats actually are, why they matter, and how they are becoming the backbone of AI-driven Power BI development.\n\nIf you have h"
-            },
-            {
-              "title": "#shorts Power BI Multilingual Report Demo — One Model, Three Languages, Live",
-              "url": "https://www.youtube.com/shorts/5Y5a0-7mf_I",
-              "published": "2026-08-07T01:56:01Z",
-              "description": "One semantic model. One report. Three languages — switching automatically based on who is viewing it.\n\nIn this short demo, I show exactly how a Power BI multilingual report works — the data model, the calculated column expression, and the report switching live between English, Spanish, and French.\n\nHere is what you will see:\n\n✅ The data model — separate translated columns for each language\n✅ A card visual showing the current user's culture setting\n✅ The DAX expression — USERCULTURE() as a variab"
-            }
-          ],
-          "error": null
-        },
         {
           "creator": "Guy in a Cube",
           "handle": "@GuyInACube",
@@ -279,6 +259,26 @@
               "url": "https://www.youtube.com/shorts/N-4aErCrif0",
               "published": "2026-08-07T13:18:01Z",
               "description": "Join me if you want to build reports like this \n\n👉 Join my live 4-Week Power BI Design Transformation Program: https://datatraining.io/powerbidesigntransformation\n\n\n--------------------------------\n📊 TRAININGS 📊 \n---------------------------------\n➡️ Power BI Design 4-Week Transformation Program in the AI Age\nhttps://datatraining.io/powerbidesigntransformation\n➡️ NEW! User-Defined Functions (UDF) Training \nhttps://datatraining.io/powerbi-udf-training\n➡️ Power BI Data Analyst + PL-300 Study Resour"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "RADACAD",
+          "handle": "@RADACAD",
+          "channel_id": "UCsOfIwAXj1fT6LDqEDEAb4g",
+          "videos": [
+            {
+              "title": "PBIP PBIR & Agentic AI Development in Power BI | Fabric Insider Ep. 14",
+              "url": "https://www.youtube.com/watch?v=-YH-Yue_pPY",
+              "published": "2026-08-07T04:47:47Z",
+              "description": "PBIP and PBIR are becoming the default project format for Power BI. And they are the foundation for something much bigger — agentic AI development directly inside Power BI.\n\nIn this episode of Fabric Insider, I sit down with Rui Romano — from the Power BI team at Microsoft, working on agentic development and the PBIP/PBIR project format — for a deep dive into what these formats actually are, why they matter, and how they are becoming the backbone of AI-driven Power BI development.\n\nIf you have h"
+            },
+            {
+              "title": "#shorts Power BI Multilingual Report Demo — One Model, Three Languages, Live",
+              "url": "https://www.youtube.com/shorts/5Y5a0-7mf_I",
+              "published": "2026-08-07T01:56:01Z",
+              "description": "One semantic model. One report. Three languages — switching automatically based on who is viewing it.\n\nIn this short demo, I show exactly how a Power BI multilingual report works — the data model, the calculated column expression, and the report switching live between English, Spanish, and French.\n\nHere is what you will see:\n\n✅ The data model — separate translated columns for each language\n✅ A card visual showing the current user's culture setting\n✅ The DAX expression — USERCULTURE() as a variab"
             }
           ],
           "error": null
@@ -320,27 +320,6 @@
           "error": null
         },
         {
-          "creator": "Nate Herk",
-          "handle": "@NateHerk",
-          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "NateBJones",
-          "handle": "@NateBJones",
-          "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
-          "videos": [
-            {
-              "title": "Your Chatbot Hallucinated in 2024. Your Agent Lies in 2026.",
-              "url": "https://www.youtube.com/watch?v=2wVvdX0ZxVw",
-              "published": "2026-08-07T14:21:37Z",
-              "description": "AI agents are reporting tasks complete when the work never happened. Here are the three checks I run before I trust an agent's done, and why this failure is different from the hallucinations people got used to in 2024.\n\nFull post w/ Mission Fit Skill:\nhttps://natesnewsletter.substack.com/p/ai-agent-false-success?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: h"
-            }
-          ],
-          "error": null
-        },
-        {
           "creator": "AI Daily Brief",
           "handle": "@AIDailyBrief",
           "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
@@ -369,20 +348,6 @@
           "error": null
         },
         {
-          "creator": "Dewain Robinson",
-          "handle": "@DewainRobinson",
-          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
-          "videos": [
-            {
-              "title": "AI Agents: Identity & Control",
-              "url": "https://www.youtube.com/shorts/PfKT0g7uzps",
-              "published": "2026-08-07T05:00:31Z",
-              "description": "Are your agents out of control? 🤔\n\nManaging agents can be daunting! Discover how to empower them while keeping them in check. It all starts with a clear identity. When agents act like you, it’s powerful but risky. Learn how to balance control and success!\n\nFull conversation on the channel.\n\n#AIManagement\n#EnterpriseArchitecture\n#TechInsights"
-            }
-          ],
-          "error": null
-        },
-        {
           "creator": "Paul J Lipsky",
           "handle": "@PaulJLipsky",
           "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
@@ -402,94 +367,45 @@
           "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
           "videos": [],
           "error": null
+        },
+        {
+          "creator": "NateBJones",
+          "handle": "@NateBJones",
+          "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
+          "videos": [
+            {
+              "title": "Your Chatbot Hallucinated in 2024. Your Agent Lies in 2026.",
+              "url": "https://www.youtube.com/watch?v=2wVvdX0ZxVw",
+              "published": "2026-08-07T14:21:37Z",
+              "description": "AI agents are reporting tasks complete when the work never happened. Here are the three checks I run before I trust an agent's done, and why this failure is different from the hallucinations people got used to in 2024.\n\nFull post w/ Mission Fit Skill:\nhttps://natesnewsletter.substack.com/p/ai-agent-false-success?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: h"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Nate Herk",
+          "handle": "@NateHerk",
+          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Dewain Robinson",
+          "handle": "@DewainRobinson",
+          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
+          "videos": [
+            {
+              "title": "AI Agents: Identity & Control",
+              "url": "https://www.youtube.com/shorts/PfKT0g7uzps",
+              "published": "2026-08-07T05:00:31Z",
+              "description": "Are your agents out of control? 🤔\n\nManaging agents can be daunting! Discover how to empower them while keeping them in check. It all starts with a clear identity. When agents act like you, it’s powerful but risky. Learn how to balance control and success!\n\nFull conversation on the channel.\n\n#AIManagement\n#EnterpriseArchitecture\n#TechInsights"
+            }
+          ],
+          "error": null
         }
       ]
     },
     "newsletters": {
-      "power_platform_dev_weekly": {
-        "name": "Power Platform Dev Weekly",
-        "issue_number": 297,
-        "issue_date": "2026-07-22",
-        "url": "https://www.ppdevweekly.com/p/297",
-        "is_new": false,
-        "sections": {
-          "🥇 Cover Story": [
-            {
-              "title": "MCP with Entra auth + Copilot & Cowork",
-              "url": "https://nullpointer.se/copilot-cowork-oauth.html"
-            }
-          ],
-          "💎 Model Driven Apps & Dataverse": [
-            {
-              "title": "Ditch the Power Apps maker portal!",
-              "url": "https://readyxrm.blog/2026/07/16/ditch-the-power-apps-maker-portal/"
-            },
-            {
-              "title": "Power Platform Admin V2 - Create Rule Set Explained",
-              "url": "https://www.mattcollinsjones.co.uk/single-post/power-platform-admin-v2-create-rule-set-explained"
-            }
-          ],
-          "😎 Power Automate": [
-            {
-              "title": "How To Get A Docusign Signature In Power Automate",
-              "url": "https://www.matthewdevaney.com/how-to-get-a-docusign-signature-in-power-automate/"
-            },
-            {
-              "title": "Power Automate Cloud Flow Failing with 403 Forbidden on a Dataverse Action",
-              "url": "https://linnzawwin.blogspot.com/2026/07/power-automate-cloud-flow-failing-with.html"
-            }
-          ],
-          "🤖 Copilot & Agents": [
-            {
-              "title": "Part 1",
-              "url": "https://holgerimbery.blog/copilot-studio-orchestration-part1"
-            },
-            {
-              "title": "Part 2",
-              "url": "https://holgerimbery.blog/copilot-studio-orchestration-part2"
-            },
-            {
-              "title": "Part 3",
-              "url": "https://holgerimbery.blog/copilot-studio-orchestration-part3"
-            },
-            {
-              "title": "GPT-5.6 Is Missing in Copilot Cowork? Turn On This Admin Setting",
-              "url": "https://flowaltdelete.ca/2026/07/20/enable-gpt-5-6-copilot-cowork-openai-subprocessor/"
-            },
-            {
-              "title": "Navigating the New Copilot Studio: A “Good, Bad, and Nitty-Gritty” First Look",
-              "url": "https://dev.to/balagmadhu/navigating-the-new-copilot-studio-a-good-bad-and-nitty-gritty-first-look-1843"
-            }
-          ],
-          "👍 Everything else in Power Platform": [
-            {
-              "title": "Retrieve All One-to-Many Relationships and Cascade Delete Behavior for a Dataverse Table Using C#",
-              "url": "https://nishantrana.me/2026/07/07/retrieve-all-one-to-many-relationships-and-cascade-delete-behavior-for-a-dataverse-table-using-c/"
-            }
-          ],
-          "🎮 Other Interesting Articles": [
-            {
-              "title": "The All New Copilot Studio",
-              "url": "https://dev.to/wyattdave/the-all-new-copilot-studio-734"
-            },
-            {
-              "title": "Automation vs. Agentic AI: choosing the right approach",
-              "url": "https://netwiseglobal.com/blog/automation-vs-agentic-ai-choosing-the-right-approach/"
-            }
-          ],
-          "📺 Videos": [
-            {
-              "title": "Stop Creating AI Slop & Dribble! Learn the Right Way to Use Copilot",
-              "url": "https://www.youtube.com/watch?v=aMyYa_D-3Vs"
-            },
-            {
-              "title": "Power Platform ToolBox - Release v1.2.3",
-              "url": "https://www.youtube.com/watch?v=IxeOrQ-Ra9Y"
-            }
-          ]
-        },
-        "error": null
-      },
       "power_platform_weekly": {
         "name": "Power Platform Weekly",
         "issue_number": 270,
@@ -597,6 +513,90 @@
             {
               "title": "Copilot Studio Integration helps you on your Flows on D365 F&O",
               "url": "https://www.youtube.com/watch?v=1wW3QzsBVJo"
+            }
+          ]
+        },
+        "error": null
+      },
+      "power_platform_dev_weekly": {
+        "name": "Power Platform Dev Weekly",
+        "issue_number": 297,
+        "issue_date": "2026-07-22",
+        "url": "https://www.ppdevweekly.com/p/297",
+        "is_new": false,
+        "sections": {
+          "🥇 Cover Story": [
+            {
+              "title": "MCP with Entra auth + Copilot & Cowork",
+              "url": "https://nullpointer.se/copilot-cowork-oauth.html"
+            }
+          ],
+          "💎 Model Driven Apps & Dataverse": [
+            {
+              "title": "Ditch the Power Apps maker portal!",
+              "url": "https://readyxrm.blog/2026/07/16/ditch-the-power-apps-maker-portal/"
+            },
+            {
+              "title": "Power Platform Admin V2 - Create Rule Set Explained",
+              "url": "https://www.mattcollinsjones.co.uk/single-post/power-platform-admin-v2-create-rule-set-explained"
+            }
+          ],
+          "😎 Power Automate": [
+            {
+              "title": "How To Get A Docusign Signature In Power Automate",
+              "url": "https://www.matthewdevaney.com/how-to-get-a-docusign-signature-in-power-automate/"
+            },
+            {
+              "title": "Power Automate Cloud Flow Failing with 403 Forbidden on a Dataverse Action",
+              "url": "https://linnzawwin.blogspot.com/2026/07/power-automate-cloud-flow-failing-with.html"
+            }
+          ],
+          "🤖 Copilot & Agents": [
+            {
+              "title": "Part 1",
+              "url": "https://holgerimbery.blog/copilot-studio-orchestration-part1"
+            },
+            {
+              "title": "Part 2",
+              "url": "https://holgerimbery.blog/copilot-studio-orchestration-part2"
+            },
+            {
+              "title": "Part 3",
+              "url": "https://holgerimbery.blog/copilot-studio-orchestration-part3"
+            },
+            {
+              "title": "GPT-5.6 Is Missing in Copilot Cowork? Turn On This Admin Setting",
+              "url": "https://flowaltdelete.ca/2026/07/20/enable-gpt-5-6-copilot-cowork-openai-subprocessor/"
+            },
+            {
+              "title": "Navigating the New Copilot Studio: A “Good, Bad, and Nitty-Gritty” First Look",
+              "url": "https://dev.to/balagmadhu/navigating-the-new-copilot-studio-a-good-bad-and-nitty-gritty-first-look-1843"
+            }
+          ],
+          "👍 Everything else in Power Platform": [
+            {
+              "title": "Retrieve All One-to-Many Relationships and Cascade Delete Behavior for a Dataverse Table Using C#",
+              "url": "https://nishantrana.me/2026/07/07/retrieve-all-one-to-many-relationships-and-cascade-delete-behavior-for-a-dataverse-table-using-c/"
+            }
+          ],
+          "🎮 Other Interesting Articles": [
+            {
+              "title": "The All New Copilot Studio",
+              "url": "https://dev.to/wyattdave/the-all-new-copilot-studio-734"
+            },
+            {
+              "title": "Automation vs. Agentic AI: choosing the right approach",
+              "url": "https://netwiseglobal.com/blog/automation-vs-agentic-ai-choosing-the-right-approach/"
+            }
+          ],
+          "📺 Videos": [
+            {
+              "title": "Stop Creating AI Slop & Dribble! Learn the Right Way to Use Copilot",
+              "url": "https://www.youtube.com/watch?v=aMyYa_D-3Vs"
+            },
+            {
+              "title": "Power Platform ToolBox - Release v1.2.3",
+              "url": "https://www.youtube.com/watch?v=IxeOrQ-Ra9Y"
             }
           ]
         },
