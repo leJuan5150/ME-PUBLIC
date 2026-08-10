@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T13:27:00.159947Z",
+  "generated_at": "2026-08-10T16:45:35.360337Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
@@ -24,33 +24,18 @@
           "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
           "videos": [
             {
+              "title": "Toledo Jeep Fest was AWESOME!!",
+              "url": "https://www.youtube.com/watch?v=0tTZL-YET7c",
+              "published": "2026-08-10T15:00:22Z",
+              "description": "Toledo Jeep Fest was AWESOME! So many cool Jeeps, fun things to do, and unique vendors.\n\nCamp & Carry Channel - https://youtube.com/@CampAndCarryOOA\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHNYyUa\nAll Roads Taken - https://www.allroadstaken.com\nMOORE Expo - https://mooreexpo.com \nBig Iron Overland Rally - https://www.bigironov"
+            },
+            {
               "title": "Ozark Overland Adventures is live!",
               "url": "https://www.youtube.com/watch?v=XO0Iqi-sJ0g",
               "published": "2026-08-09T01:33:10Z",
               "description": ""
             }
           ],
-          "error": null
-        },
-        {
-          "creator": "LetsGetLost",
-          "handle": "@LetsGetLost",
-          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Life Style Overland",
-          "handle": "@LifeStyleOverland",
-          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Casey 250",
-          "handle": "@Casey250",
-          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
-          "videos": [],
           "error": null
         },
         {
@@ -81,6 +66,27 @@
           "error": null
         },
         {
+          "creator": "Casey 250",
+          "handle": "@Casey250",
+          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Life Style Overland",
+          "handle": "@LifeStyleOverland",
+          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "LetsGetLost",
+          "handle": "@LetsGetLost",
+          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
+          "videos": [],
+          "error": null
+        },
+        {
           "creator": "Lil and Jake",
           "handle": "@lilandjake",
           "channel_id": "UCI5nuVPmxCt4VwSprm-gpAg",
@@ -96,20 +102,6 @@
         }
       ],
       "power_platform": [
-        {
-          "creator": "Shane Young",
-          "handle": "@ShanesCows",
-          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Lisa Crosbie",
-          "handle": "@LisaCrosbie",
-          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
-          "videos": [],
-          "error": null
-        },
         {
           "creator": "Matthew Devaney",
           "handle": "@MatthewDevaney",
@@ -145,6 +137,27 @@
           "error": null
         },
         {
+          "creator": "Lisa Crosbie",
+          "handle": "@LisaCrosbie",
+          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Shane Young",
+          "handle": "@ShanesCows",
+          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "April Dunnam",
+          "handle": "@AprilDunnam",
+          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
+          "videos": [],
+          "error": null
+        },
+        {
           "creator": "Reza Dorrani",
           "handle": "@RezaDorrani",
           "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
@@ -159,10 +172,31 @@
           "error": null
         },
         {
-          "creator": "April Dunnam",
-          "handle": "@AprilDunnam",
-          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
+          "creator": "Bright Ideas Agency",
+          "handle": "@brightideasagency",
+          "channel_id": "UCnv9vvr7tQVQ07iSe4rZgWQ",
           "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Sean Astrakhan",
+          "handle": "@Untethered365",
+          "channel_id": "UCEYgG-Fw0ghmP1Vnw_M3oGQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Daniel Anderson",
+          "handle": "@DanielAndersonAU",
+          "channel_id": "UCsYYpxfrYrZaKwFPGM7shtQ",
+          "videos": [
+            {
+              "title": "SKILL.md just got personal",
+              "url": "https://www.youtube.com/watch?v=K29WU7aVvpc",
+              "published": "2026-08-09T07:56:33Z",
+              "description": "SKILL.md just got personal. Copilot in SharePoint now lets you create Personal Skills stored in your OneDrive at Documents / Copilot / Agent Assets / Skills. Same SKILL.md file structure as site Skills, personal scope.\n\nIn this walkthrough I build a Personal Skill for contract comparison — takes a base contract and a returned contract, generates a clean HTML change register into a personal Reports folder in OneDrive. Then I run the same skill from Copilot in OneDrive against the same files, no c"
+            }
+          ],
           "error": null
         },
         {
@@ -180,13 +214,6 @@
           "error": null
         },
         {
-          "creator": "Sean Astrakhan",
-          "handle": "@Untethered365",
-          "channel_id": "UCEYgG-Fw0ghmP1Vnw_M3oGQ",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "Andrew Hess",
           "handle": "@andrewhess123",
           "channel_id": "UCH7RJ4zXEjFpfsm-6VZI8vw",
@@ -201,35 +228,21 @@
           "error": null
         },
         {
-          "creator": "Bright Ideas Agency",
-          "handle": "@brightideasagency",
-          "channel_id": "UCnv9vvr7tQVQ07iSe4rZgWQ",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "Power Squared",
           "handle": "@PowerSquared",
           "channel_id": "UCoDxmKfgtkGeXezviLXUGIw",
           "videos": [],
           "error": null
-        },
-        {
-          "creator": "Daniel Anderson",
-          "handle": "@DanielAndersonAU",
-          "channel_id": "UCsYYpxfrYrZaKwFPGM7shtQ",
-          "videos": [
-            {
-              "title": "SKILL.md just got personal",
-              "url": "https://www.youtube.com/watch?v=K29WU7aVvpc",
-              "published": "2026-08-09T07:56:33Z",
-              "description": "SKILL.md just got personal. Copilot in SharePoint now lets you create Personal Skills stored in your OneDrive at Documents / Copilot / Agent Assets / Skills. Same SKILL.md file structure as site Skills, personal scope.\n\nIn this walkthrough I build a Personal Skill for contract comparison — takes a base contract and a returned contract, generates a clean HTML change register into a personal Reports folder in OneDrive. Then I run the same skill from Copilot in OneDrive against the same files, no c"
-            }
-          ],
-          "error": null
         }
       ],
       "fabric_powerbi": [
+        {
+          "creator": "Guy in a Cube",
+          "handle": "@GuyInACube",
+          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
+          "videos": [],
+          "error": null
+        },
         {
           "creator": "RADACAD",
           "handle": "@RADACAD",
@@ -251,10 +264,17 @@
           "error": null
         },
         {
-          "creator": "Guy in a Cube",
-          "handle": "@GuyInACube",
-          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
-          "videos": [],
+          "creator": "Fernan (Solutions Abroad)",
+          "handle": "@SolutionsAbroad",
+          "channel_id": "UCpbgBx--a_H9LL69A1Uz9yg",
+          "videos": [
+            {
+              "title": "JUNE 2026 UPDATE RECAP - Fabric Apps, Skills for Fabric, UDFs AND MORE",
+              "url": "https://www.youtube.com/watch?v=osws1cOVOx8",
+              "published": "2026-08-10T15:00:26Z",
+              "description": "FULL BLOG POST: https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-June-2026-Feature-Summary/ba-p/5193264\n\nCheck out my website, track your learning, create your own learning path, all for free: https://solutionsabroad.co.uk/\n\n🕓 TIMESTAMPS\n00:00 - Intro\n00:42 - Fabric Apps\n02:12 - Copilot Web Modelling\n02:54 - Skills for Fabric\n03:48 - Fabric IQ\n05:14 - Shape Map\n06:02 - Date Picker\n06:31 - Auto Expand Matrix\n06:45 - Auto Fit Scatter\n07:13 - Round Range\n07:31 - Hover State\n"
+            }
+          ],
           "error": null
         },
         {
@@ -279,6 +299,12 @@
           "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
             {
+              "title": "Anthropic's Model Attacked Two Strangers On GitHub. Nobody Asked It To.",
+              "url": "https://www.youtube.com/watch?v=FCRT7M30Wtw",
+              "published": "2026-08-10T14:00:11Z",
+              "description": "OpenAI agents built a hidden message board inside a sealed cybersecurity test, then rebuilt it four days after engineers deleted it. Here's what that means if you're running AI agents at work.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n👉🏻 Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside multi-agent AI systems right now?\n\nThe common story is one brilliant model esc"
+            },
+            {
               "title": "How to use AI on a file you can't upload #AI #privacy #productivity #datasecurity #AItools",
               "url": "https://www.youtube.com/shorts/SVNLC4NLXjA",
               "published": "2026-08-10T03:00:35Z",
@@ -291,6 +317,13 @@
               "description": "Your engineers may be resisting your AI rollout, and another demo will not fix it. Here are the three things I tell leaders about AI adoption: the employment commitment you make in public, the narrow pilot that proves value, and the human work you protect on the other side.\n\nFull briefing:\nhttps://natesnewsletter.substack.com/p/ai-rollout-resistance?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X:"
             }
           ],
+          "error": null
+        },
+        {
+          "creator": "Alex Finn",
+          "handle": "@AlexFinn",
+          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
+          "videos": [],
           "error": null
         },
         {
@@ -309,22 +342,15 @@
               "title": "Every ChatGPT Work Concept Explained for Normal People",
               "url": "https://www.youtube.com/watch?v=5JecLUhLoKM",
               "published": "2026-08-10T13:07:07Z",
-              "description": "Download ChatGPT: https://chatgpt.com/download\n\nChatGPT Work becomes much easier once you understand the 10 concepts behind it. This beginner-friendly guide explains Work vs. Chat, local files, plugins, scheduled tasks, browser and computer use, skills, Sites, local versus cloud tasks, and Voice mode.\n\n🔗 This video is not sponsored. \n\n0:00 Intro\n0:38 Concept 1\n3:05 Desktop App\n3:25 Concept 2\n4:35 Concept 3\n6:05 Concept 4\n7:19 Concept 5\n9:00 Concept 6\n9:51 Concept 7\n11:03 Concept 8\n12:20 Concept "
+              "description": "Download ChatGPT: https://chatgpt.com/download\n\nChatGPT Work becomes much easier once you understand the 10 concepts behind it. This beginner-friendly guide explains Work vs. Chat, local files, plugins, scheduled tasks, browser and computer use, skills, Sites, local versus cloud tasks, and Voice mode.\n\n🔗 This video is not sponsored. \n\n0:00 Intro\n0:38 Work vs Chat\n3:05 Desktop App\n3:25 Local Files\n4:35 Plugins\n6:05 Scheduled Tasks\n7:19 Browser\n9:00 Computer Use\n9:51 Skills\n11:03 Sites\n12:20 Local"
             }
           ],
           "error": null
         },
         {
-          "creator": "Alex Finn",
-          "handle": "@AlexFinn",
-          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Chase AI",
-          "handle": "@ChaseAI",
-          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+          "creator": "AI Daily Brief",
+          "handle": "@AIDailyBrief",
+          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
           "videos": [],
           "error": null
         },
@@ -336,113 +362,36 @@
           "error": null
         },
         {
-          "creator": "Simon Scrapes",
-          "handle": "@SimonScrapes",
-          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "AI Daily Brief",
-          "handle": "@AIDailyBrief",
-          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "John Savill's Technical Training",
           "handle": "@NTFAQGuy",
           "channel_id": "UCpIn7ox7j7bH_OFj7tYouOQ",
+          "videos": [
+            {
+              "title": "Tech in Five - AI & Friends",
+              "url": "https://www.youtube.com/watch?v=lpO-yxlVkiw",
+              "published": "2026-08-10T15:17:16Z",
+              "description": "First in a new series explaining a technology concept in five minutes. The first is explain AI, machine learning, deep learning and generative AI.\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation queue never to be seen so please post questions to other sites like Reddit, Microsoft Community Hu"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Chase AI",
+          "handle": "@ChaseAI",
+          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Simon Scrapes",
+          "handle": "@SimonScrapes",
+          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
           "videos": [],
           "error": null
         }
       ]
     },
     "newsletters": {
-      "power_platform_dev_weekly": {
-        "name": "Power Platform Dev Weekly",
-        "issue_number": 297,
-        "issue_date": "2026-07-22",
-        "url": "https://www.ppdevweekly.com/p/297",
-        "is_new": false,
-        "sections": {
-          "🥇 Cover Story": [
-            {
-              "title": "MCP with Entra auth + Copilot & Cowork",
-              "url": "https://nullpointer.se/copilot-cowork-oauth.html"
-            }
-          ],
-          "💎 Model Driven Apps & Dataverse": [
-            {
-              "title": "Ditch the Power Apps maker portal!",
-              "url": "https://readyxrm.blog/2026/07/16/ditch-the-power-apps-maker-portal/"
-            },
-            {
-              "title": "Power Platform Admin V2 - Create Rule Set Explained",
-              "url": "https://www.mattcollinsjones.co.uk/single-post/power-platform-admin-v2-create-rule-set-explained"
-            }
-          ],
-          "😎 Power Automate": [
-            {
-              "title": "How To Get A Docusign Signature In Power Automate",
-              "url": "https://www.matthewdevaney.com/how-to-get-a-docusign-signature-in-power-automate/"
-            },
-            {
-              "title": "Power Automate Cloud Flow Failing with 403 Forbidden on a Dataverse Action",
-              "url": "https://linnzawwin.blogspot.com/2026/07/power-automate-cloud-flow-failing-with.html"
-            }
-          ],
-          "🤖 Copilot & Agents": [
-            {
-              "title": "Part 1",
-              "url": "https://holgerimbery.blog/copilot-studio-orchestration-part1"
-            },
-            {
-              "title": "Part 2",
-              "url": "https://holgerimbery.blog/copilot-studio-orchestration-part2"
-            },
-            {
-              "title": "Part 3",
-              "url": "https://holgerimbery.blog/copilot-studio-orchestration-part3"
-            },
-            {
-              "title": "GPT-5.6 Is Missing in Copilot Cowork? Turn On This Admin Setting",
-              "url": "https://flowaltdelete.ca/2026/07/20/enable-gpt-5-6-copilot-cowork-openai-subprocessor/"
-            },
-            {
-              "title": "Navigating the New Copilot Studio: A “Good, Bad, and Nitty-Gritty” First Look",
-              "url": "https://dev.to/balagmadhu/navigating-the-new-copilot-studio-a-good-bad-and-nitty-gritty-first-look-1843"
-            }
-          ],
-          "👍 Everything else in Power Platform": [
-            {
-              "title": "Retrieve All One-to-Many Relationships and Cascade Delete Behavior for a Dataverse Table Using C#",
-              "url": "https://nishantrana.me/2026/07/07/retrieve-all-one-to-many-relationships-and-cascade-delete-behavior-for-a-dataverse-table-using-c/"
-            }
-          ],
-          "🎮 Other Interesting Articles": [
-            {
-              "title": "The All New Copilot Studio",
-              "url": "https://dev.to/wyattdave/the-all-new-copilot-studio-734"
-            },
-            {
-              "title": "Automation vs. Agentic AI: choosing the right approach",
-              "url": "https://netwiseglobal.com/blog/automation-vs-agentic-ai-choosing-the-right-approach/"
-            }
-          ],
-          "📺 Videos": [
-            {
-              "title": "Stop Creating AI Slop & Dribble! Learn the Right Way to Use Copilot",
-              "url": "https://www.youtube.com/watch?v=aMyYa_D-3Vs"
-            },
-            {
-              "title": "Power Platform ToolBox - Release v1.2.3",
-              "url": "https://www.youtube.com/watch?v=IxeOrQ-Ra9Y"
-            }
-          ]
-        },
-        "error": null
-      },
       "power_platform_weekly": {
         "name": "Power Platform Weekly",
         "issue_number": 270,
@@ -550,6 +499,90 @@
             {
               "title": "Copilot Studio Integration helps you on your Flows on D365 F&O",
               "url": "https://www.youtube.com/watch?v=1wW3QzsBVJo"
+            }
+          ]
+        },
+        "error": null
+      },
+      "power_platform_dev_weekly": {
+        "name": "Power Platform Dev Weekly",
+        "issue_number": 297,
+        "issue_date": "2026-07-22",
+        "url": "https://www.ppdevweekly.com/p/297",
+        "is_new": false,
+        "sections": {
+          "🥇 Cover Story": [
+            {
+              "title": "MCP with Entra auth + Copilot & Cowork",
+              "url": "https://nullpointer.se/copilot-cowork-oauth.html"
+            }
+          ],
+          "💎 Model Driven Apps & Dataverse": [
+            {
+              "title": "Ditch the Power Apps maker portal!",
+              "url": "https://readyxrm.blog/2026/07/16/ditch-the-power-apps-maker-portal/"
+            },
+            {
+              "title": "Power Platform Admin V2 - Create Rule Set Explained",
+              "url": "https://www.mattcollinsjones.co.uk/single-post/power-platform-admin-v2-create-rule-set-explained"
+            }
+          ],
+          "😎 Power Automate": [
+            {
+              "title": "How To Get A Docusign Signature In Power Automate",
+              "url": "https://www.matthewdevaney.com/how-to-get-a-docusign-signature-in-power-automate/"
+            },
+            {
+              "title": "Power Automate Cloud Flow Failing with 403 Forbidden on a Dataverse Action",
+              "url": "https://linnzawwin.blogspot.com/2026/07/power-automate-cloud-flow-failing-with.html"
+            }
+          ],
+          "🤖 Copilot & Agents": [
+            {
+              "title": "Part 1",
+              "url": "https://holgerimbery.blog/copilot-studio-orchestration-part1"
+            },
+            {
+              "title": "Part 2",
+              "url": "https://holgerimbery.blog/copilot-studio-orchestration-part2"
+            },
+            {
+              "title": "Part 3",
+              "url": "https://holgerimbery.blog/copilot-studio-orchestration-part3"
+            },
+            {
+              "title": "GPT-5.6 Is Missing in Copilot Cowork? Turn On This Admin Setting",
+              "url": "https://flowaltdelete.ca/2026/07/20/enable-gpt-5-6-copilot-cowork-openai-subprocessor/"
+            },
+            {
+              "title": "Navigating the New Copilot Studio: A “Good, Bad, and Nitty-Gritty” First Look",
+              "url": "https://dev.to/balagmadhu/navigating-the-new-copilot-studio-a-good-bad-and-nitty-gritty-first-look-1843"
+            }
+          ],
+          "👍 Everything else in Power Platform": [
+            {
+              "title": "Retrieve All One-to-Many Relationships and Cascade Delete Behavior for a Dataverse Table Using C#",
+              "url": "https://nishantrana.me/2026/07/07/retrieve-all-one-to-many-relationships-and-cascade-delete-behavior-for-a-dataverse-table-using-c/"
+            }
+          ],
+          "🎮 Other Interesting Articles": [
+            {
+              "title": "The All New Copilot Studio",
+              "url": "https://dev.to/wyattdave/the-all-new-copilot-studio-734"
+            },
+            {
+              "title": "Automation vs. Agentic AI: choosing the right approach",
+              "url": "https://netwiseglobal.com/blog/automation-vs-agentic-ai-choosing-the-right-approach/"
+            }
+          ],
+          "📺 Videos": [
+            {
+              "title": "Stop Creating AI Slop & Dribble! Learn the Right Way to Use Copilot",
+              "url": "https://www.youtube.com/watch?v=aMyYa_D-3Vs"
+            },
+            {
+              "title": "Power Platform ToolBox - Release v1.2.3",
+              "url": "https://www.youtube.com/watch?v=IxeOrQ-Ra9Y"
             }
           ]
         },
@@ -679,7 +712,7 @@
   },
   "errors": [],
   "_meta": {
-    "success_count": 39,
-    "total_sources": 39
+    "success_count": 40,
+    "total_sources": 40
   }
 }
