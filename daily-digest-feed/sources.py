@@ -28,6 +28,8 @@ YOUTUBE_SOURCES: dict[str, list[dict]] = {
         {"name": "Bright Ideas Agency", "handle": "@brightideasagency", "channel_id": "UCnv9vvr7tQVQ07iSe4rZgWQ"},
         {"name": "Daniel Anderson", "handle": "@DanielAndersonAU", "channel_id": "UCsYYpxfrYrZaKwFPGM7shtQ"},
         {"name": "Power Squared",   "handle": "@PowerSquared",   "channel_id": "UCoDxmKfgtkGeXezviLXUGIw"},
+        {"name": "Steve Corey",     "handle": "@stevecorey365",  "channel_id": "UCOZthH-jESHnUuH2HDyYONg"},
+        {"name": "Andrew Hess",     "handle": "@andrewhess123",  "channel_id": "UCH7RJ4zXEjFpfsm-6VZI8vw"},
     ],
     "fabric_powerbi": [
         {"name": "Guy in a Cube",    "handle": "@GuyInACube",    "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w"},
