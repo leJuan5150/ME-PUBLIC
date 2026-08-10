@@ -35,6 +35,7 @@ YOUTUBE_SOURCES: dict[str, list[dict]] = {
         {"name": "Guy in a Cube",    "handle": "@GuyInACube",    "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w"},
         {"name": "RADACAD",          "handle": "@RADACAD",       "channel_id": "UCsOfIwAXj1fT6LDqEDEAb4g"},
         {"name": "How to Power BI",  "handle": "@HowtoPowerBI",  "channel_id": "UCcfngi7_ASuo5jdWX0bNauQ"},
+        {"name": "Fernan (Solutions Abroad)", "handle": "@SolutionsAbroad", "channel_id": "UCpbgBx--a_H9LL69A1Uz9yg"},
     ],
     "ai": [
         {"name": "NateBJones",    "handle": "@NateBJones",    "channel_id": "UC0C-17n9iuUQPylguM1d-lQ"},
