@@ -36,6 +36,7 @@ YOUTUBE_SOURCES: dict[str, list[dict]] = {
         {"name": "RADACAD",          "handle": "@RADACAD",       "channel_id": "UCsOfIwAXj1fT6LDqEDEAb4g"},
         {"name": "How to Power BI",  "handle": "@HowtoPowerBI",  "channel_id": "UCcfngi7_ASuo5jdWX0bNauQ"},
         {"name": "Fernan (Solutions Abroad)", "handle": "@SolutionsAbroad", "channel_id": "UCpbgBx--a_H9LL69A1Uz9yg"},
+        {"name": "Power BI Tips",    "handle": "@PowerBITips",   "channel_id": "UCPwPrIpZwlfIKcoUpRwl9OQ"},
     ],
     "ai": [
         {"name": "NateBJones",    "handle": "@NateBJones",    "channel_id": "UC0C-17n9iuUQPylguM1d-lQ"},
