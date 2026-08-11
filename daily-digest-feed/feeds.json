@@ -1,13 +1,34 @@
 {
-  "generated_at": "2026-08-11T11:16:30.906683Z",
+  "generated_at": "2026-08-11T13:40:21.419631Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
         {
-          "creator": "TrailRecon",
-          "handle": "@TrailRecon",
-          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
+          "creator": "Ozark Overland Adventure",
+          "handle": "@OzarkOverlandAdventures",
+          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
+          "videos": [
+            {
+              "title": "Things got WILD at Toledo Jeep Fest!",
+              "url": "https://www.youtube.com/watch?v=0tTZL-YET7c",
+              "published": "2026-08-10T15:00:22Z",
+              "description": "Toledo Jeep Fest was AWESOME! So many cool Jeeps, fun things to do, and unique vendors.\n\nCamp & Carry Channel - https://youtube.com/@CampAndCarryOOA\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHNYyUa\nAll Roads Taken - https://www.allroadstaken.com\nMOORE Expo - https://mooreexpo.com \nBig Iron Overland Rally - https://www.bigironov"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Casey 250",
+          "handle": "@Casey250",
+          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "VentureToRoam",
+          "handle": "@VentureToRoam",
+          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
           "videos": [],
           "error": null
         },
@@ -44,48 +65,6 @@
           "error": null
         },
         {
-          "creator": "VentureToRoam",
-          "handle": "@VentureToRoam",
-          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "LetsGetLost",
-          "handle": "@LetsGetLost",
-          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Lil and Jake",
-          "handle": "@lilandjake",
-          "channel_id": "UCI5nuVPmxCt4VwSprm-gpAg",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Ozark Overland Adventure",
-          "handle": "@OzarkOverlandAdventures",
-          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
-          "videos": [
-            {
-              "title": "Things got WILD at Toledo Jeep Fest!",
-              "url": "https://www.youtube.com/watch?v=0tTZL-YET7c",
-              "published": "2026-08-10T15:00:22Z",
-              "description": "Toledo Jeep Fest was AWESOME! So many cool Jeeps, fun things to do, and unique vendors.\n\nCamp & Carry Channel - https://youtube.com/@CampAndCarryOOA\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nGaia GPS 10% discount -  https://alnk.to/cHNYyUa\nAll Roads Taken - https://www.allroadstaken.com\nMOORE Expo - https://mooreexpo.com \nBig Iron Overland Rally - https://www.bigironov"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Casey 250",
-          "handle": "@Casey250",
-          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "This Story Till Now",
           "handle": "@ThisStoryTillNow",
           "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
@@ -100,9 +79,30 @@
           "error": null
         },
         {
+          "creator": "LetsGetLost",
+          "handle": "@LetsGetLost",
+          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "TrailRecon",
+          "handle": "@TrailRecon",
+          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
+          "videos": [],
+          "error": null
+        },
+        {
           "creator": "Craving.Outdoors",
           "handle": "@Craving.Outdoors",
           "channel_id": "UCzHx4YhJTwZ_HG_D-Q1lpSA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Lil and Jake",
+          "handle": "@lilandjake",
+          "channel_id": "UCI5nuVPmxCt4VwSprm-gpAg",
           "videos": [],
           "error": null
         }
@@ -112,7 +112,14 @@
           "creator": "Shane Young",
           "handle": "@ShanesCows",
           "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
-          "videos": [],
+          "videos": [
+            {
+              "title": "NEW Copilot Studio Agents: Everything Changed",
+              "url": "https://www.youtube.com/watch?v=lLRuSTTt7_M",
+              "published": "2026-08-11T12:30:24Z",
+              "description": "Copilot Studio has a whole new way to build agents, and in this video you are going to see exactly what changed.\n\nWe will walk through the new Copilot Studio experience from start to finish so you can see how the new agents work, how the new GitHub Copilot harness changes the experience, and why these agents feel much more capable than what you may be used to.\n\nYou are going to see model selection, Skills, Tools, Knowledge, Connected Agents, Memory, Preview, Evaluate, Monitor, publishing, and mo"
+            }
+          ],
           "error": null
         },
         {
@@ -130,20 +137,6 @@
           "error": null
         },
         {
-          "creator": "Sean Astrakhan",
-          "handle": "@Untethered365",
-          "channel_id": "UCEYgG-Fw0ghmP1Vnw_M3oGQ",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "April Dunnam",
-          "handle": "@AprilDunnam",
-          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "Reza Dorrani",
           "handle": "@RezaDorrani",
           "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
@@ -158,13 +151,6 @@
           "error": null
         },
         {
-          "creator": "DamoBird365",
-          "handle": "@DamoBird365",
-          "channel_id": "UC-NCKrEw6CM8fidaIk-yrUQ",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "Lisa Crosbie",
           "handle": "@LisaCrosbie",
           "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
@@ -172,24 +158,24 @@
           "error": null
         },
         {
-          "creator": "Daniel Anderson",
-          "handle": "@DanielAndersonAU",
-          "channel_id": "UCsYYpxfrYrZaKwFPGM7shtQ",
+          "creator": "April Dunnam",
+          "handle": "@AprilDunnam",
+          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
           "videos": [],
           "error": null
         },
         {
-          "creator": "Power Squared",
-          "handle": "@PowerSquared",
-          "channel_id": "UCoDxmKfgtkGeXezviLXUGIw",
-          "videos": [
-            {
-              "title": "How to Build a Power Apps Code App From Scratch in 2026",
-              "url": "https://www.youtube.com/watch?v=Vahf-XiH2HI",
-              "published": "2026-08-11T10:45:14Z",
-              "description": "Power Apps Code Apps, React, npm, Dataverse, AI plugins, and Power Platform come together in this from-scratch 2026 guide.\n\nSeven months after our first walkthrough, the setup has changed significantly. Josh and I start with the current prerequisites, including Node.js, Visual Studio Code or your preferred editor, the Power Apps CLI, Git, licensing, and the environment feature that must be enabled before Code Apps will work. We also explain why the newer npm-based PA app commands offer a smoothe"
-            }
-          ],
+          "creator": "DamoBird365",
+          "handle": "@DamoBird365",
+          "channel_id": "UC-NCKrEw6CM8fidaIk-yrUQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Sean Astrakhan",
+          "handle": "@Untethered365",
+          "channel_id": "UCEYgG-Fw0ghmP1Vnw_M3oGQ",
+          "videos": [],
           "error": null
         },
         {
@@ -202,6 +188,20 @@
               "url": "https://www.youtube.com/watch?v=X5qqtP6Ff9k",
               "published": "2026-08-11T10:00:23Z",
               "description": "The new Copilot Studio has just moved to General Availability and alongside new technical capabilities comes a new billing reality. \n\n➡️ Do you need help with your Microsoft 365 Copilot adoption or other digital transformation? Get in touch https://brightideasagency.com/engage\n\n💡Responsible AI for Business Users - a new on-demand course focused on keeping you safe while using AI. https://learn.brightideas.agency/courses/responsibleai\n\n📨 Sign up to receive our mailing list updates https://mailchi"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Andrew Hess",
+          "handle": "@andrewhess123",
+          "channel_id": "UCH7RJ4zXEjFpfsm-6VZI8vw",
+          "videos": [
+            {
+              "title": "Custom MCP with Copilot Studio - Simple Example",
+              "url": "https://www.youtube.com/watch?v=-7exXk2yLwc",
+              "published": "2026-08-10T13:00:31Z",
+              "description": "In this video, we walk through creating a custom MCP (Model Context Protocol) server in Python, deploying it to Azure Container Apps, and connecting it to Copilot Studio. We start simple with five tools, writing tool descriptions the AI can actually use. If you've been curious about MCP but haven't built one yet, this is the video to start with.\n\n✅ What MCP actually is\n✅ Using tools with FastMCP\n✅ Why descriptions are like triggers\n✅ Connecting it to Copilot Studio\n\nChapters:\n0:00 Introduction\n1"
             }
           ],
           "error": null
@@ -221,21 +221,76 @@
           "error": null
         },
         {
-          "creator": "Andrew Hess",
-          "handle": "@andrewhess123",
-          "channel_id": "UCH7RJ4zXEjFpfsm-6VZI8vw",
+          "creator": "Daniel Anderson",
+          "handle": "@DanielAndersonAU",
+          "channel_id": "UCsYYpxfrYrZaKwFPGM7shtQ",
           "videos": [
             {
-              "title": "Custom MCP with Copilot Studio - Simple Example",
-              "url": "https://www.youtube.com/watch?v=-7exXk2yLwc",
-              "published": "2026-08-10T13:00:31Z",
-              "description": "In this video, we walk through creating a custom MCP (Model Context Protocol) server in Python, deploying it to Azure Container Apps, and connecting it to Copilot Studio. We start simple with five tools, writing tool descriptions the AI can actually use. If you've been curious about MCP but haven't built one yet, this is the video to start with.\n\n✅ What MCP actually is\n✅ Using tools with FastMCP\n✅ Why descriptions are like triggers\n✅ Connecting it to Copilot Studio\n\nChapters:\n0:00 Introduction\n1"
+              "title": "Contextual Buttons in SharePoint: Copilot Personalizes Every Click",
+              "url": "https://www.youtube.com/watch?v=VaT3m8PuTkk",
+              "published": "2026-08-11T12:31:19Z",
+              "description": "Contextual Buttons in SharePoint: Copilot personalizes every click. In this walkthrough I wire a SharePoint button to a Copilot prompt that generates a personal HTML report scoped to whoever clicked. Two users, two reports, one button.\n\nThe new Button web part in SharePoint has an action called Open Copilot in SharePoint. Paste your prompt in the button's properties, drop the button on any page, every click launches Copilot with that prompt in the clicking user's context. Instead of a raw prompt"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Power Squared",
+          "handle": "@PowerSquared",
+          "channel_id": "UCoDxmKfgtkGeXezviLXUGIw",
+          "videos": [
+            {
+              "title": "How to Build a Power Apps Code App From Scratch in 2026",
+              "url": "https://www.youtube.com/watch?v=Vahf-XiH2HI",
+              "published": "2026-08-11T10:45:14Z",
+              "description": "Power Apps Code Apps, React, npm, Dataverse, AI plugins, and Power Platform come together in this from-scratch 2026 guide.\n\nSeven months after our first walkthrough, the setup has changed significantly. Josh and I start with the current prerequisites, including Node.js, Visual Studio Code or your preferred editor, the Power Apps CLI, Git, licensing, and the environment feature that must be enabled before Code Apps will work. We also explain why the newer npm-based PA app commands offer a smoothe"
             }
           ],
           "error": null
         }
       ],
       "fabric_powerbi": [
+        {
+          "creator": "RADACAD",
+          "handle": "@RADACAD",
+          "channel_id": "UCsOfIwAXj1fT6LDqEDEAb4g",
+          "videos": [
+            {
+              "title": "#shorts User-Context-Aware Calculated Columns — Be Aware of This Before You Use Them",
+              "url": "https://www.youtube.com/shorts/UQkHn5CPeGQ",
+              "published": "2026-08-10T19:06:19Z",
+              "description": "User-context-aware calculated columns are a fantastic new capability in Power BI — powering multilingual reports, RLS personalisation, and more. But before you use them, there is one thing you need to understand.\n\nThey are evaluated on the fly. Not pre-calculated like a traditional calculated column.\n\nIn this short video, I explain exactly why that matters — and the performance consideration every Power BI developer needs to know before adding user-context-aware calculated columns to their model"
+            },
+            {
+              "title": "#shorts Career Tip for New Tech Graduates — Go to Local Meetups & In-Person Events",
+              "url": "https://www.youtube.com/shorts/_85edWnhNWQ",
+              "published": "2026-08-09T23:18:22Z",
+              "description": "If you are a recent graduate trying to break into the tech industry — here is one piece of advice that costs nothing and can genuinely change your career trajectory.\nGo to local meetups. Attend in-person events.\nIn this short video, I share why showing up in person to your local Power BI, Fabric, or data community meetup matters far more than most new graduates realise — and how it can open doors that job applications alone never will.\n🎯 What you will learn in this video:\n✅ Why local meetups are"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "How to Power BI",
+          "handle": "@HowtoPowerBI",
+          "channel_id": "UCcfngi7_ASuo5jdWX0bNauQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Fernan (Solutions Abroad)",
+          "handle": "@SolutionsAbroad",
+          "channel_id": "UCpbgBx--a_H9LL69A1Uz9yg",
+          "videos": [
+            {
+              "title": "JUNE 2026 UPDATE RECAP - Fabric Apps, Skills for Fabric, UDFs AND MORE",
+              "url": "https://www.youtube.com/watch?v=osws1cOVOx8",
+              "published": "2026-08-10T15:00:26Z",
+              "description": "FULL BLOG POST: https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-June-2026-Feature-Summary/ba-p/5193264\n\nCheck out my website, track your learning, create your own learning path, all for free: https://solutionsabroad.co.uk/\n\n🕓 TIMESTAMPS\n00:00 - Intro\n00:42 - Fabric Apps\n02:12 - Copilot Web Modelling\n02:54 - Skills for Fabric\n03:48 - Fabric IQ\n05:14 - Shape Map\n06:02 - Date Picker\n06:31 - Auto Expand Matrix\n06:45 - Auto Fit Scatter\n07:13 - Round Range\n07:31 - Hover State\n"
+            }
+          ],
+          "error": null
+        },
         {
           "creator": "Guy in a Cube",
           "handle": "@GuyInACube",
@@ -269,109 +324,99 @@
           "error": null
         },
         {
-          "creator": "RADACAD",
-          "handle": "@RADACAD",
-          "channel_id": "UCsOfIwAXj1fT6LDqEDEAb4g",
+          "creator": "Power BI Tips",
+          "handle": "@PowerBITips",
+          "channel_id": "UCPwPrIpZwlfIKcoUpRwl9OQ",
           "videos": [
             {
-              "title": "#shorts User-Context-Aware Calculated Columns — Be Aware of This Before You Use Them",
-              "url": "https://www.youtube.com/shorts/UQkHn5CPeGQ",
-              "published": "2026-08-10T19:06:19Z",
-              "description": "User-context-aware calculated columns are a fantastic new capability in Power BI — powering multilingual reports, RLS personalisation, and more. But before you use them, there is one thing you need to understand.\n\nThey are evaluated on the fly. Not pre-calculated like a traditional calculated column.\n\nIn this short video, I explain exactly why that matters — and the performance consideration every Power BI developer needs to know before adding user-context-aware calculated columns to their model"
+              "title": "550 - Databricks is visionary but weak on execution",
+              "url": "https://www.youtube.com/shorts/iDFHeU4o5zM",
+              "published": "2026-08-11T12:45:31Z",
+              "description": "550 - Databricks scores high on vision in the new Gartner report but falls way behind Microsoft on ability to execute. The gap surprised even the hosts.\n\nhttps://youtu.be/itGh4f4KQuM\n\n#databricks #microsoft #gartner #data #ai"
             },
             {
-              "title": "#shorts Career Tip for New Tech Graduates — Go to Local Meetups & In-Person Events",
-              "url": "https://www.youtube.com/shorts/_85edWnhNWQ",
-              "published": "2026-08-09T23:18:22Z",
-              "description": "If you are a recent graduate trying to break into the tech industry — here is one piece of advice that costs nothing and can genuinely change your career trajectory.\nGo to local meetups. Attend in-person events.\nIn this short video, I share why showing up in person to your local Power BI, Fabric, or data community meetup matters far more than most new graduates realise — and how it can open doors that job applications alone never will.\n🎯 What you will learn in this video:\n✅ Why local meetups are"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "How to Power BI",
-          "handle": "@HowtoPowerBI",
-          "channel_id": "UCcfngi7_ASuo5jdWX0bNauQ",
-          "videos": [
+              "title": "550 - Microsoft stands alone in Gartner's top right corner",
+              "url": "https://www.youtube.com/shorts/ojkWxjPfR-c",
+              "published": "2026-08-11T10:58:18Z",
+              "description": "550 - Microsoft just landed alone in the top right corner of Gartner's 2026 BI Magic Quadrant. No other vendor comes close on execution and vision combined.\n\nhttps://youtu.be/itGh4f4KQuM\n\n#microsoft #powerbi #gartner #businessintelligence #tech"
+            },
             {
-              "title": "Build A Fabric App in 3 minutes",
-              "url": "https://www.youtube.com/shorts/QWMkTlavI_Y",
-              "published": "2026-08-09T13:34:25Z",
-              "description": "Fabric Apps removed boundaries of what is possible. Here is how to start!\nWatch the full video (related) to learn more. \n\n\n👉 Join my live 4-Week Power BI Design Transformation Program: https://datatraining.io/powerbidesigntransformation\n\n\n--------------------------------\n📊 TRAININGS 📊 \n---------------------------------\n➡️ Power BI Design 4-Week Transformation Program in the AI Age\nhttps://datatraining.io/powerbidesigntransformation\n➡️ NEW! User-Defined Functions (UDF) Training \nhttps://datatrain"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Fernan (Solutions Abroad)",
-          "handle": "@SolutionsAbroad",
-          "channel_id": "UCpbgBx--a_H9LL69A1Uz9yg",
-          "videos": [
+              "title": "549 - The learning curve for juniors got much shorter",
+              "url": "https://www.youtube.com/shorts/YffMxxK9xzw",
+              "published": "2026-08-11T09:38:18Z",
+              "description": "549 - The shallow end for junior developers just got a lot smaller. Seniors who invest time teaching AI agents their company's patterns can hand juniors much harder problems in weeks instead of months.\n\nhttps://youtu.be/C68t4grCD6Y\n\n#softwaredev #aiagents #careeradvice #mentorship #aitools"
+            },
             {
-              "title": "JUNE 2026 UPDATE RECAP - Fabric Apps, Skills for Fabric, UDFs AND MORE",
-              "url": "https://www.youtube.com/watch?v=osws1cOVOx8",
-              "published": "2026-08-10T15:00:26Z",
-              "description": "FULL BLOG POST: https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-June-2026-Feature-Summary/ba-p/5193264\n\nCheck out my website, track your learning, create your own learning path, all for free: https://solutionsabroad.co.uk/\n\n🕓 TIMESTAMPS\n00:00 - Intro\n00:42 - Fabric Apps\n02:12 - Copilot Web Modelling\n02:54 - Skills for Fabric\n03:48 - Fabric IQ\n05:14 - Shape Map\n06:02 - Date Picker\n06:31 - Auto Expand Matrix\n06:45 - Auto Fit Scatter\n07:13 - Round Range\n07:31 - Hover State\n"
+              "title": "549 - Agentic tools raise the floor and lower the ceiling",
+              "url": "https://www.youtube.com/shorts/qzFxLcjRBpw",
+              "published": "2026-08-11T03:07:27Z",
+              "description": "549 - Handing a junior developer a fully built agentic workflow raises their floor immediately, but it quietly lowers their ceiling long term. Skipping the hard reps now costs something later, even if the short term results look great.\n\nhttps://youtu.be/C68t4grCD6Y\n\n#softwaredev #aiagents #careeradvice #mentorship #dataanalytics"
+            },
+            {
+              "title": "549 - How does a junior ever become a senior?",
+              "url": "https://www.youtube.com/shorts/G6_rAGouZvs",
+              "published": "2026-08-10T23:50:38Z",
+              "description": "549 - How does a junior actually become a senior when an AI writes all the code for them? Even fluent prompting in JavaScript doesn't mean you actually learned the language, and that gap might be building a generation of weaker senior developers.\n\nhttps://youtu.be/C68t4grCD6Y\n\n#softwaredev #aiagents #mentorship #careeradvice #podcastclips"
+            },
+            {
+              "title": "549 - A senior should spend 20% teaching the AI",
+              "url": "https://www.youtube.com/shorts/Q5ZxMlu2Iu8",
+              "published": "2026-08-10T21:13:31Z",
+              "description": "549 - A senior developer's job is quietly splitting into pieces most teams don't talk about. A big chunk of the week now goes toward teaching an AI system the patterns only a senior actually knows, so juniors can write better DAX faster.\n\nhttps://youtu.be/C68t4grCD6Y\n\n#aiagents #softwaredev #dax #mentorship #aitools"
+            },
+            {
+              "title": "549 - A junior developer cannot QA their own DAX",
+              "url": "https://www.youtube.com/shorts/thXGSusr2hc",
+              "published": "2026-08-10T20:35:30Z",
+              "description": "549 - A junior developer can't QA their own DAX because they don't know evaluation context well enough to spot what's wrong. So who ends up reviewing it instead? That question exposes a bigger gap in agentic tooling.\n\nhttps://youtu.be/C68t4grCD6Y\n\n#dax #powerbi #dataanalytics #softwaredev #aiagents"
+            },
+            {
+              "title": "549 - Known AI behavior should become deterministic code",
+              "url": "https://www.youtube.com/shorts/mMCLqLHGWxM",
+              "published": "2026-08-10T14:51:36Z",
+              "description": "549 - Once an AI agent nails down a repeatable behavior, that logic should get captured in real code, built with APIs and CLIs. Agents are meant for uncertainty and exploration, and this idea has been building on the podcast for weeks.\n\nhttps://youtu.be/C68t4grCD6Y\n\n#aiagents #automation #aitools #softwaredev #podcastclips"
+            },
+            {
+              "title": "549 - AI companies profit when you repeat the same question",
+              "url": "https://www.youtube.com/shorts/IM1T3gBZBls",
+              "published": "2026-08-10T12:20:41Z",
+              "description": "549 - If your team keeps asking an AI agent the same question over and over, burning tokens every time to rediscover the same answer, you're basically funding the AI company's profit margin. One viral post nailed exactly why that's a problem.\n\nhttps://youtu.be/C68t4grCD6Y\n\n#aiagents #aitools #promptengineering #automation #podcastclips"
+            },
+            {
+              "title": "549 - Filter context forces a real mind shift in DAX",
+              "url": "https://www.youtube.com/shorts/B-7USMTLIXc",
+              "published": "2026-08-10T09:50:22Z",
+              "description": "549 - DAX forces a real mind shift in how you think about formulas and numbers, even though it isn't technically hard. Until that shift happens, handing someone an AI agent for DAX work is asking for trouble.\n\nhttps://youtu.be/C68t4grCD6Y\n\n#dax #powerbi #filtercontext #semanticmodeling #dataanalytics"
+            },
+            {
+              "title": "549 - A missing date table makes DAX numbers lie",
+              "url": "https://www.youtube.com/shorts/Oiy3zu-PloQ",
+              "published": "2026-08-10T09:02:20Z",
+              "description": "549 - A junior developer skips the date table, asks for year to date sales, and Power BI quietly grabs the wrong year for every single product. The totals look right until someone checks the details.\n\nhttps://youtu.be/C68t4grCD6Y\n\n#dax #powerbi #datatraining #dataanalytics #timeintelligence"
+            },
+            {
+              "title": "549 - Want better DAX? Build a better semantic model",
+              "url": "https://www.youtube.com/shorts/1eHEkCyc1GI",
+              "published": "2026-08-10T03:05:23Z",
+              "description": "549 - Want faster, cleaner DAX? Look past the formulas. The real fix usually lives in the semantic model and the relationships built underneath it, long before any calculation runs.\n\nhttps://youtu.be/C68t4grCD6Y\n\n#dax #semanticmodel #powerbi #dataanalytics #datamodeling"
+            },
+            {
+              "title": "549 - AI hard coded week six instead of dynamic",
+              "url": "https://www.youtube.com/shorts/2Ql1CkWXTYo",
+              "published": "2026-08-10T01:39:30Z",
+              "description": "549 - An AI built a working DAX table comparing week six to week five, but it hard coded week six and never made the calculation dynamic for other weeks. It took a human who could actually read DAX to catch it.\n\nhttps://youtu.be/C68t4grCD6Y\n\n#dax #aiagents #powerbi #dataanalytics #aitools"
+            },
+            {
+              "title": "549 - DAX is never wrong, it does exactly what you ask",
+              "url": "https://www.youtube.com/shorts/_Z1h2PNTAYc",
+              "published": "2026-08-09T22:51:46Z",
+              "description": "549 - DAX always does exactly what you tell it to, even when the result is completely wrong. Understanding filter context turns out to be the real skill nobody can prompt their way around.\n\nhttps://youtu.be/C68t4grCD6Y\n\n#dax #powerbi #filtercontext #dataanalytics #aitools"
             }
           ],
           "error": null
         }
       ],
       "ai": [
-        {
-          "creator": "NateBJones",
-          "handle": "@NateBJones",
-          "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
-          "videos": [
-            {
-              "title": "Anthropic's Model Attacked Two Strangers On GitHub. Nobody Asked It To.",
-              "url": "https://www.youtube.com/watch?v=FCRT7M30Wtw",
-              "published": "2026-08-10T14:00:11Z",
-              "description": "OpenAI agents built a hidden message board inside a sealed cybersecurity test, then rebuilt it four days after engineers deleted it. Here's what that means if you're running AI agents at work.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n👉🏻 Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside multi-agent AI systems right now?\n\nThe common story is one brilliant model esc"
-            },
-            {
-              "title": "How to use AI on a file you can't upload #AI #privacy #productivity #datasecurity #AItools",
-              "url": "https://www.youtube.com/shorts/SVNLC4NLXjA",
-              "published": "2026-08-10T03:00:35Z",
-              "description": "Here is the mental shift that unlocks this. When a file is too sensitive to upload, do not start by asking whether AI is allowed. Start with the job. Ask what the model actually needs to see to help, which is almost never the whole document. It does not need the name, the account number, the salary, the address. It needs the shape of the problem. Once you see that, the move is obvious: make a smaller, stripped-down copy that carries the useful part and none of the sensitive part, and send that.\n"
-            },
-            {
-              "title": "29% Of Your Employees Are Sabotaging Your AI Rollout. The Fix Is 3 Things.",
-              "url": "https://www.youtube.com/watch?v=JIGaCPv44QI",
-              "published": "2026-08-09T17:00:33Z",
-              "description": "Your engineers may be resisting your AI rollout, and another demo will not fix it. Here are the three things I tell leaders about AI adoption: the employment commitment you make in public, the narrow pilot that proves value, and the human work you protect on the other side.\n\nFull briefing:\nhttps://natesnewsletter.substack.com/p/ai-rollout-resistance?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X:"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Paul J Lipsky",
-          "handle": "@PaulJLipsky",
-          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
-          "videos": [
-            {
-              "title": "Every ChatGPT Work Concept Explained for Normal People",
-              "url": "https://www.youtube.com/watch?v=5JecLUhLoKM",
-              "published": "2026-08-10T13:07:07Z",
-              "description": "Download ChatGPT: https://chatgpt.com/download\n\nChatGPT Work becomes much easier once you understand the 10 concepts behind it. This beginner-friendly guide explains Work vs. Chat, local files, plugins, scheduled tasks, browser and computer use, skills, Sites, local versus cloud tasks, and Voice mode.\n\n🔗 This video is not sponsored. \n\n0:00 Intro\n0:38 Work vs Chat\n3:05 Desktop App\n3:25 Local Files\n4:35 Plugins\n6:05 Scheduled Tasks\n7:19 Browser\n9:00 Computer Use\n9:51 Skills\n11:03 Sites\n12:20 Local"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Nate Herk",
-          "handle": "@NateHerk",
-          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-          "videos": [
-            {
-              "title": "Build & Sell AI SaaS Products (2 HOUR COURSE)",
-              "url": "https://www.youtube.com/watch?v=IVx8OSMbTss",
-              "published": "2026-08-10T16:43:31Z",
-              "description": "My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=saas-2-hour-course&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nI built an AI SaaS product in one day, starting with no idea at all. You'll see the whole run: resea"
-            }
-          ],
-          "error": null
-        },
         {
           "creator": "Alex Finn",
           "handle": "@AlexFinn",
@@ -387,10 +432,65 @@
           "error": null
         },
         {
+          "creator": "Nate Herk",
+          "handle": "@NateHerk",
+          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+          "videos": [
+            {
+              "title": "How to Build a One Person AI Business (Using Claude Code)",
+              "url": "https://www.youtube.com/watch?v=LVAHYV4Xrto",
+              "published": "2026-08-11T13:31:57Z",
+              "description": "My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=build-a-one-person-ai-business&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nHow to Build a One Person AI Business (Using Claude Code): 87 out of every 100 AI projec"
+            },
+            {
+              "title": "Build & Sell AI SaaS Products (2 HOUR COURSE)",
+              "url": "https://www.youtube.com/watch?v=IVx8OSMbTss",
+              "published": "2026-08-10T16:43:31Z",
+              "description": "My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=saas-2-hour-course&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nI built an AI SaaS product in one day, starting with no idea at all. You'll see the whole run: resea"
+            }
+          ],
+          "error": null
+        },
+        {
           "creator": "Chase AI",
           "handle": "@ChaseAI",
           "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
           "videos": [],
+          "error": null
+        },
+        {
+          "creator": "AI Daily Brief",
+          "handle": "@AIDailyBrief",
+          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
+          "videos": [
+            {
+              "title": "What the Heck is Graph Engineering?",
+              "url": "https://www.youtube.com/watch?v=iPveX4yQ68w",
+              "published": "2026-08-10T21:06:16Z",
+              "description": "Graph engineering is the design of multi-agent systems that link agents, tools, knowledge, and humans via nodes and edges. OpenAI paused Astra over potential cyber capabilities and implemented stricter sandboxing, weight encryption, and chain-of-thought monitoring. ByteDance reportedly training a ten‑trillion‑parameter model amid export‑control scrutiny; Alibaba testing revenue‑sharing for published model weights; Anthropic making Auto Mode the default for Claude Code to accelerate safe automati"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Simon Scrapes",
+          "handle": "@SimonScrapes",
+          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Paul J Lipsky",
+          "handle": "@PaulJLipsky",
+          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
+          "videos": [
+            {
+              "title": "Every ChatGPT Work Concept Explained for Normal People",
+              "url": "https://www.youtube.com/watch?v=5JecLUhLoKM",
+              "published": "2026-08-10T13:07:07Z",
+              "description": "Download ChatGPT: https://chatgpt.com/download\n\nChatGPT Work becomes much easier once you understand the 10 concepts behind it. This beginner-friendly guide explains Work vs. Chat, local files, plugins, scheduled tasks, browser and computer use, skills, Sites, local versus cloud tasks, and Voice mode.\n\n🔗 This video is not sponsored. \n\n0:00 Intro\n0:38 Work vs Chat\n3:05 Desktop App\n3:25 Local Files\n4:35 Plugins\n6:05 Scheduled Tasks\n7:19 Browser\n9:00 Computer Use\n9:51 Skills\n11:03 Sites\n12:20 Local"
+            }
+          ],
           "error": null
         },
         {
@@ -415,22 +515,27 @@
           "error": null
         },
         {
-          "creator": "Simon Scrapes",
-          "handle": "@SimonScrapes",
-          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "AI Daily Brief",
-          "handle": "@AIDailyBrief",
-          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
+          "creator": "NateBJones",
+          "handle": "@NateBJones",
+          "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
           "videos": [
             {
-              "title": "What the Heck is Graph Engineering?",
-              "url": "https://www.youtube.com/watch?v=iPveX4yQ68w",
-              "published": "2026-08-10T21:06:16Z",
-              "description": "Graph engineering is the design of multi-agent systems that link agents, tools, knowledge, and humans via nodes and edges. OpenAI paused Astra over potential cyber capabilities and implemented stricter sandboxing, weight encryption, and chain-of-thought monitoring. ByteDance reportedly training a ten‑trillion‑parameter model amid export‑control scrutiny; Alibaba testing revenue‑sharing for published model weights; Anthropic making Auto Mode the default for Claude Code to accelerate safe automati"
+              "title": "Anthropic's Model Attacked Two Strangers On GitHub. Nobody Asked It To.",
+              "url": "https://www.youtube.com/watch?v=FCRT7M30Wtw",
+              "published": "2026-08-10T14:00:11Z",
+              "description": "OpenAI agents built a hidden message board inside a sealed cybersecurity test, then rebuilt it four days after engineers deleted it. Here's what that means if you're running AI agents at work.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n👉🏻 Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside multi-agent AI systems right now?\n\nThe common story is one brilliant model esc"
+            },
+            {
+              "title": "How to use AI on a file you can't upload #AI #privacy #productivity #datasecurity #AItools",
+              "url": "https://www.youtube.com/shorts/SVNLC4NLXjA",
+              "published": "2026-08-10T03:00:35Z",
+              "description": "Here is the mental shift that unlocks this. When a file is too sensitive to upload, do not start by asking whether AI is allowed. Start with the job. Ask what the model actually needs to see to help, which is almost never the whole document. It does not need the name, the account number, the salary, the address. It needs the shape of the problem. Once you see that, the move is obvious: make a smaller, stripped-down copy that carries the useful part and none of the sensitive part, and send that.\n"
+            },
+            {
+              "title": "29% Of Your Employees Are Sabotaging Your AI Rollout. The Fix Is 3 Things.",
+              "url": "https://www.youtube.com/watch?v=JIGaCPv44QI",
+              "published": "2026-08-09T17:00:33Z",
+              "description": "Your engineers may be resisting your AI rollout, and another demo will not fix it. Here are the three things I tell leaders about AI adoption: the employment commitment you make in public, the narrow pilot that proves value, and the human work you protect on the other side.\n\nFull briefing:\nhttps://natesnewsletter.substack.com/p/ai-rollout-resistance?r=1z4sm5&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X:"
             }
           ],
           "error": null
@@ -1262,7 +1367,7 @@
   },
   "errors": [],
   "_meta": {
-    "success_count": 40,
-    "total_sources": 40
+    "success_count": 41,
+    "total_sources": 41
   }
 }
