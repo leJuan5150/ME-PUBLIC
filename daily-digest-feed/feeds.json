@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T11:08:10.657175Z",
+  "generated_at": "2026-10-11T11:07:48.986358Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
@@ -8,6 +8,27 @@
           "creator": "This Story Till Now",
           "handle": "@ThisStoryTillNow",
           "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "VentureToRoam",
+          "handle": "@VentureToRoam",
+          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Life Style Overland",
+          "handle": "@LifeStyleOverland",
+          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "LetsGetLost",
+          "handle": "@LetsGetLost",
+          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
           "videos": [],
           "error": null
         },
@@ -26,23 +47,9 @@
           "error": null
         },
         {
-          "creator": "VentureToRoam",
-          "handle": "@VentureToRoam",
-          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "Epic Adventure Outfitters",
           "handle": "@EpicAdventureOutfitters",
           "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "LetsGetLost",
-          "handle": "@LetsGetLost",
-          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
           "videos": [],
           "error": null
         },
@@ -57,20 +64,6 @@
           "creator": "Casey 250",
           "handle": "@Casey250",
           "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
-          "videos": [
-            {
-              "title": "This Huge Rooftop Tent Costs Way Less Than You’d Think",
-              "url": "https://www.youtube.com/watch?v=U4bVA_yLOeA",
-              "published": "2026-10-08T23:00:24Z",
-              "description": "Huge rooftop tents usually come with huge price tags — but the Topoak Vision is around $2,200 and has enough room to actually work as a family tent.\n\nIn this video, I take a close look at the Topoak Vision rooftop tent, including the setup, interior space, construction, features, and what it’s actually like mounted on a vehicle. \n\nMore importantly, I wanted to see whether a family-size RTT at this price point feels like a legitimate alternative to the much more expensive tents on the market.\n\nTh"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Life Style Overland",
-          "handle": "@LifeStyleOverland",
-          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
           "videos": [],
           "error": null
         },
@@ -91,16 +84,9 @@
       ],
       "power_platform": [
         {
-          "creator": "Lisa Crosbie",
-          "handle": "@LisaCrosbie",
-          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Shane Young",
-          "handle": "@ShanesCows",
-          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
+          "creator": "April Dunnam",
+          "handle": "@AprilDunnam",
+          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
           "videos": [],
           "error": null
         },
@@ -112,16 +98,16 @@
           "error": null
         },
         {
-          "creator": "Reza Dorrani",
-          "handle": "@RezaDorrani",
-          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
+          "creator": "Shane Young",
+          "handle": "@ShanesCows",
+          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
           "videos": [],
           "error": null
         },
         {
-          "creator": "April Dunnam",
-          "handle": "@AprilDunnam",
-          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
+          "creator": "Lisa Crosbie",
+          "handle": "@LisaCrosbie",
+          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
           "videos": [],
           "error": null
         },
@@ -153,37 +139,17 @@
           "error": null
         },
         {
+          "creator": "Reza Dorrani",
+          "handle": "@RezaDorrani",
+          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
+          "videos": [],
+          "error": null
+        },
+        {
           "creator": "Bright Ideas Agency",
           "handle": "@brightideasagency",
           "channel_id": "UCnv9vvr7tQVQ07iSe4rZgWQ",
           "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Power Squared",
-          "handle": "@PowerSquared",
-          "channel_id": "UCoDxmKfgtkGeXezviLXUGIw",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Daniel Anderson",
-          "handle": "@DanielAndersonAU",
-          "channel_id": "UCsYYpxfrYrZaKwFPGM7shtQ",
-          "videos": [
-            {
-              "title": "How Work Really Gets Done vs What’s Written Down (Copilot Cowork)",
-              "url": "https://www.youtube.com/watch?v=Pkna-6b9Omg",
-              "published": "2026-10-09T20:38:29Z",
-              "description": "Copilot Cowork and the Miro plugin can show you how work really gets done versus what's written down. The evidence is already sitting in your emails, Teams chats and meeting transcripts.\n\nIn this video I use Copilot Cowork to compare a documented process with what's actually happening. Cowork reads the procedure in SharePoint, works out how the process really runs from Teams, email and a meeting transcript, and builds both versions side by side on a Miro board. Every gap gets a sticky note with "
-            },
-            {
-              "title": "Why You Should Switch Your Policy Review Process to Copilot in SharePoint",
-              "url": "https://www.youtube.com/watch?v=0WUDMlG93b0",
-              "published": "2026-10-08T22:25:09Z",
-              "description": "Are you chewing through Copilot Credits in Copilot Cowork? A lot of the recurring jobs I see running in Cowork never leave a single SharePoint site, and Copilot in SharePoint can handle them.\n\nIn this video I take a policy review that was running in Cowork (one run used 248 credits) and move it into Copilot in SharePoint. The library already holds owner, approver, category, audience and review dates, so it becomes the register and we only build the reporting. One prompt finds overdue policies, c"
-            }
-          ],
           "error": null
         },
         {
@@ -197,6 +163,27 @@
           "creator": "Andrew Hess",
           "handle": "@andrewhess123",
           "channel_id": "UCH7RJ4zXEjFpfsm-6VZI8vw",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Daniel Anderson",
+          "handle": "@DanielAndersonAU",
+          "channel_id": "UCsYYpxfrYrZaKwFPGM7shtQ",
+          "videos": [
+            {
+              "title": "How Work Really Gets Done vs What’s Written Down (Copilot Cowork)",
+              "url": "https://www.youtube.com/watch?v=Pkna-6b9Omg",
+              "published": "2026-10-09T20:38:29Z",
+              "description": "Copilot Cowork and the Miro plugin can show you how work really gets done versus what's written down. The evidence is already sitting in your emails, Teams chats and meeting transcripts.\n\nIn this video I use Copilot Cowork to compare a documented process with what's actually happening. Cowork reads the procedure in SharePoint, works out how the process really runs from Teams, email and a meeting transcript, and builds both versions side by side on a Miro board. Every gap gets a sticky note with "
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Power Squared",
+          "handle": "@PowerSquared",
+          "channel_id": "UCoDxmKfgtkGeXezviLXUGIw",
           "videos": [],
           "error": null
         }
@@ -219,21 +206,22 @@
               "url": "https://www.youtube.com/shorts/OAIcCaGS70g",
               "published": "2026-10-09T15:26:59Z",
               "description": "One command. That is all it takes to start a full web application for Microsoft Fabric. In this short I run npm create microsoft/rayfin@latest, pick a template, and watch the whole Rayfin project (also called Fabric App) get created in front of you.\n\nThe command\nIn a terminal, you run:\nnpm create microsoft/rayfin@latest\nThat single command starts the Rayfin project creation. No manual setup of folders, no copying files from a repository, no assembling the pieces yourself. It then walks you throu"
-            },
-            {
-              "title": "Arun Ulag on the Future of Fabric, Power BI and AI | Fabric Insider Ep. 23",
-              "url": "https://www.youtube.com/watch?v=l-V5sD0Tiw4",
-              "published": "2026-10-08T14:45:36Z",
-              "description": "Fabric Insider Episode 23 is the one I have been waiting for. I sat down with Arun Ulag, EVP at Microsoft and the leader behind Power BI and Microsoft Fabric, at FabCon Europe 2026 in Barcelona, and I asked him the questions our community actually asks.\n\nWhat is Fabric from a business point of view? Why should someone expand from Power BI to Fabric? What is the honest differentiator between Fabric and Databricks or Snowflake today? Is Fabric only for large enterprises? Is Fabric App replacing Po"
             }
           ],
           "error": null
         },
         {
-          "creator": "Fernan (Solutions Abroad)",
-          "handle": "@SolutionsAbroad",
-          "channel_id": "UCpbgBx--a_H9LL69A1Uz9yg",
-          "videos": [],
+          "creator": "How to Power BI",
+          "handle": "@HowtoPowerBI",
+          "channel_id": "UCcfngi7_ASuo5jdWX0bNauQ",
+          "videos": [
+            {
+              "title": "Desk Booking App built with Microsoft Fabric Apps 🤔",
+              "url": "https://www.youtube.com/shorts/22OwPVMRIQg",
+              "published": "2026-10-09T13:16:57Z",
+              "description": "👉 Need help with Fabric, AI or Power BI development? Talk to us: \nFabric: https://datatraining.io/fabric-consulting\nAI: https://datatraining.io/ai-consulting\nPower BI: https://datatraining.io/powerbi-consulting\n\n👉 Join my Power BI Design Transformation Program to learn how my team builds reports: https://datatraining.io/powerbidesigntransformation\n\n\n--------------------------------\n📊 TRAININGS 📊 \n---------------------------------\n➡️ Power BI Design Transformation Program in the AI Age\nhttps://da"
+            }
+          ],
           "error": null
         },
         {
@@ -241,6 +229,48 @@
           "handle": "@PowerBITips",
           "channel_id": "UCPwPrIpZwlfIKcoUpRwl9OQ",
           "videos": [
+            {
+              "title": "566 - AI is not going to take your BI job",
+              "url": "https://www.youtube.com/shorts/TVrvUw9WJrU",
+              "published": "2026-10-11T10:18:34Z",
+              "description": "566 - Straight answer for everyone anxious right now: your job isn't getting automated. Stay focused on business problems and the people reading your reports and you get more important, not less. Less time building reports means more time on impact.\n\nhttps://www.youtube.com/live/8z7ZTswMr0M?si=1ZMVBgj1z1pG3vCv\n\n#careers #powerbi #ai #bi #dataanalytics"
+            },
+            {
+              "title": "566 - Design is context, and that's your job not the community's",
+              "url": "https://www.youtube.com/shorts/CtD7Z7fS_aI",
+              "published": "2026-10-11T09:41:36Z",
+              "description": "566 - Defining how your org visualizes data is context, and it belongs to your organization. Shipments, monthly, compared to budget, accumulating month to date by workday. Write that down. Don't blast a Microsoft form asking people what shipments means.\n\nhttps://www.youtube.com/live/8z7ZTswMr0M?si=1ZMVBgj1z1pG3vCv\n\n#datagovernance #requirements #powerbi #dataviz #bi"
+            },
+            {
+              "title": "566 - I never let the agent write the plan",
+              "url": "https://www.youtube.com/shorts/ngQhtGzVk9M",
+              "published": "2026-10-11T03:50:31Z",
+              "description": "566 - The planning docs are off limits to the agent. \"That's my house.\" Agents derail a plan in subtle ways, so they get research and adversarial challenges instead, never the pen.\n\nhttps://www.youtube.com/live/8z7ZTswMr0M?si=1ZMVBgj1z1pG3vCv\n\n#aiagents #planning #workflow #ai #bi"
+            },
+            {
+              "title": "566 - 80% of my agent work happens in context",
+              "url": "https://www.youtube.com/shorts/8b1Zd5qJYV0",
+              "published": "2026-10-11T03:02:39Z",
+              "description": "566 - 80% of agent development time goes into context, not execution. Notion holds the second brain plus master sequence pages that tell Claude where the project left off and what instructions to load next.\n\nhttps://www.youtube.com/live/8z7ZTswMr0M?si=1ZMVBgj1z1pG3vCv\n\n#notion #claude #aiagents #context #workflow"
+            },
+            {
+              "title": "566 - The starting checklist for agentic report building",
+              "url": "https://www.youtube.com/shorts/tyYF63NUpHU",
+              "published": "2026-10-10T21:57:36Z",
+              "description": "566 - Power BI project format is mandatory. Git is strongly recommended because you will have a booboo. Then pick your path for editing visual metadata, and get real examples in front of the agent before anything else.\n\nhttps://www.youtube.com/live/8z7ZTswMr0M?si=1ZMVBgj1z1pG3vCv\n\n#powerbi #git #aiagents #pbir #reportdesign"
+            },
+            {
+              "title": "566 - Agent setups are bespoke, so just start",
+              "url": "https://www.youtube.com/shorts/9-d5Z1L6kS8",
+              "published": "2026-10-10T12:47:24Z",
+              "description": "566 - \"I'm very stubborn about not telling people you should do this.\" Different memory files, different agents, different terminals. Hand someone your exact setup and their results still won't match yours.\n\nhttps://www.youtube.com/live/8z7ZTswMr0M?si=1ZMVBgj1z1pG3vCv\n\n#aiagents #powerbi #workflow #ai #developertools"
+            },
+            {
+              "title": "566 - Five building blocks of agentic development",
+              "url": "https://www.youtube.com/shorts/lf6xQzVthpA",
+              "published": "2026-10-10T11:14:29Z",
+              "description": "566 - The model, the context, the prompt, the tools, the environment. Five building blocks, and the Tabular Editor series has been walking through them since August. You don't need expert depth, you need to know what's out there.\n\nhttps://www.youtube.com/live/8z7ZTswMr0M?si=1ZMVBgj1z1pG3vCv\n\n#tabulareditor #aiagents #powerbi #learning #bi"
+            },
             {
               "title": "566 - The goal is not to get the plane off the ground",
               "url": "https://www.youtube.com/shorts/PLcLs6aAu-4",
@@ -276,70 +306,15 @@
               "url": "https://www.youtube.com/shorts/yR-F-kkwI6M",
               "published": "2026-10-09T11:21:30Z",
               "description": "566 - January and February were rough. Websites, PowerPoint in HTML, full apps, games, all of it exciting, then back to Power BI feeling like the platform got left behind. Something shifted in March.\n\nhttps://www.youtube.com/live/8z7ZTswMr0M?si=1ZMVBgj1z1pG3vCv\n\n#powerbi #fabcon #ai #bi #microsoftfabric"
-            },
-            {
-              "title": "566 - Opus Low is fine for Power BI reports",
-              "url": "https://www.youtube.com/shorts/hSjhBJ8lWik",
-              "published": "2026-10-09T09:17:28Z",
-              "description": "566 - People hit a wall and immediately reach for the biggest model available. For Power BI reports, Opus Low handles it. Speed and consistency beat raw power when you're iterating.\n\nhttps://www.youtube.com/live/8z7ZTswMr0M?si=1ZMVBgj1z1pG3vCv\n\n#powerbi #claude #aiagents #opus #reportdesign"
-            },
-            {
-              "title": "Skills Vault - 046 Agentic Thinking",
-              "url": "https://www.youtube.com/watch?v=ux8DXPKb75A",
-              "published": "2026-10-09T04:11:54Z",
-              "description": "Links\nhttps://github.com/pugliabi/skill-vault\n\nFollow Us\nMike: https://www.linkedin.com/in/michaelcarlo/\nTommy: https://www.linkedin.com/in/tommypuglia/"
-            },
-            {
-              "title": "566 - Requirements gathering is a scaling activity now",
-              "url": "https://www.youtube.com/shorts/tqMAWW16jqA",
-              "published": "2026-10-09T03:33:17Z",
-              "description": "566 - Requirements gathering used to be a fight for one or two weeks of time. Now that documentation feeds your org's context bank and your ontology, so it pays forward into everything you build next.\n\nhttps://www.youtube.com/live/8z7ZTswMr0M?si=1ZMVBgj1z1pG3vCv\n\n#requirements #powerbi #bi #dataviz #aireadiness"
-            },
-            {
-              "title": "566 - I stopped enjoying Power BI reports for years",
-              "url": "https://www.youtube.com/shorts/mnwfeGo6zh4",
-              "published": "2026-10-09T02:20:34Z",
-              "description": "566 - \"I just stopped enjoying making Power BI reports.\" Four hours formatting a single card will do that. Then one weekend, a sketch handed to Claude came back finished in 25 minutes.\n\nhttps://www.youtube.com/live/8z7ZTswMr0M?si=1ZMVBgj1z1pG3vCv\n\n#powerbi #aiagents #reportdesign #claude #bi"
-            },
-            {
-              "title": "PADU and Fabric - Ep.570 - Power BI tips",
-              "url": "https://www.youtube.com/watch?v=6w8E-5SwvoQ",
-              "published": "2026-10-09T01:54:35Z",
-              "description": "News\n\nhttps://www.meetup.com/chicagolandpowerbi/events/316158533/?eventOrigin=group_upcoming_events\n\nhttps://community.fabric.microsoft.com/blog/fbc_fabricupdatesblogs/trusted-ai-starts-with-microsoft-fabric-real-time-intelligence-and-iq/5369528\n\nhttps://www.sqlbi.com/articles/understanding-dax-contracts-when-using-ai/\n\n\nFollow Us\nMike: https://www.linkedin.com/in/michaelcarlo/\nTommy: https://www.linkedin.com/in/tommypuglia/"
-            },
-            {
-              "title": "566 - I stopped opening Power BI Desktop in January",
-              "url": "https://www.youtube.com/shorts/369KI_1PLxA",
-              "published": "2026-10-09T01:22:41Z",
-              "description": "566 - Old workflow: whiteboard, Excalidraw, then Power BI Desktop, then back again. In January that stopped. Everything moved to the web once the agents got better browser control.\n\nhttps://www.youtube.com/live/8z7ZTswMr0M?si=1ZMVBgj1z1pG3vCv\n\n#powerbi #aiagents #workflow #prototyping #bi"
-            },
-            {
-              "title": "566 - You can't just slap an MCP server on Power BI",
-              "url": "https://www.youtube.com/shorts/iDOscFiaovA",
-              "published": "2026-10-08T12:34:40Z",
-              "description": "566 - Everyone asks for an MCP server for Power BI reports. You can't bolt one on and expect magic. Ask an agent to color the data bars and it has to know that's \"data point fill,\" which is only true for some charts.\n\nhttps://www.youtube.com/live/8z7ZTswMr0M?si=1ZMVBgj1z1pG3vCv\n\n#powerbi #mcp #aiagents #reportdesign #dataviz"
-            },
-            {
-              "title": "566 - Power BI reports are rigid and slow to build",
-              "url": "https://www.youtube.com/shorts/pjA_aFdsaBw",
-              "published": "2026-10-08T11:25:32Z",
-              "description": "566 - Semantic models have decent tooling. Reports are still rigid and slow, and clicking through the interface eats hours. The open question is how much of that friction an agent can strip out.\n\nhttps://www.youtube.com/live/8z7ZTswMr0M?si=1ZMVBgj1z1pG3vCv\n\n#powerbi #reportdesign #aitools #bi #dataviz"
             }
           ],
           "error": null
         },
         {
-          "creator": "How to Power BI",
-          "handle": "@HowtoPowerBI",
-          "channel_id": "UCcfngi7_ASuo5jdWX0bNauQ",
-          "videos": [
-            {
-              "title": "Desk Booking App built with Microsoft Fabric Apps 🤔",
-              "url": "https://www.youtube.com/shorts/22OwPVMRIQg",
-              "published": "2026-10-09T13:16:57Z",
-              "description": "👉 Need help with Fabric, AI or Power BI development? Talk to us: \nFabric: https://datatraining.io/fabric-consulting\nAI: https://datatraining.io/ai-consulting\nPower BI: https://datatraining.io/powerbi-consulting\n\n👉 Join my Power BI Design Transformation Program to learn how my team builds reports: https://datatraining.io/powerbidesigntransformation\n\n\n--------------------------------\n📊 TRAININGS 📊 \n---------------------------------\n➡️ Power BI Design Transformation Program in the AI Age\nhttps://da"
-            }
-          ],
+          "creator": "Fernan (Solutions Abroad)",
+          "handle": "@SolutionsAbroad",
+          "channel_id": "UCpbgBx--a_H9LL69A1Uz9yg",
+          "videos": [],
           "error": null
         }
       ],
@@ -354,21 +329,8 @@
               "url": "https://www.youtube.com/shorts/ysRarbe6btw",
               "published": "2026-10-10T03:00:24Z",
               "description": "You can stop reading those AI leaderboards. Google’s Gemini 4 Argon just went to #1 on the Vals Index, and almost no one can actually use it yet. The AI that’s winning right now isn’t the one with the best score. It’s the one built by people who use it obsessively and fix whatever breaks. That’s the same test to hold the AI your own company is building to.\n\nWhy customer obsession beats any benchmark: https://natesnewsletter.substack.com/p/gemini-4-argon-customer-benchmark?utm_source=youtube&amp;"
-            },
-            {
-              "title": "Google Has More Data Than Almost Anyone. So Why Is It Bidding $10 Million On Old Emails?",
-              "url": "https://www.youtube.com/watch?v=wep2EQ9Y_Tc",
-              "published": "2026-10-08T20:00:36Z",
-              "description": "Google bid $10 million for Spirit Airlines' old work emails and Teams records to train AI agents. A lot of the value people create at work never shows up in those records, and that matters for your job and for how AI learns.\n\nFull post:\nhttps://natesnewsletter.substack.com/p/google-spirit-airlines-ai-training-data?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=google-spirit-airlines-ai-training-data-launch&amp;utm_content=description\n\nNate's Library MCP (every prompt kit, article, and "
             }
           ],
-          "error": null
-        },
-        {
-          "creator": "Alex Finn",
-          "handle": "@AlexFinn",
-          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
-          "videos": [],
           "error": null
         },
         {
@@ -377,10 +339,16 @@
           "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
           "videos": [
             {
-              "title": "We Were Completely Wrong About Haiku (and Luna)",
-              "url": "https://www.youtube.com/watch?v=JJMChiMYW_g",
-              "published": "2026-10-08T23:43:24Z",
-              "description": "⭐ Higgsfield: https://higgsfield.ai/s/chase-h-ai-FBKeUJ\n⚡Master Claude Code + Codex: https://www.skool.com/chase-ai\n🔥FREE community: https://www.skool.com/chase-ai-community\n💻 Need custom work: https://chaseai.io\n\nToday was OpenAI's Dev Day, and with it, the release of Sol 6.1. \n\nIts benchmarks are insane, but does it hold up to real world tests? Let's find out.\n\n⏰TIMESTAMPS:\n\n0:00 - Intro\n0:51 - The Benchmarks\n3:34 - Frontend Design \n10:27 - Game Design\n12:04 - Long Context\n13:21 - More Tests\n1"
+              "title": "Someone Just Cloned Every Adobe Product In Rust (& Open Sourced It)",
+              "url": "https://www.youtube.com/shorts/uJJjBXuj8Iw",
+              "published": "2026-10-11T04:00:37Z",
+              "description": ""
+            },
+            {
+              "title": "This Claude OS combines Jev, Opus, Obsidian, + a local voice system",
+              "url": "https://www.youtube.com/shorts/WVfAFTSS1lk",
+              "published": "2026-10-11T01:00:18Z",
+              "description": "check the related video for a deeper dive"
             }
           ],
           "error": null
@@ -395,36 +363,6 @@
               "url": "https://www.youtube.com/shorts/A8YuAEUQEos",
               "published": "2026-10-09T18:00:05Z",
               "description": "AI does the thinking, software does the rest. That’s Oracle’s Fusion Claw. See it live at Oracle AI World, Vegas, Oct 26 to 27."
-            },
-            {
-              "title": "Grok Bot now runs on Opus 5.5",
-              "url": "https://www.youtube.com/shorts/f_WsOXdGm4w",
-              "published": "2026-10-09T02:21:31Z",
-              "description": ""
-            },
-            {
-              "title": "Grok Bot uses my Claude Code subscription. Here's how.",
-              "url": "https://www.youtube.com/shorts/kebGZLyrvZg",
-              "published": "2026-10-09T02:03:27Z",
-              "description": ""
-            },
-            {
-              "title": "Grok Bot Just Got 2 Massive Upgrades. Do These Things Now.",
-              "url": "https://www.youtube.com/watch?v=MgvwZaDPCs4",
-              "published": "2026-10-09T02:02:31Z",
-              "description": "FREE AI OS Template: https://app.aiautomationsociety.ai/optin/ai-os/?utm_source=youtube&amp;utm_medium=organic&amp;utm_content=grok-bot-2-upgrades&amp;sl=yt_grok-bot-2-upgrades\nHow I built an AI agency from 0 to over $1 million per year: https://www.skool.com/ai-automation-society-plus/about?el=grok-bot-2-upgrades&amp;hcategory=youtube-videos&amp;utm_campaign=plus-group\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=grok-bot-2-upgrades&amp;hcategory=youtube-videos&amp;ut"
-            },
-            {
-              "title": "Your Popup Can Now Optimize Itself for Every Visitor",
-              "url": "https://www.youtube.com/shorts/w4R4l1xtfGU",
-              "published": "2026-10-09T00:00:20Z",
-              "description": "AI websites just got a crazy upgrade: your popup can now optimize itself for every visitor. Alia runs a self-optimizing A/B test, ties discounts to buying intent, and optimizes for real revenue, not just signups. Dial it in before Black Friday. Book a demo through the link in my bio, or mention Nate Herk for a 30-day free trial. #ad"
-            },
-            {
-              "title": "Anthropic Engineers Just 10x'd Everyone's Claude Code",
-              "url": "https://www.youtube.com/watch?v=oz2CwrPV2Rg",
-              "published": "2026-10-08T20:48:59Z",
-              "description": "Use your ChatGPT sub to power Hyperagent: https://www.hyperagent.com/nate100\nApply for up to $20K with Hyperagent's agency program: https://www.hyperagent.com/agencies\nFREE AI OS Template: https://app.aiautomationsociety.ai/optin/ai-os/?utm_source=youtube&amp;utm_medium=organic&amp;utm_content=anthropic-engineers-doctor&amp;sl=yt_anthropic-engineers-doctor\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/c"
             }
           ],
           "error": null
@@ -444,20 +382,6 @@
           "error": null
         },
         {
-          "creator": "Simon Scrapes",
-          "handle": "@SimonScrapes",
-          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
-          "videos": [
-            {
-              "title": "You Should Be Using Jev’s Browser Agent, Here’s Why",
-              "url": "https://www.youtube.com/watch?v=zac3kEUwIlg",
-              "published": "2026-10-08T15:30:22Z",
-              "description": "🚀Join the Agentic Academy: https://skool.com/scrapes\nGrab the Jev Browser doc here: https://skool.com/scrapesai\n👀 Get Customers from ChatGPT: https://dub.sh/rankspot-yt\nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\nTraditional browser agents are slow, often taking 10-20 minutes for a simple task. In this video, I'll show you how to use Jev's Browser Agent to make decisions in a fraction of a second. We'll cover how it works by combining Jev's fast classifi"
-            }
-          ],
-          "error": null
-        },
-        {
           "creator": "AI Daily Brief",
           "handle": "@AIDailyBrief",
           "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
@@ -467,12 +391,34 @@
               "url": "https://www.youtube.com/watch?v=thO4Y5RYfHo",
               "published": "2026-10-09T11:26:16Z",
               "description": "Elon says Grok Bot will route to whatever model wins the task, and OpenAI just made ChatGPT generate its own interfaces. NLW breaks down the week’s biggest launches, from Claude Haiku 5.5 reclaiming the cheap-model frontier to intelligent UI, and what Ramp’s latest spending data says about where enterprise AI is actually moving. In the headlines: Nous Research hits a $1.5B valuation, tens of billions in chip financing deals get hashed out, and Anthropic opens up Mythos access through a new cyber"
-            },
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Simon Scrapes",
+          "handle": "@SimonScrapes",
+          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
+          "videos": [
             {
-              "title": "The Best Way To Test New AI Models",
-              "url": "https://www.youtube.com/watch?v=HX8Zr1kmLEQ",
-              "published": "2026-10-08T18:21:05Z",
-              "description": "In this Operator’s Cut with Nufar Gaspar learn how to test new AI models against your own tasks, compare outputs, and weigh quality, speed, and cost—a repeatable system for figuring out which models deserve a place in your work.\n\nThe AI Daily Brief helps you understand the most important news and discussions in AI. \nSubscribe to the podcast version of The AI Daily Brief wherever you listen: https://pod.link/1680633614\nGet it ad free at http://patreon.com/aidailybrief\nLearn more about the show ht"
+              "title": "How the Top 1% Use Claude Code Differently",
+              "url": "https://www.youtube.com/watch?v=J9NQTYUP6k0",
+              "published": "2026-10-10T16:24:57Z",
+              "description": "🚀Join the Agentic Academy: https://skool.com/scrapes\n👀 Get customers from ChatGPT: https://dub.sh/rankspot-yt\nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\nThe way the top 1% use Claude Code has completely changed in the last year. Forget \"plan mode\", \"think harder\" and a lot of the conventions we were told in the last 6 months- all that advice is now obsolete. In this video, we break down the 10 new strategies the experts are using to build more autonomou"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Alex Finn",
+          "handle": "@AlexFinn",
+          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
+          "videos": [
+            {
+              "title": "Can a Mac Mini run local AI? (shocking)",
+              "url": "https://www.youtube.com/watch?v=dFTXOt0GBx4",
+              "published": "2026-10-10T13:30:14Z",
+              "description": "Can the Mac Mini M6 run local AI\n\n\nMASSIVE database of AI agent use cases: https://agentusecases.ai/\nSign up for my free newsletter: https://www.shipitweekly.com/\nFollow my Instagram! http://instagram.com/alexfinnai\nFULL Local AI bootcamp in the Vibe Coding Academy: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https"
             }
           ],
           "error": null
@@ -495,147 +441,12 @@
           "creator": "Dewain Robinson",
           "handle": "@DewainRobinson",
           "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
-          "videos": [
-            {
-              "title": "AI for Tailored Business Processes",
-              "url": "https://www.youtube.com/shorts/CJY_QXQqkgk",
-              "published": "2026-10-09T05:00:42Z",
-              "description": "Is your AI working for you?\n\nDiscover how to tailor AI to fit your business processes!\nMake your AI smarter and more aligned with your brand.\nIt's all about understanding your unique needs and enhancing efficiency.\n\nReady to transform your business with AI?\n\n#AI #BusinessTransformation #WorkIQ"
-            },
-            {
-              "title": "AI governance at a crossroads  regulation, innovation, and the race for ai  leadership",
-              "url": "https://www.youtube.com/watch?v=g7z2MKIm1oU",
-              "published": "2026-10-08T17:51:38Z",
-              "description": "Can the world’s biggest #AI companies really regulate themselves?That’s what I’m asking in today’s Cloud Wars AI Minute.Six major AI providers have made commitments around self-regulation, but questions remain about enforcement and accountability. At the same time, the U.S. government is weighing how to regulate AI without slowing innovation or losing ground in the global AI race.And there’s another important question emerging: Should AI and #superintelligence be governed differently? I’m watchi"
-            }
-          ],
+          "videos": [],
           "error": null
         }
       ]
     },
     "newsletters": {
-      "power_bi_weekly": {
-        "name": "Power BI Weekly",
-        "issue_number": 378,
-        "issue_date": null,
-        "url": "https://powerbiweekly.info/issue-378.html",
-        "is_new": false,
-        "sections": {
-          "Issue 378": [
-            {
-              "title": "The Problem With Approximate Distinct Counts In Power BI – And How To Solve It",
-              "url": "https://blog.crossjoin.co.uk/2026/10/04/the-problem-with-approximate-distinct-counts-in-power-bi-and-how-to-solve-it/"
-            },
-            {
-              "title": "programmatically control Copilot access for semantic models",
-              "url": "https://fabric.guru/programmatically-control-copilot-access-for-semantic-models"
-            },
-            {
-              "title": "Fabric-RLM: Working With Semantic Models",
-              "url": "https://fabric.guru/fabric-rlm-working-with-semantic-models"
-            },
-            {
-              "title": "code coverage for semantic models",
-              "url": "https://www.kerski.tech/code-coverage-for-semantic-models/"
-            }
-          ],
-          "Data Prep": [
-            {
-              "title": "Power Query Has Changed Forever: the Good and the BAD",
-              "url": "https://www.youtube.com/watch?v=Fe3xSgC8I9c"
-            },
-            {
-              "title": "Fabric Dataflow Gen 2 - Upgrade Accelerator",
-              "url": "https://www.youtube.com/watch?v=neBnqyCF79Y"
-            },
-            {
-              "title": "PowerQuery UI Changes - Sep 2026 Power BI Update",
-              "url": "https://www.youtube.com/watch?v=8H5wPTsQJwk"
-            }
-          ],
-          "Data Modeling": [
-            {
-              "title": "Understanding DAX contracts when using AI",
-              "url": "https://www.sqlbi.com/articles/understanding-dax-contracts-when-using-ai/"
-            },
-            {
-              "title": "The Problem With Approximate Distinct Counts In Power BI – And How To Solve It",
-              "url": "https://blog.crossjoin.co.uk/2026/10/04/the-problem-with-approximate-distinct-counts-in-power-bi-and-how-to-solve-it/"
-            },
-            {
-              "title": "Fabric-RLM : Working With Semantic Models",
-              "url": "https://fabric.guru/fabric-rlm-working-with-semantic-models"
-            },
-            {
-              "title": "Who Is in the Loop? Semantic Models, Meaning and People",
-              "url": "https://data-tides.com/2026/10/06/who-is-in-the-loop-semantic-models-meaning-and-people/"
-            },
-            {
-              "title": "ChatGPT Astra + Power BI | Data Modeling and Documentation | Part 3",
-              "url": "https://www.youtube.com/watch?v=0LEduoqeM7c"
-            },
-            {
-              "title": "ChatGPT Astra + Power BI | DAX Deployment Done Right | Part 4",
-              "url": "https://www.youtube.com/watch?v=c_lI1u3_3J4"
-            }
-          ],
-          "Report Authoring and Interactivity": [
-            {
-              "title": "Copy Selected Cells from Power BI to Excel (Custom Visual)",
-              "url": "https://www.youtube.com/watch?v=-ua_E9_TIX4"
-            },
-            {
-              "title": "Power BI Data in Excel: Export to Excel vs Analyze in Excel (Why One Wins)",
-              "url": "https://www.youtube.com/watch?v=99CjFh91vJE"
-            },
-            {
-              "title": "How to Create a Variance Line Chart in Power BI Using Native Features",
-              "url": "https://www.youtube.com/watch?v=klTnRLAjSLg"
-            }
-          ],
-          "Deployment, Security and Operations": [
-            {
-              "title": "#7 Planning Your Fabric Rollout: Pilot vs. Enterprise-Wide Adoption Strategies",
-              "url": "https://sqlserverbi.blog/2026/10/06/7-planning-your-fabric-rollout-pilot-vs-enterprise-wide-adoption-strategies/"
-            },
-            {
-              "title": "Code Coverage for Semantic Models: Introducing pql-test code-coverage",
-              "url": "https://www.kerski.tech//code-coverage-for-semantic-models/"
-            },
-            {
-              "title": "Who’s Viewing Your Power BI Reports? Power BI Usage Metrics",
-              "url": "https://www.youtube.com/watch?v=QgIV9U1xjO8"
-            },
-            {
-              "title": "Programmatically Control Copilot access for semantic models",
-              "url": "https://fabric.guru/programmatically-control-copilot-access-for-semantic-models"
-            },
-            {
-              "title": "The Hidden Security Risks of Role Combination in SSAS Tabular",
-              "url": "https://www.sqlservercentral.com/articles/the-hidden-security-risks-of-role-combination-in-ssas-tabular"
-            }
-          ],
-          "General": [
-            {
-              "title": "Arun Ulag on the Future of Fabric, Power BI and AI | Fabric Insider Ep. 23",
-              "url": "https://www.youtube.com/watch?v=l-V5sD0Tiw4"
-            },
-            {
-              "title": "Where Writeback belongs - Ep.569 - Power BI tips",
-              "url": "https://www.youtube.com/watch?v=CgJZcVpYLJo"
-            },
-            {
-              "title": "FabCon Barcelona 2026 Recap",
-              "url": "https://tabulareditor.com/blog/fabcon-barcelona-2026-recap"
-            },
-            {
-              "title": "Mourning the (alleged) death of the Power BI Developer and thriving in uncertain times",
-              "url": "https://www.sqlgene.com/2026/10/04/mourning-the-alleged-death-of-the-power-bi-developer-and-thriving-in-uncertain-times/"
-            }
-          ]
-        },
-        "error": null
-      },
       "power_platform_weekly": {
         "name": "Power Platform Weekly",
         "issue_number": 278,
@@ -775,6 +586,128 @@
             {
               "title": "Build Your Own API for Power Apps Custom Connector (Azure Functions + Python)",
               "url": "https://www.youtube.com/watch?v=DLBvP03rS0Q"
+            }
+          ]
+        },
+        "error": null
+      },
+      "power_bi_weekly": {
+        "name": "Power BI Weekly",
+        "issue_number": 378,
+        "issue_date": null,
+        "url": "https://powerbiweekly.info/issue-378.html",
+        "is_new": false,
+        "sections": {
+          "Issue 378": [
+            {
+              "title": "The Problem With Approximate Distinct Counts In Power BI – And How To Solve It",
+              "url": "https://blog.crossjoin.co.uk/2026/10/04/the-problem-with-approximate-distinct-counts-in-power-bi-and-how-to-solve-it/"
+            },
+            {
+              "title": "programmatically control Copilot access for semantic models",
+              "url": "https://fabric.guru/programmatically-control-copilot-access-for-semantic-models"
+            },
+            {
+              "title": "Fabric-RLM: Working With Semantic Models",
+              "url": "https://fabric.guru/fabric-rlm-working-with-semantic-models"
+            },
+            {
+              "title": "code coverage for semantic models",
+              "url": "https://www.kerski.tech/code-coverage-for-semantic-models/"
+            }
+          ],
+          "Data Prep": [
+            {
+              "title": "Power Query Has Changed Forever: the Good and the BAD",
+              "url": "https://www.youtube.com/watch?v=Fe3xSgC8I9c"
+            },
+            {
+              "title": "Fabric Dataflow Gen 2 - Upgrade Accelerator",
+              "url": "https://www.youtube.com/watch?v=neBnqyCF79Y"
+            },
+            {
+              "title": "PowerQuery UI Changes - Sep 2026 Power BI Update",
+              "url": "https://www.youtube.com/watch?v=8H5wPTsQJwk"
+            }
+          ],
+          "Data Modeling": [
+            {
+              "title": "Understanding DAX contracts when using AI",
+              "url": "https://www.sqlbi.com/articles/understanding-dax-contracts-when-using-ai/"
+            },
+            {
+              "title": "The Problem With Approximate Distinct Counts In Power BI – And How To Solve It",
+              "url": "https://blog.crossjoin.co.uk/2026/10/04/the-problem-with-approximate-distinct-counts-in-power-bi-and-how-to-solve-it/"
+            },
+            {
+              "title": "Fabric-RLM : Working With Semantic Models",
+              "url": "https://fabric.guru/fabric-rlm-working-with-semantic-models"
+            },
+            {
+              "title": "Who Is in the Loop? Semantic Models, Meaning and People",
+              "url": "https://data-tides.com/2026/10/06/who-is-in-the-loop-semantic-models-meaning-and-people/"
+            },
+            {
+              "title": "ChatGPT Astra + Power BI | Data Modeling and Documentation | Part 3",
+              "url": "https://www.youtube.com/watch?v=0LEduoqeM7c"
+            },
+            {
+              "title": "ChatGPT Astra + Power BI | DAX Deployment Done Right | Part 4",
+              "url": "https://www.youtube.com/watch?v=c_lI1u3_3J4"
+            }
+          ],
+          "Report Authoring and Interactivity": [
+            {
+              "title": "Copy Selected Cells from Power BI to Excel (Custom Visual)",
+              "url": "https://www.youtube.com/watch?v=-ua_E9_TIX4"
+            },
+            {
+              "title": "Power BI Data in Excel: Export to Excel vs Analyze in Excel (Why One Wins)",
+              "url": "https://www.youtube.com/watch?v=99CjFh91vJE"
+            },
+            {
+              "title": "How to Create a Variance Line Chart in Power BI Using Native Features",
+              "url": "https://www.youtube.com/watch?v=klTnRLAjSLg"
+            }
+          ],
+          "Deployment, Security and Operations": [
+            {
+              "title": "#7 Planning Your Fabric Rollout: Pilot vs. Enterprise-Wide Adoption Strategies",
+              "url": "https://sqlserverbi.blog/2026/10/06/7-planning-your-fabric-rollout-pilot-vs-enterprise-wide-adoption-strategies/"
+            },
+            {
+              "title": "Code Coverage for Semantic Models: Introducing pql-test code-coverage",
+              "url": "https://www.kerski.tech//code-coverage-for-semantic-models/"
+            },
+            {
+              "title": "Who’s Viewing Your Power BI Reports? Power BI Usage Metrics",
+              "url": "https://www.youtube.com/watch?v=QgIV9U1xjO8"
+            },
+            {
+              "title": "Programmatically Control Copilot access for semantic models",
+              "url": "https://fabric.guru/programmatically-control-copilot-access-for-semantic-models"
+            },
+            {
+              "title": "The Hidden Security Risks of Role Combination in SSAS Tabular",
+              "url": "https://www.sqlservercentral.com/articles/the-hidden-security-risks-of-role-combination-in-ssas-tabular"
+            }
+          ],
+          "General": [
+            {
+              "title": "Arun Ulag on the Future of Fabric, Power BI and AI | Fabric Insider Ep. 23",
+              "url": "https://www.youtube.com/watch?v=l-V5sD0Tiw4"
+            },
+            {
+              "title": "Where Writeback belongs - Ep.569 - Power BI tips",
+              "url": "https://www.youtube.com/watch?v=CgJZcVpYLJo"
+            },
+            {
+              "title": "FabCon Barcelona 2026 Recap",
+              "url": "https://tabulareditor.com/blog/fabcon-barcelona-2026-recap"
+            },
+            {
+              "title": "Mourning the (alleged) death of the Power BI Developer and thriving in uncertain times",
+              "url": "https://www.sqlgene.com/2026/10/04/mourning-the-alleged-death-of-the-power-bi-developer-and-thriving-in-uncertain-times/"
             }
           ]
         },
@@ -1111,7 +1044,7 @@
           "title": "Microsoft Teams: Chat for organizers and presenters in structured meetings and webinars on Teams Rooms on Android",
           "description": "When a Teams Rooms on Android device acts as an organizer, co-organizer, or presenter in a structured meeting or webinar, you have access to the private chat for event management known as the Event Group. You can also switch to a separate chat with attendees, enabling smooth event experiences for all. Available in Teams Rooms Pro-licensed rooms.",
           "status": "In development",
-          "change_type": "new",
+          "change_type": "updated",
           "created": "2026-10-08T23:04:12",
           "modified": "2026-10-09T22:04:35",
           "ga_date": "November CY2026",
@@ -1138,7 +1071,7 @@
           "title": "Microsoft Teams: External presenter support for event group chat",
           "description": "Event group chat, the private chat for organizers, co-organizers, and presenters in an event or structured meeting, will support external presenters.",
           "status": "In development",
-          "change_type": "new",
+          "change_type": "updated",
           "created": "2026-10-08T23:04:12",
           "modified": "2026-10-09T22:04:35",
           "ga_date": "November CY2026",
@@ -1166,7 +1099,7 @@
           "title": "Microsoft Teams: Invite attendees to register",
           "description": "For an event that needs registration, send email invites to the selected people and groups who will be invited to register to the event",
           "status": "In development",
-          "change_type": "new",
+          "change_type": "updated",
           "created": "2026-10-08T23:04:12",
           "modified": "2026-10-09T22:04:35",
           "ga_date": "November CY2026",
@@ -1452,438 +1385,9 @@
             "DoD"
           ],
           "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=160008"
-        },
-        {
-          "id": 574115,
-          "title": "Outlook: Upcoming visual improvements and a more consistent Outlook experience",
-          "description": "The first updates will focus on visual details, such as icons, spacing and alignment. Users of classic Outlook for Windows will begin seeing refinements to familiar mail and calendar surfaces. The initial visual updates are intended to improve clarity and consistency without changing how users perform their tasks.",
-          "status": "In development",
-          "change_type": "new",
-          "created": "2026-10-08T23:04:12",
-          "modified": "2026-10-08T23:04:12",
-          "ga_date": "November CY2026",
-          "preview_date": "",
-          "products": [
-            "Outlook"
-          ],
-          "platforms": [
-            "Desktop"
-          ],
-          "release_phase": [
-            "Current Channel"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=574115"
-        },
-        {
-          "id": 574106,
-          "title": "SharePoint: AI input widget and content preview in Copilot",
-          "description": "With this new capability, users of Copilot in SharePoint will be able to view saved and unsaved preview content side by side with chat.  Users will also be able to interact with created HTML forms and confirm responses to send to chat.",
-          "status": "In development",
-          "change_type": "new",
-          "created": "2026-10-08T23:04:12",
-          "modified": "2026-10-08T23:04:12",
-          "ga_date": "November CY2026",
-          "preview_date": "",
-          "products": [
-            "SharePoint"
-          ],
-          "platforms": [
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=574106"
-        },
-        {
-          "id": 573709,
-          "title": "Dynamics 365 Project Operations: Review financial dimensions when approving expenses on mobile",
-          "description": "Approvers need access to the financial information behind an expense to make accurate approval decisions without leaving the approval experience. Dynamics 365 expense management mobile app will surface relevant financial dimensions directly within expense report approvals in the mobile app. Approvers can review financial coding in context before making a decision, helping reduce unnecessary navigation and keep expense approvals moving.",
-          "status": "In development",
-          "change_type": "new",
-          "created": "2026-10-08T23:04:12",
-          "modified": "2026-10-08T23:04:12",
-          "ga_date": "December CY2026",
-          "preview_date": "",
-          "products": [
-            "Dynamics 365 Project Operations"
-          ],
-          "platforms": [
-            "Android",
-            "iOS"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=573709"
-        },
-        {
-          "id": 573707,
-          "title": "Dynamics 365 Project Operations: Track mileage expenses using kilometers",
-          "description": "Organizations operating across different regions need to record mileage expenses using the units of measure appropriate for their employees and local requirements. Dynamics 365 Project Operations will support kilometers (km) as a configurable unit of measure for mileage expenses, in addition to miles. Organizations can configure the appropriate mileage unit for their business, helping employees record mileage expenses accurately using the measurement standard relevant to their regional requireme",
-          "status": "In development",
-          "change_type": "new",
-          "created": "2026-10-08T23:04:12",
-          "modified": "2026-10-08T23:04:12",
-          "ga_date": "December CY2026",
-          "preview_date": "",
-          "products": [
-            "Dynamics 365 Project Operations"
-          ],
-          "platforms": [
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=573707"
-        },
-        {
-          "id": 573625,
-          "title": "Microsoft Teams: Event Chat now available for Events optimized for a large audience in GCC",
-          "description": "All users in Events larger than 1,000 users or in any Event optimized for a large audience can now chat with one another in a public event chat in GCC.",
-          "status": "In development",
-          "change_type": "new",
-          "created": "2026-10-08T23:04:12",
-          "modified": "2026-10-08T23:04:12",
-          "ga_date": "November CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Teams"
-          ],
-          "platforms": [
-            "Desktop",
-            "Mac"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "GCC"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=573625"
-        },
-        {
-          "id": 573453,
-          "title": "Microsoft Teams: Streaming switchboard for Network Device Interface (NDI) Sources",
-          "description": "For Teams meetings and events, a new streaming switchboard will soon be available to easily manage and send NDI sources out to production software.",
-          "status": "In development",
-          "change_type": "new",
-          "created": "2026-10-08T23:04:12",
-          "modified": "2026-10-08T23:04:12",
-          "ga_date": "November CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Teams"
-          ],
-          "platforms": [
-            "Desktop",
-            "Mac"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=573453"
-        },
-        {
-          "id": 573446,
-          "title": "Microsoft Copilot (Microsoft 365): Copilot Chat in OneNote can create, edit, and refine content",
-          "description": "Copilot in OneNote can generate new content and directly edit when in edit mode. In this mode you can create, rename, and delete pages, sections, or notebooks as well as add or edit content in pages. Copilot can bring content from across WorkIQ as well as complete actions across other workflows such as creating Word, Excel, and PowerPoint files.",
-          "status": "In development",
-          "change_type": "new",
-          "created": "2026-10-08T23:04:12",
-          "modified": "2026-10-08T23:04:12",
-          "ga_date": "November CY2026",
-          "preview_date": "",
-          "products": [
-            "OneNote",
-            "Microsoft Copilot (Microsoft 365)"
-          ],
-          "platforms": [
-            "Desktop"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=573446"
-        },
-        {
-          "id": 573274,
-          "title": "Planner: Refreshed experience and new capabilities",
-          "description": "Microsoft Planner will be updated with a cleaner, more modern interface, improved navigation, responsive layouts, and a more consistent experience across Planner in Teams and Planner for the web.",
-          "status": "In development",
-          "change_type": "new",
-          "created": "2026-10-08T23:04:12",
-          "modified": "2026-10-08T23:04:12",
-          "ga_date": "November CY2026",
-          "preview_date": "",
-          "products": [
-            "Planner"
-          ],
-          "platforms": [
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "DoD"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=573274"
-        },
-        {
-          "id": 573252,
-          "title": "Dynamics 365 Project Operations: Cancel packing slips for stocked item requirements",
-          "description": "This feature supports controlled returns and packing slip cancellations for stocked item requirements originating in Finance and Supply Chain Management. You can open the Packing slip journal from the Item requirements page and cancel packing slips for eligible independent item requirements. Packing slip posting performs the physical inventory update while deferring the financial update, allowing cancellation before invoicing or finalization. Cancellation reverses the project cost, returns the i",
-          "status": "In development",
-          "change_type": "new",
-          "created": "2026-10-08T23:04:12",
-          "modified": "2026-10-08T23:04:12",
-          "ga_date": "December CY2026",
-          "preview_date": "",
-          "products": [
-            "Dynamics 365 Project Operations"
-          ],
-          "platforms": [
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=573252"
-        },
-        {
-          "id": 573169,
-          "title": "Microsoft Viva: Expanded agent coverage in Agent Dashboard",
-          "description": "Customers can now view reporting for agents from third-party platforms in the Agent 365 Dashboard in Microsoft Viva Insights (Copilot Analytics). This expanded coverage provides a more comprehensive view of agent activity across their organization.",
-          "status": "In development",
-          "change_type": "new",
-          "created": "2026-10-08T23:04:12",
-          "modified": "2026-10-08T23:04:12",
-          "ga_date": "October CY2026",
-          "preview_date": "October CY2026",
-          "products": [
-            "Microsoft Viva"
-          ],
-          "platforms": [
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability",
-            "Preview"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=573169"
-        },
-        {
-          "id": 570966,
-          "title": "Microsoft Copilot (Microsoft 365): Audio Overview updates in Copilot Notebooks",
-          "description": "We're rolling out new capabilities for Copilot Notebook audio overview that make it easier to navigate longer content with topic-based episodes, new audio formats such as Critique and Debate, support enterprise information protection with sensitivity labels, and expand audio overview context to more content types.",
-          "status": "In development",
-          "change_type": "new",
-          "created": "2026-10-08T23:04:12",
-          "modified": "2026-10-08T23:04:12",
-          "ga_date": "October CY2026",
-          "preview_date": "October CY2026",
-          "products": [
-            "Microsoft 365",
-            "OneNote",
-            "Microsoft Copilot (Microsoft 365)"
-          ],
-          "platforms": [
-            "Desktop",
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability",
-            "Preview"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=570966"
-        },
-        {
-          "id": 565217,
-          "title": "Microsoft Teams: Tenant-level dashboard for Interpreter",
-          "description": "We have decided not to move forward with this change at this time. We apologize for any inconvenience. Admins now have a dedicated dashboard in the Teams Admin Center to view Interpreter usage across their organization. Track adoption and usage trends in one place to better understand how Interpreter is being used.",
-          "status": "Cancelled",
-          "change_type": "updated",
-          "created": "2026-06-09T23:15:32",
-          "modified": "2026-10-08T23:04:12",
-          "ga_date": "November CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Teams"
-          ],
-          "platforms": [
-            "Android",
-            "iOS"
-          ],
-          "release_phase": [
-            "General Availability",
-            "Targeted Release"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=565217"
-        },
-        {
-          "id": 561036,
-          "title": "Microsoft Purview: DSPM – New Microsoft Purview Data Security Posture Management Experience",
-          "description": "At Ignite, Microsoft is introducing a major evolution of Purview Data Security Posture Management (DSPM) to help organizations strengthen data security and confidently embrace AI. The new DSPM experience unifies visibility and control across traditional data and AI-driven environments, delivering outcome-based guided workflows that turn insights into actionable steps—so teams can prioritize risks and remediate faster. It brings AI observability, enhanced posture reporting, and intelligent Securi",
-          "status": "In development",
-          "change_type": "updated",
-          "created": "2026-04-24T22:00:04",
-          "modified": "2026-10-08T23:04:12",
-          "ga_date": "January CY2027",
-          "preview_date": "",
-          "products": [
-            "Microsoft Purview"
-          ],
-          "platforms": [
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "GCC",
-            "GCC High",
-            "DoD"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=561036"
-        },
-        {
-          "id": 557170,
-          "title": "Microsoft Teams: Delete meeting generated content in recap",
-          "description": "Meeting organizers can now easily delete meeting generated content including recording, transcript, AI summary, and notes through the new delete button in recap page. Shared files in the meeting won't be deleted.",
-          "status": "Launched",
-          "change_type": "updated",
-          "created": "2026-03-04T00:00:25",
-          "modified": "2026-10-08T23:04:12",
-          "ga_date": "May CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Teams",
-            "Microsoft Copilot (Microsoft 365)"
-          ],
-          "platforms": [
-            "Desktop"
-          ],
-          "release_phase": [
-            "General Availability",
-            "Targeted Release"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)",
-            "GCC",
-            "GCC High"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=557170"
-        },
-        {
-          "id": 557970,
-          "title": "Microsoft Teams: Centralized notification settings for channels",
-          "description": "Centralized notification settings streamline channel notification setup and management. Available in Teams settings, users have a single place to review and adjust notifications for all visible channels, instead of managing each individually.",
-          "status": "Rolling out",
-          "change_type": "updated",
-          "created": "2026-02-27T23:15:13",
-          "modified": "2026-10-08T23:04:12",
-          "ga_date": "October CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Teams"
-          ],
-          "platforms": [
-            "Desktop",
-            "Mac"
-          ],
-          "release_phase": [
-            "General Availability",
-            "Targeted Release"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=557970"
-        },
-        {
-          "id": 555886,
-          "title": "Microsoft Copilot (Microsoft 365): Reference an email with Work IQ when using Edit with Copilot in PowerPoint to create a presentation",
-          "description": "You can now reference an email with Work IQ when using Edit with Copilot in PowerPoint to create a presentation.",
-          "status": "Launched",
-          "change_type": "updated",
-          "created": "2026-02-11T00:15:04",
-          "modified": "2026-10-08T23:04:12",
-          "ga_date": "March CY2026",
-          "preview_date": "",
-          "products": [
-            "PowerPoint",
-            "Microsoft Copilot (Microsoft 365)"
-          ],
-          "platforms": [
-            "Mac"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=555886"
-        },
-        {
-          "id": 486696,
-          "title": "Outlook: Agents for Microsoft 365 Copilot available in Copilot Chat in Outlook for Mac",
-          "description": "We will be adding declarative agents support in Copilot Chat in Outlook. This roadmap item tracks availability in Outlook for Mac.",
-          "status": "Launched",
-          "change_type": "updated",
-          "created": "2025-03-24T23:00:41",
-          "modified": "2026-10-08T23:04:12",
-          "ga_date": "March CY2026",
-          "preview_date": "",
-          "products": [
-            "Outlook"
-          ],
-          "platforms": [
-            "Mac"
-          ],
-          "release_phase": [
-            "Current Channel",
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=486696"
         }
       ],
-      "total_updates": 39,
+      "total_updates": 22,
       "error": null
     }
   },
