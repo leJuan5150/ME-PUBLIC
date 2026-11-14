@@ -1,40 +1,25 @@
 {
-  "generated_at": "2026-11-13T11:04:54.124773Z",
+  "generated_at": "2026-11-14T11:04:35.106646Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
-        {
-          "creator": "Life Style Overland",
-          "handle": "@LifeStyleOverland",
-          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
-          "videos": [],
-          "error": null
-        },
         {
           "creator": "TrailRecon",
           "handle": "@TrailRecon",
           "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
           "videos": [
             {
+              "title": "A War Hero Turned Prospector",
+              "url": "https://www.youtube.com/shorts/HF9MDLGassA",
+              "published": "2026-11-13T19:51:24Z",
+              "description": ""
+            },
+            {
               "title": "The Power Wagon I Regret Selling Is Back",
               "url": "https://www.youtube.com/watch?v=m9i0yrc5agI",
               "published": "2026-11-12T15:00:14Z",
               "description": "Several years ago I sold my 2020 Ram Power Wagon, and I've told Regena more than once it's the one off-road vehicle I regret letting go. So when Ram loaned me the all-new 2027 Power Wagon for a few days, I took it straight to the dirt to find out if I'd buy one again.\n\nThis one has the Cummins diesel, a first for the Power Wagon. It still has front and rear lockers, a sway bar disconnect, and coil springs at all four corners, and now it carries a lot more payload than my old truck did. I get int"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Ozark Overland Adventure",
-          "handle": "@OzarkOverlandAdventures",
-          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
-          "videos": [
-            {
-              "title": "Major AC Upgrade on our Truck Camper | DIY Install Fogatti InstaCool Ultra",
-              "url": "https://www.youtube.com/watch?v=2oEb2dmqWwo",
-              "published": "2026-11-11T16:00:28Z",
-              "description": "Upgrade your truck camper with the Fogatti InstaCool Ultra! After an unbearably hot summer that our current AC could not keep up with, I finally make the upgrate to the Fogatti InstaCool Ultra offering twice the cooling power than our old AC.\n\nNovember 19-30 save $130 during Black Friday.\nOriginal Price: $1,299.99 Discounted Price: $1,169.99\nWebsite:https://tr.ee/1GIidy\nAmazon:https://tr.ee/YLBFA7\n\n\nCamp & Carry Channel - https://youtube.com/@CampAndCarryOOA\n\nLInks to all our discounts - https:/"
             }
           ],
           "error": null
@@ -49,14 +34,57 @@
               "url": "https://www.youtube.com/shorts/YxyponGWkpE",
               "published": "2026-11-12T20:42:17Z",
               "description": ""
-            },
-            {
-              "title": "This Prison Escape is still a Mystery.",
-              "url": "https://www.youtube.com/shorts/hkkwKcVAQLk",
-              "published": "2026-11-11T17:16:03Z",
-              "description": "Full vid on the channel"
             }
           ],
+          "error": null
+        },
+        {
+          "creator": "This Story Till Now",
+          "handle": "@ThisStoryTillNow",
+          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Life Style Overland",
+          "handle": "@LifeStyleOverland",
+          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Epic Adventure Outfitters",
+          "handle": "@EpicAdventureOutfitters",
+          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Lil and Jake",
+          "handle": "@lilandjake",
+          "channel_id": "UCI5nuVPmxCt4VwSprm-gpAg",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Ozark Overland Adventure",
+          "handle": "@OzarkOverlandAdventures",
+          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
+          "videos": [
+            {
+              "title": "Rig Updates and Questions Answered - Camping, Gear Selection, Jeep Scrambler",
+              "url": "https://www.youtube.com/watch?v=6rFKgbpdwV8",
+              "published": "2026-11-13T23:00:27Z",
+              "description": "I've spent a good amount of time in the garage lately making updates to our Jeeps and Rossmonster and go over questions about camping, gear and vehicle mods, and the Jeep Scrambler concept.\n\nCamp & Carry Channel - https://youtube.com/@CampAndCarryOOA\n\nLInks to all our discounts - https://linktr.ee/ozarkoverlandadventures\n\nBecome a Patron - https://www.patreon.com/ozarkoverlandadventures\n\nPlease check out our sponsors:\nAll Roads Taken - https://www.allroadstaken.com\nMOORE Expo - https://mooreexpo"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "LetsGetLost",
+          "handle": "@LetsGetLost",
+          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
+          "videos": [],
           "error": null
         },
         {
@@ -74,56 +102,14 @@
           "error": null
         },
         {
-          "creator": "LetsGetLost",
-          "handle": "@LetsGetLost",
-          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Epic Adventure Outfitters",
-          "handle": "@EpicAdventureOutfitters",
-          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "This Story Till Now",
-          "handle": "@ThisStoryTillNow",
-          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
-          "videos": [],
-          "error": null
-        },
-        {
           "creator": "Craving.Outdoors",
           "handle": "@Craving.Outdoors",
           "channel_id": "UCzHx4YhJTwZ_HG_D-Q1lpSA",
           "videos": [],
           "error": null
-        },
-        {
-          "creator": "Lil and Jake",
-          "handle": "@lilandjake",
-          "channel_id": "UCI5nuVPmxCt4VwSprm-gpAg",
-          "videos": [],
-          "error": null
         }
       ],
       "power_platform": [
-        {
-          "creator": "Matthew Devaney",
-          "handle": "@MatthewDevaney",
-          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Lisa Crosbie",
-          "handle": "@LisaCrosbie",
-          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
-          "videos": [],
-          "error": null
-        },
         {
           "creator": "Reza Dorrani",
           "handle": "@RezaDorrani",
@@ -135,14 +121,14 @@
           "creator": "Shane Young",
           "handle": "@ShanesCows",
           "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
-          "videos": [
-            {
-              "title": "Power Apps Development Will Never Be the Same",
-              "url": "https://www.youtube.com/watch?v=-bv9WLqJsEE",
-              "published": "2026-11-11T13:30:15Z",
-              "description": "What if you could build an entire Power Platform solution in one afternoon instead of spending days or weeks on it? \n\nThat’s exactly what I did.\n\nI started with a 480-word prompt and gave it to GitHub Copilot. About 44 minutes and less than $7 in credits later, I had a working solution with:\n\n- A Power Apps Canvas app\n- A Model-driven app\n- Dataverse tables, relationships, and security\n- Power Automate cloud flows\n- And then I kept going. \n\nI added a generative page, built a Copilot Studio agent"
-            }
-          ],
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Matthew Devaney",
+          "handle": "@MatthewDevaney",
+          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
+          "videos": [],
           "error": null
         },
         {
@@ -160,6 +146,20 @@
           "error": null
         },
         {
+          "creator": "DamoBird365",
+          "handle": "@DamoBird365",
+          "channel_id": "UC-NCKrEw6CM8fidaIk-yrUQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Lisa Crosbie",
+          "handle": "@LisaCrosbie",
+          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
+          "videos": [],
+          "error": null
+        },
+        {
           "creator": "Bright Ideas Agency",
           "handle": "@brightideasagency",
           "channel_id": "UCnv9vvr7tQVQ07iSe4rZgWQ",
@@ -167,17 +167,24 @@
           "error": null
         },
         {
-          "creator": "DamoBird365",
-          "handle": "@DamoBird365",
-          "channel_id": "UC-NCKrEw6CM8fidaIk-yrUQ",
+          "creator": "Steve Corey",
+          "handle": "@stevecorey365",
+          "channel_id": "UCOZthH-jESHnUuH2HDyYONg",
           "videos": [
             {
-              "title": "One Photo, One Prompt: A Deployed App in 5 Minutes",
-              "url": "https://www.youtube.com/watch?v=sG-7qsoAF10",
-              "published": "2026-11-11T16:01:50Z",
-              "description": "One photo of an airport departure board and one prompt in Copilot Cowork gave me a working app, deployed to Copilot Managed Runtime, in about five minutes while my friend Nathalie stepped away at Philadelphia airport.\n\nIn this video I show the exact prompt, then rebuild the app from scratch against a real stopwatch (built and live at 6:26), check what it cost with /cost (108 Copilot Credits, about US$1.08), and show where the app lands for users (managedapps.cloud.microsoft) and for admins (Micr"
+              "title": "What Ignite Announcements Mean for Business Leaders",
+              "url": "https://www.youtube.com/watch?v=-YH6zLRTwwQ",
+              "published": "2026-11-13T13:45:43Z",
+              "description": "Steve Corey looks ahead to Microsoft Ignite while examining the operational work required before and after an AI rollout. He explains why governance, oversharing, shadow AI, and endpoint protection remain ongoing concerns, then discusses how leaders should interpret major conference announcements that may change before general availability. The episode also explores expected developments around SharePoint, Autopilot, and Copilot Managed Runtime, including their potential implications for applica"
             }
           ],
+          "error": null
+        },
+        {
+          "creator": "Power Squared",
+          "handle": "@PowerSquared",
+          "channel_id": "UCoDxmKfgtkGeXezviLXUGIw",
+          "videos": [],
           "error": null
         },
         {
@@ -186,16 +193,16 @@
           "channel_id": "UCsYYpxfrYrZaKwFPGM7shtQ",
           "videos": [
             {
+              "title": "Interactive Forms in SharePoint with Copilot (Build Once, Reuse as a Skill)",
+              "url": "https://www.youtube.com/watch?v=AXc9F45JL2I",
+              "published": "2026-11-13T11:38:51Z",
+              "description": "Copilot in SharePoint can now build interactive forms over the top of your lists and libraries. In this video I build one from a single prompt, use it to update a list, then save it as a skill and run it on a second list.\n\nSome jobs are hard to do by typing into chat or editing list rows one at a time. With an interactive form you work in something visual. You click through the items, the form checks your rules as you go, and nothing in the list is updated until you approve it.\n\nWhat's covered:\n"
+            },
+            {
               "title": "I Spent $30 on Fable 5.2 in Copilot Cowork. Here’s the Video It Made",
               "url": "https://www.youtube.com/watch?v=BppPjxf7Zn8",
               "published": "2026-11-13T00:45:08Z",
               "description": "Full write-up and the full Fable 5.2 brief: https://www.danielanderson.io/articles/fable-5-2-copilot-cowork-explainer-video/\n\nI tested Fable 5.2 in Copilot Cowork with one brief at maximum effort, and it made a 70-second animated explainer video for 3,022 credits, roughly $30. This Fable 5.2 test shows the brief, everything it handed back, the finished animation and what it cost.\n\nClaude Fable 5.2 from Anthropic is now rolling out in Microsoft Copilot Cowork. I switched Cowork from Opus 5.5 to F"
-            },
-            {
-              "title": "Why SharePoint Site Columns Matter More With Copilot (Full Demo)",
-              "url": "https://www.youtube.com/watch?v=w-UbnqD9oeY",
-              "published": "2026-11-11T18:00:19Z",
-              "description": "Good SharePoint information architecture is worth more now that Copilot is reading your content. In this video I build 2 site columns, add them to 3 document libraries, and then have Copilot in SharePoint build a search page across all 3. It only works because every library uses the same columns and the same values.\n\nA site column is a reusable column. You define it once, with its choices, and add it to as many libraries as you need. If you build the same status column by hand in each library in"
             }
           ],
           "error": null
@@ -206,20 +213,6 @@
           "channel_id": "UCH7RJ4zXEjFpfsm-6VZI8vw",
           "videos": [],
           "error": null
-        },
-        {
-          "creator": "Steve Corey",
-          "handle": "@stevecorey365",
-          "channel_id": "UCOZthH-jESHnUuH2HDyYONg",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Power Squared",
-          "handle": "@PowerSquared",
-          "channel_id": "UCoDxmKfgtkGeXezviLXUGIw",
-          "videos": [],
-          "error": null
         }
       ],
       "fabric_powerbi": [
@@ -227,12 +220,32 @@
           "creator": "Guy in a Cube",
           "handle": "@GuyInACube",
           "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Fernan (Solutions Abroad)",
+          "handle": "@SolutionsAbroad",
+          "channel_id": "UCpbgBx--a_H9LL69A1Uz9yg",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "How to Power BI",
+          "handle": "@HowtoPowerBI",
+          "channel_id": "UCcfngi7_ASuo5jdWX0bNauQ",
           "videos": [
             {
-              "title": "Power BI Desktop Bridge: Now AI Agents Can Finally See Your Report!",
-              "url": "https://www.youtube.com/watch?v=5Drn2H0J-7g",
-              "published": "2026-11-11T15:00:19Z",
-              "description": "Your AI agent has been editing your Power BI reports with its screen turned off. It changes the JSON, says \"Done! Your report is pink!\" – and it's still blue. The Power BI Desktop Bridge (preview) fixes that: the agent can now check the state of your report, take a screenshot to verify its own work, and reload Power BI Desktop – all in one go.\n\nIn this video Marthe shows you how to enable and install the Power BI Desktop Bridge, what the manifest tells the agent it can (and can't) do, why \"closi"
+              "title": "Finance teams, this is big: Budgeting is now built into Microsoft Fabric",
+              "url": "https://www.youtube.com/shorts/XxLpL0vLHmQ",
+              "published": "2026-11-13T12:00:18Z",
+              "description": "Every budget season looks the same: templates to every department, a week of chasing, days of merging files, and a forecast that’s already outdated when it reaches leadership.\nNightmare.\n\nMicrosoft Fabric now has planning built in. Which means everyone types in their numbers right next to actuals, finance reviews one version, and what-if scenarios recalculate in seconds. Once you try it, you can't live without it :)\n\n👉 See how it works + get the free Fabric Planning Deck:\nhttps://datatraining.io"
+            },
+            {
+              "title": "Your CFO Will Want This: Planning in Fabric",
+              "url": "https://www.youtube.com/watch?v=Pqs7XA5h6zc",
+              "published": "2026-11-12T16:12:11Z",
+              "description": "Planning in Fabric is here, and it brings budgeting and forecasting right next to your data! You can build budgets, forecasts and scenarios in an Excel-like sheet with approval flows, compare plan vs actuals on the same semantic model, write the results back to a SQL database in Fabric and so much more. No more separate planning tool or spreadsheets flying around.\n\n📘 More examples and explainers on Planning in Fabric: https://datatraining.io/budgeting-forecasting-microsoft-fabric\n\n👉 Need help wi"
             }
           ],
           "error": null
@@ -242,6 +255,42 @@
           "handle": "@PowerBITips",
           "channel_id": "UCPwPrIpZwlfIKcoUpRwl9OQ",
           "videos": [
+            {
+              "title": "576 - AI got 100x cheaper every six months. Now it's two months",
+              "url": "https://www.youtube.com/shorts/3gooKY_OzmM",
+              "published": "2026-11-14T10:18:18Z",
+              "description": "576 - Intelligence goes up, cost drops 100x. That used to take six months. The window just shrank to two, and it's still tightening.\n\nhttps://youtu.be/uYlYQdBNCE8\n\n#ai #llm #cost #tech #future"
+            },
+            {
+              "title": "576 - I burn 2.3 billion tokens a month. She burns 1.5 trillion",
+              "url": "https://www.youtube.com/shorts/6YkgkcUfpXk",
+              "published": "2026-11-14T02:33:30Z",
+              "description": "576 - A couple billion tokens a month felt like a lot until the other number came up. One person on the team is running 1.5 trillion.\n\nhttps://youtu.be/uYlYQdBNCE8\n\n#ai #tokens #cursor #dev #agents"
+            },
+            {
+              "title": "576 - Opus went from 60% to 99% on DAX in one year",
+              "url": "https://www.youtube.com/shorts/_0ZvvgW3PCA",
+              "published": "2026-11-14T00:03:36Z",
+              "description": "576 - November 2025: Opus hit 60% accuracy on DAX. That number is why Marco said what he said. Twelve months later it's sitting near 99%.\n\nhttps://youtu.be/uYlYQdBNCE8\n\n#dax #powerbi #ai #claude #data"
+            },
+            {
+              "title": "576 - Cheap models get great when you raise the think level",
+              "url": "https://www.youtube.com/shorts/LwT28DVQMko",
+              "published": "2026-11-13T23:22:30Z",
+              "description": "576 - Set a cheap model to high think mode and watch what happens. It spends more tokens, writes better code, and the bill barely moves on repetitive tasks.\n\nhttps://youtu.be/uYlYQdBNCE8\n\n#ai #llm #coding #tokens #dev"
+            },
+            {
+              "title": "576 - Only one model wrote perfect DAX syntax: Grok 4.7",
+              "url": "https://www.youtube.com/shorts/Kv2pumzZARQ",
+              "published": "2026-11-13T14:58:25Z",
+              "description": "576 - Four frontier models wrote DAX. All four shipped syntax errors. Only one got every statement clean, and it wasn't the one anybody expected.\n\nhttps://youtu.be/uYlYQdBNCE8\n\n#dax #powerbi #ai #grok #benchmark"
+            },
+            {
+              "title": "575 - The bot pushed back instead of saying I was right",
+              "url": "https://www.youtube.com/shorts/DziNlZM8-Fw",
+              "published": "2026-11-13T12:21:33Z",
+              "description": "575 - Most bots just agree with you. This one pushed back with real counterpoints, and when it produced word salad, asking it to explain again actually got a straight answer.\n\nhttps://youtu.be/oB9GQPX_7Fc\n\n#ai #claude #agents #llm"
+            },
             {
               "title": "575 - Sick and awake at 2am, talked to a bot for 90 minutes",
               "url": "https://www.youtube.com/shorts/-a0_0Cc3Zw0",
@@ -283,42 +332,6 @@
               "url": "https://www.youtube.com/shorts/Nth0kgXwQns",
               "published": "2026-11-12T12:25:32Z",
               "description": "575 - Microsoft's new Surface laptop packs an Nvidia chip and 128 gigs of VRAM, enough to run big models right on the machine. They're calling it the software factory.\n\nhttps://youtu.be/oB9GQPX_7Fc\n\n#microsoft #surface #ai #localllm"
-            },
-            {
-              "title": "575 - A tiny model beat the frontier on classification",
-              "url": "https://www.youtube.com/shorts/ZrPz1JYTR1E",
-              "published": "2026-11-12T11:04:08Z",
-              "description": "575 - A developer built a tiny purpose-made model for classification and beat the big frontier models on cost and speed. A few weeks later, another company did the same thing in a different niche.\n\nhttps://youtu.be/oB9GQPX_7Fc\n\n#ai #llm #classification #ml"
-            },
-            {
-              "title": "575 - You can't lift a cache from one model to another",
-              "url": "https://www.youtube.com/shorts/Mqh_gIJNGBs",
-              "published": "2026-11-12T04:10:34Z",
-              "description": "575 - Caching keeps your token count down, but it's locked to one model and one conversation. You can't lift that cache and hand it to the next model, which leaves a real gap.\n\nhttps://youtu.be/oB9GQPX_7Fc\n\n#ai #llm #tokens #claude"
-            },
-            {
-              "title": "575 - One prompt now runs across several models",
-              "url": "https://www.youtube.com/shorts/e0SSygrdlpk",
-              "published": "2026-11-12T01:05:12Z",
-              "description": "575 - GitHub Copilot added a queue that scores how hard your request is before picking a model. One prompt can now run across several, switching mid-thought.\n\nhttps://youtu.be/oB9GQPX_7Fc\n\n#githubcopilot #ai #llm #devtools"
-            },
-            {
-              "title": "575 - Max effort model needs 3 pages for two plus two",
-              "url": "https://www.youtube.com/shorts/4JZ9A8qm8gc",
-              "published": "2026-11-11T23:42:35Z",
-              "description": "575 - Ask the max effort model what two plus two is and watch it deliberate. Right answer, three pages of reasoning. Feels like handing your math homework to an engineer dad.\n\nhttps://youtu.be/oB9GQPX_7Fc\n\n#ai #llm #claude #modelselection"
-            },
-            {
-              "title": "575 - That chat title you never type? That's Haiku",
-              "url": "https://www.youtube.com/shorts/p0WI2aD-Ao4",
-              "published": "2026-11-11T12:46:26Z",
-              "description": "575 - That session name that appears a second after you start typing? You never wrote it, and the big model never touched it. Small models have a job, and this is it.\n\nhttps://youtu.be/oB9GQPX_7Fc\n\n#ai #claude #llm #haiku"
-            },
-            {
-              "title": "575 - Connect Claude to Slack and that data is unprotected",
-              "url": "https://www.youtube.com/shorts/HNeE8KgZVxA",
-              "published": "2026-11-11T12:14:21Z",
-              "description": "575 - Data you hand Claude directly is covered by the agreement. Connect it to Slack or Google Drive and that protection drops. The license language on this is blunt.\n\nhttps://youtu.be/oB9GQPX_7Fc\n\n#ai #dataprivacy #claude #security"
             }
           ],
           "error": null
@@ -336,70 +349,9 @@
             }
           ],
           "error": null
-        },
-        {
-          "creator": "Fernan (Solutions Abroad)",
-          "handle": "@SolutionsAbroad",
-          "channel_id": "UCpbgBx--a_H9LL69A1Uz9yg",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "How to Power BI",
-          "handle": "@HowtoPowerBI",
-          "channel_id": "UCcfngi7_ASuo5jdWX0bNauQ",
-          "videos": [
-            {
-              "title": "Your CFO Will Want This: Planning in Fabric",
-              "url": "https://www.youtube.com/watch?v=Pqs7XA5h6zc",
-              "published": "2026-11-12T16:12:11Z",
-              "description": "Planning in Fabric is here, and it brings budgeting and forecasting right next to your data! You can build budgets, forecasts and scenarios in an Excel-like sheet with approval flows, compare plan vs actuals on the same semantic model, write the results back to a SQL database in Fabric and so much more. No more separate planning tool or spreadsheets flying around.\n\n📘 More examples and explainers on Planning in Fabric: https://datatraining.io/budgeting-forecasting-microsoft-fabric\n\n👉 Need help wi"
-            },
-            {
-              "title": "Refresh options for semantic models in Fabric | Refresh Data Only or Schema and Data",
-              "url": "https://www.youtube.com/shorts/IyjI87emdNQ",
-              "published": "2026-11-11T12:55:09Z",
-              "description": "When you edit a semantic model in Fabric, the Refresh button on the Home ribbon has more in it than most people realize.\n\nSchema and data refreshes everything, including new tables or columns from the source. Data only reloads the rows, which is quicker when the structure hasn’t changed. From the same menu you can set up a refresh schedule, check the refresh history when something failed, and create an advanced refresh, which is still in preview.\n\n\n👉 Need help with Fabric, AI or Power BI develop"
-            }
-          ],
-          "error": null
         }
       ],
       "ai": [
-        {
-          "creator": "NateBJones",
-          "handle": "@NateBJones",
-          "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
-          "videos": [
-            {
-              "title": "Claude Fable 5.2 read a month of my failed attempts and got it right the first time.",
-              "url": "https://www.youtube.com/watch?v=owMtQh_3k4k",
-              "published": "2026-11-12T15:00:18Z",
-              "description": "Claude Fable 5.2 review from early access: Anthropic's new model finally built the e-ink display three earlier attempts couldn't, and it costs enough that you have to pick its work carefully. Where is Fable 5.2 worth the price, and where is Opus 5.5 still enough?\n\nFull post:\nhttps://natesnewsletter.substack.com/p/claude-fable-5-2-worth-it?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=claude-fable-5-2-worth-it-launch&amp;utm_content=description\n\nNate's Library MCP (every prompt kit and"
-            },
-            {
-              "title": "The ChatGPT setting that changes everything #ChatGPT #AI #LifeHack",
-              "url": "https://www.youtube.com/shorts/g8jKNvxbqYI",
-              "published": "2026-11-11T18:28:05Z",
-              "description": "Stop struggling with ChatGPT mobile settings and find your hidden features.\n\nMany users find the interface confusing when key tools seem to disappear or stay locked behind menus. This guide shows you exactly where to find the plus icon and why your mobile app might feel limited.\n\nWatch this if you want to master your AI mobile account and stop feeling like the tech is getting dumber.\n\nSubscribe for weekly AI strategy breakdowns, and comment which mobile feature you want me to cover next.\n\nMy Lin"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Alex Finn",
-          "handle": "@AlexFinn",
-          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
-          "videos": [
-            {
-              "title": "The Hermes Mobile App is AWESOME",
-              "url": "https://www.youtube.com/watch?v=f_NfbjaSJ-k",
-              "published": "2026-11-11T22:28:46Z",
-              "description": "The Hermes Agent mobile app is awesome\n\nGet instant access to the Hermes bootcamp: https://www.skool.com/vibe-coding-academy\n\nFollow my Instagram! http://instagram.com/alexfinnai\nMASSIVE database of AI agent use cases: https://agentusecases.ai/\nSign up for my free newsletter: https://www.shipitweekly.com/\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nTimestamps:\n0:00 Intro\n0:33 Walkthrough o"
-            }
-          ],
-          "error": null
-        },
         {
           "creator": "Chase AI",
           "handle": "@ChaseAI",
@@ -410,12 +362,20 @@
               "url": "https://www.youtube.com/watch?v=TRxcLhvhclA",
               "published": "2026-11-13T01:41:26Z",
               "description": "⚡Master Claude Code: https://chaseai.io/plus\n🔥FREE community: https://chaseai.io/community\n💻Get 1:1 help: https://chaseai.io\n\nDid Claude just kill Excel? Not exactly, but Anthropic just took its first step. This week they released Claude Sheets, Claude Whiteboards and Claude Data, and I tested all three. Here's how each one works, where it's actually useful, and how to get the most out of them.\n\n⏱️ Timestamps\n0:00 Did Claude just kill Excel?\n1:10 Claude Whiteboards\n4:01 Claude Code Masterclass\n4"
-            },
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Alex Finn",
+          "handle": "@AlexFinn",
+          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
+          "videos": [
             {
-              "title": "The NEW Fable 5.2 Design Workflow Everyone Is Stealing",
-              "url": "https://www.youtube.com/watch?v=lAE78Iorby0",
-              "published": "2026-11-11T23:47:10Z",
-              "description": "💫Higgsfield (60% off): https://higgsfield.ai/s/chase-h-ai-VpRogK\n⚡Master Claude Code: https://chaseai.io/plus\n🔥FREE community: https://chaseai.io/community\n💻Get 1:1 help: https://chaseai.io\n\nClaude Fable 5.2 has upped the frontend design bar (again).\n\n\nTIMESTAMPS:\n0:00 Did Fable 5.2 kill AI slop?\n1:55 What AI slop looks like\n2:54 Step 1: Taste\n6:10 Step 2: Tools\n9:03 Step 3: Direction\n12:55 Step 4: Dial\n\nRESOURCES FROM THIS VIDEO:\n➡️ Master Claude Code: https://chaseai.io/plus\n➡️ My Website: htt"
+              "title": "AI News of the Week: Jensen Resigns, Google Carbon is WILD, Grok Bot MAJOR Update",
+              "url": "https://www.youtube.com/watch?v=wLTb7W4dero",
+              "published": "2026-11-14T02:36:21Z",
+              "description": "AI news of the week: Jensen Huang resigns, Grok Bot 1.0 released, Google Carbon releases, Grok Bot major update, ChatGPT wallet, Claude Duet wide release\n\nGet instant access to the Hermes bootcamp: https://www.skool.com/vibe-coding-academy\n\nFollow my Instagram! http://instagram.com/alexfinnai\nMASSIVE database of AI agent use cases: https://agentusecases.ai/\nSign up for my free newsletter: https://www.shipitweekly.com/\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup"
             }
           ],
           "error": null
@@ -424,20 +384,7 @@
           "creator": "Nate Herk",
           "handle": "@NateHerk",
           "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-          "videos": [
-            {
-              "title": "Claude Can Now Run Your Omnisend Account for You",
-              "url": "https://www.youtube.com/shorts/3iylmS2k3Is",
-              "published": "2026-11-11T18:00:39Z",
-              "description": "Claude can now work inside your Omnisend account, using your real data to build the campaign. Go to my Instagram, DM me \"FLOW\" and I'll send you my code for 30% off your first 3 months. 👇 @omnisend #ad \n\nhttps://your.omnisend.com/nate_herk, code NATEH30"
-            },
-            {
-              "title": "Everything Alex Hormozi Said About AI in 2026",
-              "url": "https://www.youtube.com/watch?v=dlkZr61G6vA",
-              "published": "2026-11-11T12:44:29Z",
-              "description": "How I built an AI agency from 0 to over $1 million per year: https://www.skool.com/ai-automation-society-plus/about?el=hormozi-ai&amp;hcategory=youtube-videos&amp;utm_campaign=plus-group\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=hormozi-ai&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nI went throu"
-            }
-          ],
+          "videos": [],
           "error": null
         },
         {
@@ -446,16 +393,16 @@
           "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
           "videos": [
             {
+              "title": "The Craziest AI Week of The Year...",
+              "url": "https://www.youtube.com/watch?v=nTXUndFOTCw",
+              "published": "2026-11-13T14:00:32Z",
+              "description": "Connect Claude with Gemini Notebook using Kortex: https://www.kortex-notebooklm.com/?utm_source=youtube&amp;utm_campaign=kortex_paul\n\nUse code PAUL10 at checkout. MCP is available with Kortex Pro and Lifetime. 🔗 This video is sponsored by Kortex.\n\nThis week brought Claude Fable 5.2, Gemini 4 Carbon and Hydrogen, and a new set of tools inside Claude. I’ll show you what matters, how I choose which models to use, and why AI on my Apple Watch has made such a difference to my day.\n\n0:00 Intro\n0:59 NV"
+            },
+            {
               "title": "Gemini 4 Hydrogen Just Dropped (Personally Tested)",
               "url": "https://www.youtube.com/watch?v=bm8x0hopWTU",
               "published": "2026-11-12T18:39:24Z",
               "description": "Google just dropped Gemini 4 Hydrogen, a fast, cost-efficient model built to be your daily driver. I’ve had early access for about a day, so in this video I go over what Hydrogen is, where you can use it, Google’s benchmarks, and how its pricing compares to Gemini 3.8 Flash and Gemini 4 Carbon. Then I show you a few things I built with it and where I think it fits in."
-            },
-            {
-              "title": "Fable 5.2: 18 Wild Things People Are Building",
-              "url": "https://www.youtube.com/watch?v=o8hqvv3Cbls",
-              "published": "2026-11-11T23:39:42Z",
-              "description": "I picked 18 Fable 5.2 examples, from playable games and animations to video editing and hardware design, including a few builds of my own. I’ll show you what impressed me, what still needs work, and why I’m still using Opus 5.5 for some everyday tasks.\n\nExamples and original creator posts:\n\nFelix Rieseberg: first-person shooter - https://x.com/felixrieseberg/status/2119925633564463609\nKevin: boat ride through eight worlds - https://x.com/kevin_t_ngo/status/2119868968307695818\nAnabology: the AI d"
             }
           ],
           "error": null
@@ -476,21 +423,28 @@
               "url": "https://www.youtube.com/watch?v=gCOMQPMhIL0",
               "published": "2026-11-12T16:12:30Z",
               "description": "Anthropic’s IPO is days away, and nobody really knows how investors will price the biggest bet in AI. NLW breaks down the share price range, shifting valuation chatter, compute commitments, and the new Claude productivity suite aimed at Microsoft. In the headlines: Google’s Gemini 4 Carbon release, fallout from the Nvidia spy scandal, and a record quarter for OpenAI.\n\nThe AI Daily Brief helps you understand the most important news and discussions in AI. \nSubscribe to the podcast version of The A"
-            },
-            {
-              "title": "Fable 5.2 vs Opus 5.5 and When to Use Each",
-              "url": "https://www.youtube.com/watch?v=mJMKygU_G5g",
-              "published": "2026-11-11T13:43:49Z",
-              "description": "The AI Daily Brief helps you understand the most important news and discussions in AI. \nSubscribe to the podcast version of The AI Daily Brief wherever you listen: https://pod.link/1680633614\nGet it ad free at http://patreon.com/aidailybrief\nLearn more about the show https://aidailybrief.ai/"
             }
           ],
           "error": null
         },
         {
-          "creator": "Dewain Robinson",
-          "handle": "@DewainRobinson",
-          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
-          "videos": [],
+          "creator": "NateBJones",
+          "handle": "@NateBJones",
+          "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
+          "videos": [
+            {
+              "title": "Why Jensen Huang's Resignation Could Change Your AI Bill",
+              "url": "https://www.youtube.com/watch?v=04ClMCe_-JY",
+              "published": "2026-11-13T15:00:13Z",
+              "description": "Jensen Huang has resigned from NVIDIA, and the bigger consequence is NVIDIA's next deal. Here's what changes for AI chip competition, AI infrastructure financing, export rules, and what you pay for AI.\n\nNate's Library MCP (every prompt kit and guide, inside the AI you already use):\nhttps://unlock-ai.natebjones.com/guides/how-to-connect-nates-library?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=jensen-huang-resigns-nvidia-launch&amp;utm_content=description\n\nMy Links 🔗\n👉🏻 Newsletter: h"
+            },
+            {
+              "title": "Claude Fable 5.2 read a month of my failed attempts and got it right the first time.",
+              "url": "https://www.youtube.com/watch?v=owMtQh_3k4k",
+              "published": "2026-11-12T15:00:18Z",
+              "description": "Claude Fable 5.2 review from early access: Anthropic's new model finally built the e-ink display three earlier attempts couldn't, and it costs enough that you have to pick its work carefully. Where is Fable 5.2 worth the price, and where is Opus 5.5 still enough?\n\nFull post:\nhttps://natesnewsletter.substack.com/p/claude-fable-5-2-worth-it?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=claude-fable-5-2-worth-it-launch&amp;utm_content=description\n\nNate's Library MCP (every prompt kit and"
+            }
+          ],
           "error": null
         },
         {
@@ -511,14 +465,14 @@
           "creator": "Simon Scrapes",
           "handle": "@SimonScrapes",
           "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
-          "videos": [
-            {
-              "title": "n8n’s New Agent BEATS Dots, Muse & Grok Bot",
-              "url": "https://www.youtube.com/watch?v=VSrarL8Ki_A",
-              "published": "2026-11-11T18:01:15Z",
-              "description": "This video is sponsored by n8n & Nod: https://go.n8n.io/cwknKx (Github repo)\n\n🚀Join the Agentic Academy: https://skool.com/scrapes\n👀 SEO & AI search execution layer for agents: https://dub.sh/rankspot-yt\nDon't miss the next build - https://www.youtube.com/@simonscrapes?sub_confirmation=1\n\nn8n is back with Nod, a brand-new personal agent that runs on your own computer and goes head-to-head with Dots, Muse, Grok Bot and Claude Duet. In this honest review (flaws included), you'll see how Nod compar"
-            }
-          ],
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Dewain Robinson",
+          "handle": "@DewainRobinson",
+          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
+          "videos": [],
           "error": null
         }
       ]
@@ -667,6 +621,108 @@
             {
               "title": "Copilot Studio vs Power Automate: When Do You Need an AI Agent?",
               "url": "https://www.youtube.com/watch?v=JcWcYqW0fYk"
+            }
+          ]
+        },
+        "error": null
+      },
+      "power_platform_dev_weekly": {
+        "name": "Power Platform Dev Weekly",
+        "issue_number": 303,
+        "issue_date": "2026-11-11",
+        "url": "https://www.ppdevweekly.com/p/303",
+        "is_new": false,
+        "sections": {
+          "🥇 Cover Story": [
+            {
+              "title": "I Just Gave Copilot Permission to Delete My Opportunities",
+              "url": "https://crmkeeper.com/2026/11/10/i-just-gave-copilot-permission-to-delete-my-opportunities/"
+            }
+          ],
+          "💎 Model Driven Apps & Dataverse": [
+            {
+              "title": "SQL Meets the Dataverse Web API – Query Dataverse Using SQL",
+              "url": "https://mytrial365.com/2026/11/05/sql-meets-the-dataverse-web-api-query-dataverse-using-sql/"
+            }
+          ],
+          "🏋️‍♂️ Canvas Apps": [
+            {
+              "title": "How to play videos directly in a Power Apps Canvas App with the Stream (preview) control",
+              "url": "https://www.inogic.com/blog/2026/11/how-to-play-videos-directly-in-a-power-apps-canvas-app-with-the-stream-preview-control/"
+            }
+          ],
+          "🤖 Copilot": [
+            {
+              "title": "Right-Sized AI in Copilot: When Standard Harness with AI Builder Is the More Efficient Choice",
+              "url": "https://dev.to/balagmadhu/right-sized-ai-in-copilot-when-standard-harness-with-ai-builder-is-the-more-efficient-choice-4jm3"
+            },
+            {
+              "title": "Copilot Studio - When to use Child Agents",
+              "url": "https://dev.to/wyattdave/copilot-studio-when-to-use-child-agents-507p"
+            },
+            {
+              "title": "Adventures with Copilot Studio: Better Instructions, Faster Agents, Fewer Credits!",
+              "url": "https://mattruma.com/adventures-with-copilot-studio-better-instructions-faster-agents-fewer-credits/"
+            }
+          ],
+          "🚀 PCF & Custom Pages": [
+            {
+              "title": "Preventing CSS Conflicts in Model-Driven Apps using Shadow DOM",
+              "url": "https://www.inogic.com/blog/2026/11/preventing-css-conflicts-in-model-driven-apps-using-shadow-dom/"
+            }
+          ],
+          "🔨 Tools & Components": [
+            {
+              "title": "Creating your own AI “infrastructure”?",
+              "url": "https://www.itaintboring.com/ai/creating-your-own-ai-infrastructure/"
+            },
+            {
+              "title": "Modern Web Guidance on a real site - what it fixed and what it broke",
+              "url": "https://olashyn.dev/modern-web-guidance/"
+            },
+            {
+              "title": "Data Importer Tool for PPTB – I did a thing!",
+              "url": "https://thecrm.ninja/data-importer-tool-for-pptb-i-did-a-thing/"
+            }
+          ],
+          "🎮 Other Interesting Articles": [
+            {
+              "title": "Using Copilot Code to rebuild a canvas Power App",
+              "url": "https://readyxrm.blog/2026/10/24/using-copilot-code-to-rebuild-a-canvas-power-app/"
+            },
+            {
+              "title": "Sync Text Message Replies STOP and START with Contact Point Consent in Customer Insights - Journeys",
+              "url": "https://www.ameyholden.com/articles/sync-text-message-sms-stop-start-consent-customer-insights-journeys"
+            },
+            {
+              "title": "Power Apps Code Apps and the Dataverse Connector: The day our guest users saw nothing",
+              "url": "https://dev.to/_neronotte/power-apps-code-apps-and-the-dataverse-connector-the-day-our-guest-users-saw-nothing-19ld"
+            },
+            {
+              "title": "Claude Inside the EU Data Boundary: What Changes for European Copilot Tenants and What Does Not",
+              "url": "https://holgerimbery.blog/claude-eu-data-boundary-copilot"
+            },
+            {
+              "title": "A Decision AI Model in Application Architecture",
+              "url": "https://netwiseglobal.com/blog/a-decision-ai-model-in-application-architecture/"
+            }
+          ],
+          "📺 Videos": [
+            {
+              "title": "How to Setup Guardrails for Copilot Studio Agents (ADMINS)​",
+              "url": "https://www.youtube.com/watch?v=hizTfPz3J2w"
+            },
+            {
+              "title": "2026 PPCC Review",
+              "url": "https://www.youtube.com/watch?v=6h3C-6hW5hQ"
+            },
+            {
+              "title": "Pipeline Visualiser Open Source tool - Power Platform ToolBox",
+              "url": "https://www.youtube.com/watch?v=HhQnZ_xlYPw"
+            },
+            {
+              "title": "Dataverse Plugin vs 56K Records #Shorts",
+              "url": "https://www.youtube.com/watch?v=ZyTHVsoQ71E"
             }
           ]
         },
@@ -829,108 +885,6 @@
           ]
         },
         "error": null
-      },
-      "power_platform_dev_weekly": {
-        "name": "Power Platform Dev Weekly",
-        "issue_number": 303,
-        "issue_date": "2026-11-11",
-        "url": "https://www.ppdevweekly.com/p/303",
-        "is_new": false,
-        "sections": {
-          "🥇 Cover Story": [
-            {
-              "title": "I Just Gave Copilot Permission to Delete My Opportunities",
-              "url": "https://crmkeeper.com/2026/11/10/i-just-gave-copilot-permission-to-delete-my-opportunities/"
-            }
-          ],
-          "💎 Model Driven Apps & Dataverse": [
-            {
-              "title": "SQL Meets the Dataverse Web API – Query Dataverse Using SQL",
-              "url": "https://mytrial365.com/2026/11/05/sql-meets-the-dataverse-web-api-query-dataverse-using-sql/"
-            }
-          ],
-          "🏋️‍♂️ Canvas Apps": [
-            {
-              "title": "How to play videos directly in a Power Apps Canvas App with the Stream (preview) control",
-              "url": "https://www.inogic.com/blog/2026/11/how-to-play-videos-directly-in-a-power-apps-canvas-app-with-the-stream-preview-control/"
-            }
-          ],
-          "🤖 Copilot": [
-            {
-              "title": "Right-Sized AI in Copilot: When Standard Harness with AI Builder Is the More Efficient Choice",
-              "url": "https://dev.to/balagmadhu/right-sized-ai-in-copilot-when-standard-harness-with-ai-builder-is-the-more-efficient-choice-4jm3"
-            },
-            {
-              "title": "Copilot Studio - When to use Child Agents",
-              "url": "https://dev.to/wyattdave/copilot-studio-when-to-use-child-agents-507p"
-            },
-            {
-              "title": "Adventures with Copilot Studio: Better Instructions, Faster Agents, Fewer Credits!",
-              "url": "https://mattruma.com/adventures-with-copilot-studio-better-instructions-faster-agents-fewer-credits/"
-            }
-          ],
-          "🚀 PCF & Custom Pages": [
-            {
-              "title": "Preventing CSS Conflicts in Model-Driven Apps using Shadow DOM",
-              "url": "https://www.inogic.com/blog/2026/11/preventing-css-conflicts-in-model-driven-apps-using-shadow-dom/"
-            }
-          ],
-          "🔨 Tools & Components": [
-            {
-              "title": "Creating your own AI “infrastructure”?",
-              "url": "https://www.itaintboring.com/ai/creating-your-own-ai-infrastructure/"
-            },
-            {
-              "title": "Modern Web Guidance on a real site - what it fixed and what it broke",
-              "url": "https://olashyn.dev/modern-web-guidance/"
-            },
-            {
-              "title": "Data Importer Tool for PPTB – I did a thing!",
-              "url": "https://thecrm.ninja/data-importer-tool-for-pptb-i-did-a-thing/"
-            }
-          ],
-          "🎮 Other Interesting Articles": [
-            {
-              "title": "Using Copilot Code to rebuild a canvas Power App",
-              "url": "https://readyxrm.blog/2026/10/24/using-copilot-code-to-rebuild-a-canvas-power-app/"
-            },
-            {
-              "title": "Sync Text Message Replies STOP and START with Contact Point Consent in Customer Insights - Journeys",
-              "url": "https://www.ameyholden.com/articles/sync-text-message-sms-stop-start-consent-customer-insights-journeys"
-            },
-            {
-              "title": "Power Apps Code Apps and the Dataverse Connector: The day our guest users saw nothing",
-              "url": "https://dev.to/_neronotte/power-apps-code-apps-and-the-dataverse-connector-the-day-our-guest-users-saw-nothing-19ld"
-            },
-            {
-              "title": "Claude Inside the EU Data Boundary: What Changes for European Copilot Tenants and What Does Not",
-              "url": "https://holgerimbery.blog/claude-eu-data-boundary-copilot"
-            },
-            {
-              "title": "A Decision AI Model in Application Architecture",
-              "url": "https://netwiseglobal.com/blog/a-decision-ai-model-in-application-architecture/"
-            }
-          ],
-          "📺 Videos": [
-            {
-              "title": "How to Setup Guardrails for Copilot Studio Agents (ADMINS)​",
-              "url": "https://www.youtube.com/watch?v=hizTfPz3J2w"
-            },
-            {
-              "title": "2026 PPCC Review",
-              "url": "https://www.youtube.com/watch?v=6h3C-6hW5hQ"
-            },
-            {
-              "title": "Pipeline Visualiser Open Source tool - Power Platform ToolBox",
-              "url": "https://www.youtube.com/watch?v=HhQnZ_xlYPw"
-            },
-            {
-              "title": "Dataverse Plugin vs 56K Records #Shorts",
-              "url": "https://www.youtube.com/watch?v=ZyTHVsoQ71E"
-            }
-          ]
-        },
-        "error": null
       }
     },
     "release_plans": {
@@ -945,14 +899,323 @@
       "data_url": "https://www.microsoft.com/releasecommunications/api/v1/m365",
       "items": [
         {
-          "id": 566523,
-          "title": "Microsoft Teams: Facilitator follow-up mode",
-          "description": "Chat naturally with Facilitator without tagging it each time.",
+          "id": 579917,
+          "title": "Dynamics 365 Project Operations: Enable caching of role prices when pricing estimates",
+          "description": "Project Operations calculates cost and sales estimates for resource assignments, including daily, time-phased estimates. These calculations can repeatedly use the same role-pricing information across assignments and dates.\nWith this feature enabled, Project Operations caches and reuses applicable role prices, markups, and price overrides within each estimate-pricing operation. This reduces repeated pricing lookups, helping improve responsiveness when calculating or updating estimates, particular",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-11-14T00:06:56",
+          "modified": "2026-11-14T00:06:56",
+          "ga_date": "November CY2026",
+          "preview_date": "",
+          "products": [
+            "Dynamics 365 Project Operations"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=579917"
+        },
+        {
+          "id": 579915,
+          "title": "Dynamics 365 Project Operations: Cancel actual from entry journals",
+          "description": "The Entry Journal Actual Cancellation feature enables users to cancel actuals created by confirming entry journals. Users select eligible actuals, review them in a system-generated correction journal, and confirm the journal to create reversing actuals. The original actuals are marked Adjusted, preserving the original transactions and their reversal history rather than deleting them.",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-11-14T00:02:22",
+          "modified": "2026-11-14T00:02:22",
+          "ga_date": "November CY2026",
+          "preview_date": "",
+          "products": [
+            "Dynamics 365 Project Operations"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)",
+            "GCC"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=579915"
+        },
+        {
+          "id": 580452,
+          "title": "Microsoft Teams: Chat for organizers and presenters in structured meetings and webinars in GCC High and DoD",
+          "description": "Organizers, co-organizers, and presenters can chat privately in a separate chat from attendees. This chat is available to access before, during, and after the event.",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-11-13T23:01:18",
+          "modified": "2026-11-13T23:01:18",
+          "ga_date": "December CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Desktop",
+            "Mac"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "GCC High",
+            "DoD"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=580452"
+        },
+        {
+          "id": 579980,
+          "title": "Dynamics 365 Business Central: Copilot and agents - Fill forms faster with Autofill - Auto paste",
+          "description": "Save time entering information into Business Central with Auto paste. Building on Autofill, Auto paste uses AI to identify relevant information from text or HTML copied to your clipboard and map it to the appropriate fields on a Business Central page.\nBenefits\nReduce manual data entry when bringing information from external sources into Business Central.\nPopulate multiple relevant fields from copied content instead of copying and pasting individual values.\nExtend AI-assisted data entry to more e",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-11-13T23:01:18",
+          "modified": "2026-11-13T23:01:18",
+          "ga_date": "April CY2027",
+          "preview_date": "December CY2026",
+          "products": [
+            "Dynamics 365 Business Central"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=579980"
+        },
+        {
+          "id": 579973,
+          "title": "Dynamics 365 Project Operations: Enable multiple addresses for accounts",
+          "description": "Enable multiple addresses for customer accounts and use the appropriate invoice and delivery addresses across project quotations, project contracts, and project invoices. Users can select from existing customer addresses or create new addresses when needed. Selected addresses flow through the project lifecycle and are synchronized between Dataverse and Dynamics 365 Finance",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-11-13T23:01:18",
+          "modified": "2026-11-13T23:01:18",
+          "ga_date": "May CY2027",
+          "preview_date": "",
+          "products": [
+            "Dynamics 365 Project Operations"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=579973"
+        },
+        {
+          "id": 579899,
+          "title": "Power Apps: Use the modernized Personal settings experience",
+          "description": "The Personal settings experience in model-driven apps has been modernized with clearer organization, updated navigation, and a more consistent design.\nUsers can select a button to return to the classic Personal settings experience if needed.\nAvailability\n\n\n\nField\nValue\n\n\n\n\nRelease Channel\nWeekly\n\n\nVersion\n2611.4\n\n\nApplies to\nModel-driven apps\n\n\nFeature Scope\nUsers (enabled by default)",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-11-13T23:01:18",
+          "modified": "2026-11-13T23:01:18",
+          "ga_date": "December CY2026",
+          "preview_date": "",
+          "products": [
+            "Power Apps"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)",
+            "GCC",
+            "GCC High",
+            "DoD"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=579899"
+        },
+        {
+          "id": 578907,
+          "title": "Dynamics 365 Project Operations: Use item requirements from stocked material estimates",
+          "description": "Confirm demand on a stocked material estimate in Dataverse to create an item requirement in finance and operations. This connects material estimates to supply chain processes for procurement and proactive planning, rather than limiting them to materials already on hand.\nIn Dataverse, you can request packing-slip posting or cancellation, close the remaining quantity on the item requirement, and check processing results. Finance and operations processes the inventory movement and project cost, and",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-11-13T23:01:18",
+          "modified": "2026-11-13T23:01:18",
+          "ga_date": "June CY2027",
+          "preview_date": "",
+          "products": [
+            "Dynamics 365 Project Operations"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=578907"
+        },
+        {
+          "id": 577854,
+          "title": "Dynamics 365 Finance: Build reports with Project to profit data model",
+          "description": "Project to Profit value chain mainly contains business processes:\n\nGovern projects\nManage project contracts\nManage project resources and schedule\nManage project delivery\nManage project financials\nMonitor and analyze project performance",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-11-13T23:01:18",
+          "modified": "2026-11-13T23:01:18",
+          "ga_date": "December CY2027",
+          "preview_date": "June CY2027",
+          "products": [
+            "Dynamics 365 Finance"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=577854"
+        },
+        {
+          "id": 573453,
+          "title": "Microsoft Teams: Streaming switchboard for Network Device Interface (NDI) Sources",
+          "description": "For Teams meetings and events, a new streaming switchboard will soon be available to easily manage and send NDI sources out to production software.",
           "status": "In development",
           "change_type": "updated",
-          "created": "2026-11-06T23:04:41",
-          "modified": "2026-11-12T01:50:56",
-          "ga_date": "December CY2026",
+          "created": "2026-10-08T23:04:12",
+          "modified": "2026-11-13T19:41:44",
+          "ga_date": "November CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Desktop",
+            "Mac"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)",
+            "GCC"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=573453"
+        },
+        {
+          "id": 573157,
+          "title": "Microsoft Teams: Impersonation Protection for Teams meetings",
+          "description": "Impersonation Protection for Teams meetings helps users identify potentially deceptive participants and meeting organizers. When Teams detects a potential impersonation attempt, it surfaces warnings and risk indicators to help users recognize suspicious identities and make more informed decisions when joining or participating in a meeting.",
+          "status": "Rolling out",
+          "change_type": "updated",
+          "created": "2026-10-02T22:01:21",
+          "modified": "2026-11-13T19:41:44",
+          "ga_date": "November CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Android",
+            "Desktop",
+            "iOS",
+            "Mac",
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Targeted Release"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=573157"
+        },
+        {
+          "id": 570846,
+          "title": "Microsoft Teams: Express face enrollment",
+          "description": "Express face enrollment makes it easier for users to create a face profile in Teams by using their camera during eligible meetings, after they opt in. Once enrolled, users can be recognized in supported Teams Rooms experiences, helping identify who is in the room and improving downstream meeting experiences such as Copilot and recap. Admins can enable or disable the feature for their organization.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-09-18T22:00:04",
+          "modified": "2026-11-13T19:41:44",
+          "ga_date": "February CY2027",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Android",
+            "Desktop",
+            "iOS",
+            "Mac"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Targeted Release"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=570846"
+        },
+        {
+          "id": 80239,
+          "title": "Microsoft Teams: Two presenters can share their screens or windows simultaneously in meetings",
+          "description": "Two presenters can share a screen or window at the same time in a Teams meeting. Participants can see both shared content streams simultaneously, making it easier to compare and discuss content from different presenters.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-09-15T23:00:36",
+          "modified": "2026-11-13T19:41:44",
+          "ga_date": "January CY2027",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Desktop",
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Targeted Release"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=80239"
+        },
+        {
+          "id": 558341,
+          "title": "Microsoft Teams: Facilitator detects and answers questions",
+          "description": "Facilitator now automatically detects open questions raised during a Teams meeting and offers to help answer them using web search. When a participant asks a question (e.g., “What is an LLM?”) and no one answers, Facilitator posts a prompt offering to find an answer. Participants can select “Yes” to have the agent retrieve and share the information.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-04-01T23:15:50",
+          "modified": "2026-11-13T19:41:44",
+          "ga_date": "February CY2027",
           "preview_date": "",
           "products": [
             "Microsoft Teams",
@@ -966,470 +1229,78 @@
             "Web"
           ],
           "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=566523"
-        },
-        {
-          "id": 576286,
-          "title": "Microsoft 365 app: Inventory - Update Repair",
-          "description": "Update Repair helps admins identify Windows devices with Microsoft 365 Apps that are out of date or experiencing update issues. In the Microsoft 365 Apps admin center, admins can review device status and recommended actions, remotely start Online Repair for eligible devices, and follow manual remediation guidance for devices that need attention. Repair reinstalls Microsoft 365 Apps using the latest available build for the device’s configured update channel.",
-          "status": "Launched",
-          "change_type": "updated",
-          "created": "2026-10-19T23:15:15",
-          "modified": "2026-11-12T01:50:56",
-          "ga_date": "November CY2026",
-          "preview_date": "October CY2026",
-          "products": [
-            "Microsoft 365",
-            "Microsoft 365 app"
-          ],
-          "platforms": [
-            "Desktop",
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability",
-            "Preview"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=576286"
-        },
-        {
-          "id": 571687,
-          "title": "Microsoft Teams: Add alternate text to images shared from OneDrive and SharePoint",
-          "description": "Improve accessibility by adding alternate text to images shared in Teams from OneDrive and SharePoint, helping users better understand visual content",
-          "status": "Rolling out",
-          "change_type": "updated",
-          "created": "2026-09-23T22:59:12",
-          "modified": "2026-11-12T01:50:56",
-          "ga_date": "November CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Teams"
-          ],
-          "platforms": [
-            "Desktop",
-            "Mac",
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability",
-            "Targeted Release"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)",
-            "GCC",
-            "GCC High",
-            "DoD"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=571687"
-        },
-        {
-          "id": 571390,
-          "title": "Microsoft Teams: Events in Meet app in Teams in GCC High and DoD",
-          "description": "Users can now use the Teams Meet app to discover events across their organization, track what important events are upcoming, and plan and organize their own professional events. With this release, Meet app will be renamed to Events app.",
-          "status": "Rolling out",
-          "change_type": "updated",
-          "created": "2026-09-18T22:00:04",
-          "modified": "2026-11-12T01:50:56",
-          "ga_date": "November CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Teams"
-          ],
-          "platforms": [
-            "Desktop",
-            "Mac",
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "GCC High",
-            "DoD"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=571390"
-        },
-        {
-          "id": 570468,
-          "title": "Microsoft Teams: Automatic recording and transcription choices align with admin policies",
-          "description": "Meeting organizers will only see automatic recording and transcription choices in Meeting Options that are allowed by their organization's existing meeting policies. A new Record only choice lets organizers automatically start recording without starting transcription. Depending on the organizer's policies, available choices can include Record and transcribe, Transcribe only, Record only, and Off. When both recording and transcription are disabled by policy, the automatic setting is not shown.",
-          "status": "Rolling out",
-          "change_type": "updated",
-          "created": "2026-09-02T22:56:59",
-          "modified": "2026-11-12T01:50:56",
-          "ga_date": "November CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Teams"
-          ],
-          "platforms": [
-            "Android",
-            "Desktop",
-            "iOS",
-            "Mac"
-          ],
-          "release_phase": [
             "General Availability",
             "Targeted Release"
           ],
           "cloud_instances": [
             "Worldwide (Standard Multi-Tenant)"
           ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=570468"
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=558341"
         },
         {
-          "id": 569609,
-          "title": "Microsoft Teams: Report a Message or an External User for Security Concern in Gov Clouds",
-          "description": "Users in Gov clouds can now report suspicious messages and external users within Teams. Reports are surfaced in the Teams admin center, giving admins greater visibility into potentially malicious activity and enabling them to investigate and take appropriate action. By incorporating end-user reports as an additional security signal, this capability helps organizations identify and respond more quickly to phishing, impersonation, spam, and other messaging threats.",
-          "status": "Rolling out",
-          "change_type": "updated",
-          "created": "2026-08-20T22:38:45",
-          "modified": "2026-11-12T01:50:56",
-          "ga_date": "November CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Teams"
-          ],
-          "platforms": [
-            "Android",
-            "Desktop",
-            "iOS",
-            "Mac",
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "GCC",
-            "GCC High",
-            "DoD"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=569609"
-        },
-        {
-          "id": 569425,
-          "title": "Microsoft Copilot (Microsoft M365): Delegated prompt publishing for organization prompts ",
-          "description": "This release follows the availability of organization prompts, providing admins the ability to upload custom prompts for their organization in the Copilot app home screen. Now, admins can delegate organization prompt publishing to users, AAD security groups, and distribution groups. These delegated users and groups will be able to create, edit and delete organization prompts at the tenant level through the Prompt Lab, without having to access the Microsoft 365 Admin Center. Admins can continue t",
+          "id": 508526,
+          "title": "Microsoft Copilot (Microsoft 365): Microsoft 365 Copilot Search Supports SharePoint Online Custom Properties Search",
+          "description": "Discover and find people through Microsoft 365 Copilot Search based on your company's custom profile properties from SharePoint Online.",
           "status": "In development",
           "change_type": "updated",
-          "created": "2026-08-18T23:05:00",
-          "modified": "2026-11-12T01:50:56",
-          "ga_date": "December CY2026",
+          "created": "2026-02-06T00:00:51",
+          "modified": "2026-11-13T19:41:44",
+          "ga_date": "June CY2027",
           "preview_date": "",
           "products": [
-            "Microsoft 365 admin center",
+            "Microsoft Copilot (Microsoft 365)"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=508526"
+        },
+        {
+          "id": 537269,
+          "title": "Microsoft Teams: Express voice enrollment in Microsoft Teams",
+          "description": "Express voice enrollment makes registering your voice in Teams fast and easy. Your profile enables features like voice isolation, speaker recognition, identification in a meeting room and transcripts, and enhanced meeting recaps and insights from Microsoft 365 Copilot. If you don’t yet have a voice profile, just go to the recognition tab in Teams settings and opt-in to enroll your voice from audio during your Teams meetings. Admins can enable or disable this feature.",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2025-12-11T00:00:03",
+          "modified": "2026-11-13T19:41:44",
+          "ga_date": "June CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams",
             "Microsoft Copilot (Microsoft 365)"
           ],
           "platforms": [
             "Desktop",
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=569425"
-        },
-        {
-          "id": 569363,
-          "title": "Microsoft Purview: Permissions audit log improvements",
-          "description": "Improving permission checks when users access the Microsoft Purview portal. Enhanced audit logs will provide clearer visibility into role and scoped-role access decisions, helping administrators troubleshoot access issues and monitor authorization outcomes.",
-          "status": "Launched",
-          "change_type": "updated",
-          "created": "2026-08-17T22:52:47",
-          "modified": "2026-11-12T01:50:56",
-          "ga_date": "September CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Purview"
-          ],
-          "platforms": [
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=569363"
-        },
-        {
-          "id": 569206,
-          "title": "Microsoft Teams: Pop out calls into a new browser window",
-          "description": "Microsoft Teams browser app users will be able to pop out calls into a simplified call window that stays available while they navigate away from, hide, or minimize the tab or progressive web app (PWA) hosting the call. This helps users multitask and collaborate more easily during calls.",
-          "status": "Launched",
-          "change_type": "updated",
-          "created": "2026-08-13T22:42:07",
-          "modified": "2026-11-12T01:50:56",
-          "ga_date": "October CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Teams"
-          ],
-          "platforms": [
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability",
-            "Targeted Release"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=569206"
-        },
-        {
-          "id": 502520,
-          "title": "Microsoft Teams: New sharing panel in meetings - improved content discovery and ease of sharing",
-          "description": "The sharing panel in today’s meetings is the default place for content discoverability and sharing.  New sharing panel UI is crafted with intent of modernising and simplifying default tasks such as window sharing, but also for easier discovery of sharing options and more discoverable file sharing.",
-          "status": "In development",
-          "change_type": "updated",
-          "created": "2025-10-29T23:00:59",
-          "modified": "2026-11-12T01:50:56",
-          "ga_date": "January CY2027",
-          "preview_date": "",
-          "products": [
-            "Microsoft Teams"
-          ],
-          "platforms": [
-            "Desktop",
-            "Mac"
-          ],
-          "release_phase": [
-            "General Availability",
-            "Targeted Release"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)",
-            "GCC",
-            "GCC High",
-            "DoD"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=502520"
-        },
-        {
-          "id": 486825,
-          "title": "Word: Email Notification Context Previews for Files Protected with Microsoft Purview",
-          "description": "This is being removed as a duplicate of 486820",
-          "status": "Cancelled",
-          "change_type": "updated",
-          "created": "2025-04-02T21:15:43",
-          "modified": "2026-11-12T01:41:53",
-          "ga_date": "April CY2025",
-          "preview_date": "",
-          "products": [
-            "Word"
-          ],
-          "platforms": [
-            "Mac"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=486825"
-        },
-        {
-          "id": 579982,
-          "title": "Dynamics 365 Customer Insights - Journeys: Create event experience that match your business structure by supporting leads, contacts, or both​",
-          "description": "Align event registrations with the way your organization manages customer data. By supporting lead-based registration journeys and existing matching rules, you can avoid unnecessary Contact creation, improve data quality, and ensure event attendees follow the same lead management process used across your business.​\n\nConfigure event registration forms to create or update Contacts, Leads, or both Leads and Contacts ​\nApply existing matching, deduplication, and update rules to event registrations f",
-          "status": "In development",
-          "change_type": "new",
-          "created": "2026-11-12T01:35:00",
-          "modified": "2026-11-12T01:35:00",
-          "ga_date": "June CY2027",
-          "preview_date": "February CY2027",
-          "products": [
-            "Dynamics 365 Customer Insights - Journeys"
-          ],
-          "platforms": [
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability",
-            "Preview"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=579982"
-        },
-        {
-          "id": 579975,
-          "title": "Power Automate: Direct triggers for desktop flows",
-          "description": "Desktop flows will support direct triggers, enabling automations to start in response to supported events without requiring an intermediary cloud flow. This simplifies automation design and reduces the effort required to connect desktop flows to business processes.",
-          "status": "In development",
-          "change_type": "new",
-          "created": "2026-11-12T01:35:00",
-          "modified": "2026-11-12T01:35:00",
-          "ga_date": "March CY2027",
-          "preview_date": "January CY2027",
-          "products": [
-            "Power Automate"
-          ],
-          "platforms": [
-            "Desktop"
-          ],
-          "release_phase": [
-            "General Availability",
-            "Preview"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=579975"
-        },
-        {
-          "id": 579974,
-          "title": "Power Automate: Credentials - Integration with Delinea secret server",
-          "description": "Power Automate will support Delinea Secret Server as an external credential provider for desktop flows. Organizations can securely use credentials managed in Delinea for machine sign-in and credential retrieval during attended and unattended automation.",
-          "status": "In development",
-          "change_type": "new",
-          "created": "2026-11-12T01:35:00",
-          "modified": "2026-11-12T01:35:00",
-          "ga_date": "March CY2027",
-          "preview_date": "",
-          "products": [
-            "Power Automate"
-          ],
-          "platforms": [
-            "Desktop"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=579974"
-        },
-        {
-          "id": 579903,
-          "title": "Dynamics 365 Customer Insights - Journeys: Send each message only once with deduplication for SMS and custom channels",
-          "description": "Deduplicates recipients by contact point, so each phone number or custom channel address gets the message once per send.\nEliminates manual post-send clean-up, wasted messaging spend and the customer annoyance of duplicate texts.\nBrings SMS and custom channels to parity with email's built-in deduplication.",
-          "status": "In development",
-          "change_type": "new",
-          "created": "2026-11-12T01:35:00",
-          "modified": "2026-11-12T01:35:00",
-          "ga_date": "December CY2026",
-          "preview_date": "",
-          "products": [
-            "Dynamics 365 Customer Insights - Journeys"
-          ],
-          "platforms": [
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=579903"
-        },
-        {
-          "id": 579897,
-          "title": "Outlook: Copilot Chat Sheet UX Update for Mobile",
-          "description": "Copilot Chat in Outlook on iOS and Android is getting updated! You'll notice smoother animations, improved strings, and some small changes to the header, such as the new/temporary chat button being moved behind the ... button.",
-          "status": "In development",
-          "change_type": "new",
-          "created": "2026-11-12T01:35:00",
-          "modified": "2026-11-12T01:35:00",
-          "ga_date": "December CY2026",
-          "preview_date": "",
-          "products": [
-            "Outlook"
-          ],
-          "platforms": [
-            "Android",
-            "iOS"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=579897"
-        },
-        {
-          "id": 579193,
-          "title": "Microsoft Edge: Top sites in Edge search bar",
-          "description": "Adding easy access to top sites in Edge search bar on desktop. Users can add, edit, remove, or hide top sites. Admins can control available to this feature using the NewTabPageManagedQuickLinks and NewTabPageQuickLinksEnabled policies.",
-          "status": "In development",
-          "change_type": "new",
-          "created": "2026-11-12T01:35:00",
-          "modified": "2026-11-12T01:35:00",
-          "ga_date": "January CY2027",
-          "preview_date": "",
-          "products": [
-            "Microsoft Edge"
-          ],
-          "platforms": [
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=579193"
-        },
-        {
-          "id": 578880,
-          "title": "Microsoft 365: [Education] Practice presentations with Speaker Coach in Learning Activities",
-          "description": "In learning activities, students can rehearse presentations, receive feedback on their delivery, and practice again with targeted suggestions to improve clarity and confidence.\n#education",
-          "status": "In development",
-          "change_type": "new",
-          "created": "2026-11-12T01:35:00",
-          "modified": "2026-11-12T01:35:00",
-          "ga_date": "December CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft 365"
-          ],
-          "platforms": [
-            "Android",
-            "Desktop",
-            "iOS",
             "Mac",
-            "Web"
+            "Teams and Surface Devices"
           ],
           "release_phase": [
-            "General Availability"
+            "General Availability",
+            "Targeted Release"
           ],
           "cloud_instances": [
             "Worldwide (Standard Multi-Tenant)"
           ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=578880"
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=537269"
         },
         {
-          "id": 578877,
-          "title": "Dynamics 365 Finance: Submit only validated records to Dynamics 365 Finance",
-          "description": "The write to business rules engine configuration experience introduces an option to submit only records that have successfully passed Account structure validation. When enabled, Business Performance Planning filters the writeback dataset and submits only records marked as valid by account structure validation to the business rules engine writeback process. Records that have not passed validation are excluded from the submission so users can review and correct them before attempting to write them",
+          "id": 579977,
+          "title": "Microsoft Copilot (Microsoft 365): Discover and act on recommended lead and opportunity actions in Sales agent",
+          "description": "Sellers can discover and act on lead and opportunity recommendations that are already prioritized for them in Sales agent. A single prioritized list helps sellers see what needs attention without monitoring each agent separately or prioritizing the actions themselves. Sellers can review each recommended action, understand its details and business context, and take action from the same experience.\nThe initial release focuses on lead outreach actions from Sales qualification agent and opportunity ",
           "status": "In development",
           "change_type": "new",
-          "created": "2026-11-12T01:35:00",
-          "modified": "2026-11-12T01:35:00",
+          "created": "2026-11-13T19:37:39",
+          "modified": "2026-11-13T19:37:39",
           "ga_date": "November CY2026",
           "preview_date": "",
           "products": [
-            "Dynamics 365 Finance"
+            "Microsoft Copilot (Microsoft 365)"
           ],
           "platforms": [
             "Web"
@@ -1440,92 +1311,18 @@
           "cloud_instances": [
             "Worldwide (Standard Multi-Tenant)"
           ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=578877"
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=579977"
         },
         {
-          "id": 578863,
-          "title": "Dynamics 365 Customer Insights - Journeys: Build audiences faster with reusable segment templates",
-          "description": "Segment templates help you build audiences without recreating queries for each campaign. Choose a built-in template for common scenarios such as event attendance or email engagement, or save your own segment query as a reusable custom template. Add placeholders with hint text to guide marketers through entering campaign-specific values, reducing repetitive setup while keeping audience criteria consistent.",
+          "id": 578908,
+          "title": "Dynamics 365 Project Operations: Subcontracting UI Improvement",
+          "description": "Some of the most commonly used business processes that project managers perform during subcontract management include the following tasks:\nModify subcontract line\nTrack subcontract usage\nMonitor billing progress for subcontracts\nCurrently, project managers need to use multiple forms and interfaces to access these business processes. This complexity increases when project managers manage vendors and subcontracts across various projects.",
           "status": "In development",
           "change_type": "new",
-          "created": "2026-11-12T01:35:00",
-          "modified": "2026-11-12T01:35:00",
-          "ga_date": "November CY2026",
-          "preview_date": "",
-          "products": [
-            "Dynamics 365 Customer Insights - Journeys"
-          ],
-          "platforms": [
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=578863"
-        },
-        {
-          "id": 577545,
-          "title": "Microsoft 365: [Education] Microsoft Learning Zone - Minecraft connected lessons",
-          "description": "Bring Minecraft Education to every classroom with AI-powered tools that match curriculum goals to Build Challenges, blend lessons with project-based learning, launch directly from Learning Zone, and give you full visibility into participation, completion, and student understanding.\n#education",
-          "status": "In development",
-          "change_type": "new",
-          "created": "2026-11-12T01:35:00",
-          "modified": "2026-11-12T01:35:00",
-          "ga_date": "February CY2027",
-          "preview_date": "",
-          "products": [
-            "Microsoft 365"
-          ],
-          "platforms": [
-            "Desktop",
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=577545"
-        },
-        {
-          "id": 576273,
-          "title": "Microsoft 365 admin center: Cross-Tenant Orchestrated Migration",
-          "description": "Cross-Tenant Orchestrated Migration for User Data Migration (UDM) and Shared Data Migration (SDM) allows customers to move their Microsoft 365 data from one Microsoft tenant to another. UDM includes the ability to move user mailboxes, OneDrive accounts, Teams chats, and Teams meetings. SDM includes the ability to move M365 Groups, SharePoint Sites, Group Mailboxes, and teams and channels.",
-          "status": "In development",
-          "change_type": "new",
-          "created": "2026-11-12T01:35:00",
-          "modified": "2026-11-12T01:35:00",
-          "ga_date": "December CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft 365 admin center"
-          ],
-          "platforms": [
-            "Desktop",
-            "Web"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=576273"
-        },
-        {
-          "id": 573238,
-          "title": "Dynamics 365 Project Operations: Archive project cost actuals with long-term retention",
-          "description": "Organizations managing high volumes of project transactions need to retain historical cost data without allowing years of completed transactions to continually increase the volume of active operational data. This capability enables organizations to archive processed project staging table cost actuals for long-term retention while preserving access to historical records when needed.\n\nAdministrators can archive eligible project cost actuals for selected legal entities and date ranges using the Arc",
-          "status": "In development",
-          "change_type": "new",
-          "created": "2026-11-12T01:35:00",
-          "modified": "2026-11-12T01:35:00",
-          "ga_date": "March CY2027",
-          "preview_date": "September CY2026",
+          "created": "2026-11-13T19:37:39",
+          "modified": "2026-11-13T19:37:39",
+          "ga_date": "August CY2027",
+          "preview_date": "September CY2025",
           "products": [
             "Dynamics 365 Project Operations"
           ],
@@ -1539,10 +1336,87 @@
           "cloud_instances": [
             "Worldwide (Standard Multi-Tenant)"
           ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=573238"
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=578908"
+        },
+        {
+          "id": 577875,
+          "title": "Dynamics 365 Project Operations: Expense and material budget lines to have project end date as budget line end date during import",
+          "description": "Project managers frequently create budgets by importing material and expense estimates. Currently, the imported budget lines default the end date to the same value as the start date, requiring users to manually update each budget line to reflect the actual project duration. This additional step increases planning effort, introduces the risk of incorrect dates, and creates a poor user experience, particularly for projects with a large number of material and expense estimates. By automatically def",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-11-13T19:37:39",
+          "modified": "2026-11-13T19:37:39",
+          "ga_date": "August CY2027",
+          "preview_date": "March CY2027",
+          "products": [
+            "Dynamics 365 Project Operations"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=577875"
+        },
+        {
+          "id": 577749,
+          "title": "Dynamics 365 Commerce: Configure quick operations on the transaction screen",
+          "description": "Applies to: Point of Sale (Store Commerce)\nSetup: Store admin configures the control in the Commerce headquarters screen layout designer.\nYou can add a new Quick Operations control to the transaction screen layout in the headquarters screen layout designer.\n\nDisplay a configurable set of operations in a purpose-built experience instead of a generic button grid. For example, include manual discount amount, manual discount percentage, transaction comments, and customer purchase order numbers.\nConf",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-11-13T19:37:39",
+          "modified": "2026-11-13T19:37:39",
+          "ga_date": "December CY2026",
+          "preview_date": "July CY2026",
+          "products": [
+            "Dynamics 365 Commerce"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=577749"
+        },
+        {
+          "id": 577400,
+          "title": "Dynamics 365 Finance: Enable Project and Item Requirement delivery address",
+          "description": "Enable Project and Item Requirement Delivery Address Management\nThis feature extends delivery address capabilities within integrated Project Operations by introducing delivery address support on Project, Project Task, and Material Estimate records. Delivery addresses can be selected from customer addresses, defaulted through the project hierarchy, and synchronized between Dataverse and Finance and Operations.\nThe enhancement also ensures that delivery addresses are correctly resolved and populat",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-11-13T19:37:39",
+          "modified": "2026-11-13T19:37:39",
+          "ga_date": "January CY2028",
+          "preview_date": "January CY2027",
+          "products": [
+            "Dynamics 365 Finance",
+            "Dynamics 365 Project Operations",
+            "Dynamics 365 Finance and Operations cross-app"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=577400"
         }
       ],
-      "total_updates": 23,
+      "total_updates": 20,
       "error": null
     }
   },
