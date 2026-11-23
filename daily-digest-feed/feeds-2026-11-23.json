@@ -1,0 +1,951 @@
+{
+  "generated_at": "2026-11-23T11:04:52.622451Z",
+  "window_hours": 48,
+  "sources": {
+    "youtube": {
+      "overlanding": [
+        {
+          "creator": "TrailRecon",
+          "handle": "@TrailRecon",
+          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
+          "videos": [
+            {
+              "title": "I Bought Another Jeep 392 After the First One Failed",
+              "url": "https://www.youtube.com/watch?v=aEdH7VLT9sw",
+              "published": "2026-11-22T15:00:22Z",
+              "description": "I sold my Jeep 392 in January 2024 and told you exactly why. Now there's another one in the garage.\n\nIn this Coffee One Take I talk through what went wrong with my first 392, why it's still the most fun Jeep I've ever owned, and how a used 2025 Rubicon 392 with 5,700 miles ended up costing 25% less than it sold for new, and less than I paid for my 2022.\n\nThis one isn't an overland build. It's my hot rod: a fun, fast desert Jeep. I'll walk you through the plan, starting with the weak points that "
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "VentureToRoam",
+          "handle": "@VentureToRoam",
+          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "This Story Till Now",
+          "handle": "@ThisStoryTillNow",
+          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Casey 250",
+          "handle": "@Casey250",
+          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "LetsGetLost",
+          "handle": "@LetsGetLost",
+          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Life Style Overland",
+          "handle": "@LifeStyleOverland",
+          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Lil and Jake",
+          "handle": "@lilandjake",
+          "channel_id": "UCI5nuVPmxCt4VwSprm-gpAg",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Ozark Overland Adventure",
+          "handle": "@OzarkOverlandAdventures",
+          "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Epic Adventure Outfitters",
+          "handle": "@EpicAdventureOutfitters",
+          "channel_id": "UCjtrDgtexm4QwKkxI8frtFA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Craving.Outdoors",
+          "handle": "@Craving.Outdoors",
+          "channel_id": "UCzHx4YhJTwZ_HG_D-Q1lpSA",
+          "videos": [],
+          "error": null
+        }
+      ],
+      "power_platform": [
+        {
+          "creator": "Reza Dorrani",
+          "handle": "@RezaDorrani",
+          "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Matthew Devaney",
+          "handle": "@MatthewDevaney",
+          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Shane Young",
+          "handle": "@ShanesCows",
+          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "DamoBird365",
+          "handle": "@DamoBird365",
+          "channel_id": "UC-NCKrEw6CM8fidaIk-yrUQ",
+          "videos": [
+            {
+              "title": "I Replaced Our Approval Emails With One Power Automate Flow",
+              "url": "https://www.youtube.com/watch?v=2UKz7MvbNNY",
+              "published": "2026-11-22T22:02:50Z",
+              "description": "Episode 1 of 6 in a free Power Platform course: https://www.youtube.com/playlist?list=PLXr-imKBfm5U\n\nPower Automate tutorial for beginners: build your first approval flow, from a blank SharePoint list to a working approval in Teams.\n\nAt Glen Damo, a small Scottish whisky distillery, Callum's cask requests used to arrive as messy emails and get approved in the corridor. In this episode you build the replacement: a SharePoint list called Requests, then an automated cloud flow that starts when a re"
+            },
+            {
+              "title": "How to Build an Agent in Copilot (No Code): It Answers From Your Own Files",
+              "url": "https://www.youtube.com/watch?v=O-hMDxz7bfw",
+              "published": "2026-11-21T13:00:07Z",
+              "description": "Episode 4 of 5 in a free Microsoft 365 Copilot course: https://www.youtube.com/playlist?list=PLOCmL61rd-Qg\n\nBuild your first agent in Microsoft 365 Copilot with no code, and it answers from your own files.\n\nAt Glen Damo, a small Scottish whisky distillery, the same questions land on Isla every day. In this episode she builds the Glen Damo Whisky Guide in Agent Builder: a description (Preview won't test the agent without one), instructions, a linked SharePoint folder as its knowledge, Outlook, Te"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Sean Astrakhan",
+          "handle": "@Untethered365",
+          "channel_id": "UCEYgG-Fw0ghmP1Vnw_M3oGQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Lisa Crosbie",
+          "handle": "@LisaCrosbie",
+          "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Daniel Anderson",
+          "handle": "@DanielAndersonAU",
+          "channel_id": "UCsYYpxfrYrZaKwFPGM7shtQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "April Dunnam",
+          "handle": "@AprilDunnam",
+          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Bright Ideas Agency",
+          "handle": "@brightideasagency",
+          "channel_id": "UCnv9vvr7tQVQ07iSe4rZgWQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Power Squared",
+          "handle": "@PowerSquared",
+          "channel_id": "UCoDxmKfgtkGeXezviLXUGIw",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Steve Corey",
+          "handle": "@stevecorey365",
+          "channel_id": "UCOZthH-jESHnUuH2HDyYONg",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Andrew Hess",
+          "handle": "@andrewhess123",
+          "channel_id": "UCH7RJ4zXEjFpfsm-6VZI8vw",
+          "videos": [],
+          "error": null
+        }
+      ],
+      "fabric_powerbi": [
+        {
+          "creator": "Guy in a Cube",
+          "handle": "@GuyInACube",
+          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "How to Power BI",
+          "handle": "@HowtoPowerBI",
+          "channel_id": "UCcfngi7_ASuo5jdWX0bNauQ",
+          "videos": [
+            {
+              "title": "3 Low-Code Ways to Ingest Data in Microsoft Fabric | File Upload, Dataflow Gen2, Copy Job",
+              "url": "https://www.youtube.com/shorts/w0qGiswN4PA",
+              "published": "2026-11-22T13:20:04Z",
+              "description": "Want to get data into Microsoft Fabric without writing code? In this video, you can see 3 low-code ingestion methods:\n\nFile Upload: the fastest way to load CSV/Excel files into a lakehouse and turn them into tables\nDataflow Gen2: ingest and transform data with Power Query, then load it to a lakehouse or warehouse\nCopy Job: bulk and incremental copying of many tables, no pipeline needed\n\n👉 Need help with Fabric, AI or Power BI development? Talk to us: \nFabric: https://datatraining.io/fabric-consu"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Power BI Tips",
+          "handle": "@PowerBITips",
+          "channel_id": "UCPwPrIpZwlfIKcoUpRwl9OQ",
+          "videos": [
+            {
+              "title": "578 - Govern apps with the same pyramid you use for reports",
+              "url": "https://www.youtube.com/shorts/KMnrIO_B0Zg",
+              "published": "2026-11-23T10:50:43Z",
+              "description": "578 - We're about to govern a wave of new apps with the same playbook Power BI forced on us. Matthew Roach's pyramid still decides which ones deserve to be promoted.\n\nhttps://youtu.be/zxBHFKGIWpo\n\n#governance #powerbi #apps #fabric"
+            },
+            {
+              "title": "578 - It's now easier to build an app than a report",
+              "url": "https://www.youtube.com/shorts/kiVWHILDc84",
+              "published": "2026-11-23T10:03:19Z",
+              "description": "578 - A natural language prompt can spin up an app with a real interface and actions. Reports still take more setup, which raises a bigger question. Does every company even want the app?\n\nhttps://youtu.be/zxBHFKGIWpo\n\n#powerbi #apps #fabric #reporting"
+            },
+            {
+              "title": "578 - Microsoft wrote these Fabric APIs for agents",
+              "url": "https://www.youtube.com/shorts/Wmsn22cZqpo",
+              "published": "2026-11-23T04:05:36Z",
+              "description": "578 - Microsoft wrote these Fabric APIs for agents to call. Tom's article makes that hard to miss, and if you work in that sandbox you should ask who they were built for.\n\nhttps://youtu.be/zxBHFKGIWpo\n\n#microsoftfabric #agents #dataengineering #apis"
+            },
+            {
+              "title": "578 - Now I can build the exact app I want in hours",
+              "url": "https://www.youtube.com/shorts/Y_F1FV8_iH4",
+              "published": "2026-11-23T02:39:29Z",
+              "description": "578 - Back in March a custom PDF reader was a week of work, so buying it won. A couple of hours for exactly the app you want makes open source look aggressive.\n\nhttps://youtu.be/zxBHFKGIWpo\n\n#opensource #agents #apps #building"
+            },
+            {
+              "title": "578 - He asked an agent to build him a PDF reader",
+              "url": "https://www.youtube.com/shorts/MRN5yUyMHjs",
+              "published": "2026-11-22T23:51:30Z",
+              "description": "578 - He got tired of Adobe selling him extra products just to sign a PDF. So he asked an agent to build Folio, and that little project reset what he thinks agents can ship.\n\nhttps://youtu.be/zxBHFKGIWpo\n\n#folio #opensource #pdf #agents"
+            },
+            {
+              "title": "578 - Someone who uses AI will do your job",
+              "url": "https://www.youtube.com/shorts/tev7Wn9L-nU",
+              "published": "2026-11-22T14:04:36Z",
+              "description": "578 - Someone who knows how to use AI is going to do that data job better. I said that three years ago, when ChatGPT landed, and the data playground just shifted again.\n\nhttps://youtu.be/zxBHFKGIWpo\n\n#ai #datajobs #chatgpt #career"
+            },
+            {
+              "title": "578 - One prompt built a lakehouse and ran the analysis",
+              "url": "https://www.youtube.com/shorts/Jwj9dYS0mIw",
+              "published": "2026-11-22T11:18:42Z",
+              "description": "578 - Tom gives one natural language instruction and the agent creates a lakehouse from external data. It finishes by running a Pearson correlation on council tax values.\n\nhttps://youtu.be/zxBHFKGIWpo\n\n#fabric #lakehouse #data #agents"
+            },
+            {
+              "title": "578 - Agents let me try the charts I used to skip",
+              "url": "https://www.youtube.com/shorts/nUfkwTFATGQ",
+              "published": "2026-11-22T10:41:45Z",
+              "description": "578 - A treemap used to take too long, so the safe bar chart won. With an agent I can ask for a whole page of designs, then narrow back to the one I like.\n\nhttps://youtu.be/zxBHFKGIWpo\n\n#dataviz #charts #agents #powerbi"
+            },
+            {
+              "title": "578 - I need to feel like I actually built this",
+              "url": "https://www.youtube.com/shorts/-ts0-jMo7Co",
+              "published": "2026-11-22T04:50:29Z",
+              "description": "578 - I need to feel like I actually built this. If agents do the whole thing and I just watch, the result feels like slop I had no hand in.\n\nhttps://youtu.be/zxBHFKGIWpo\n\n#agents #building #makers #ai"
+            },
+            {
+              "title": "578 - I don't put my fingers on the keyboard anymore",
+              "url": "https://www.youtube.com/shorts/TSreOGvV700",
+              "published": "2026-11-22T04:02:24Z",
+              "description": "578 - I don't put my fingers on the keyboard anymore. The work now is knowing the design patterns well enough to point a team of agents at them.\n\nhttps://youtu.be/zxBHFKGIWpo\n\n#agents #coding #software #ai"
+            },
+            {
+              "title": "577 - You can start governance without permission",
+              "url": "https://www.youtube.com/shorts/96xUFRcAyqs",
+              "published": "2026-11-21T22:57:24Z",
+              "description": "577 - You can start this without leadership permission. Add clearer descriptions on the columns in your semantic model, or spend 15 minutes telling an agent the process stuck in your head.\n\nhttps://youtu.be/xx1Fn1YMKdc\n\n#datagovernance #semanticmodel #aiagents #powerbi"
+            },
+            {
+              "title": "577 - Security is 15% of data governance",
+              "url": "https://www.youtube.com/shorts/Oo1PkumDknE",
+              "published": "2026-11-21T20:07:18Z",
+              "description": "577 - Security is about 15% of a real data governance program. Plenty of teams still stop at access control. Can you call Fabric finished while the rest is missing?\n\nhttps://youtu.be/xx1Fn1YMKdc\n\n#datagovernance #microsoftfabric #powerbi #datasecurity"
+            },
+            {
+              "title": "577 - You already know your data problems",
+              "url": "https://www.youtube.com/shorts/9kfjgID5DCU",
+              "published": "2026-11-21T13:47:34Z",
+              "description": "577 - Every company he walks into already has a data problem, and you can probably name yours. Taking that problem to leadership, with a fix attached, is the tricky part. The answer might be no.\n\nhttps://youtu.be/xx1Fn1YMKdc\n\n#datagovernance #leadership #dataquality #buyin"
+            },
+            {
+              "title": "577 - Start data governance with one workshop",
+              "url": "https://www.youtube.com/shorts/bEzCvT9fyBw",
+              "published": "2026-11-21T12:14:34Z",
+              "description": "577 - Get one person from each department into a room and ask where the pain is. The life hack is that workshop. Shared problems make the later budget ask much easier to defend.\n\nhttps://youtu.be/xx1Fn1YMKdc\n\n#datagovernance #leadership #workshop #dataquality"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Fernan (Solutions Abroad)",
+          "handle": "@SolutionsAbroad",
+          "channel_id": "UCpbgBx--a_H9LL69A1Uz9yg",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "RADACAD",
+          "handle": "@RADACAD",
+          "channel_id": "UCsOfIwAXj1fT6LDqEDEAb4g",
+          "videos": [
+            {
+              "title": "#Shorts Should You Move from Azure Data Factory to Fabric? Wee Hyong Tok | Fabric Insider Ep. 9",
+              "url": "https://www.youtube.com/shorts/hqkAk7zimoY",
+              "published": "2026-11-22T20:35:32Z",
+              "description": "My critical production pipelines run on Azure Data Factory. Will Microsoft keep supporting it? Should I keep using it? In this short from my Fabric Insider conversation with Wee Hyong Tok, Partner Director of Product Management for data integration at Microsoft, we talk about the commitment to Azure Data Factory customers, why Fabric Data Factory is where the data integration capabilities are coming together, and the migration tool that scans your pipelines.\n\n🚀 What you will learn in this short:"
+            }
+          ],
+          "error": null
+        }
+      ],
+      "ai": [
+        {
+          "creator": "NateBJones",
+          "handle": "@NateBJones",
+          "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
+          "videos": [
+            {
+              "title": "Microsoft, The FAA And Even The NSA Had Outages In One Week. What Is Happening?",
+              "url": "https://www.youtube.com/watch?v=fFeyE4nINqs",
+              "published": "2026-11-22T17:00:15Z",
+              "description": "AI cyber defense is now a race between attackers who can get deep access in as little as 15 minutes and defenders who need days or weeks to put systems back. The past week's outages at Microsoft, the FAA, several banks and the NSA show how hard repair is, and why AI-assisted attacks make it harder.\n\nFull post:\nhttps://natesnewsletter.substack.com/p/ai-cyber-defense-business?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=ai-cyber-defense-business-launch&amp;utm_content=description\n\nNate"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Chase AI",
+          "handle": "@ChaseAI",
+          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Nate Herk",
+          "handle": "@NateHerk",
+          "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+          "videos": [
+            {
+              "title": "30 Everyday Ways to Use Grok Bot That Feel Like Cheating",
+              "url": "https://www.youtube.com/watch?v=sVrmhD99BJk",
+              "published": "2026-11-23T01:52:25Z",
+              "description": "FREE AI OS Template: https://app.aiautomationsociety.ai/optin/ai-os/?utm_source=youtube&amp;utm_medium=organic&amp;utm_content=grok-bot-use-cases&amp;sl=yt_grok-bot-use-cases\nHow I built an AI agency from 0 to over $1 million per year: https://www.skool.com/ai-automation-society-plus/about?el=grok-bot-use-cases&amp;hcategory=youtube-videos&amp;utm_campaign=plus-group\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=grok-bot-use-cases&amp;hcategory=youtube-videos&amp;utm_ca"
+            },
+            {
+              "title": "Anthropic Engineer Explains: How to Stop Hitting Claude's Token Limit",
+              "url": "https://www.youtube.com/watch?v=0RF9ml43ups",
+              "published": "2026-11-22T15:39:28Z",
+              "description": "FREE AI OS Template: https://app.aiautomationsociety.ai/optin/ai-os?utm_source=youtube&amp;utm_medium=organic&amp;utm_content=claude-token-limit&amp;sl=yt_claude-token-limit\nHow I built an AI agency from 0 to over $1 million per year: https://www.skool.com/ai-automation-society-plus/about?el=claude-token-limit&amp;hcategory=youtube-videos&amp;utm_campaign=plus-group\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=claude-token-limit&amp;hcategory=youtube-videos&amp;utm_cam"
+            },
+            {
+              "title": "Google Is BACK (Gemini 4 Neon Tested)",
+              "url": "https://www.youtube.com/watch?v=NLNoZrzXrvU",
+              "published": "2026-11-22T00:06:32Z",
+              "description": "FREE AI OS Template: https://app.aiautomationsociety.ai/optin/ai-os/?utm_source=youtube&amp;utm_medium=organic&amp;utm_content=gemini-4-neon-roundup&amp;sl=yt_gemini-4-neon-roundup\nHow I built an AI agency from 0 to over 4 million per year: https://www.skool.com/ai-automation-society-plus/about?el=gemini-4-neon-roundup&amp;hcategory=youtube-videos&amp;utm_campaign=plus-group\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=gemini-4-neon-roundup&amp;hcategory=youtube-videos"
+            },
+            {
+              "title": "What Anthropic's $900 Billion Bet Means for You",
+              "url": "https://www.youtube.com/watch?v=Xt_pAY0Mg4Q",
+              "published": "2026-11-21T14:08:25Z",
+              "description": "How I built an AI agency from 0 to over $1 million per year: https://www.skool.com/ai-automation-society-plus/about?el=anthropic-ipo-explained&amp;hcategory=youtube-videos&amp;utm_campaign=plus-group\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=anthropic-ipo-explained&amp;hcategory=youtube-videos&amp;utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Paul J Lipsky",
+          "handle": "@PaulJLipsky",
+          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "AI Daily Brief",
+          "handle": "@AIDailyBrief",
+          "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Dewain Robinson",
+          "handle": "@DewainRobinson",
+          "channel_id": "UCSxb0EDb5vw4pRcgW0hQ8Ug",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Alex Finn",
+          "handle": "@AlexFinn",
+          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Simon Scrapes",
+          "handle": "@SimonScrapes",
+          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "John Savill's Technical Training",
+          "handle": "@NTFAQGuy",
+          "channel_id": "UCpIn7ox7j7bH_OFj7tYouOQ",
+          "videos": [
+            {
+              "title": "M365 Resilience Overview",
+              "url": "https://www.youtube.com/watch?v=OzCKCAV3eWU",
+              "published": "2026-11-23T10:50:34Z",
+              "description": "A walkthrough of M365 architecture, the layers of resiliency and how they work together.\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:38 - The client\n01:16 - DNS service\n02:24 - Frontend\n02:51 - Client Access Front End (CAFE)\n06:01 - Azure Front Door\n07:17 - Failover option\n09:03 - Backend\n10:11 - Exchange cells\n10:54 - Teams\n11:21 - Cross-service dependency\n12:09 - Change management and testing\n14:57 - Overall resilience\n15:59 - Mission critical business process BCDR\n17:56 - Summa"
+            },
+            {
+              "title": "Azure Weekly Update - 22nd November 2026 - Ignite 2026 Special",
+              "url": "https://www.youtube.com/watch?v=jOlR3eTnzjs",
+              "published": "2026-11-22T18:35:22Z",
+              "description": "HUGE update to cover Ignite 2026.\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation queue never to be seen so please post questions to other sites like Reddit, Microsoft Community Hub etc.\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:28 - New videos\n01:19 - DCasv7 and ECasv7 VMs\n0"
+            },
+            {
+              "title": "Ignite 2026 Summary",
+              "url": "https://www.youtube.com/watch?v=S2owJynGRSI",
+              "published": "2026-11-21T17:28:37Z",
+              "description": "This is not my Ignite 2026 Update Special, I'm working on that. Instead accept a summary overview while I continue working on the deep dive :-)\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation queue never to be seen so please post questions to other sites like Reddit, Microsoft Community Hub e"
+            }
+          ],
+          "error": null
+        }
+      ]
+    },
+    "newsletters": {
+      "power_platform_weekly": {
+        "name": "Power Platform Weekly",
+        "issue_number": 285,
+        "issue_date": "2026-11-23",
+        "url": "https://www.ppweekly.com/p/power-platform-weekly-issue-285",
+        "is_new": true,
+        "sections": {
+          "🎉 Microsoft Ignite": [
+            {
+              "title": "Ignite 2026.What changed and why it matters.",
+              "url": "https://learnwithapril.com/updates/ignite-2026/"
+            },
+            {
+              "title": "Ignite 2026 Day 1: What Changes for Power Platform Makers and Admins",
+              "url": "https://www.benschmark.eu/blog/ignite-2026-day-1-recap-power-platform/"
+            },
+            {
+              "title": "Power Platform Boost Podcast - Episode 99: Microsoft Ignite",
+              "url": "https://www.youtube.com/watch?v=Pu51Ua8zk54"
+            },
+            {
+              "title": "Microsoft Ignite 2026: Top Announcements",
+              "url": "https://www.youtube.com/watch?app=desktop&v=K_DXqbaAdFs&feature=youtu.be"
+            },
+            {
+              "title": "Ignite 2026: NO Power Platform and 5 Huge Changes",
+              "url": "https://www.youtube.com/watch?v=oYHQ3wbdi1c"
+            }
+          ],
+          "📰 Articles": [
+            {
+              "title": "The Timeline Doesn’t Have to Look Like This",
+              "url": "https://crmkeeper.com/2026/11/18/dataverse-timeline-pcf-control/"
+            },
+            {
+              "title": "Proactive Engagement in D365 Contact Center: From Reactive Support to AI-Led Outreach",
+              "url": "https://contactcenterchronicles.com/proactive-engagement-in-d365-contact-center-from-reactive-support-to-ai-led-outreach/"
+            },
+            {
+              "title": "Copilot Managed Runtime is generally available: what EU admins should prepare",
+              "url": "https://recursion.no/blogs/copilot-managed-runtime-ga/"
+            },
+            {
+              "title": "Copilot Studio Custom MCP Servers: When to Build One and How",
+              "url": "https://aidevme.com/copilot-studio-custom-mcp-servers-when-you-need-one/"
+            },
+            {
+              "title": "What a Copilot Managed Runtime app costs",
+              "url": "https://recursion.no/blogs/copilot-managed-runtime-cost/"
+            },
+            {
+              "title": "Deep links in a Power Apps code app: open one record from a link",
+              "url": "https://recursion.no/blogs/code-app-deep-link-query-parameters/"
+            },
+            {
+              "title": "Voice Agents That Ship: Real-Time AI in Dynamics 365 Contact Center",
+              "url": "https://www.powerpete.com/ignite-voice-agents/"
+            },
+            {
+              "title": "Indexing SharePoint lists for the Power Platform",
+              "url": "https://sharepains.com/2026/11/18/indexing-sharepoint-lists-power-platform/"
+            },
+            {
+              "title": "Diagnose Dashboard for Unified Routing Not Working After Following the MS Learn Setup",
+              "url": "https://linnzawwin.blogspot.com/2026/11/diagnose-dashboard-for-unified-routing.html"
+            },
+            {
+              "title": "Scaling Power Automate, Part 2: Finding the Real Bottleneck",
+              "url": "https://www.flyingpolymath.com/post/scaling-power-automate-part-2-finding-the-real-bottleneck"
+            },
+            {
+              "title": "Dataverse MCP Server: Now Your AI Agents Can Call Your Own Custom APIs",
+              "url": "https://debajmecrm.com/dataverse-mcp-server-ai-agents-call-custom-apis/"
+            },
+            {
+              "title": "Don’t Wait for the Support Call: Proactive Engagement with Customer Insights – Journeys",
+              "url": "https://paulinekolde.info/proactive-engagement-customer-insights-journeys"
+            }
+          ],
+          "🎙️ Podcasts": [
+            {
+              "title": "Ctrl+Alt+Azure Podcast",
+              "url": "https://share.transistor.fm/s/ce124d08"
+            },
+            {
+              "title": "Tech Biz Toolkit Podcast",
+              "url": "https://player.fm/series/tech-biz-toolkit/what-copilot-can-actually-see-and-what-change-teams-need-to-do-about-it-audio"
+            },
+            {
+              "title": "Power Platform Boost Podcast",
+              "url": "https://player.fm/series/power-platform-boost-podcast/ignite-2026-99"
+            }
+          ],
+          "📅 Events & Webinars": [
+            {
+              "title": "ESPC26",
+              "url": "https://espc.tech/conference/espc-2026/"
+            },
+            {
+              "title": "M365Con",
+              "url": "https://m365con.net/"
+            },
+            {
+              "title": "Cloud Tech Tallinn",
+              "url": "https://cloudtechtallinn.com/"
+            },
+            {
+              "title": "ColorCloud 2027",
+              "url": "https://colorcloud.rocks/"
+            },
+            {
+              "title": "DynamicsMinds 2027",
+              "url": "https://dynamicsminds.com/"
+            },
+            {
+              "title": "ECS 2027",
+              "url": "https://ecs.events/"
+            },
+            {
+              "title": "EPPC 2027",
+              "url": "https://espc.tech/conference/eppc-2027/"
+            }
+          ],
+          "💙 Out of the Blue": [
+            {
+              "title": "Autopilot: Meet your trusted personal teammate",
+              "url": "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/autopilot-meet-your-trusted-personal-teammate/4572611"
+            },
+            {
+              "title": "What’s new in Copilot Cowork at Ignite 2026",
+              "url": "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/whats-new-in-copilot-cowork-at-ignite-2026/4572242"
+            },
+            {
+              "title": "Turn AI ambition into real business value with Power Platform",
+              "url": "https://www.microsoft.com/power-platform/blog/2026/11/18/turn-ai-ambition-into-real-business-value-with-power-platform/"
+            },
+            {
+              "title": "Copilot Managed Runtime is generally available, with new preview features",
+              "url": "https://techcommunity.microsoft.com/blog/copilot-managed-runtime-blog/copilot-managed-runtime-is-now-generally-available-with-additional-new-preview-f/4571846"
+            },
+            {
+              "title": "Build and manage business processes with Microsoft Copilot Studio",
+              "url": "https://www.microsoft.com/copilot/blog/copilot-studio/build-and-manage-business-processes-with-microsoft-copilot-studio/"
+            },
+            {
+              "title": "OpenAI’s GPT-6.2 Sol and GPT-6.2 Astra in Microsoft Copilot",
+              "url": "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/available-today-openais-gpt-6-2-sol-and-gpt-6-2-astra-in-microsoft-copilot/4574229"
+            },
+            {
+              "title": "Discover and review Power Pages sites with Power Platform inventory",
+              "url": "https://www.microsoft.com/power-platform/blog/power-pages/discover-and-review-power-pages-sites-with-power-platform-inventory-public-preview/"
+            },
+            {
+              "title": "Frontier Tuning opens to more customers, with new tools for your teams",
+              "url": "https://devblogs.microsoft.com/microsoft365dev/frontier-tuning-opens-to-more-customers-with-new-tools-for-your-teams/"
+            },
+            {
+              "title": "The end of starting over: How Work IQ helps Copilot understand you and your work",
+              "url": "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/the-end-of-starting-over-how-work-iq-helps-copilot-understand-you-and-your-work/4571169"
+            },
+            {
+              "title": "SPFx Dev Skills for SPFx 1.24.1: tested across agents and models",
+              "url": "https://devblogs.microsoft.com/microsoft365dev/spfx-dev-skills-for-spfx-1-24-1-tested-across-agents-and-models/"
+            },
+            {
+              "title": "Introducing the Starter Pack for Work IQ",
+              "url": "https://devblogs.microsoft.com/microsoft365dev/introducing-the-starter-pack-for-work-iq/"
+            },
+            {
+              "title": "Home: Your starting place for work in the Microsoft Copilot app",
+              "url": "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/home-your-starting-place-for-work-in-the-microsoft-copilot-app/4573945"
+            },
+            {
+              "title": "Office at Ignite 2026: From apps to agentic system of work",
+              "url": "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/office-at-ignite-2026-from-apps-to-agentic-system-of-work/4572226"
+            },
+            {
+              "title": "Learning Agent: Build AI and Copilot skills through everyday work",
+              "url": "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/learning-agent-build-ai-and-copilot-skills-through-everyday-work/4573000"
+            },
+            {
+              "title": "New capabilities for building digital teammates in Microsoft Teams",
+              "url": "https://devblogs.microsoft.com/microsoft365dev/new-capabilities-for-building-digital-teammates-in-microsoft-teams/"
+            },
+            {
+              "title": "Copilot that understands your organization: People and org context in Work IQ",
+              "url": "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/copilot-that-understands-your-organization-introducing-people-and-org-context-in/4573356"
+            },
+            {
+              "title": "FinanceBench: Improving Copilot in Excel for finance work",
+              "url": "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/financebench-the-loop-that-continually-improves-copilot-in-excel-for-finance-wor/4573279"
+            },
+            {
+              "title": "Microsoft 365 Developer Program updates: new sandbox options and retirement of legacy sandboxes",
+              "url": "https://devblogs.microsoft.com/microsoft365dev/microsoft-365-developer-program-updates-new-sandbox-options-and-retirement-of-legacy-sandboxes/"
+            },
+            {
+              "title": "Use Copilot Cowork to dig deep into your Power Platform credit consumption data",
+              "url": "https://microsoft.github.io/mcscatblog/posts/copilot-cowork-credit-analysis/"
+            },
+            {
+              "title": "Power BI November 2026 Feature Summary",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-November-2026-Feature-Summary/ba-p/5414287"
+            },
+            {
+              "title": "Power BI at Ignite: Building on the momentum",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-at-Ignite-Building-on-the-momentum/ba-p/5422974"
+            }
+          ],
+          "📺 Videos": [
+            {
+              "title": "Copilot Studio Workflows vs Power Automate: Which Should You Use?",
+              "url": "https://www.youtube.com/watch?v=gjY9pkuJ-fE"
+            },
+            {
+              "title": "NEW! Build Power Automate Flows with AI GitHub Copilot + MCP",
+              "url": "https://www.youtube.com/watch?v=6OlQ3ioxoNA"
+            },
+            {
+              "title": "Power Automate: Parse Microsoft Forms Multi-Select Answers the Right Way",
+              "url": "https://www.youtube.com/watch?v=XyYQijlR5jY"
+            }
+          ]
+        },
+        "error": null
+      },
+      "power_platform_dev_weekly": {
+        "name": "Power Platform Dev Weekly",
+        "issue_number": 303,
+        "issue_date": "2026-11-11",
+        "url": "https://www.ppdevweekly.com/p/303",
+        "is_new": false,
+        "sections": {
+          "🥇 Cover Story": [
+            {
+              "title": "I Just Gave Copilot Permission to Delete My Opportunities",
+              "url": "https://crmkeeper.com/2026/11/10/i-just-gave-copilot-permission-to-delete-my-opportunities/"
+            }
+          ],
+          "💎 Model Driven Apps & Dataverse": [
+            {
+              "title": "SQL Meets the Dataverse Web API – Query Dataverse Using SQL",
+              "url": "https://mytrial365.com/2026/11/05/sql-meets-the-dataverse-web-api-query-dataverse-using-sql/"
+            }
+          ],
+          "🏋️‍♂️ Canvas Apps": [
+            {
+              "title": "How to play videos directly in a Power Apps Canvas App with the Stream (preview) control",
+              "url": "https://www.inogic.com/blog/2026/11/how-to-play-videos-directly-in-a-power-apps-canvas-app-with-the-stream-preview-control/"
+            }
+          ],
+          "🤖 Copilot": [
+            {
+              "title": "Right-Sized AI in Copilot: When Standard Harness with AI Builder Is the More Efficient Choice",
+              "url": "https://dev.to/balagmadhu/right-sized-ai-in-copilot-when-standard-harness-with-ai-builder-is-the-more-efficient-choice-4jm3"
+            },
+            {
+              "title": "Copilot Studio - When to use Child Agents",
+              "url": "https://dev.to/wyattdave/copilot-studio-when-to-use-child-agents-507p"
+            },
+            {
+              "title": "Adventures with Copilot Studio: Better Instructions, Faster Agents, Fewer Credits!",
+              "url": "https://mattruma.com/adventures-with-copilot-studio-better-instructions-faster-agents-fewer-credits/"
+            }
+          ],
+          "🚀 PCF & Custom Pages": [
+            {
+              "title": "Preventing CSS Conflicts in Model-Driven Apps using Shadow DOM",
+              "url": "https://www.inogic.com/blog/2026/11/preventing-css-conflicts-in-model-driven-apps-using-shadow-dom/"
+            }
+          ],
+          "🔨 Tools & Components": [
+            {
+              "title": "Creating your own AI “infrastructure”?",
+              "url": "https://www.itaintboring.com/ai/creating-your-own-ai-infrastructure/"
+            },
+            {
+              "title": "Modern Web Guidance on a real site - what it fixed and what it broke",
+              "url": "https://olashyn.dev/modern-web-guidance/"
+            },
+            {
+              "title": "Data Importer Tool for PPTB – I did a thing!",
+              "url": "https://thecrm.ninja/data-importer-tool-for-pptb-i-did-a-thing/"
+            }
+          ],
+          "🎮 Other Interesting Articles": [
+            {
+              "title": "Using Copilot Code to rebuild a canvas Power App",
+              "url": "https://readyxrm.blog/2026/10/24/using-copilot-code-to-rebuild-a-canvas-power-app/"
+            },
+            {
+              "title": "Sync Text Message Replies STOP and START with Contact Point Consent in Customer Insights - Journeys",
+              "url": "https://www.ameyholden.com/articles/sync-text-message-sms-stop-start-consent-customer-insights-journeys"
+            },
+            {
+              "title": "Power Apps Code Apps and the Dataverse Connector: The day our guest users saw nothing",
+              "url": "https://dev.to/_neronotte/power-apps-code-apps-and-the-dataverse-connector-the-day-our-guest-users-saw-nothing-19ld"
+            },
+            {
+              "title": "Claude Inside the EU Data Boundary: What Changes for European Copilot Tenants and What Does Not",
+              "url": "https://holgerimbery.blog/claude-eu-data-boundary-copilot"
+            },
+            {
+              "title": "A Decision AI Model in Application Architecture",
+              "url": "https://netwiseglobal.com/blog/a-decision-ai-model-in-application-architecture/"
+            }
+          ],
+          "📺 Videos": [
+            {
+              "title": "How to Setup Guardrails for Copilot Studio Agents (ADMINS)​",
+              "url": "https://www.youtube.com/watch?v=hizTfPz3J2w"
+            },
+            {
+              "title": "2026 PPCC Review",
+              "url": "https://www.youtube.com/watch?v=6h3C-6hW5hQ"
+            },
+            {
+              "title": "Pipeline Visualiser Open Source tool - Power Platform ToolBox",
+              "url": "https://www.youtube.com/watch?v=HhQnZ_xlYPw"
+            },
+            {
+              "title": "Dataverse Plugin vs 56K Records #Shorts",
+              "url": "https://www.youtube.com/watch?v=ZyTHVsoQ71E"
+            }
+          ]
+        },
+        "error": null
+      },
+      "power_bi_weekly": {
+        "name": "Power BI Weekly",
+        "issue_number": 384,
+        "issue_date": null,
+        "url": "https://powerbiweekly.info/issue-384.html",
+        "is_new": false,
+        "sections": {
+          "Issue 384": [
+            {
+              "title": "Power BI at Ignite",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-at-Ignite-Building-on-the-momentum/ba-p/5422974"
+            },
+            {
+              "title": "Fabric apps reaching general availability",
+              "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Build-governed-data-apps-with-Microsoft-Fabric-Apps-Generally/ba-p/5423011"
+            },
+            {
+              "title": "Power BI November 2026 Feature Summary",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-November-2026-Feature-Summary/ba-p/5414287"
+            },
+            {
+              "title": "being retired by the end of January 2027",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-November-2026-Feature-Summary/ba-p/5414287#community--1-mcetoc_1k78q1ev0_6"
+            },
+            {
+              "title": "OneDrive and SharePoint integration",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-November-2026-Feature-Summary/ba-p/5414287#community--1-mcetoc_1k78q1ev0_11"
+            },
+            {
+              "title": "style presets",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-November-2026-Feature-Summary/ba-p/5414287#community--1-mcetoc_1k78q1ev0_13"
+            },
+            {
+              "title": "trend charts",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-November-2026-Feature-Summary/ba-p/5414287#community--1-mcetoc_1k78q1ev0_12"
+            },
+            {
+              "title": "a Filter action button in the visual title",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-November-2026-Feature-Summary/ba-p/5414287#community--1-mcetoc_1k78q1ev0_16"
+            },
+            {
+              "title": "embed a whole workspace app in SharePoint Online",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-November-2026-Feature-Summary/ba-p/5414287#community--1-mcetoc_1k78q1ev0_32"
+            },
+            {
+              "title": "on-premises data gateway November 2026 release",
+              "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/On-premises-data-gateway-November-2026-release/ba-p/5430005"
+            },
+            {
+              "title": "an introduction to full-text search for DAX",
+              "url": "https://www.sqlbi.com/articles/introducing-full-text-search-for-dax/"
+            }
+          ],
+          "Data Prep": [
+            {
+              "title": "Microsoft Ignite 2026 – přehled pro Power BI a Fabric [Czech]",
+              "url": "https://www.neoral.cz/2026/11/microsoft-ignite-2026-prehled-pro-power.html"
+            },
+            {
+              "title": "Power BI Beginner to Intermediate Tutorial",
+              "url": "https://www.youtube.com/watch?v=Kc8GnsGnA2o"
+            },
+            {
+              "title": "Measure Killer: úklid modelu a column lineage [Czech]",
+              "url": "https://www.neoral.cz/2026/11/measure-killer-uklid-modelu-column.html"
+            },
+            {
+              "title": "How Multiple Developers Work on One Power BI Report: Power BI PBIP + Git",
+              "url": "https://www.youtube.com/watch?v=Dpcuzmk3Jcg"
+            },
+            {
+              "title": "On-premises data gateway November 2026 release",
+              "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/On-premises-data-gateway-November-2026-release/ba-p/5430005"
+            },
+            {
+              "title": "Power BI on Databricks: Which Connection Type? Eiki Sui & Liping Huang | Fabric Insider Ep. 29",
+              "url": "https://www.youtube.com/watch?v=eqrKt2ROwDY"
+            },
+            {
+              "title": "Report Bursting With Dataflows Gen2 Revisited: Action Sequences",
+              "url": "https://blog.crossjoin.co.uk/2026/11/15/report-bursting-with-dataflows-gen2-revisited-action-sequences/"
+            },
+            {
+              "title": "Power BI can truncate Databricks records on the ADBC driver, Microsoft says",
+              "url": "https://dataempower.net/hot-news/power-bi-databricks-adbc-truncated-records-known-issue-2037/?utm_source=rss&utm_medium=rss&utm_campaign=power-bi-databricks-adbc-truncated-records-known-issue-2037"
+            }
+          ],
+          "Data Modeling": [
+            {
+              "title": "TEXTCONTAINS & TEXTSIMILARITY: New DAX Text Search",
+              "url": "https://www.youtube.com/watch?v=NQ0fUd5mKDM"
+            },
+            {
+              "title": "Master Power BI Data Modeling (With 5 Practical Examples)",
+              "url": "https://www.youtube.com/watch?v=gJxwNZ8pnO8"
+            },
+            {
+              "title": "Stop Trying to Write Better Prompts for Power BI Agents!",
+              "url": "https://www.youtube.com/watch?v=_5eOjO9Zk1U"
+            },
+            {
+              "title": "Cómo usar Copilot con Power BI para crear medidas DAX | Parte 3 [Spanish]",
+              "url": "https://www.youtube.com/watch?v=KTMStMirCLY"
+            },
+            {
+              "title": "Protect Sensitive Data in Power BI: User-Context-Aware Calculated Column (No RLS, CLS or OLS)",
+              "url": "https://www.youtube.com/watch?v=F58ky1LkHTs"
+            },
+            {
+              "title": "Build a Client-Ready Financial Report in Power BI | End-to-End Project Walkthrough (IBCS, HTML Card)",
+              "url": "https://www.youtube.com/watch?v=wJAhO5eipxI"
+            },
+            {
+              "title": "Introducing full-text search for DAX",
+              "url": "https://www.sqlbi.com/articles/introducing-full-text-search-for-dax/"
+            }
+          ],
+          "Report Authoring and Interactivity": [
+            {
+              "title": "The DEPTH Model Checklist",
+              "url": "https://data-tides.com/2026/11/20/the-depth-model-checklist/"
+            },
+            {
+              "title": "Power BI November 2026 Feature Summary",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-November-2026-Feature-Summary/ba-p/5414287"
+            },
+            {
+              "title": "I Built a Rotating Globe in Power BI, but Then I Had to Stop It",
+              "url": "https://data-tides.com/2026/11/19/https-data-tides-com-2026-11-16-power-bi-rotating-globe-pause-button/"
+            },
+            {
+              "title": "New on my GitHub: Power BI Design Checklists",
+              "url": "https://data-tides.com/2026/11/16/new-on-my-github-power-bi-design-checklists/"
+            },
+            {
+              "title": "Power BI Bookmarks",
+              "url": "https://www.youtube.com/watch?v=afkENJdA9tE"
+            },
+            {
+              "title": "Power BI Time Intelligence",
+              "url": "https://www.selectdistinct.co.uk/2026/11/16/power-bi-time-intelligence/"
+            },
+            {
+              "title": "A First Look at Fabric Apps: The Good, The Bad, and the Ugly",
+              "url": "https://prologika.com/a-first-look-at-fabric-apps-the-good-the-bad-and-the-ugly/"
+            },
+            {
+              "title": "Power BI at Ignite: Building on the momentum",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-at-Ignite-Building-on-the-momentum/ba-p/5422974"
+            }
+          ],
+          "Deployment, Security and Operations": [
+            {
+              "title": "Can Copilot Answer Questions From Your Power BI Data?",
+              "url": "https://databear.com/can-copilot-answer-questions-from-your-power-bi-data/"
+            },
+            {
+              "title": "Build governed data apps with Microsoft Fabric Apps (Generally Available)",
+              "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Build-governed-data-apps-with-Microsoft-Fabric-Apps-Generally/ba-p/5423011"
+            }
+          ]
+        },
+        "error": null
+      }
+    },
+    "release_plans": {
+      "source_url": "https://releaseplans.net/",
+      "data_url": "https://releaseplans.net/data/release-plans.json",
+      "products": {},
+      "total_updates": 0,
+      "error": null
+    },
+    "m365_roadmap": {
+      "source_url": "https://www.microsoft.com/microsoft-365/roadmap",
+      "data_url": "https://www.microsoft.com/releasecommunications/api/v1/m365",
+      "items": [],
+      "total_updates": 0,
+      "error": null
+    }
+  },
+  "errors": [],
+  "_meta": {
+    "success_count": 41,
+    "total_sources": 41
+  }
+}
