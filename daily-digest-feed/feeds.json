@@ -1,35 +1,21 @@
 {
-  "generated_at": "2026-11-24T11:05:10.943172Z",
+  "generated_at": "2026-11-25T11:05:19.088831Z",
   "window_hours": 48,
   "sources": {
     "youtube": {
       "overlanding": [
         {
-          "creator": "LetsGetLost",
-          "handle": "@LetsGetLost",
-          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
+          "creator": "This Story Till Now",
+          "handle": "@ThisStoryTillNow",
+          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
           "videos": [],
           "error": null
         },
         {
-          "creator": "VentureToRoam",
-          "handle": "@VentureToRoam",
-          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
+          "creator": "Life Style Overland",
+          "handle": "@LifeStyleOverland",
+          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
           "videos": [],
-          "error": null
-        },
-        {
-          "creator": "TrailRecon",
-          "handle": "@TrailRecon",
-          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
-          "videos": [
-            {
-              "title": "I Bought Another Jeep 392 After the First One Failed",
-              "url": "https://www.youtube.com/watch?v=aEdH7VLT9sw",
-              "published": "2026-11-22T15:00:22Z",
-              "description": "I sold my Jeep 392 in January 2024 and told you exactly why. Now there's another one in the garage.\n\nIn this Coffee One Take I talk through what went wrong with my first 392, why it's still the most fun Jeep I've ever owned, and how a used 2025 Rubicon 392 with 5,700 miles ended up costing 25% less than it sold for new, and less than I paid for my 2022.\n\nThis one isn't an overland build. It's my hot rod: a fun, fast desert Jeep. I'll walk you through the plan, starting with the weak points that "
-            }
-          ],
           "error": null
         },
         {
@@ -47,30 +33,23 @@
           "error": null
         },
         {
-          "creator": "Casey 250",
-          "handle": "@Casey250",
-          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
+          "creator": "LetsGetLost",
+          "handle": "@LetsGetLost",
+          "channel_id": "UCwiFE-kz0FZR8JJv3DTlocQ",
           "videos": [],
           "error": null
         },
         {
-          "creator": "Craving.Outdoors",
-          "handle": "@Craving.Outdoors",
-          "channel_id": "UCzHx4YhJTwZ_HG_D-Q1lpSA",
+          "creator": "TrailRecon",
+          "handle": "@TrailRecon",
+          "channel_id": "UCEEgz9PD6iTRSB0VXNbWvRw",
           "videos": [],
           "error": null
         },
         {
-          "creator": "This Story Till Now",
-          "handle": "@ThisStoryTillNow",
-          "channel_id": "UC_QteyvNZKtK5qPWlPbrl-Q",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Life Style Overland",
-          "handle": "@LifeStyleOverland",
-          "channel_id": "UCJSHfhZHP8-iChAVCrXWTyA",
+          "creator": "VentureToRoam",
+          "handle": "@VentureToRoam",
+          "channel_id": "UCfAtRPIM8OOVhyVXWHnvaIQ",
           "videos": [],
           "error": null
         },
@@ -78,6 +57,20 @@
           "creator": "Ozark Overland Adventure",
           "handle": "@OzarkOverlandAdventures",
           "channel_id": "UCgbmZmCWIzOwKzAN-0UaWHg",
+          "videos": [
+            {
+              "title": "2026 Holiday Buying Guide for Overlanding, Camping and EDC",
+              "url": "https://www.youtube.com/watch?v=RrPv8VAisdY",
+              "published": "2026-11-24T16:00:33Z",
+              "description": "Here's some holiday gift ideas for overlanders, campers and EDC.\n\nItems in this video...\nFly High Fire Starters: https://flyhighfirestarters.com/ Use code OZARK for 15% off\n\nMamoos Camp Kitchen: https://mamooscampkitchen.com/\n\nDevos: https://www.devosoutdoor.com/ Use Code OZARKADV for 10% off\n\nMidland: https://midlandradiocorporation.pxf.io/OYqyPZ\n\nCliq Chair: https://link.amazon/B07IgINL4\n\nThor's Lightening: https://thorslightningairsystems.com/discount/MATTCARAMCCLELL?ref=beagfvwt\n\nRollerCam: "
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Casey 250",
+          "handle": "@Casey250",
+          "channel_id": "UCaE68iLdChFimyvhXy2XPWA",
           "videos": [],
           "error": null
         },
@@ -87,83 +80,21 @@
           "channel_id": "UCI5nuVPmxCt4VwSprm-gpAg",
           "videos": [],
           "error": null
+        },
+        {
+          "creator": "Craving.Outdoors",
+          "handle": "@Craving.Outdoors",
+          "channel_id": "UCzHx4YhJTwZ_HG_D-Q1lpSA",
+          "videos": [],
+          "error": null
         }
       ],
       "power_platform": [
-        {
-          "creator": "Matthew Devaney",
-          "handle": "@MatthewDevaney",
-          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
-          "videos": [],
-          "error": null
-        },
         {
           "creator": "Lisa Crosbie",
           "handle": "@LisaCrosbie",
           "channel_id": "UCvxCGKv4WSq49LfNIfZEEtg",
           "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Shane Young",
-          "handle": "@ShanesCows",
-          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
-          "videos": [
-            {
-              "title": "GitHub Copilot for Power Apps Beginners: Start Here",
-              "url": "https://www.youtube.com/watch?v=p28Dx8eVQe8",
-              "published": "2026-11-23T13:30:14Z",
-              "description": "I’ve shown a bunch of things you can build with GitHub Copilot, but I realized I never really showed the full setup from the very beginning.\n\nSo in this video, we start from scratch and go step by step:\n- Create a GitHub account\n- Get access to the free Copilot tier\n- Install the GitHub Copilot app\n- Add the Power Platform marketplace\n- Install the Power Apps Canvas plugin\n- Connect GitHub Copilot to Power Apps\n- Handle the first-time setup pieces\n- Test everything by making a simple change to a"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Bright Ideas Agency",
-          "handle": "@brightideasagency",
-          "channel_id": "UCnv9vvr7tQVQ07iSe4rZgWQ",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "April Dunnam",
-          "handle": "@AprilDunnam",
-          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Power Squared",
-          "handle": "@PowerSquared",
-          "channel_id": "UCoDxmKfgtkGeXezviLXUGIw",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Sean Astrakhan",
-          "handle": "@Untethered365",
-          "channel_id": "UCEYgG-Fw0ghmP1Vnw_M3oGQ",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "DamoBird365",
-          "handle": "@DamoBird365",
-          "channel_id": "UC-NCKrEw6CM8fidaIk-yrUQ",
-          "videos": [
-            {
-              "title": "Power Apps Built Our Phone App in 30 Seconds. Here's What I Changed",
-              "url": "https://www.youtube.com/watch?v=SEynyHJX2JU",
-              "published": "2026-11-23T19:19:18Z",
-              "description": "Episode 2 of 6 in a free Power Platform course: https://www.youtube.com/playlist?list=PLXr-imKBfm5U\n\nPower Apps tutorial for beginners: turn a SharePoint list into a phone app. Power Apps builds the first version in under 30 seconds, then you make the three changes that make it right.\n\nAt Glen Damo, a small Scottish whisky distillery, Callum works on the warehouse floor and sends his cask requests from his phone. You start with data, pick the SharePoint Requests list and let Power Apps build a c"
-            },
-            {
-              "title": "I Replaced Our Approval Emails With One Power Automate Flow",
-              "url": "https://www.youtube.com/watch?v=2UKz7MvbNNY",
-              "published": "2026-11-22T22:02:50Z",
-              "description": "Episode 1 of 6 in a free Power Platform course: https://www.youtube.com/playlist?list=PLXr-imKBfm5U\n\nPower Automate tutorial for beginners: build your first approval flow, from a blank SharePoint list to a working approval in Teams.\n\nAt Glen Damo, a small Scottish whisky distillery, Callum's cask requests used to arrive as messy emails and get approved in the corridor. In this episode you build the replacement: a SharePoint list called Requests, then an automated cloud flow that starts when a re"
-            }
-          ],
           "error": null
         },
         {
@@ -181,9 +112,78 @@
           "error": null
         },
         {
+          "creator": "Shane Young",
+          "handle": "@ShanesCows",
+          "channel_id": "UC7_OGRP8BYvtGB8eZdPG6Ng",
+          "videos": [
+            {
+              "title": "GitHub Copilot for Power Apps Beginners: Start Here",
+              "url": "https://www.youtube.com/watch?v=p28Dx8eVQe8",
+              "published": "2026-11-23T13:30:14Z",
+              "description": "I’ve shown a bunch of things you can build with GitHub Copilot, but I realized I never really showed the full setup from the very beginning.\n\nSo in this video, we start from scratch and go step by step:\n- Create a GitHub account\n- Get access to the free Copilot tier\n- Install the GitHub Copilot app\n- Add the Power Platform marketplace\n- Install the Power Apps Canvas plugin\n- Connect GitHub Copilot to Power Apps\n- Handle the first-time setup pieces\n- Test everything by making a simple change to a"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "DamoBird365",
+          "handle": "@DamoBird365",
+          "channel_id": "UC-NCKrEw6CM8fidaIk-yrUQ",
+          "videos": [
+            {
+              "title": "I Let Copilot Cowork Answer Our Customers. Would You Hit Send?",
+              "url": "https://www.youtube.com/watch?v=7StaNduuhwk",
+              "published": "2026-11-24T13:00:09Z",
+              "description": "Episode 5 of 5 in a free Microsoft 365 Copilot course: https://www.youtube.com/playlist?list=PLOCmL61rd-Qg\n\nCopilot Cowork tutorial: hand over a whole job in plain English, and Cowork replies to your customer emails with the right file attached, saved as drafts for you to check.\n\nAt Glen Damo, a small Scottish whisky distillery, three trade customers want to order the Haar, a new single malt, and Morag has no time to answer them. In this Series 1 finale she gives Copilot Cowork one prompt: find "
+            },
+            {
+              "title": "Power Apps Built Our Phone App in 30 Seconds. Here's What I Changed",
+              "url": "https://www.youtube.com/watch?v=SEynyHJX2JU",
+              "published": "2026-11-23T19:19:18Z",
+              "description": "Episode 2 of 6 in a free Power Platform course: https://www.youtube.com/playlist?list=PLXr-imKBfm5U\n\nPower Apps tutorial for beginners: turn a SharePoint list into a phone app. Power Apps builds the first version in under 30 seconds, then you make the three changes that make it right.\n\nAt Glen Damo, a small Scottish whisky distillery, Callum works on the warehouse floor and sends his cask requests from his phone. You start with data, pick the SharePoint Requests list and let Power Apps build a c"
+            }
+          ],
+          "error": null
+        },
+        {
           "creator": "Daniel Anderson",
           "handle": "@DanielAndersonAU",
           "channel_id": "UCsYYpxfrYrZaKwFPGM7shtQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "April Dunnam",
+          "handle": "@AprilDunnam",
+          "channel_id": "UCz_x76EBX5UXsV27drGNh6w",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Bright Ideas Agency",
+          "handle": "@brightideasagency",
+          "channel_id": "UCnv9vvr7tQVQ07iSe4rZgWQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Sean Astrakhan",
+          "handle": "@Untethered365",
+          "channel_id": "UCEYgG-Fw0ghmP1Vnw_M3oGQ",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Matthew Devaney",
+          "handle": "@MatthewDevaney",
+          "channel_id": "UCuBK42yA0I1sfmsZTCL_t2w",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Power Squared",
+          "handle": "@PowerSquared",
+          "channel_id": "UCoDxmKfgtkGeXezviLXUGIw",
           "videos": [],
           "error": null
         },
@@ -203,7 +203,7 @@
               "title": "Introduction to Cowork Plugins | Create your Own",
               "url": "https://www.youtube.com/watch?v=4h3toJ9cAfk",
               "published": "2026-11-23T14:00:23Z",
-              "description": "What is a plugin, and what makes a Copilot Cowork plugin different? In this video, I break down what plugins are, what Cowork plugins are in Microsoft Copilot Cowork, and walk through an example of one so you can see how it works.\n\nI'm Andrew Hess, a Sr. Solution Architect at Microsoft and former Microsoft MVP. I post a new video every week on Microsoft 365, Copilot, Copilot Studio, and the Power Platform.\n\nIf this helped, like the video and subscribe for more.\n\nChapters:\n0:00 Introduction\n1:15 "
+              "description": "What is a plugin, and what makes a Copilot Cowork plugin different? In this video, I break down what plugins are, what Cowork plugins are in Microsoft Copilot Cowork, and walk through an example of one so you can see how it works.\n\nI'm Andrew Hess, a Sr. Solution Architect at Microsoft and former Microsoft MVP. I post a new video every week on Microsoft 365, Copilot, Copilot Studio, and the Power Platform.\n\nIf this helped, like the video and subscribe for more.\n\nLink for Plugin: https://microsof"
             }
           ],
           "error": null
@@ -211,21 +211,22 @@
       ],
       "fabric_powerbi": [
         {
-          "creator": "How to Power BI",
-          "handle": "@HowtoPowerBI",
-          "channel_id": "UCcfngi7_ASuo5jdWX0bNauQ",
+          "creator": "Guy in a Cube",
+          "handle": "@GuyInACube",
+          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "RADACAD",
+          "handle": "@RADACAD",
+          "channel_id": "UCsOfIwAXj1fT6LDqEDEAb4g",
           "videos": [
             {
-              "title": "Fabric Just Added Semantic Views (Preview) | November 2026 Update",
-              "url": "https://www.youtube.com/shorts/-pUSTocleNQ",
-              "published": "2026-11-23T13:00:02Z",
-              "description": "New in Fabric IQ: semantic views (preview).\n\nYou define your tables, relationships and business metrics once, in YAML, right next to your data in OneLake (see video). Your Power BI reports and Fabric data agents then use the same logic. Key benefits: \n✅ Get consistent metrics across reports and agents\n✅ Reuse definitions across Lakehouses with OneLake shortcuts\n✅ Publish and get a Direct Lake semantic model generated for you\n\n👉 Need help with Fabric, AI or Power BI development? Talk to us: \nFabr"
-            },
-            {
-              "title": "3 Low-Code Ways to Ingest Data in Microsoft Fabric | File Upload, Dataflow Gen2, Copy Job",
-              "url": "https://www.youtube.com/shorts/w0qGiswN4PA",
-              "published": "2026-11-22T13:20:04Z",
-              "description": "Want to get data into Microsoft Fabric without writing code? In this video, you can see 3 low-code ingestion methods:\n\nFile Upload: the fastest way to load CSV/Excel files into a lakehouse and turn them into tables\nDataflow Gen2: ingest and transform data with Power Query, then load it to a lakehouse or warehouse\nCopy Job: bulk and incremental copying of many tables, no pipeline needed\n\n👉 Need help with Fabric, AI or Power BI development? Talk to us: \nFabric: https://datatraining.io/fabric-consu"
+              "title": "I Met Satya Nadella, CEO of Microsoft! Ignite 2026 Announcements and My Experience",
+              "url": "https://www.youtube.com/watch?v=Mhet9JQT5k4",
+              "published": "2026-11-25T01:52:21Z",
+              "description": "I went to Microsoft Ignite 2026 as an influencer, I met creators from the community, recorded interviews with the product team, and I met Satya Nadella in real life. In this long video I share what it was like to be there, and then I go through the announcements that matter most for Microsoft Fabric, Power BI, data and AI, with the status of each one: generally available, preview, or only announced.\n\n🚀 What you will see in this video:\n✅ My Ignite experience: being invited as an influencer, meeti"
             }
           ],
           "error": null
@@ -236,94 +237,114 @@
           "channel_id": "UCPwPrIpZwlfIKcoUpRwl9OQ",
           "videos": [
             {
-              "title": "578 - Why consultants exist: to clean up the mess",
-              "url": "https://www.youtube.com/shorts/BFWnPHP_n24",
-              "published": "2026-11-24T10:38:33Z",
-              "description": "578 - Why do you exist as a consultant, Mike? To clean up the mess. One workspace already has seven or eight apps in it, and every single one is a game.\n\nhttps://youtu.be/zxBHFKGIWpo\n\n#consulting #apps #fabric #governance"
-            },
-            {
-              "title": "Azure App Service Builder - 047 Agentic Thinking",
-              "url": "https://www.youtube.com/watch?v=2yJvKFF3ems",
-              "published": "2026-11-24T06:00:15Z",
-              "description": "https://builder.appservice.azure.com/\n\nBlog:\nhttps://builder.appservice.azure.com/blog/posts/introducing-app-service-builder.html\n\nLearn More\nhttps://learn.microsoft.com/en-us/azure/app-service/app-service-builder-overview\n\nFollow Us\nJordan: https://www.linkedin.com/in/jordan-selig/\nMike: https://www.linkedin.com/in/michaelcarlo/"
-            },
-            {
-              "title": "578 - A first prompt can now build a useful app",
-              "url": "https://www.youtube.com/shorts/utWhWdMvfc4",
-              "published": "2026-11-24T04:07:23Z",
-              "description": "578 - A simple first prompt can build a useful app the day you install the tool. Six months ago that first try usually went poorly, which is why the pushback only goes halfway.\n\nhttps://youtu.be/zxBHFKGIWpo\n\n#prompting #agents #apps #ai"
-            },
-            {
-              "title": "When Leadership Builds Part 2 - Ep. 584",
-              "url": "https://www.youtube.com/watch?v=wfcUOq_WL3c",
-              "published": "2026-11-24T01:38:57Z",
-              "description": "ok, now that your leader has claude, what can you expect next?"
+              "title": "578 - OneLake orchestration is the next core data skill",
+              "url": "https://www.youtube.com/shorts/OJ5vpG1dK14",
+              "published": "2026-11-25T04:16:23Z",
+              "description": "578 - OneLake orchestration is about to be the third skill that matters in this work. Marketing gets a database full of shortcuts, and their campaign app finally has somewhere to write.\n\nhttps://youtu.be/zxBHFKGIWpo\n\n#onelake #fabric #data #agents"
             },
             {
               "title": "When Leadership Builds Part 1 - Ep. 583",
               "url": "https://www.youtube.com/watch?v=J-bvp1ZmaTA",
-              "published": "2026-11-24T01:33:57Z",
+              "published": "2026-11-25T02:31:39Z",
               "description": "Leadership builds with Agents. Then what does that do for you? is this a good thing or trouble is coming?\n\nwe unpack this topic"
             },
             {
-              "title": "578 - Three years of prompting is the real advantage",
-              "url": "https://www.youtube.com/shorts/Jf3-Ef-pWP0",
-              "published": "2026-11-24T00:50:28Z",
-              "description": "578 - Tommy's edge is three years of prompting agents and building structure around them. Power BI got the same treatment here, from day one, including the hours after work.\n\nhttps://youtu.be/zxBHFKGIWpo\n\n#prompting #agents #powerbi #learning"
+              "title": "578 - Run a local model inside Power BI Desktop",
+              "url": "https://www.youtube.com/shorts/XUnwGIwmhx0",
+              "published": "2026-11-25T00:21:33Z",
+              "description": "578 - What if Power BI Desktop talked to a local model you basically already paid for? Those Microsoft machines at 128 gigs are expensive, and that's the bet I'm making.\n\nhttps://youtu.be/zxBHFKGIWpo\n\n#powerbi #localai #ai #hardware"
             },
             {
-              "title": "578 - Give a Power BI person an agent, you get junk",
-              "url": "https://www.youtube.com/shorts/JCyT5x6ecvw",
-              "published": "2026-11-23T22:13:32Z",
-              "description": "578 - Give a Power BI person an agent and tell them to go build. The prediction is junk, and you can hear the disagreement start before that idea even settles.\n\nhttps://youtu.be/zxBHFKGIWpo\n\n#powerbi #agents #apps #data"
+              "title": "Data Jam 2 (Amapiano) | Carlo Solutions",
+              "url": "https://www.youtube.com/watch?v=mLGJfw9R6_4",
+              "published": "2026-11-25T00:18:49Z",
+              "description": "Data Jam 2 (Amapiano) by Carlo Solutions\n\nPlease Subscribe to our Channel:\nhttps://www.youtube.com/powerbitips?sub_confirmation=1\n\nLike our Content, want to support our efforts to keep things growing, Please consider becoming a member: https://www.youtube.com/@PowerBITips/membership\n\nMembers only Videos (All videos are presented with NO ADS)\nhttps://www.youtube.com/playlist?list=UUMOPwPrIpZwlfIKcoUpRwl9OQ"
             },
             {
-              "title": "578 - This is the first time apps are easier than reports",
-              "url": "https://www.youtube.com/shorts/zrXRjZW1rog",
-              "published": "2026-11-23T13:20:28Z",
-              "description": "578 - Report builders and app builders used to be different people, because the skill split kept them apart. This is the first time in our careers that an app is the easier thing to ship.\n\nhttps://youtu.be/zxBHFKGIWpo\n\n#powerbi #apps #fabric #developers"
+              "title": "Data Jam (Amapiano) | Carlo Solutions",
+              "url": "https://www.youtube.com/watch?v=aL0_pDvuLqU",
+              "published": "2026-11-25T00:18:29Z",
+              "description": "Data Jam (Amapiano) by Carlo Solutions\n\nPlease Subscribe to our Channel:\nhttps://www.youtube.com/powerbitips?sub_confirmation=1\n\nLike our Content, want to support our efforts to keep things growing, Please consider becoming a member: https://www.youtube.com/@PowerBITips/membership\n\nMembers only Videos (All videos are presented with NO ADS)\nhttps://www.youtube.com/playlist?list=UUMOPwPrIpZwlfIKcoUpRwl9OQ"
             },
             {
-              "title": "578 - Govern apps with the same pyramid you use for reports",
-              "url": "https://www.youtube.com/shorts/KMnrIO_B0Zg",
-              "published": "2026-11-23T10:50:43Z",
-              "description": "578 - We're about to govern a wave of new apps with the same playbook Power BI forced on us. Matthew Roach's pyramid still decides which ones deserve to be promoted.\n\nhttps://youtu.be/zxBHFKGIWpo\n\n#governance #powerbi #apps #fabric"
+              "title": "128 Gigs (Amapiano B Side) | Carlo Solutions",
+              "url": "https://www.youtube.com/watch?v=v-aYaYlsGkY",
+              "published": "2026-11-25T00:18:08Z",
+              "description": "128 Gigs (Amapiano B Side) by Carlo Solutions\n\nPlease Subscribe to our Channel:\nhttps://www.youtube.com/powerbitips?sub_confirmation=1\n\nLike our Content, want to support our efforts to keep things growing, Please consider becoming a member: https://www.youtube.com/@PowerBITips/membership\n\nMembers only Videos (All videos are presented with NO ADS)\nhttps://www.youtube.com/playlist?list=UUMOPwPrIpZwlfIKcoUpRwl9OQ"
             },
             {
-              "title": "578 - It's now easier to build an app than a report",
-              "url": "https://www.youtube.com/shorts/kiVWHILDc84",
-              "published": "2026-11-23T10:03:19Z",
-              "description": "578 - A natural language prompt can spin up an app with a real interface and actions. Reports still take more setup, which raises a bigger question. Does every company even want the app?\n\nhttps://youtu.be/zxBHFKGIWpo\n\n#powerbi #apps #fabric #reporting"
+              "title": "128 Gigs (Amapiano) | Carlo Solutions",
+              "url": "https://www.youtube.com/watch?v=znuz4yDmysg",
+              "published": "2026-11-25T00:17:49Z",
+              "description": "128 Gigs (Amapiano) by Carlo Solutions\n\nPlease Subscribe to our Channel:\nhttps://www.youtube.com/powerbitips?sub_confirmation=1\n\nLike our Content, want to support our efforts to keep things growing, Please consider becoming a member: https://www.youtube.com/@PowerBITips/membership\n\nMembers only Videos (All videos are presented with NO ADS)\nhttps://www.youtube.com/playlist?list=UUMOPwPrIpZwlfIKcoUpRwl9OQ"
             },
             {
-              "title": "578 - Microsoft wrote these Fabric APIs for agents",
-              "url": "https://www.youtube.com/shorts/Wmsn22cZqpo",
-              "published": "2026-11-23T04:05:36Z",
-              "description": "578 - Microsoft wrote these Fabric APIs for agents to call. Tom's article makes that hard to miss, and if you work in that sandbox you should ask who they were built for.\n\nhttps://youtu.be/zxBHFKGIWpo\n\n#microsoftfabric #agents #dataengineering #apis"
+              "title": "60 to 99 (Amapiano B Side) | Carlo Solutions",
+              "url": "https://www.youtube.com/watch?v=ZvnpYAddzn8",
+              "published": "2026-11-25T00:17:29Z",
+              "description": "60 to 99 (Amapiano B Side) by Carlo Solutions\n\nPlease Subscribe to our Channel:\nhttps://www.youtube.com/powerbitips?sub_confirmation=1\n\nLike our Content, want to support our efforts to keep things growing, Please consider becoming a member: https://www.youtube.com/@PowerBITips/membership\n\nMembers only Videos (All videos are presented with NO ADS)\nhttps://www.youtube.com/playlist?list=UUMOPwPrIpZwlfIKcoUpRwl9OQ"
             },
             {
-              "title": "578 - Now I can build the exact app I want in hours",
-              "url": "https://www.youtube.com/shorts/Y_F1FV8_iH4",
-              "published": "2026-11-23T02:39:29Z",
-              "description": "578 - Back in March a custom PDF reader was a week of work, so buying it won. A couple of hours for exactly the app you want makes open source look aggressive.\n\nhttps://youtu.be/zxBHFKGIWpo\n\n#opensource #agents #apps #building"
+              "title": "60 to 99 (Amapiano) | Carlo Solutions",
+              "url": "https://www.youtube.com/watch?v=rEOqvzFRmt4",
+              "published": "2026-11-25T00:17:08Z",
+              "description": "60 to 99 (Amapiano) by Carlo Solutions\n\nPlease Subscribe to our Channel:\nhttps://www.youtube.com/powerbitips?sub_confirmation=1\n\nLike our Content, want to support our efforts to keep things growing, Please consider becoming a member: https://www.youtube.com/@PowerBITips/membership\n\nMembers only Videos (All videos are presented with NO ADS)\nhttps://www.youtube.com/playlist?list=UUMOPwPrIpZwlfIKcoUpRwl9OQ"
             },
             {
-              "title": "578 - He asked an agent to build him a PDF reader",
-              "url": "https://www.youtube.com/shorts/MRN5yUyMHjs",
-              "published": "2026-11-22T23:51:30Z",
-              "description": "578 - He got tired of Adobe selling him extra products just to sign a PDF. So he asked an agent to build Folio, and that little project reset what he thinks agents can ship.\n\nhttps://youtu.be/zxBHFKGIWpo\n\n#folio #opensource #pdf #agents"
+              "title": "Budget (Amapiano B Side) | Carlo Solutions",
+              "url": "https://www.youtube.com/watch?v=xa25Jc595zs",
+              "published": "2026-11-25T00:16:45Z",
+              "description": "Budget (Amapiano B Side) by Carlo Solutions\n\nPlease Subscribe to our Channel:\nhttps://www.youtube.com/powerbitips?sub_confirmation=1\n\nLike our Content, want to support our efforts to keep things growing, Please consider becoming a member: https://www.youtube.com/@PowerBITips/membership\n\nMembers only Videos (All videos are presented with NO ADS)\nhttps://www.youtube.com/playlist?list=UUMOPwPrIpZwlfIKcoUpRwl9OQ"
             },
             {
-              "title": "578 - Someone who uses AI will do your job",
-              "url": "https://www.youtube.com/shorts/tev7Wn9L-nU",
-              "published": "2026-11-22T14:04:36Z",
-              "description": "578 - Someone who knows how to use AI is going to do that data job better. I said that three years ago, when ChatGPT landed, and the data playground just shifted again.\n\nhttps://youtu.be/zxBHFKGIWpo\n\n#ai #datajobs #chatgpt #career"
+              "title": "Budget (Amapiano) | Carlo Solutions",
+              "url": "https://www.youtube.com/watch?v=lV9qyGCV-iU",
+              "published": "2026-11-25T00:16:15Z",
+              "description": "Budget (Amapiano) by Carlo Solutions\n\nPlease Subscribe to our Channel:\nhttps://www.youtube.com/powerbitips?sub_confirmation=1\n\nLike our Content, want to support our efforts to keep things growing, Please consider becoming a member: https://www.youtube.com/@PowerBITips/membership\n\nMembers only Videos (All videos are presented with NO ADS)\nhttps://www.youtube.com/playlist?list=UUMOPwPrIpZwlfIKcoUpRwl9OQ"
             },
             {
-              "title": "578 - One prompt built a lakehouse and ran the analysis",
-              "url": "https://www.youtube.com/shorts/Jwj9dYS0mIw",
-              "published": "2026-11-22T11:18:42Z",
-              "description": "578 - Tom gives one natural language instruction and the agent creates a lakehouse from external data. It finishes by running a Pearson correlation on council tax values.\n\nhttps://youtu.be/zxBHFKGIWpo\n\n#fabric #lakehouse #data #agents"
+              "title": "Clean Code (Amapiano B Side) | Carlo Solutions",
+              "url": "https://www.youtube.com/watch?v=mJVqk5yCT40",
+              "published": "2026-11-25T00:14:49Z",
+              "description": "Clean Code (Amapiano B Side) by Carlo Solutions\n\nPlease Subscribe to our Channel:\nhttps://www.youtube.com/powerbitips?sub_confirmation=1\n\nLike our Content, want to support our efforts to keep things growing, Please consider becoming a member: https://www.youtube.com/@PowerBITips/membership\n\nMembers only Videos (All videos are presented with NO ADS)\nhttps://www.youtube.com/playlist?list=UUMOPwPrIpZwlfIKcoUpRwl9OQ"
+            },
+            {
+              "title": "Clean Code (Amapiano) | Carlo Solutions",
+              "url": "https://www.youtube.com/watch?v=WZ204ne_3qY",
+              "published": "2026-11-25T00:13:46Z",
+              "description": "Clean Code (Amapiano) by Carlo Solutions\n\nPlease Subscribe to our Channel:\nhttps://www.youtube.com/powerbitips?sub_confirmation=1\n\nLike our Content, want to support our efforts to keep things growing, Please consider becoming a member: https://www.youtube.com/@PowerBITips/membership\n\nMembers only Videos (All videos are presented with NO ADS)\nhttps://www.youtube.com/playlist?list=UUMOPwPrIpZwlfIKcoUpRwl9OQ"
+            },
+            {
+              "title": "578 - I close my eyes and I can see the app",
+              "url": "https://www.youtube.com/shorts/unksamkNDQo",
+              "published": "2026-11-24T23:28:22Z",
+              "description": "578 - I can close my eyes and see the app I want, right down to the glitchy bit that asks for more coffee. Under that is the skill of hearing the pain and shaping a fix.\n\nhttps://youtu.be/zxBHFKGIWpo\n\n#apps #design #building #agents"
+            },
+            {
+              "title": "578 - When should an app replace a Power BI report?",
+              "url": "https://www.youtube.com/shorts/GPtyKJdnWQ0",
+              "published": "2026-11-24T13:45:40Z",
+              "description": "578 - People keep asking for data, and the report license is probably already paid for. Building an app is so easy now that a BI developer can replace a fine report without noticing.\n\nhttps://youtu.be/zxBHFKGIWpo\n\n#powerbi #apps #reporting #fabric"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "How to Power BI",
+          "handle": "@HowtoPowerBI",
+          "channel_id": "UCcfngi7_ASuo5jdWX0bNauQ",
+          "videos": [
+            {
+              "title": "5 Things You Need to Know About in November 2026 Power BI Update",
+              "url": "https://www.youtube.com/shorts/dOSF7lPWf9Y",
+              "published": "2026-11-24T12:34:18Z",
+              "description": "The 5 Power BI features from the November 2026 update worth testing:\n1. Gantt chart updates (Preview): labels on the bars, styled totals, style presets\n2. KPI card trend charts (Preview): a small trend chart under the callout value (finally!)\n3. Multi-line list slicer (GA): turn off Single line instead of \"+4\"\n4. Date picker by default (GA): date columns open as a date picker by default\n5. Filter button on tables & matrix (Preview): filter right on the visual (interesting)\n\nFull guide on the blo"
+            },
+            {
+              "title": "Fabric Just Added Semantic Views (Preview) | November 2026 Update",
+              "url": "https://www.youtube.com/shorts/-pUSTocleNQ",
+              "published": "2026-11-23T13:00:02Z",
+              "description": "New in Fabric IQ: semantic views (preview).\n\nYou define your tables, relationships and business metrics once, in YAML, right next to your data in OneLake (see video). Your Power BI reports and Fabric data agents then use the same logic. Key benefits: \n✅ Get consistent metrics across reports and agents\n✅ Reuse definitions across Lakehouses with OneLake shortcuts\n✅ Publish and get a Direct Lake semantic model generated for you\n\n👉 Need help with Fabric, AI or Power BI development? Talk to us: \nFabr"
             }
           ],
           "error": null
@@ -341,76 +362,38 @@
             }
           ],
           "error": null
-        },
-        {
-          "creator": "Guy in a Cube",
-          "handle": "@GuyInACube",
-          "channel_id": "UCFp1vaKzpfvoGai0vE5VJ0w",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "RADACAD",
-          "handle": "@RADACAD",
-          "channel_id": "UCsOfIwAXj1fT6LDqEDEAb4g",
-          "videos": [
-            {
-              "title": "#Shorts Should You Move from Azure Data Factory to Fabric? Wee Hyong Tok | Fabric Insider Ep. 9",
-              "url": "https://www.youtube.com/shorts/hqkAk7zimoY",
-              "published": "2026-11-22T20:35:32Z",
-              "description": "My critical production pipelines run on Azure Data Factory. Will Microsoft keep supporting it? Should I keep using it? In this short from my Fabric Insider conversation with Wee Hyong Tok, Partner Director of Product Management for data integration at Microsoft, we talk about the commitment to Azure Data Factory customers, why Fabric Data Factory is where the data integration capabilities are coming together, and the migration tool that scans your pipelines.\n\n🚀 What you will learn in this short:"
-            }
-          ],
-          "error": null
         }
       ],
       "ai": [
-        {
-          "creator": "NateBJones",
-          "handle": "@NateBJones",
-          "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
-          "videos": [
-            {
-              "title": "GPT-6.2 Astra got brutal reviews. Gemini 4 Neon got raves. Here's why both are right.",
-              "url": "https://www.youtube.com/watch?v=y0WVOisJ6Js",
-              "published": "2026-11-23T15:00:17Z",
-              "description": "ChatGPT 6.2 Astra and Gemini 4 Neon are splitting user opinion. I break down why both reactions are valid for these AI models.\n\nOpenAI launched ChatGPT 6.2 Astra this week, with many users calling it unusable. Meanwhile, Google released Gemini 4 Neon, which is earning praise for being fun and optimistic to work with. This analysis examines the contrasting user experiences and what they mean for your workflow.\n\nBoth of these AI models show how quickly expectations are shifting for generative tool"
-            },
-            {
-              "title": "Microsoft, The FAA And Even The NSA Had Outages In One Week. What Is Happening?",
-              "url": "https://www.youtube.com/watch?v=fFeyE4nINqs",
-              "published": "2026-11-22T17:00:15Z",
-              "description": "AI cyber defense is now a race between attackers who can get deep access in as little as 15 minutes and defenders who need days or weeks to put systems back. The past week's outages at Microsoft, the FAA, several banks and the NSA show how hard repair is, and why AI-assisted attacks make it harder.\n\nFull post:\nhttps://natesnewsletter.substack.com/p/ai-cyber-defense-business?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=ai-cyber-defense-business-launch&amp;utm_content=description\n\nNate"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Chase AI",
-          "handle": "@ChaseAI",
-          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
-          "videos": [],
-          "error": null
-        },
-        {
-          "creator": "Paul J Lipsky",
-          "handle": "@PaulJLipsky",
-          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
-          "videos": [
-            {
-              "title": "Fable 5.2 vs Opus 5.5 with Creative Work (Higgsfield MCP)",
-              "url": "https://www.youtube.com/watch?v=VJOG2tis9eE",
-              "published": "2026-11-23T16:00:20Z",
-              "description": "Get Higgsfield with up to 70% discount\n👉 https://higgsfield.ai/s/mcp-pauljlipsky-ZdQpEE\n\nSet up Higgsfield MCP in Claude: https://higgsfield.ai/mcp\n\nFable 5.2 costs about twice as much as Opus 5.5, so is it actually better for visual design? I put both Claude models head to head using Higgsfield MCP on image ads, a UGC video ad, a commercial with full creative freedom, a full website, and a 3D animated story ad. Both models call the same Higgsfield image and video models, so the only difference "
-            }
-          ],
-          "error": null
-        },
         {
           "creator": "Nate Herk",
           "handle": "@NateHerk",
           "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
           "videos": [
+            {
+              "title": "Claude Artifacts Just Got a HUGE Upgrade: Apps",
+              "url": "https://www.youtube.com/shorts/reRtVTuXbNc",
+              "published": "2026-11-25T00:56:52Z",
+              "description": ""
+            },
+            {
+              "title": "Claude Artifacts Just Got a Huge Upgrade",
+              "url": "https://www.youtube.com/watch?v=O_-QoxNBDX0",
+              "published": "2026-11-25T00:23:51Z",
+              "description": "FREE AI OS Template: https://app.aiautomationsociety.ai/optin/ai-os/?utm_source=youtube&amp;utm_medium=organic&amp;utm_content=claude-artifacts-apps&amp;sl=yt_claude-artifacts-apps\nHow I built an AI agency from 0 to over $1 million per year: https://www.skool.com/ai-automation-society-plus/about?el=claude-artifacts-apps&amp;hcategory=youtube-videos&amp;utm_campaign=plus-group\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=claude-artifacts-apps&amp;hcategory=youtube-video"
+            },
+            {
+              "title": "This AI assistant does the busywork on your Mac and iPhone",
+              "url": "https://www.youtube.com/shorts/W7jwa7aD0R0",
+              "published": "2026-11-24T20:00:09Z",
+              "description": "Try Eney free for 14 days (10,000 AI credits): https://bit.ly/Eney_Nate_Herk\n\nEney by MacPaw is available now for Mac at eney.ai and for iPhone on the App Store.\n\n#ad #Eney #MacPaw"
+            },
+            {
+              "title": "Claude Code Just Silently Released a Cheaper Mode",
+              "url": "https://www.youtube.com/watch?v=80fV5H-Wc_4",
+              "published": "2026-11-24T13:48:56Z",
+              "description": "FREE AI OS Template: https://app.aiautomationsociety.ai/optin/ai-os/?utm_source=youtube&amp;utm_medium=organic&amp;utm_content=claude-code-code-mode&amp;sl=yt_claude-code-code-mode\nHow I built an AI agency from 0 to over $1 million per year: https://www.skool.com/ai-automation-society-plus/about?el=claude-code-code-mode&amp;hcategory=youtube-videos&amp;utm_campaign=plus-group\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=claude-code-code-mode&amp;hcategory=youtube-video"
+            },
             {
               "title": "Jensen is back",
               "url": "https://www.youtube.com/watch?v=RFfaZMSWG6w",
@@ -424,24 +407,66 @@
               "description": ""
             },
             {
-              "title": "I Paid Claude $1 vs $1,000 to Build a Video Game",
+              "title": "I Paid Claude $1, $10, $100, and $1,000 to Build a Video Game",
               "url": "https://www.youtube.com/watch?v=TqsT28sRag8",
               "published": "2026-11-23T13:55:10Z",
               "description": "FREE First Client SOP: https://app.aiautomationsociety.ai/optin/first-client-SOP/?utm_source=youtube&amp;utm_medium=organic&amp;utm_content=claude-price-ladder&amp;sl=yt_claude-price-ladder\nHow I built an AI agency from 0 to over $1 million per year: https://www.skool.com/ai-automation-society-plus/about?el=claude-price-ladder&amp;hcategory=youtube-videos&amp;utm_campaign=plus-group\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=claude-price-ladder&amp;hcategory=youtube-"
-            },
-            {
-              "title": "30 Everyday Ways to Use Grok Bot That Feel Like Cheating",
-              "url": "https://www.youtube.com/watch?v=sVrmhD99BJk",
-              "published": "2026-11-23T01:52:25Z",
-              "description": "FREE AI OS Template: https://app.aiautomationsociety.ai/optin/ai-os/?utm_source=youtube&amp;utm_medium=organic&amp;utm_content=grok-bot-use-cases&amp;sl=yt_grok-bot-use-cases\nHow I built an AI agency from 0 to over $1 million per year: https://www.skool.com/ai-automation-society-plus/about?el=grok-bot-use-cases&amp;hcategory=youtube-videos&amp;utm_campaign=plus-group\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=grok-bot-use-cases&amp;hcategory=youtube-videos&amp;utm_ca"
-            },
-            {
-              "title": "Anthropic Engineer Explains: How to Stop Hitting Claude's Token Limit",
-              "url": "https://www.youtube.com/watch?v=0RF9ml43ups",
-              "published": "2026-11-22T15:39:28Z",
-              "description": "FREE AI OS Template: https://app.aiautomationsociety.ai/optin/ai-os?utm_source=youtube&amp;utm_medium=organic&amp;utm_content=claude-token-limit&amp;sl=yt_claude-token-limit\nHow I built an AI agency from 0 to over $1 million per year: https://www.skool.com/ai-automation-society-plus/about?el=claude-token-limit&amp;hcategory=youtube-videos&amp;utm_campaign=plus-group\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=claude-token-limit&amp;hcategory=youtube-videos&amp;utm_cam"
             }
           ],
+          "error": null
+        },
+        {
+          "creator": "NateBJones",
+          "handle": "@NateBJones",
+          "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
+          "videos": [
+            {
+              "title": "The AI bubble is bigger than you think ⚠️ Jensen is back! #investing #stocks #shorts",
+              "url": "https://www.youtube.com/shorts/S1COTnDviGc",
+              "published": "2026-11-24T15:00:11Z",
+              "description": "The AI trade is officially too big to fail. I explain why current market conditions mirror the 2008 financial crisis.\n\nInvestors and analysts are drawing clear parallels between recent government interventions and the systemic risks we saw during the 2008 crisis. This analysis breaks down why the AI trade now requires consistent support from the Federal Reserve to maintain stability, and what presidential influence means for your portfolio.\n\nWe examine how institutional reliance on these technol"
+            },
+            {
+              "title": "GPT-6.2 Astra got brutal reviews. Gemini 4 Neon got raves. Here's why both are right.",
+              "url": "https://www.youtube.com/watch?v=y0WVOisJ6Js",
+              "published": "2026-11-23T15:00:17Z",
+              "description": "ChatGPT 6.2 Astra and Gemini 4 Neon are splitting user opinion. I break down why both reactions are valid for these AI models.\n\nOpenAI launched ChatGPT 6.2 Astra this week, with many users calling it unusable. Meanwhile, Google released Gemini 4 Neon, which is earning praise for being fun and optimistic to work with. This analysis examines the contrasting user experiences and what they mean for your workflow.\n\nBoth of these AI models show how quickly expectations are shifting for generative tool"
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Alex Finn",
+          "handle": "@AlexFinn",
+          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
+          "videos": [],
+          "error": null
+        },
+        {
+          "creator": "Paul J Lipsky",
+          "handle": "@PaulJLipsky",
+          "channel_id": "UCmeU2DYiVy80wMBGZzEWnbw",
+          "videos": [
+            {
+              "title": "Google’s New Antigravity For Knowledge Work",
+              "url": "https://www.youtube.com/watch?v=QjbubjsKqYc",
+              "published": "2026-11-24T14:00:37Z",
+              "description": "Try Hyperagent for free: https://www.hyperagent.com/login?utm_source=youtube&amp;utm_medium=influencer&amp;utm_campaign=PAUL\n\n🔗 This video is sponsored by @Hyperagentapp https://www.youtube.com/@Hyperagentapp\n\nHere's my exact Google Antigravity setup for everyday work with Gemini 4 Neon. I'll show you how I organize local files, update a business dashboard, connect Google apps, automate tasks, and use voice and mobile access, plus the limitations I've run into.\n\nGoogle Antigravity desktop and we"
+            },
+            {
+              "title": "Fable 5.2 vs Opus 5.5 with Creative Work (Higgsfield MCP)",
+              "url": "https://www.youtube.com/watch?v=VJOG2tis9eE",
+              "published": "2026-11-23T16:00:20Z",
+              "description": "Get Higgsfield with up to 70% discount\n👉 https://higgsfield.ai/s/mcp-pauljlipsky-ZdQpEE\n\nSet up Higgsfield MCP in Claude: https://higgsfield.ai/mcp\n\nFable 5.2 costs about twice as much as Opus 5.5, so is it actually better for visual design? I put both Claude models head to head using Higgsfield MCP on image ads, a UGC video ad, a commercial with full creative freedom, a full website, and a 3D animated story ad. Both models call the same Higgsfield image and video models, so the only difference "
+            }
+          ],
+          "error": null
+        },
+        {
+          "creator": "Simon Scrapes",
+          "handle": "@SimonScrapes",
+          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
+          "videos": [],
           "error": null
         },
         {
@@ -449,6 +474,12 @@
           "handle": "@AIDailyBrief",
           "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
           "videos": [
+            {
+              "title": "What Happens to AI Now",
+              "url": "https://www.youtube.com/watch?v=-olL-f4RGrw",
+              "published": "2026-11-24T23:36:35Z",
+              "description": "Jensen Huang's return to Nvidia and a reported AI proof of the Riemann hypothesis signal a new phase for AI. NLW breaks down the president's role in the reinstatement, the political fallout ahead, and the many lenses through which people read the story. In the headlines: the Riemann hypothesis claim, SpaceX AI struggles, and a new open model built on looped transformers.\n\nThe AI Daily Brief helps you understand the most important news and discussions in AI. \nSubscribe to the podcast version of T"
+            },
             {
               "title": "Jensen is Back as CEO After White House Advocacy",
               "url": "https://www.youtube.com/watch?v=3m3nnfJfAxA",
@@ -465,10 +496,17 @@
           "error": null
         },
         {
-          "creator": "Simon Scrapes",
-          "handle": "@SimonScrapes",
-          "channel_id": "UCdCR4-uYOg5ju-IUuDnfnQA",
-          "videos": [],
+          "creator": "Chase AI",
+          "handle": "@ChaseAI",
+          "channel_id": "UCoy6cTJ7Tg0dqS-DI-_REsA",
+          "videos": [
+            {
+              "title": "The BIGGEST MCP Upgrade In 2 Years Just Dropped",
+              "url": "https://www.youtube.com/watch?v=jVTyW6gosOE",
+              "published": "2026-11-25T00:29:11Z",
+              "description": "⚡Master Claude Code: https://chaseai.io/plus\n🔥FREE community: https://chaseai.io/community\n💻Get 1:1 help: https://chaseai.io\n\nMCP just turned two, and Anthropic shipped four upgrades at once: Skills over MCP, Tasks, Elicitation and File Uploads. This is basically MCP 2.0.\n\nI break down what MCP 1.0 actually gave us using a simple key ring analogy with GitHub, the four problems it had, and how each new upgrade fixes one. Then I demo it live with the GitHub MCP: the skills that now ship inside the"
+            }
+          ],
           "error": null
         },
         {
@@ -482,26 +520,6 @@
           "creator": "John Savill's Technical Training",
           "handle": "@NTFAQGuy",
           "channel_id": "UCpIn7ox7j7bH_OFj7tYouOQ",
-          "videos": [
-            {
-              "title": "M365 Resilience Overview",
-              "url": "https://www.youtube.com/watch?v=OzCKCAV3eWU",
-              "published": "2026-11-23T10:50:34Z",
-              "description": "A walkthrough of M365 architecture, the layers of resiliency and how they work together.\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:38 - The client\n01:16 - DNS service\n02:24 - Frontend\n02:51 - Client Access Front End (CAFE)\n06:01 - Azure Front Door\n07:17 - Failover option\n09:03 - Backend\n10:11 - Exchange cells\n10:54 - Teams\n11:21 - Cross-service dependency\n12:09 - Change management and testing\n14:57 - Overall resilience\n15:59 - Mission critical business process BCDR\n17:56 - Summa"
-            },
-            {
-              "title": "Azure Weekly Update - 22nd November 2026 - Ignite 2026 Special",
-              "url": "https://www.youtube.com/watch?v=jOlR3eTnzjs",
-              "published": "2026-11-22T18:35:22Z",
-              "description": "HUGE update to cover Ignite 2026.\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation queue never to be seen so please post questions to other sites like Reddit, Microsoft Community Hub etc.\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:28 - New videos\n01:19 - DCasv7 and ECasv7 VMs\n0"
-            }
-          ],
-          "error": null
-        },
-        {
-          "creator": "Alex Finn",
-          "handle": "@AlexFinn",
-          "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
           "videos": [],
           "error": null
         }
@@ -513,7 +531,7 @@
         "issue_number": 285,
         "issue_date": "2026-11-23",
         "url": "https://www.ppweekly.com/p/power-platform-weekly-issue-285",
-        "is_new": true,
+        "is_new": false,
         "sections": {
           "🎉 Microsoft Ignite": [
             {
@@ -736,101 +754,115 @@
       },
       "power_platform_dev_weekly": {
         "name": "Power Platform Dev Weekly",
-        "issue_number": 303,
-        "issue_date": "2026-11-11",
-        "url": "https://www.ppdevweekly.com/p/303",
-        "is_new": false,
+        "issue_number": 304,
+        "issue_date": "2026-11-25",
+        "url": "https://www.ppdevweekly.com/p/304",
+        "is_new": true,
         "sections": {
           "🥇 Cover Story": [
             {
-              "title": "I Just Gave Copilot Permission to Delete My Opportunities",
-              "url": "https://crmkeeper.com/2026/11/10/i-just-gave-copilot-permission-to-delete-my-opportunities/"
+              "title": "The Timeline Doesn’t Have to Look Like This",
+              "url": "https://crmkeeper.com/2026/11/18/dataverse-timeline-pcf-control/"
             }
           ],
           "💎 Model Driven Apps & Dataverse": [
             {
-              "title": "SQL Meets the Dataverse Web API – Query Dataverse Using SQL",
-              "url": "https://mytrial365.com/2026/11/05/sql-meets-the-dataverse-web-api-query-dataverse-using-sql/"
+              "title": "How to Navigate to and from Generative Pages using Client API in Model-Driven Apps/ Dynamics 365",
+              "url": "https://debajmecrm.com/navigate-to-from-generative-pages-client-api-model-driven-apps-dynamics-365"
+            },
+            {
+              "title": "Keep your users in context with Xrm.App.sidePanes in Model-Driven Apps/ Dynamics 365",
+              "url": "https://debajmecrm.com/xrm-app-sidepanes-side-panes-model-driven-apps-dynamics-365/"
             }
           ],
           "🏋️‍♂️ Canvas Apps": [
             {
-              "title": "How to play videos directly in a Power Apps Canvas App with the Stream (preview) control",
-              "url": "https://www.inogic.com/blog/2026/11/how-to-play-videos-directly-in-a-power-apps-canvas-app-with-the-stream-preview-control/"
+              "title": "Power Apps Metrics Card Modern Control: Build KPI Dashboards",
+              "url": "https://www.inogic.com/blog/2026/11/build-cleaner-kpi-tiles-in-canvas-apps-with-the-new-metrics-card-modern-control/"
+            }
+          ],
+          "🌎 Power Pages": [
+            {
+              "title": "Deploy React SPA to Power Pages Using PAC CLI",
+              "url": "https://www.inogic.com/blog/2026/11/deploying-a-react-single-page-application-to-power-pages-with-pac-cli/"
+            },
+            {
+              "title": "Display AI Summary for Custom Table in Power Pages",
+              "url": "https://himbap.com/blog/?p=4816"
             }
           ],
           "🤖 Copilot": [
             {
-              "title": "Right-Sized AI in Copilot: When Standard Harness with AI Builder Is the More Efficient Choice",
-              "url": "https://dev.to/balagmadhu/right-sized-ai-in-copilot-when-standard-harness-with-ai-builder-is-the-more-efficient-choice-4jm3"
-            },
-            {
-              "title": "Copilot Studio - When to use Child Agents",
-              "url": "https://dev.to/wyattdave/copilot-studio-when-to-use-child-agents-507p"
-            },
-            {
-              "title": "Adventures with Copilot Studio: Better Instructions, Faster Agents, Fewer Credits!",
-              "url": "https://mattruma.com/adventures-with-copilot-studio-better-instructions-faster-agents-fewer-credits/"
-            }
-          ],
-          "🚀 PCF & Custom Pages": [
-            {
-              "title": "Preventing CSS Conflicts in Model-Driven Apps using Shadow DOM",
-              "url": "https://www.inogic.com/blog/2026/11/preventing-css-conflicts-in-model-driven-apps-using-shadow-dom/"
+              "title": "How To Use Agent Hooks In Copilot Studio",
+              "url": "https://www.matthewdevaney.com/how-to-use-agent-hooks-in-copilot-studio/"
             }
           ],
           "🔨 Tools & Components": [
             {
-              "title": "Creating your own AI “infrastructure”?",
-              "url": "https://www.itaintboring.com/ai/creating-your-own-ai-infrastructure/"
-            },
+              "title": "Power Platform Connector Explorer: Find the Right Connector",
+              "url": "https://elliskarim.com/2026/11/11/power-platform-connector-explorer/"
+            }
+          ],
+          "⛅ Around Azure": [
             {
-              "title": "Modern Web Guidance on a real site - what it fixed and what it broke",
-              "url": "https://olashyn.dev/modern-web-guidance/"
-            },
+              "title": "Azure Speech Service – Convert text to audio files using C#",
+              "url": "https://rajeevpentyala.com/2026/11/13/azure-speech-service-convert-text-to-audio-files-using-c/"
+            }
+          ],
+          "👍 Everything else in Power Platform": [
             {
-              "title": "Data Importer Tool for PPTB – I did a thing!",
-              "url": "https://thecrm.ninja/data-importer-tool-for-pptb-i-did-a-thing/"
+              "title": "Build a React Native Mobile App with an AI Agent Using Power Apps Native Apps",
+              "url": "https://www.inogic.com/blog/2026/11/build-a-react-native-mobile-app-with-an-ai-agent-using-power-apps-native-apps/"
             }
           ],
           "🎮 Other Interesting Articles": [
             {
-              "title": "Using Copilot Code to rebuild a canvas Power App",
-              "url": "https://readyxrm.blog/2026/10/24/using-copilot-code-to-rebuild-a-canvas-power-app/"
+              "title": "What are Generative Pages in Model-Driven Apps and How Do You Create One?",
+              "url": "https://debajmecrm.com/what-are-generative-pages-model-driven-apps-how-to-create/"
             },
             {
-              "title": "Sync Text Message Replies STOP and START with Contact Point Consent in Customer Insights - Journeys",
-              "url": "https://www.ameyholden.com/articles/sync-text-message-sms-stop-start-consent-customer-insights-journeys"
+              "title": "How to Add File Upload to Customer Insights – Journeys Forms Using Power Automate",
+              "url": "https://www.inogic.com/blog/2026/11/how-to-add-file-upload-to-customer-insights-journeys-forms-using-power-automate/"
             },
             {
-              "title": "Power Apps Code Apps and the Dataverse Connector: The day our guest users saw nothing",
-              "url": "https://dev.to/_neronotte/power-apps-code-apps-and-the-dataverse-connector-the-day-our-guest-users-saw-nothing-19ld"
+              "title": "Why Email Activity Parties Still Resolve to Unexpected Records Even After Changing an Email Column to Text",
+              "url": "https://linnzawwin.blogspot.com/2026/11/why-email-activity-parties-still.html"
             },
             {
-              "title": "Claude Inside the EU Data Boundary: What Changes for European Copilot Tenants and What Does Not",
-              "url": "https://holgerimbery.blog/claude-eu-data-boundary-copilot"
+              "title": "Add Unlicensed Users to Activity Recipient Fields in Dynamics 365 (Dataverse)",
+              "url": "https://nishantrana.me/2026/11/17/add-unlicensed-users-to-activity-recipient-fields-in-dynamics-365-and-dataverse/"
+            }
+          ],
+          "📢 Call for Speakers": [
+            {
+              "title": "Agent & Copilot Summit - USA",
+              "url": "https://aisummitna.com/call-for-speakers/"
             },
             {
-              "title": "A Decision AI Model in Application Architecture",
-              "url": "https://netwiseglobal.com/blog/a-decision-ai-model-in-application-architecture/"
+              "title": "Global Power Platform Bootcamp Germany - Online",
+              "url": "https://sessionize.com/global-power-platform-bootcamp-germany-2027/"
+            },
+            {
+              "title": "Global Power Platform & Agent Bootcamp Polish Edition - Online",
+              "url": "https://sessionize.com/gppb2027pl"
+            },
+            {
+              "title": "European Power Platform Conference - Ireland",
+              "url": "https://sessionize.com/eppc27/"
             }
           ],
           "📺 Videos": [
             {
-              "title": "How to Setup Guardrails for Copilot Studio Agents (ADMINS)​",
-              "url": "https://www.youtube.com/watch?v=hizTfPz3J2w"
+              "title": "Power Platform ToolBox - Release v1.2.8",
+              "url": "https://www.youtube.com/watch?v=M106FOMTTnQ"
             },
             {
-              "title": "2026 PPCC Review",
-              "url": "https://www.youtube.com/watch?v=6h3C-6hW5hQ"
+              "title": "Power Apps Development Will Never Be the Same",
+              "url": "https://www.youtube.com/watch?v=-bv9WLqJsEE"
             },
             {
-              "title": "Pipeline Visualiser Open Source tool - Power Platform ToolBox",
-              "url": "https://www.youtube.com/watch?v=HhQnZ_xlYPw"
-            },
-            {
-              "title": "Dataverse Plugin vs 56K Records #Shorts",
-              "url": "https://www.youtube.com/watch?v=ZyTHVsoQ71E"
+              "title": "Power Apps Start with Data: Build a Modern Responsive Canvas App in Minutes (SharePoint, Dataverse)",
+              "url": "https://www.youtube.com/watch?v=3HC0qMxjo7k"
             }
           ]
         },
@@ -1012,6 +1044,849 @@
       "source_url": "https://www.microsoft.com/microsoft-365/roadmap",
       "data_url": "https://www.microsoft.com/releasecommunications/api/v1/m365",
       "items": [
+        {
+          "id": 582052,
+          "title": "Microsoft Teams: Show your shared content on both room displays",
+          "description": "Make presentations easier to see from anywhere in the room, even when you're not in a Teams meeting. On Microsoft Teams Rooms on Android with dual displays, content you share through an HDMI connection can now appear on both screens at once. You can start or stop showing your content on both screens from the room controls. Admins can use settings to manage how this works in their rooms.",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-11-25T00:10:31",
+          "modified": "2026-11-25T00:10:31",
+          "ga_date": "January CY2027",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Android"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=582052"
+        },
+        {
+          "id": 582050,
+          "title": "Microsoft Teams: External bot detection and activity reports in Admin Center",
+          "description": "Admins should be able to track the detection and meeting access activity of external bots in the meetings and events hosted in their tenant.",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-11-25T00:10:31",
+          "modified": "2026-11-25T00:10:31",
+          "ga_date": "January CY2027",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)",
+            "GCC"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=582050"
+        },
+        {
+          "id": 581865,
+          "title": "SharePoint: Organization-wide page templates ",
+          "description": "We are introducing organization-wide page templates in SharePoint, enabling organizations to provide reusable, approved starting points for page creation across sites within a tenant. Managed centrally in the SharePoint site associated with your organization's brand center, these templates help authors reduce repetitive setup and create pages with consistent content.",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-11-25T00:10:31",
+          "modified": "2026-11-25T00:10:31",
+          "ga_date": "December CY2026",
+          "preview_date": "",
+          "products": [
+            "SharePoint"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=581865"
+        },
+        {
+          "id": 581799,
+          "title": "Dynamics 365 Commerce: UTGST Tax support in Commerce [India Tax Localization]",
+          "description": "This feature adds UTGST (Union Territory Goods and Services Tax) to the Commerce channel - store Commerce/POS/Trade POS and e‑commerce transactions in union territories.\nWhat UTGST is: For union territories in India that don't have a legislature, the GST Council introduced UTGST, which is comparable to SGST. UTGST applies to the following union territories of India: Chandigarh Lakshadweep Daman and Diu Dadra and Nagar Haveli Andaman and Nicobar Islands. Delhi and Puducherry have their own legisl",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-11-25T00:10:31",
+          "modified": "2026-11-25T00:10:31",
+          "ga_date": "May CY2027",
+          "preview_date": "",
+          "products": [
+            "Dynamics 365 Commerce"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)",
+            "GCC"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=581799"
+        },
+        {
+          "id": 581798,
+          "title": "Dynamics 365 Supply Chain Management: ATP with customer & product lead time",
+          "description": "This feature adds lead times set per customer or per product to the ATP promise date, so the date reflects how each customer and each item is actually served.\nCustomer lead time: time that applies to everything shipped to a given customer, such as agreed service levels, delivery schedules, or extra handling and documentation.\nProduct lead time: time that applies to a given item whoever orders it, such as packing, quality checks, kitting or vendor lead time for items you don't stock.",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-11-25T00:10:31",
+          "modified": "2026-11-25T00:10:31",
+          "ga_date": "March CY2027",
+          "preview_date": "January CY2027",
+          "products": [
+            "Dynamics 365 Supply Chain Management"
+          ],
+          "platforms": [
+            "Desktop",
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)",
+            "GCC"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=581798"
+        },
+        {
+          "id": 581797,
+          "title": "Dynamics 365 Supply Chain Management: Configurable ATP with Receipt Control ",
+          "description": "This feature lets a business choose which incoming supply counts when the system calculates available-to-promise (ATP), so delivery promises match its own order-promising policy. It is in preview from version 10.0.50.\nIt allows business to design ATP calculations for their business needs through different parameters to exclude purchase order or transfer order or production order. By default, these are not excluded.",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-11-25T00:10:31",
+          "modified": "2026-11-25T00:10:31",
+          "ga_date": "March CY2027",
+          "preview_date": "",
+          "products": [
+            "Dynamics 365 Supply Chain Management"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)",
+            "GCC"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=581797"
+        },
+        {
+          "id": 581777,
+          "title": "Microsoft Power Platform governance and administration: Unify finance and operations system administrator user and role management in Power Platform admin center",
+          "description": "Administrators can now manage system administrator users and security roles for both finance and operations apps and Dataverse from a single, unified experience in Power Platform admin center. Instead of switching between the finance and operations Users and Security configuration pages and the Dataverse user and role pages, admins can add and enable users, assign and remove roles, and review user access across both from one place. This generally available release follows the public preview and ",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-11-25T00:10:31",
+          "modified": "2026-11-25T00:10:31",
+          "ga_date": "January CY2027",
+          "preview_date": "",
+          "products": [
+            "Microsoft Power Platform governance and administration",
+            "Dynamics 365 Finance and Operations cross-app"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=581777"
+        },
+        {
+          "id": 581772,
+          "title": "Dynamics 365 Human Resources: Agent onboarding for new employees",
+          "description": "Business value\nOnboarding in Dynamics 365 Human Resources spans several pages and two people: HR administrators hire the candidate, enroll leave and set compensation, while the new employee completes personal details, address, emergency contacts and identification. Steps are easy to miss.\nA new agentic onboarding experience will brings the tasks into one guided conversation over live Human Resources data. Every change is previewed and confirmed explicitly, and all reads and writes run under the ",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-11-25T00:10:31",
+          "modified": "2026-11-25T00:10:31",
+          "ga_date": "July CY2027",
+          "preview_date": "March CY2027",
+          "products": [
+            "Dynamics 365 Human Resources"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=581772"
+        },
+        {
+          "id": 580871,
+          "title": "Dynamics 365 Project Operations: Enable Project Revenue recognition using cost estimate instead of EAC (estimate at complete)",
+          "description": "When you enable the Enable Project Revenue recognition using the cost estimate instead of the EAC (estimate at complete) setting, you activate this feature.\n\nUses the original project estimate for PoC calculations: Delivers stable, predictable revenue without EAC-driven fluctuations.\nAnchors revenue recognition to a fixed baseline: Improves transparency and boosts confidence in reported project financials.\nReduces reliance on changing forecasts: Minimizes rework and exceptions during month-end c",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-11-25T00:10:31",
+          "modified": "2026-11-25T00:10:31",
+          "ga_date": "April CY2027",
+          "preview_date": "May CY2026",
+          "products": [
+            "Dynamics 365 Project Operations"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=580871"
+        },
+        {
+          "id": 580455,
+          "title": "Microsoft Viva - Viva Glint: Enhanced multi-attribute report exports",
+          "description": "Enhancements that are a part of this release expand who can use the Multi-attribute report export, increases the supported scale, and gives authorized users more control over the questions and attributes included.",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-11-25T00:10:31",
+          "modified": "2026-11-25T00:10:31",
+          "ga_date": "January CY2027",
+          "preview_date": "",
+          "products": [
+            "Microsoft Viva"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)",
+            "GCC"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=580455"
+        },
+        {
+          "id": 579966,
+          "title": "Dynamics 365 Field Service: Plan further ahead with 180-day hourly schedule board view",
+          "description": "Scheduling teams planning work over several months need to see upcoming bookings while retaining an hourly view of their schedules. The current hourly view supports up to 28 days. The planned extended view is designed to help teams review bookings across a longer planning horizon without switching to a less detailed view, or paging through multiple time periods. Loading and refresh improvements aim to reduce waiting as teams review and update their schedules.\nAdministrators can configure the pla",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-11-25T00:10:31",
+          "modified": "2026-11-25T00:10:31",
+          "ga_date": "April CY2027",
+          "preview_date": "",
+          "products": [
+            "Dynamics 365 Field Service"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=579966"
+        },
+        {
+          "id": 579965,
+          "title": "Dynamics 365 Field Service: Custom tooltips and templates on schedule board aggregate views",
+          "description": "Scheduling teams planning multiday work do so using the aggregate views on the schedule board - the daily, weekly, and monthly views. On those views, multiple bookings are aggregated into a single object that spans the entire period.\nThis improvement will allow administrators to configure the template and tooltips that are available on those views, so they can display information relevant to their dispatchers Custom html templates will bind to the requirement, rather than the booking, allowing f",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-11-25T00:10:31",
+          "modified": "2026-11-25T00:10:31",
+          "ga_date": "April CY2027",
+          "preview_date": "",
+          "products": [
+            "Dynamics 365 Field Service"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)",
+            "GCC"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=579965"
+        },
+        {
+          "id": 578903,
+          "title": "Dynamics 365 Project Operations: Activity Approvals Agent",
+          "description": "The Approvals Agent in Dynamics 365 Project Operations uses AI to perform an initial review of submitted time, expense, and material entries against policy documents written in natural language. It classifies entries as Ready for approval or Needs review, helping project managers prioritize entries that require attention.\nOrganizations can choose between two operating modes. In Classify mode, approvers review the agent’s classifications and manually approve entries. In Classify and auto approve ",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-11-25T00:10:31",
+          "modified": "2026-11-25T00:10:31",
+          "ga_date": "March CY2027",
+          "preview_date": "April CY2025",
+          "products": [
+            "Dynamics 365 Project Operations"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=578903"
+        },
+        {
+          "id": 578902,
+          "title": "Dynamics 365 Project Operations: Mark all eligible actuals ready to invoice in bulk",
+          "description": "Before you can invoice a project, every eligible unbilled sales actual has to be marked ready to invoice. Today, project managers and billing administrators do that by selecting records in a grid that's capped at 1,000 per page, then repeating the action page after page. For firms with tens of thousands of actuals in a billing cycle, that adds up to hours of repetitive work before a single invoice gets created.\nNow you can mark every eligible actual for a project, contract, or contract line in o",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-11-25T00:10:31",
+          "modified": "2026-11-25T00:10:31",
+          "ga_date": "September CY2027",
+          "preview_date": "March CY2027",
+          "products": [
+            "Dynamics 365 Project Operations"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=578902"
+        },
+        {
+          "id": 581720,
+          "title": "Microsoft Teams: Raise your hand to speak up at large events with up to 100,000 attendees",
+          "description": "Ask your questions live and take part in the conversation, even at events with up to 100,000 attendees. In events this size, attendees can now raise their hand in Teams when they have a question. Organizers can then let people with a raised hand turn on their mic and camera to ask their question or speak during the event.",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-11-24T00:13:11",
+          "modified": "2026-11-25T00:10:31",
+          "ga_date": "December CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Android",
+            "Desktop",
+            "iOS",
+            "Mac",
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=581720"
+        },
+        {
+          "id": 581719,
+          "title": "Microsoft Teams: Share reactions at events with up to 100,000 attendees",
+          "description": "Stay more engaged and connected with the audience, even at events with up to 100,000 attendees. Teams now supports reactions in events at this scale. You can send reactions during the event and see the reactions others send, so everyone can share the moment together.",
+          "status": "In development",
+          "change_type": "new",
+          "created": "2026-11-24T00:13:11",
+          "modified": "2026-11-25T00:10:31",
+          "ga_date": "December CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Android",
+            "Desktop",
+            "iOS",
+            "Mac",
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=581719"
+        },
+        {
+          "id": 577174,
+          "title": "Microsoft Teams: Workflow to automatically add tag members to relevant channels",
+          "description": "Associate channels with a tag so members are automatically added to those channels when they join the tag. This helps teams keep channel membership in sync with evolving groups, reduces manual management, and ensures members have access to the conversations and content most relevant to their role.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-10-26T23:15:50",
+          "modified": "2026-11-25T00:10:31",
+          "ga_date": "November CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Android",
+            "Desktop",
+            "Mac",
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Targeted Release"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=577174"
+        },
+        {
+          "id": 576195,
+          "title": "Microsoft Teams: PowerPoint Live support for webinars and structured meetings on Teams Rooms on Android",
+          "description": "Participants joining webinars and structured meetings from Teams Rooms on Android can view and interact with PowerPoint Live presentations. This provides greater flexibility and accessibility while keeping room participants aligned with the active presentation.",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2026-10-14T23:01:02",
+          "modified": "2026-11-25T00:10:31",
+          "ga_date": "November CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Android"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=576195"
+        },
+        {
+          "id": 574363,
+          "title": "Microsoft Purview: Information Protection-Auto-labeling for legacy Office files",
+          "description": "Microsoft Purview server-side auto-labeling will support legacy Microsoft Office file formats, including Word (.doc), Excel (.xls), and PowerPoint (.ppt). Organizations can automatically evaluate and apply sensitivity labels to these files in SharePoint and OneDrive.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-10-13T23:01:05",
+          "modified": "2026-11-25T00:10:31",
+          "ga_date": "December CY2026",
+          "preview_date": "November CY2026",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=574363"
+        },
+        {
+          "id": 573702,
+          "title": "Microsoft Purview: Data Lifecycle Management-Increase in expansion limit for auto-expanding archive beyond 1.5 TB",
+          "description": "Previously, auto-expanding archive mailbox expansion was supported only up to 1.5 TB, after which mailboxes would become inoperative. Archive mailboxes can now automatically expand beyond the 1.5 TB limit, ensuring uninterrupted retention and enabling scalable archive growth as storage thresholds are reached. This capability to expand archives beyond 1.5 TB will be available to customers with eligible E5 licenses.",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2026-10-06T22:56:31",
+          "modified": "2026-11-25T00:10:31",
+          "ga_date": "November CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "GCC",
+            "GCC High",
+            "DoD"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=573702"
+        },
+        {
+          "id": 573452,
+          "title": "Microsoft Teams: Onboarding workflow for new team members",
+          "description": "Help people get started faster by automatically connecting new team members to relevant channels when they join a team. Improve engagement, accelerate onboarding, and make it easier to discover important information from day one.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2026-10-02T22:01:21",
+          "modified": "2026-11-25T00:10:31",
+          "ga_date": "November CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Teams"
+          ],
+          "platforms": [
+            "Android",
+            "Desktop",
+            "iOS",
+            "Mac"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Targeted Release"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=573452"
+        },
+        {
+          "id": 572677,
+          "title": "Microsoft Purview: Information Protection-Auto-labeling per-policy coverage report ",
+          "description": "For each enforced auto-labeling policy, admins can view how files processed during enforcement correlate to the latest simulation run. The per-policy coverage report shows volumes of files that have been labeled or are not yet labeled, and whether those files were included in the last simulation snapshot. This helps admins understand enforcement progress for a specific policy against the data state captured during simulation, while also identifying files that were not found in the simulation sna",
+          "status": "Rolling out",
+          "change_type": "updated",
+          "created": "2026-09-23T22:59:12",
+          "modified": "2026-11-25T00:10:31",
+          "ga_date": "November CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "GCC",
+            "GCC High",
+            "DoD"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=572677"
+        },
+        {
+          "id": 569430,
+          "title": "Outlook: Manage Multiple Inbox Rules at Once",
+          "description": "You will soon be able to manage multiple inbox rules at the same time. Select every rule or choose only the ones you want to update. You can then delete, enable, or disable the selected rules in one action. This makes it faster and easier to keep your rules organized. #newoutlookforwindows",
+          "status": "Rolling out",
+          "change_type": "updated",
+          "created": "2026-08-24T22:41:12",
+          "modified": "2026-11-25T00:10:31",
+          "ga_date": "November CY2026",
+          "preview_date": "",
+          "products": [
+            "Outlook"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=569430"
+        },
+        {
+          "id": 568763,
+          "title": "Microsoft Viva: Viva Engage: New left navigation controls — collapse, resize, increased favorites cap, and reorder favorites capabilities",
+          "description": "We're introducing a set of left-navigation improvements in Viva Engage on the web that give people more control over their navigation pane. These are additive, user-driven changes — users can collapse the left nav, resize its width, favorite up to 50 communities, and drag to reorder their favorited communities. None of these changes alter which destinations appear in the navigation. These enhancements are applicable to all surfaces that have the Engage left navigation menu - Web, and the Engage ",
+          "status": "Rolling out",
+          "change_type": "updated",
+          "created": "2026-08-04T22:45:42",
+          "modified": "2026-11-25T00:10:31",
+          "ga_date": "August CY2026",
+          "preview_date": "",
+          "products": [
+            "Microsoft Viva"
+          ],
+          "platforms": [
+            "Desktop",
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=568763"
+        },
+        {
+          "id": 567319,
+          "title": "Outlook: Categorize Emails by Dragging Them onto a Favorite Category",
+          "description": "You can now add a category to your Favorites and then drag emails right onto it to apply that category. No need to open menus or right-click each message. Just pin the category you use most to Favorites, then drop your emails on it to tag them in one quick motion. It's a faster, more visual way to keep your inbox sorted the way you like. #newoutlookforwindows",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2026-07-07T23:01:01",
+          "modified": "2026-11-25T00:10:31",
+          "ga_date": "October CY2026",
+          "preview_date": "",
+          "products": [
+            "Outlook"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=567319"
+        },
+        {
+          "id": 562352,
+          "title": " Microsoft 365: Pay-as-you-go storage for OneDrive",
+          "description": "New pay-as-you-go, consumption-based meter for additional OneDrive storage. Control which OneDrive accounts can grow beyond their licensed storage limits and give selected users more space as needed.",
+          "status": "Rolling out",
+          "change_type": "updated",
+          "created": "2026-05-26T22:45:59",
+          "modified": "2026-11-25T00:10:31",
+          "ga_date": "November CY2026",
+          "preview_date": "July CY2026",
+          "products": [
+            "OneDrive"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=562352"
+        },
+        {
+          "id": 557678,
+          "title": "Outlook: Instantly Find Rules, Quick Steps, and More by Name",
+          "description": "Managing your email automation in Outlook is now effortless with name search built into your key productivity tools. You can search within Rules, Conditional Formatting, Quick Steps, and Search Folders, filtering the list by name so you jump straight to the item you need. Whether you have dozens of rules or a growing library of quick steps, just type a few characters to narrow down results instantly. No more scrolling through long lists to find the right one, search puts you in control. Stay org",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2026-03-04T00:00:25",
+          "modified": "2026-11-25T00:10:31",
+          "ga_date": "May CY2026",
+          "preview_date": "April CY2026",
+          "products": [
+            "Outlook"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability",
+            "Preview"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=557678"
+        },
+        {
+          "id": 543208,
+          "title": "Outlook: Sort by flag",
+          "description": "We are adding support for sort by flag status, flag due date and flag start date.",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2026-01-06T23:45:19",
+          "modified": "2026-11-25T00:10:31",
+          "ga_date": "May CY2026",
+          "preview_date": "",
+          "products": [
+            "Outlook"
+          ],
+          "platforms": [
+            "Desktop",
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)",
+            "GCC",
+            "GCC High",
+            "DoD"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=543208"
+        },
+        {
+          "id": 497836,
+          "title": "Outlook: Play a Sound Rule",
+          "description": "Users can set up Outlook rules to play a sound or show a desktop alert whenever an email that matches your chosen conditions arrives, whether it’s from a specific person, includes certain words, or meets any other rule criteria you define. These features help you stay alerted to the emails that matter most. #newoutlookforwindows",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2025-07-02T23:15:48",
+          "modified": "2026-11-25T00:10:31",
+          "ga_date": "January CY2026",
+          "preview_date": "",
+          "products": [
+            "Outlook"
+          ],
+          "platforms": [
+            "Desktop"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)",
+            "GCC",
+            "GCC High",
+            "DoD"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=497836"
+        },
+        {
+          "id": 495465,
+          "title": "Microsoft Places: Microsoft Places Support to GCC cloud",
+          "description": "Microsoft Places features will now be available in GCC cloud",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2025-06-23T23:15:26",
+          "modified": "2026-11-25T00:10:31",
+          "ga_date": "March CY2027",
+          "preview_date": "",
+          "products": [
+            "Microsoft 365 app"
+          ],
+          "platforms": [
+            "Desktop",
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "GCC"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=495465"
+        },
+        {
+          "id": 496142,
+          "title": "Outlook: Rule to display desktop alert",
+          "description": "Create rules that trigger a desktop alert when specific emails arrive. This makes it easier to stay on top of important messages without missing a beat. Look for the new \"Display a Desktop Alert\" action when setting up or editing your rules. #newoutlookforwindows",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2025-06-10T23:00:26",
+          "modified": "2026-11-25T00:10:31",
+          "ga_date": "January CY2026",
+          "preview_date": "",
+          "products": [
+            "Outlook"
+          ],
+          "platforms": [
+            "Desktop",
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "GCC",
+            "GCC High",
+            "DoD"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=496142"
+        },
+        {
+          "id": 496141,
+          "title": "Outlook: Rule to display desktop alert",
+          "description": "Create rules that trigger a desktop alert when specific emails arrive. This makes it easier to stay on top of important messages without missing a beat. Look for the new \"Display a Desktop Alert\" action when setting up or editing your rules. #newoutlookforwindows",
+          "status": "Launched",
+          "change_type": "updated",
+          "created": "2025-06-10T23:00:26",
+          "modified": "2026-11-25T00:10:31",
+          "ga_date": "January CY2026",
+          "preview_date": "",
+          "products": [
+            "Outlook"
+          ],
+          "platforms": [
+            "Desktop",
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "Worldwide (Standard Multi-Tenant)"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=496141"
+        },
+        {
+          "id": 93269,
+          "title": "Microsoft Purview compliance portal:  eDiscovery (Premium) – Hold reports (U.S. Government clouds)",
+          "description": "Out-of-the-box reports that contain information about all legal holds associated with eDiscovery cases in the Microsoft Purview compliance portal. Sort and filter your view based on various criteria and download the aggregated information for further analysis.",
+          "status": "In development",
+          "change_type": "updated",
+          "created": "2022-06-02T23:05:14",
+          "modified": "2026-11-25T00:10:31",
+          "ga_date": "May CY2027",
+          "preview_date": "",
+          "products": [
+            "Microsoft Purview"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "release_phase": [
+            "General Availability"
+          ],
+          "cloud_instances": [
+            "GCC",
+            "GCC High",
+            "DoD"
+          ],
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=93269"
+        },
         {
           "id": 581967,
           "title": "Dynamics 365 Customer Insights - Journeys: Stop tracking email opens without disabling other tracking",
@@ -1206,56 +2081,6 @@
             "Worldwide (Standard Multi-Tenant)"
           ],
           "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=581721"
-        },
-        {
-          "id": 581720,
-          "title": "Microsoft Teams: Raise your hand to speak up at large events with up to 100,000 attendees",
-          "description": "Ask your questions live and take part in the conversation, even at events with up to 100,000 attendees. In events this size, attendees can now raise their hand in Teams when they have a question. Organizers can then let people with a raised hand turn on their mic and camera to ask their question or speak during the event.",
-          "status": "In development",
-          "change_type": "new",
-          "created": "2026-11-24T00:13:11",
-          "modified": "2026-11-24T00:13:11",
-          "ga_date": "December CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Teams"
-          ],
-          "platforms": [
-            "Desktop",
-            "Mac"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=581720"
-        },
-        {
-          "id": 581719,
-          "title": "Microsoft Teams: Share reactions at events with up to 100,000 attendees",
-          "description": "Stay more engaged and connected with the audience, even at events with up to 100,000 attendees. Teams now supports reactions in events at this scale. You can send reactions during the event and see the reactions others send, so everyone can share the moment together.",
-          "status": "In development",
-          "change_type": "new",
-          "created": "2026-11-24T00:13:11",
-          "modified": "2026-11-24T00:13:11",
-          "ga_date": "December CY2026",
-          "preview_date": "",
-          "products": [
-            "Microsoft Teams"
-          ],
-          "platforms": [
-            "Desktop",
-            "Mac"
-          ],
-          "release_phase": [
-            "General Availability"
-          ],
-          "cloud_instances": [
-            "Worldwide (Standard Multi-Tenant)"
-          ],
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=581719"
         },
         {
           "id": 580889,
@@ -1750,7 +2575,7 @@
           "url": "https://www.microsoft.com/microsoft-365/roadmap?searchterms=497998"
         }
       ],
-      "total_updates": 29,
+      "total_updates": 60,
       "error": null
     }
   },
